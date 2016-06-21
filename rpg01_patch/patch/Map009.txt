@@ -1,0 +1,313 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"1001104"
+> CONTEXT: Map009/events/3/pages/0/0/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/1/InlineScript/1:25
+"1001104"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(そろそろ大胆に露出する勇気がわいてきたかも)」
+> CONTEXT: Map009/events/3/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"1001103"
+> CONTEXT: Map009/events/3/pages/0/5/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/6/InlineScript/1:25 < UNTRANSLATED
+"1001103"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(裸になって人の多い通りを歩いちゃおうかな)」
+> CONTEXT: Map009/events/3/pages/0/7/Dialogue
+> CONTEXT: Map009/events/16/pages/0/8/Dialogue
+\\n[1]
+「(I'll walk down the street naked around a lot of people)」
+> END STRING
+
+> BEGIN STRING
+"1000005"
+> CONTEXT: Map009/events/3/pages/0/15/InlineScript/1:25
+> CONTEXT: Map009/events/3/pages/0/194/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/15/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/194/InlineScript/1:25
+> CONTEXT: Map004/events/4/pages/0/79/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/68/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/1/140/InlineScript/1:25
+"1000005"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(どうしよう、すごくドキドキするよ・・・\\i[122])」
+> CONTEXT: Map009/events/3/pages/0/17/Dialogue
+> CONTEXT: Map009/events/16/pages/0/17/Dialogue
+\\n[1]
+「(What to do, my heart is pounding...\\i[122])」
+> END STRING
+
+> BEGIN STRING
+"1000003"
+> CONTEXT: Map009/events/3/pages/0/27/InlineScript/1:25
+> CONTEXT: Map009/events/3/pages/0/176/InlineScript/1:25
+> CONTEXT: Map009/events/3/pages/0/188/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/27/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/176/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/188/InlineScript/1:25
+> CONTEXT: Map004/events/4/pages/0/74/InlineScript/1:25
+> CONTEXT: Map004/events/4/pages/0/102/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/0/147/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/127/InlineScript/1:25
+> CONTEXT: Map004/events/13/pages/0/19/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/63/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/91/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/1/134/InlineScript/1:25
+"1000003"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(すごい、人がたくさんいる・・・
+　 たくさんいるのに私裸になっちゃってるよう)」
+> CONTEXT: Map009/events/3/pages/0/29/Dialogue
+> CONTEXT: Map009/events/16/pages/0/29/Dialogue
+\\n[1]
+「(Woah, there's a lot of people...
+　 I'll be naked around so many)」
+> END STRING
+
+> BEGIN STRING
+街の人
+「ｻﾞﾜｻﾞﾜ」
+> CONTEXT: Map009/events/3/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"1000004"
+> CONTEXT: Map009/events/3/pages/0/37/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/37/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/13/pages/0/11/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/13/pages/0/24/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/14/pages/0/9/InlineScript/1:25 < UNTRANSLATED
+"1000004"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、みんなが見てる
+　 大勢の人に私の裸見られちゃってる
+　 気持ち良い・・・\\i[122])」
+> CONTEXT: Map009/events/3/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女たち
+「やだー、なにあれー」
+「変態よ、変態！」
+> CONTEXT: Map009/events/3/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+酔っ払いおじさん
+「なんだぁ、裸の女が見える。ちょっと飲みすぎたか・・・
+　まあ、せっかく良い幻覚が見えてるんだ
+　楽しませてもらおうとするか・・・うぃひっく」
+> CONTEXT: Map009/events/3/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+親子
+「ママー、あの人なんで服着てないのー？」
+「ダメよっ、見ちゃあいけません！」
+「でも僕、あのお姉さん見てるとどきどきしてくるよ・・・」
+> CONTEXT: Map009/events/3/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじいさん
+「ほう、ぴちぴちじゃのう
+　わしがあと数歳若ければ、
+　お相手してもらいたかったのう・・・」
+> CONTEXT: Map009/events/3/pages/0/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カップル
+「うわ、何あれ、裸の女がいる」
+「うおー、すげーエロっ！」
+「こらっ！ 他の女の裸を見て喜ぶなっ！」
+> CONTEXT: Map009/events/3/pages/0/92/Dialogue
+> CONTEXT: Map009/events/16/pages/0/92/Dialogue
+Couple
+「Gasp, that girl is naked」
+「Woah~ that's hot!」
+「Hey! Don't look at other women!」
+> END STRING
+
+> BEGIN STRING
+男たち
+「おい、裸の変態女がいるぜ。お前セックス申し込んでみろよ」
+「やだよ、あんな変態女。関わらないほうがいいと思うぜ」
+「だよな！ きっと淫乱ビッチだ、どうぜガバガバだぜ！」
+> CONTEXT: Map009/events/3/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+太った男
+「ぶひひ。露出プレイかい？ おっぱい触ってもいいかな？
+　あ、ダメ？ じゃあ僕も裸になってもいいかな？ ぶひひ」
+> CONTEXT: Map009/events/3/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兵士
+「むむっ、そこのお前たち何をしている！」
+> CONTEXT: Map009/events/3/pages/0/133/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"1000006"
+> CONTEXT: Map009/events/3/pages/0/136/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/136/InlineScript/1:25
+> CONTEXT: Map004/events/13/pages/0/38/InlineScript/1:25
+"1000006"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(わわっ！ まずい！
+　 逃げろー！)」
+> CONTEXT: Map009/events/3/pages/0/138/Dialogue
+> CONTEXT: Map009/events/16/pages/0/138/Dialogue
+\\n[1]
+「(Uh oh, this is bad!
+  Run away!)」
+> END STRING
+
+> BEGIN STRING
+兵士
+「しまった女の方は逃がしてしまったか。
+　とりあえずお前を連行する！」
+> CONTEXT: Map009/events/3/pages/0/164/Dialogue
+> CONTEXT: Map009/events/16/pages/0/164/Dialogue
+Soldier
+「しまった女の方は逃がしてしまったか。
+　とりあえずお前を連行する！」
+> END STRING
+
+> BEGIN STRING
+太った男
+「ぶひい！」
+> CONTEXT: Map009/events/3/pages/0/168/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"1000002"
+> CONTEXT: Map009/events/3/pages/0/171/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/171/InlineScript/1:25
+"1000002"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「・・・ふぅ、危なかった」
+> CONTEXT: Map009/events/3/pages/0/173/Dialogue
+> CONTEXT: Map009/events/16/pages/0/173/Dialogue
+\\n[1]
+「...Phew, that was dangerous」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも気持ちよかったぁ\\i[122]
+　 歩いてるだけで何回イっちゃっただろう・・・
+　 露出プレイをしにこの街に来てよかったよ)」
+> CONTEXT: Map009/events/3/pages/0/178/Dialogue
+> CONTEXT: Map009/events/16/pages/0/178/Dialogue
+\\n[1]
+「(But that felt so good\\i[122]
+　 I only got to walk a little...
+　 I'm glad I came here to do some exhibitionism)」
+> END STRING
+
+> BEGIN STRING
+"1000001"
+> CONTEXT: Map009/events/3/pages/0/183/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/183/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/67/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/15/pages/0/56/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/15/pages/1/124/InlineScript/1:25 < UNTRANSLATED
+"1000001"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも私、ガバガバではないです)」
+> CONTEXT: Map009/events/3/pages/0/185/Dialogue
+> CONTEXT: Map009/events/16/pages/0/185/Dialogue
+\\n[1]
+「(But, I might have gone overboard)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(そろそろ帰ろうかな・・・
+　 あ、服を街の中においてきちゃったよ)」
+> CONTEXT: Map009/events/3/pages/0/190/Dialogue
+> CONTEXT: Map009/events/16/pages/0/190/Dialogue
+\\n[1]
+「(Now to quietly head home...
+　 Oh, I left my clothes in town)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(じゃあ裸のままでも仕方がないよね\\i[122])」
+> CONTEXT: Map009/events/3/pages/0/196/Dialogue
+> CONTEXT: Map009/events/16/pages/0/196/Dialogue
+\\n[1]
+「(I'll just have to go naked then\\i[122])」
+> END STRING
+
+> BEGIN STRING
+おしまい
+> CONTEXT: Map009/events/3/pages/0/215/Dialogue
+End
+> END STRING
+
+> BEGIN STRING
+プレイしていただきまことにありがとうございました
+『勇気レベル MAX』状態限定の
+ちょっとしたおまけイベントもありますので
+引き続き、ゲームをお楽しみください
+> CONTEXT: Map009/events/3/pages/0/226/Dialogue
+Thank you for playing
+Courage level is now MAX
+There are still some bonus events
+Please continue to enjoy the game
+> END STRING

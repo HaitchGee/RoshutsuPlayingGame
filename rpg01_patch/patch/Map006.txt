@@ -1,0 +1,684 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+『入浴イベント1』を見ますか？
+> CONTEXT: Map006/events/1/pages/1/0/Dialogue
+Rewatch 『Bathing 1』?
+> END STRING
+
+> BEGIN STRING
+はい
+> CONTEXT: Map006/events/1/pages/1/2/Choice/0
+> CONTEXT: Map006/events/2/pages/1/2/Choice/0
+> CONTEXT: Map006/events/3/pages/1/2/Choice/0
+> CONTEXT: Map006/events/6/pages/1/2/Choice/0
+> CONTEXT: Map006/events/7/pages/1/2/Choice/0
+> CONTEXT: Map006/events/9/pages/1/2/Choice/0
+> CONTEXT: Map006/events/10/pages/1/2/Choice/0
+> CONTEXT: Map006/events/11/pages/1/2/Choice/0
+> CONTEXT: Map006/events/12/pages/1/2/Choice/0
+> CONTEXT: Map006/events/13/pages/1/2/Choice/0
+> CONTEXT: Map006/events/14/pages/1/2/Choice/0
+> CONTEXT: Map006/events/15/pages/1/2/Choice/0
+> CONTEXT: Map006/events/16/pages/1/2/Choice/0
+> CONTEXT: Map006/events/17/pages/1/2/Choice/0
+> CONTEXT: Map006/events/18/pages/1/2/Choice/0
+> CONTEXT: Map006/events/19/pages/1/2/Choice/0
+> CONTEXT: Map006/events/20/pages/1/2/Choice/0
+> CONTEXT: Map006/events/21/pages/1/2/Choice/0
+> CONTEXT: Map006/events/22/pages/1/2/Choice/0
+> CONTEXT: Map006/events/23/pages/1/2/Choice/0
+> CONTEXT: Map006/events/24/pages/1/2/Choice/0
+> CONTEXT: Map006/events/25/pages/1/2/Choice/0
+> CONTEXT: Map006/events/26/pages/1/2/Choice/0
+> CONTEXT: Map006/events/27/pages/1/2/Choice/0
+> CONTEXT: Map006/events/28/pages/1/2/Choice/0
+> CONTEXT: Map006/events/29/pages/1/2/Choice/0
+> CONTEXT: Map006/events/30/pages/1/2/Choice/0
+> CONTEXT: Map006/events/31/pages/1/2/Choice/0
+> CONTEXT: Map006/events/32/pages/1/2/Choice/0
+> CONTEXT: Map006/events/32/pages/2/2/Choice/0
+> CONTEXT: Map006/events/33/pages/1/2/Choice/0
+> CONTEXT: Map006/events/34/pages/1/2/Choice/0
+Yes
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map006/events/1/pages/1/2/Choice/1
+> CONTEXT: Map006/events/2/pages/1/2/Choice/1
+> CONTEXT: Map006/events/3/pages/1/2/Choice/1
+> CONTEXT: Map006/events/6/pages/1/2/Choice/1
+> CONTEXT: Map006/events/7/pages/1/2/Choice/1
+> CONTEXT: Map006/events/9/pages/1/2/Choice/1
+> CONTEXT: Map006/events/10/pages/1/2/Choice/1
+> CONTEXT: Map006/events/11/pages/1/2/Choice/1
+> CONTEXT: Map006/events/12/pages/1/2/Choice/1
+> CONTEXT: Map006/events/13/pages/1/2/Choice/1
+> CONTEXT: Map006/events/14/pages/1/2/Choice/1
+> CONTEXT: Map006/events/15/pages/1/2/Choice/1
+> CONTEXT: Map004/events/5/pages/0/7/Choice/1
+> CONTEXT: Map006/events/16/pages/1/2/Choice/1
+> CONTEXT: Map006/events/17/pages/1/2/Choice/1
+> CONTEXT: Map006/events/18/pages/1/2/Choice/1
+> CONTEXT: Map006/events/19/pages/1/2/Choice/1
+> CONTEXT: Map006/events/20/pages/1/2/Choice/1
+> CONTEXT: Map006/events/21/pages/1/2/Choice/1
+> CONTEXT: Map006/events/22/pages/1/2/Choice/1
+> CONTEXT: Map006/events/23/pages/1/2/Choice/1
+> CONTEXT: Map006/events/24/pages/1/2/Choice/1
+> CONTEXT: Map006/events/25/pages/1/2/Choice/1
+> CONTEXT: Map006/events/26/pages/1/2/Choice/1
+> CONTEXT: Map006/events/27/pages/1/2/Choice/1
+> CONTEXT: Map006/events/28/pages/1/2/Choice/1
+> CONTEXT: Map006/events/29/pages/1/2/Choice/1
+> CONTEXT: Map006/events/30/pages/1/2/Choice/1
+> CONTEXT: Map006/events/31/pages/1/2/Choice/1
+> CONTEXT: Map006/events/32/pages/1/2/Choice/1
+> CONTEXT: Map006/events/32/pages/2/2/Choice/1
+> CONTEXT: Map006/events/33/pages/1/2/Choice/1
+> CONTEXT: Map006/events/34/pages/1/2/Choice/1
+No
+> END STRING
+
+> BEGIN STRING
+『入浴イベント2』を見ますか？
+> CONTEXT: Map006/events/2/pages/1/0/Dialogue
+Rewatch 『Bathing 2』?
+> END STRING
+
+> BEGIN STRING
+『入浴イベント3』を見ますか？
+> CONTEXT: Map006/events/3/pages/1/0/Dialogue
+Rewatch 『Bathing 3』?
+> END STRING
+
+> BEGIN STRING
+今まで見たイベントを見ることができます
+暗くなっている場所はまだ見ていないイベントです
+イベントでは現在の服の状態が反映されます(一部例外あり)
+全裸状態ではワンピースもぱんつも着ている状態になります(一部例外あり)
+> CONTEXT: Map006/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今まで見たイベントを見ることができます
+暗くなっている場所はまだ見ていないイベントです
+イベントでは現在の服の状態が反映されます(一部例外あり)
+> CONTEXT: Map006/events/4/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『エンディングイベント』を見ますか？
+> CONTEXT: Map006/events/6/pages/1/0/Dialogue
+Rewatch 『Ending』?
+> END STRING
+
+> BEGIN STRING
+『着替えイベント2』を見ますか？
+> CONTEXT: Map006/events/7/pages/1/0/Dialogue
+Rewatch 『Changing 2』?
+> END STRING
+
+> BEGIN STRING
+『ぱんつモデルイベント1』を見ますか？
+> CONTEXT: Map006/events/9/pages/1/0/Dialogue
+Rewatch 『Modeling 1』?
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「よし、それじゃあさっそく見せてくれたまえ」
+> CONTEXT: Map006/events/9/pages/1/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ど、どうぞ」
+> CONTEXT: Map006/events/9/pages/1/29/Dialogue
+> CONTEXT: Map002/events/22/pages/1/67/Dialogue
+\\n[1]
+「Yes, please」
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「・・・」
+> CONTEXT: Map006/events/9/pages/1/33/Dialogue
+> CONTEXT: Map002/events/22/pages/1/71/Dialogue
+> CONTEXT: Map002/events/22/pages/2/46/Dialogue
+Cotton Panties Enthusiast
+「...」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「い、いかがですか・・・？」
+> CONTEXT: Map006/events/9/pages/1/39/Dialogue
+> CONTEXT: Map002/events/22/pages/1/77/Dialogue
+> CONTEXT: Map002/events/22/pages/2/52/Dialogue
+\\n[1]
+「So, how is it...?」
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「縞ぱんをはいていないではないか！
+　今すぐ出て行きたまえ！」
+> CONTEXT: Map006/events/9/pages/1/42/Dialogue
+> CONTEXT: Map002/events/22/pages/1/80/Dialogue
+> CONTEXT: Map002/events/22/pages/2/55/Dialogue
+Cotton Panties Enthusiast
+「They're not striped panties!
+Get out of here!」
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「ほう・・・」
+> CONTEXT: Map006/events/9/pages/1/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「色はパステルピンク
+　縞の線も太めで前から見て3本程度・・・
+　そして何より、生地は綿100%！」
+> CONTEXT: Map006/events/9/pages/1/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「おお、すばらしい・・・完璧だ！」
+> CONTEXT: Map006/events/9/pages/1/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ありがとうございます！」
+> CONTEXT: Map006/events/9/pages/1/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「では、スケッチに入る！
+　しばらくそのままでいてくれたまえ」
+> CONTEXT: Map006/events/9/pages/1/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ｶｷｶｷｶｷ
+> CONTEXT: Map006/events/9/pages/1/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/10/pages/1/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/10/pages/1/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/10/pages/1/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、すごい・・・
+　 あの憧れの”綿ぱんつ子”先生に会えるなんて・・・)」
+> CONTEXT: Map006/events/9/pages/1/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(それどころか、私のぱんつを・・・・
+　 こんなに真近くで、じっくり見てくれてるなんて)」
+> CONTEXT: Map006/events/9/pages/1/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁ、こ、こんな状況・・・・
+　 おまんこ濡れてきちゃうよぅ・・・)」
+> CONTEXT: Map006/events/9/pages/1/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「むっ・・・ぱんつが少し濡れてきているようだね」
+> CONTEXT: Map006/events/9/pages/1/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あっ、ごめんなさい・・・」
+> CONTEXT: Map006/events/9/pages/1/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「見られて感じているのかい？ さすが僕の漫画の読者だ
+　濡れたぱんつの様子もしっかりスケッチさせてもらうよ」
+> CONTEXT: Map006/events/9/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁん、ぱんつ濡らしてるのばれちゃった
+　 恥ずかしいよぅ・・・
+　 でも、”さすが”だなんて先生に褒められちゃった\\i[122])」
+> CONTEXT: Map006/events/9/pages/1/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(もしかしたら、この後・・・
+　 むふふなことになったりしちゃったり・・・\\i[122])」
+> CONTEXT: Map006/events/9/pages/1/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「よし出来たぞ！」
+> CONTEXT: Map006/events/9/pages/1/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「せ、先生、私・・・もう、身体が火照って・・・」
+> CONTEXT: Map006/events/9/pages/1/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「では、これからすぐに漫画の作業に入る！
+　協力ありがとう、今日はもう帰ってくれ」
+> CONTEXT: Map006/events/9/pages/1/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『ぱんつモデルイベント2』を見ますか？
+> CONTEXT: Map006/events/10/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ｻﾞﾜｻﾞﾜ
+> CONTEXT: Map006/events/10/pages/1/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うわぁ、アシスタントさんこんなにいっぱいいるんだぁ
+　 今からこの人たちみんなにぱんつを・・・
+　 自分からぱんつを見せないといけないだ・・・\\i[122])」
+> CONTEXT: Map006/events/10/pages/1/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「ではぱんつモデルさん、お願いします」
+> CONTEXT: Map006/events/10/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「はい、どうぞ・・・私のぱんつ見てくださいっ・・・！」
+> CONTEXT: Map006/events/10/pages/1/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アシスタントたち
+「・・・」
+> CONTEXT: Map006/events/10/pages/1/43/Dialogue
+> CONTEXT: Map002/events/22/pages/3/63/Dialogue
+Assistants
+「...」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「？」
+> CONTEXT: Map006/events/10/pages/1/49/Dialogue
+> CONTEXT: Map002/events/22/pages/3/69/Dialogue
+\\n[1]
+「?」
+> END STRING
+
+> BEGIN STRING
+アシスタントたち
+「うおお、おまんこだ、生おまんこだ」
+「すげーエロいぜ」
+「俺生おまんこはじめて見た」
+> CONTEXT: Map006/events/10/pages/1/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「君っ！ 縞ぱんはどうしたのね!?
+　君は縞ぱんを見せにきたのだろう
+　それともおまんこを見せに来たのかい？」
+> CONTEXT: Map006/events/10/pages/1/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「わわっ、ごめんなさい！」
+> CONTEXT: Map006/events/10/pages/1/65/Dialogue
+> CONTEXT: Map002/events/22/pages/3/85/Dialogue
+\\n[1]
+「Ah ah, I'm sorry!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ちゃんと縞ぱんはきました・・・
+　私のぱんつ見てください」
+> CONTEXT: Map006/events/10/pages/1/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アシスタントたち
+「おお、ぱんつだ、縞ぱんだ」
+「すげーエロいぜ」
+「俺縞ぱんはじめて見た」
+> CONTEXT: Map006/events/10/pages/1/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「はい、皆さん！ しっかりスケッチをはじめてください
+　縞ぱんをよく見て、しっかり理解を深めてくださいね！」
+> CONTEXT: Map006/events/10/pages/1/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アシスタントたち
+「はい！」
+> CONTEXT: Map006/events/10/pages/1/89/Dialogue
+> CONTEXT: Map006/events/10/pages/1/112/Dialogue
+> CONTEXT: Map006/events/10/pages/1/146/Dialogue
+> CONTEXT: Map002/events/22/pages/3/109/Dialogue
+> CONTEXT: Map002/events/22/pages/3/132/Dialogue
+> CONTEXT: Map002/events/22/pages/3/166/Dialogue
+Assistants
+「Yes!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(見られてる・・・
+　 こんなに大勢の人たちに真剣にぱんつを観察されちゃってる)」
+> CONTEXT: Map006/events/10/pages/1/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アシスタントたち
+「！
+　先生、ぱんつに染みが・・・！
+　どうすればいいのでしょう？
+> CONTEXT: Map006/events/10/pages/1/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「大丈夫、見られて感じることで
+　ぱんつを濡らしてしまうことなんてことは女の子の基本です
+　この機会に染みのできたぱんつの描き方も学んでおいてください」
+> CONTEXT: Map006/events/10/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁん・・・私の恥ずかしい染みまで観察されちゃってる・・・
+　 こんなに大勢の人にぱんつの染みまで見られちゃってると思うと)」
+> CONTEXT: Map006/events/10/pages/1/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(も、もうだめ・・・・みんなに見られながら
+　 私、イっちゃうぅ～)」
+> CONTEXT: Map006/events/10/pages/1/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「んんっ、あはぁ・・・はぁはぁ」
+> CONTEXT: Map006/events/10/pages/1/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アシスタントたち
+「先生！ ぱんつの染みが広がりを見せています！
+　いったいどうすれば!?」」
+> CONTEXT: Map006/events/10/pages/1/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「今モデルさんがイってしまったの、わかりましたか？
+　イったときに愛液があふれたということですね
+　この様子もしっかりスケッチしておくように」
+> CONTEXT: Map006/events/10/pages/1/141/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ・・・イった姿まで観察されちゃった
+　 モデルって気持ち良い・・・\\i[122])」
+> CONTEXT: Map006/events/10/pages/1/154/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『水飲みイベント1』を見ますか？
+> CONTEXT: Map006/events/11/pages/1/0/Dialogue
+Rewatch 『Drinking 1』?
+> END STRING
+
+> BEGIN STRING
+『水飲みイベント2』を見ますか？
+> CONTEXT: Map006/events/12/pages/1/0/Dialogue
+Rewatch 『Drinking 2』?
+> END STRING
+
+> BEGIN STRING
+『おしっこイベント1』を見ますか？
+> CONTEXT: Map006/events/13/pages/1/0/Dialogue
+Rewatch 『Peeing 1』?
+> END STRING
+
+> BEGIN STRING
+『おしっこイベント2』を見ますか？
+> CONTEXT: Map006/events/14/pages/1/0/Dialogue
+Rewatch 『Peeing 2』?
+> END STRING
+
+> BEGIN STRING
+『水遊びイベント1』を見ますか？
+> CONTEXT: Map006/events/15/pages/1/0/Dialogue
+Rewatch 『Playing in Water 1』?
+> END STRING
+
+> BEGIN STRING
+『水遊びイベント2』を見ますか？
+> CONTEXT: Map006/events/16/pages/1/0/Dialogue
+Rewatch 『Playing in Water 2』?
+> END STRING
+
+> BEGIN STRING
+『身体を拭くイベント1』を見ますか？
+> CONTEXT: Map006/events/17/pages/1/0/Dialogue
+Rewatch 『Body Wiping 1』?
+> END STRING
+
+> BEGIN STRING
+『身体を拭くイベント2』を見ますか？
+> CONTEXT: Map006/events/18/pages/1/0/Dialogue
+Rewatch 『Body Wiping 2』?
+> END STRING
+
+> BEGIN STRING
+『身体を拭くイベント3』を見ますか？
+> CONTEXT: Map006/events/19/pages/1/0/Dialogue
+Rewatch 『Body Wiping 3』?
+> END STRING
+
+> BEGIN STRING
+『本屋さんイベント1』を見ますか？
+> CONTEXT: Map006/events/20/pages/1/0/Dialogue
+Rewatch 『Bookstore 1』?
+> END STRING
+
+> BEGIN STRING
+『本屋さんイベント2』を見ますか？
+> CONTEXT: Map006/events/21/pages/1/0/Dialogue
+Rewatch 『Bookstore 2』?
+> END STRING
+
+> BEGIN STRING
+『階段イベント1』を見ますか？
+> CONTEXT: Map006/events/22/pages/1/0/Dialogue
+Rewatch 『Stairs Peek 1』?
+> END STRING
+
+> BEGIN STRING
+『階段イベント2』を見ますか？
+> CONTEXT: Map006/events/23/pages/1/0/Dialogue
+Rewatch 『Stairs Peek 2』?
+> END STRING
+
+> BEGIN STRING
+『階段イベント3』を見ますか？
+> CONTEXT: Map006/events/24/pages/1/0/Dialogue
+Rewatch 『Stairs Peek 3』?
+> END STRING
+
+> BEGIN STRING
+『路地裏露出イベント1』を見ますか？
+> CONTEXT: Map006/events/25/pages/1/0/Dialogue
+Rewatch 『Back Alley Exposure 1』?
+> END STRING
+
+> BEGIN STRING
+『路地裏露出イベント2』を見ますか？
+> CONTEXT: Map006/events/26/pages/1/0/Dialogue
+Rewatch 『Back Alley Exposure 2』?
+> END STRING
+
+> BEGIN STRING
+『路地裏露出イベント3』を見ますか？
+> CONTEXT: Map006/events/27/pages/1/0/Dialogue
+Rewatch 『Back Alley Exposure 3』?
+> END STRING
+
+> BEGIN STRING
+『路地裏露出イベント4』を見ますか？
+> CONTEXT: Map006/events/28/pages/1/0/Dialogue
+Rewatch 『Back Alley Exposure 4』?
+> END STRING
+
+> BEGIN STRING
+『路地裏露出イベント5』を見ますか？
+> CONTEXT: Map006/events/29/pages/1/0/Dialogue
+Rewatch 『Back Alley Exposure 5』?
+> END STRING
+
+> BEGIN STRING
+『野外エロ本オナニーイベント1』を見ますか？
+> CONTEXT: Map006/events/30/pages/1/0/Dialogue
+Rewatch 『Outdoors Masturbation 1』?
+> END STRING
+
+> BEGIN STRING
+『野外エロ本オナニーイベント2』を見ますか？
+> CONTEXT: Map006/events/31/pages/1/0/Dialogue
+Rewatch 『Outdoors Masturbation 2』?
+> END STRING
+
+> BEGIN STRING
+『スカートめくられイベント』を見ますか？
+> CONTEXT: Map006/events/32/pages/1/0/Dialogue
+> CONTEXT: Map006/events/32/pages/2/0/Dialogue
+Rewatch 『Skirt Flip』?
+> END STRING
+
+> BEGIN STRING
+『おしっこイベント3』を見ますか？
+> CONTEXT: Map006/events/33/pages/1/0/Dialogue
+Rewatch 『Peeing 3』?
+> END STRING
+
+> BEGIN STRING
+『着替えイベント1』を見ますか？
+> CONTEXT: Map006/events/34/pages/1/0/Dialogue
+Rewatch 『Changing 1』?
+> END STRING

@@ -1,0 +1,962 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\name[\\n[1]](白いスクール水着(1,000円)だ)
+> CONTEXT: Map007/events/4/pages/0/3/Dialogue
+> CONTEXT: Map007/events/4/pages/1/5/Dialogue
+\\name[\\n[1]](White School Swimsuit(¥1,000))
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](今は特に水着は必要じゃないけど・・・)
+> CONTEXT: Map007/events/4/pages/0/7/Dialogue
+> CONTEXT: Map007/events/7/pages/0/14/Dialogue
+\\name[\\n[1]](I don't need a swimsuit right now...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](白地の水着だなんて
+ 水に濡れたらきっと透けて色々見えちゃうよね・・・♥
+ これを来てプールにでも行ったら楽しそう・・・むふふ♥)
+> CONTEXT: Map007/events/4/pages/0/11/Dialogue
+\\name[\\n[1]](With a white swimsuit
+ If it gets wet, it'll turn transparent and I'll be exposed...♥
+ Going to the pool with this seems fun... teehee♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・試着だけでもしてみようかな)
+> CONTEXT: Map007/events/4/pages/0/22/Dialogue
+> CONTEXT: Map007/events/7/pages/0/30/Dialogue
+\\name[\\n[1]](...Should I try it on?)
+> END STRING
+
+> BEGIN STRING
+試着する
+> CONTEXT: Map007/events/4/pages/0/24/Choice/0
+> CONTEXT: Map007/events/4/pages/1/33/Choice/0
+> CONTEXT: Map007/events/7/pages/0/32/Choice/0
+> CONTEXT: Map007/events/7/pages/1/77/Choice/0
+Try it on
+> END STRING
+
+> BEGIN STRING
+試着しない
+> CONTEXT: Map007/events/4/pages/0/24/Choice/1
+> CONTEXT: Map007/events/4/pages/1/33/Choice/1
+> CONTEXT: Map007/events/7/pages/0/32/Choice/1
+> CONTEXT: Map007/events/7/pages/1/77/Choice/1
+Don't try it on
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](プールの監視員のお仕事に水着が必要だったよね)
+> CONTEXT: Map007/events/4/pages/1/9/Dialogue
+> CONTEXT: Map007/events/7/pages/1/16/Dialogue
+\\name[\\n[1]](A swimsuit is necessary for lifeguarding at the pool)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、この白い水着、
+ 濡れたらすぐに透けて色々と見えちゃいそう・・・
+ 露出プレイには持ってこいだけど
+ 私にはまだ早いかな・・・)
+> CONTEXT: Map007/events/4/pages/1/14/Dialogue
+\\name[\\n[1]](But this white swimsuit,
+ If it gets wet, it'll become transparent and I'll be exposed
+ It's perfect for exposure play
+ But it's too early for me...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](もう少し、露出プレイに慣れたら
+ この水着を着て露出プレイを楽しもう♥)
+> CONTEXT: Map007/events/4/pages/1/21/Dialogue
+> CONTEXT: Map007/events/7/pages/1/44/Dialogue
+\\name[\\n[1]](I've become used to exposure play
+ Let's enjoy more exposure play with this swimsuit♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](だけど、試着だけしてみようかな)
+> CONTEXT: Map007/events/4/pages/1/31/Dialogue
+\\name[\\n[1]](However, let's try it on)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](白地の水着だなんて
+ 水に濡れたらきっと透けて色々見えちゃうよね・・・♥
+ お仕事だけでなくても
+ これを来てプールにでも行ったら楽しそう・・・むふふ♥)
+> CONTEXT: Map007/events/4/pages/1/50/Dialogue
+\\name[\\n[1]](This white swimsuit
+ If I get wet, it'll turn transparent and be exposed...♥
+ Not only for work
+ It'll be fun going to the pool with it too... teehee♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・1,000円かぁ
+ 買おうかな)
+> CONTEXT: Map007/events/4/pages/1/57/Dialogue
+\\name[\\n[1]](...¥1,000
+ Let's buy it)
+> END STRING
+
+> BEGIN STRING
+買う・・・前に試着する
+> CONTEXT: Map007/events/4/pages/1/60/Choice/0
+> CONTEXT: Map007/events/7/pages/1/99/Choice/0
+Try it on before buying
+> END STRING
+
+> BEGIN STRING
+試着だけする if(s[48] ==false)
+> CONTEXT: Map007/events/4/pages/1/76/Choice/0
+Only try it on if(s[48] ==false)
+> END STRING
+
+> BEGIN STRING
+"白スク試着1"
+> CONTEXT: Map007/events/5/pages/0/0/InlineScript/1:6
+"白スク試着1"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・服屋さんの試着室で服を脱ぐのって
+ なんだかどきどきする・・・)
+> CONTEXT: Map007/events/5/pages/0/40/Dialogue
+> CONTEXT: Map007/events/5/pages/1/41/Dialogue
+> CONTEXT: Map007/events/8/pages/0/40/Dialogue
+> CONTEXT: Map007/events/8/pages/1/41/Dialogue
+\\name[\\n[1]](...Taking off my clothes in the fitting room
+ it makes my heart beat...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](このカーテン1枚隔てた向こう側には
+ 人がたくさんいて騒がしいというのに
+ そのすぐ側で裸になっちゃうなんて・・・むふふ♥)
+> CONTEXT: Map007/events/5/pages/0/45/Dialogue
+> CONTEXT: Map007/events/5/pages/1/46/Dialogue
+> CONTEXT: Map007/events/8/pages/0/45/Dialogue
+> CONTEXT: Map007/events/8/pages/1/46/Dialogue
+\\name[\\n[1]](On the other side of this curtain
+ There are so many people being noisy
+ To undress right next to them... teehee♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それはともかく、
+ 水着、水着っと・・・)
+> CONTEXT: Map007/events/5/pages/0/51/Dialogue
+> CONTEXT: Map007/events/5/pages/1/52/Dialogue
+> CONTEXT: Map007/events/8/pages/0/51/Dialogue
+> CONTEXT: Map007/events/8/pages/1/52/Dialogue
+\\name[\\n[1]](Anyways
+ Swimsuit, swimsuit...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](うわぁ、白いスクール水着だぁ
+ やっぱり透けそうな感じがして恥ずかしいな♥
+ 生地も薄いような気もするし・・・)
+> CONTEXT: Map007/events/5/pages/0/62/Dialogue
+> CONTEXT: Map007/events/5/pages/1/63/Dialogue
+\\name[\\n[1]](Wow, a white school swimsuit
+ It'll be embarrassing when it becomes transparent♥
+ The cloth feels thin too...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それに、胸のあたりとかちょっときつくて
+ 水着が引っ張られて張り付いているから
+ さらに透けやすそうだよ・・・♥)
+> CONTEXT: Map007/events/5/pages/0/66/Dialogue
+> CONTEXT: Map007/events/5/pages/1/67/Dialogue
+\\name[\\n[1]](Also, it's a little tight on my chest
+ Since it's clinging onto me
+ It'll become even more transparent...♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](これを来てプールに行ったら・・・むふふ♥)
+> CONTEXT: Map007/events/5/pages/0/70/Dialogue
+> CONTEXT: Map007/events/5/pages/1/71/Dialogue
+\\name[\\n[1]](Then when I go in the pool... teehee♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、まずい・・・
+ 妄想していたらおまんこ濡れてきそうだよ♥
+ そろそろ試着は終わろう)
+> CONTEXT: Map007/events/5/pages/0/74/Dialogue
+> CONTEXT: Map007/events/8/pages/0/84/Dialogue
+\\name[\\n[1]](Oh, whoops...
+ My pussy is getting wet imagining that♥
+ I need to finish trying this on)
+> END STRING
+
+> BEGIN STRING
+"白スク試着2"
+> CONTEXT: Map007/events/5/pages/1/0/InlineScript/1:6
+"白スク試着2"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、まずい・・・
+ 妄想していたらおまんこ濡れてきそうだよ♥)
+> CONTEXT: Map007/events/5/pages/1/75/Dialogue
+> CONTEXT: Map007/events/8/pages/1/85/Dialogue
+\\name[\\n[1]](Oh, whoops...
+ My pussy is getting wet imagining that♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・でも、もう私が買い取るのだし
+ ちょっとくらいいいか)
+> CONTEXT: Map007/events/5/pages/1/80/Dialogue
+> CONTEXT: Map007/events/8/pages/1/90/Dialogue
+\\name[\\n[1]](...But I'll be buying it soon
+ I just need to wait a little bit more)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](このまま妄想をオカズにオナニーしちゃおうかな・・・♥)
+> CONTEXT: Map007/events/5/pages/1/85/Dialogue
+\\name[\\n[1]](It's such a great fantasy to masturbate to...♥)
+> END STRING
+
+> BEGIN STRING
+"sityakuA001"
+> CONTEXT: Map007/events/5/pages/1/88/InlineScript/1:25
+"sityakuA001"
+> END STRING
+
+> BEGIN STRING
+"tk27"
+> CONTEXT: Map007/events/5/pages/1/94/InlineScript/1:25
+> CONTEXT: Map007/events/5/pages/1/115/InlineScript/1:25
+> CONTEXT: Map029/events/27/pages/0/165/InlineScript/1:25
+> CONTEXT: Map029/events/27/pages/0/206/InlineScript/1:25
+> CONTEXT: Map007/events/8/pages/1/104/InlineScript/1:25
+> CONTEXT: Map007/events/8/pages/1/118/InlineScript/1:25
+> CONTEXT: Map007/events/8/pages/1/196/InlineScript/1:25
+> CONTEXT: Map026/events/39/pages/0/256/InlineScript/1:25
+> CONTEXT: Map026/events/39/pages/0/306/InlineScript/1:25
+"tk27"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ・・・はぁはぁ♥
+ この白いスクール水着を着てプールに入ると
+ 思い切り透けちゃって
+ プールに来ている人たちに見られちゃって・・・♥)
+> CONTEXT: Map007/events/5/pages/1/96/Dialogue
+\\name[\\n[1]](Hnng... *pant*♥
+ When I wear this white swimsuit into the pool
+ It'll become completely transparent
+ Everyone in the pool will see...♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ・・・すごい・・・♥
+ 透けて見えるおっぱいもおまんこも
+ たくさんの人たちに見られちゃうんだ・・・♥
+ 私の恥ずかしい姿見られちゃうんだ♥)
+> CONTEXT: Map007/events/5/pages/1/103/Dialogue
+\\name[\\n[1]](Aah... amazing...♥
+ Being transparent, my breasts and pussy will be exposed
+ Seen by so many people...♥
+ In such a shameful appearance♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そんなのきっと恥ずかしすぎるよ・・・♥
+ 恥ずかしすぎて・・・きっとすごく気持ちいいよ・・・♥)
+> CONTEXT: Map007/events/5/pages/1/108/Dialogue
+> CONTEXT: Map007/events/8/pages/1/124/Dialogue
+\\name[\\n[1]](It'll be extremely embarrassing...♥
+ Extremely embarrassing... and feel so good♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 早くこの水着を来て露出プレイしたい・・・
+ 気持よくなりたいよぅ・・・♥)
+> CONTEXT: Map007/events/5/pages/1/111/Dialogue
+> CONTEXT: Map007/events/8/pages/1/127/Dialogue
+\\name[\\n[1]](*pant*♥
+ I need to buy this now so I can do some more exposure play
+ It'll feel so much better...♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んあっ・・・もう、イク・・・♥
+ はぁはぁっ・・・イっちゃうぅ・・・♥)
+> CONTEXT: Map007/events/5/pages/1/119/Dialogue
+\\name[\\n[1]](Aah... I'm, cum...♥
+ *pant*... cumming... ♥)
+> END STRING
+
+> BEGIN STRING
+"tk28"
+> CONTEXT: Map007/events/5/pages/1/122/InlineScript/1:25
+> CONTEXT: Map029/events/27/pages/0/216/InlineScript/1:25
+> CONTEXT: Map029/events/27/pages/0/253/InlineScript/1:25
+> CONTEXT: Map007/events/8/pages/1/133/InlineScript/1:25
+> CONTEXT: Map007/events/8/pages/1/213/InlineScript/1:25
+"tk28"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 気持ちよかった・・・♥
+ 早くこの妄想を実現したいなぁ♥)
+> CONTEXT: Map007/events/5/pages/1/128/Dialogue
+\\name[\\n[1]](*pant*♥
+ It feels so good...♥
+ I need to make this fantasy a reality♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それじゃしっかり拭いてカウンターへ行こう)
+> CONTEXT: Map007/events/5/pages/1/134/Dialogue
+\\name[\\n[1]](Now, let's wipe it and go to the counter)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]これお願いします
+> CONTEXT: Map007/events/5/pages/1/149/Dialogue
+> CONTEXT: Map007/events/8/pages/1/254/Dialogue
+\\name[\\n[1]]I would like this
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]はい、ありがとうございま・・・
+えっ！？ この水着を！？
+> CONTEXT: Map007/events/5/pages/1/151/Dialogue
+\\name[Clerk]Okay, thank you fo-...
+Huh!? This swimsuit!?
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えっ？
+> CONTEXT: Map007/events/5/pages/1/156/Dialogue
+\\name[\\n[1]]What?
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]はっ！
+いえ、何でもございませんよ
+失礼致しました・・・
+> CONTEXT: Map007/events/5/pages/1/158/Dialogue
+\\name[Clerk]Oh!
+No, it's nothing
+Excuse me for that...
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]お、お会計1,000円でございます・・・
+> CONTEXT: Map007/events/5/pages/1/162/Dialogue
+\\name[Clerk]That will be ¥1,000...
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]はい、確かに・・・
+お買い上げ、まことにありがとうございました
+> CONTEXT: Map007/events/5/pages/1/169/Dialogue
+\\name[Clerk]Okay, that's it...
+Thank you for your purchase
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ・・・こんな恥ずかしい水着を買って
+ 店員さんに変な目で見られちゃってる・・・)
+> CONTEXT: Map007/events/5/pages/1/174/Dialogue
+\\name[\\n[1]](Aah... buying such a shameful swimsuit
+ The clerk is watching with a strange look)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](恥ずかしいけど・・・
+ これからこの水着を着て
+ もっと恥ずかしい目にあっちゃうんだよね
+ 楽しみだ・・・むふふ♥)
+> CONTEXT: Map007/events/5/pages/1/179/Dialogue
+\\name[\\n[1]](It's embarrassing...
+ When I'm wearing this
+ It'll be much more embarrassing
+ It'll be so much fun... teehee♥)
+> END STRING
+
+> BEGIN STRING
+"イベント結果"
+> CONTEXT: Map007/events/5/pages/1/199/InlineScript/1:6
+> CONTEXT: Map007/events/8/pages/1/328/InlineScript/1:6
+"Event Result"
+> END STRING
+
+> BEGIN STRING
+\\\>経験値 +\\v[19]
+\\\>元気   \\v[18]
+\\\>お金   -1000円
+> CONTEXT: Map007/events/5/pages/1/211/Dialogue
+\\\>Exp +\\v[19]
+\\\>Energy   \\v[18]
+\\\>Money   ¥-1000
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](マイクロビキニ(3，000円)だ
+ 遠目で見たら、水着があることに気が付かなかったよ・・・)
+> CONTEXT: Map007/events/7/pages/0/3/Dialogue
+\\name[\\n[1]](Microbikini(¥3000))
+ From a distance, you wouldn't even notice a swimsuit...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・て
+ うわっ、これ3,000もするの！？
+ 使用している布地はこんなに少ないというのに・・・)
+> CONTEXT: Map007/events/7/pages/0/8/Dialogue
+> CONTEXT: Map007/events/7/pages/1/10/Dialogue
+\\name[\\n[1]](...Huh
+ Woah, this is ¥3,000!?
+ There's barely any clothing)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](こんな紐みたいな水着
+ きっと色々隠しきれなかったり
+ ズレてはみ出したりしちゃうよね・・・♥
+ これを来てプールにでも行ったら楽しそう・・・むふふ♥)
+> CONTEXT: Map007/events/7/pages/0/18/Dialogue
+\\name[\\n[1]](This string swimsuit
+ It barely covers anything
+ It'd slip off very easily...♥
+ Going to the pool with this would be fun... teehee♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](マイクロビキニ(3,000円)だ
+ 遠目で見たら、水着があることに気が付かなかったよ・・・)
+> CONTEXT: Map007/events/7/pages/1/5/Dialogue
+\\name[\\n[1]](Microbikini(¥3000)
+ From a distance, you wouldn't even notice a swimsuit...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、こんな紐みたいな水着、
+ 色々隠しきれなかったり、すぐにズレてはみ出したりしそう・・・
+ 露出プレイには持ってこいだけど
+ 私にはまだ早いかな・・・)
+> CONTEXT: Map007/events/7/pages/1/21/Dialogue
+> CONTEXT: Map007/events/7/pages/1/37/Dialogue
+> CONTEXT: Map007/events/7/pages/1/53/Dialogue
+\\name[\\n[1]](But this string swimsuit
+ It doesn't cover anything and it'd slip off easily
+ It's perfect for exposure play
+ But it's too early for me...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](もうちょっと露出度抑えめの水着から
+ 露出プレイに挑戦していこう)
+> CONTEXT: Map007/events/7/pages/1/28/Dialogue
+\\name[\\n[1]](This swimsuit is another level of exposure play
+ I'll challenge this level of exposure play)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](もう少し、今の水着での露出プレイに慣れてから
+ この水着を着て露出プレイを楽しもう♥)
+> CONTEXT: Map007/events/7/pages/1/60/Dialogue
+\\name[\\n[1]](After doing some exposure play for a while,
+ I'm ready to do some exposure play with this♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](だけど、試着だけでもしてみようかな)
+> CONTEXT: Map007/events/7/pages/1/75/Dialogue
+\\name[\\n[1]](Let's try it on first)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・3,000円かぁ
+ 帰りの交通費が貯まるのが遅れそうだけど
+ 買っちゃおうかな)
+> CONTEXT: Map007/events/7/pages/1/95/Dialogue
+\\name[\\n[1]](...¥3,000
+ It'll take away money to return home
+ So should I still buy it?)
+> END STRING
+
+> BEGIN STRING
+試着だけする if(s[49] ==false)
+> CONTEXT: Map007/events/7/pages/1/115/Choice/0
+Just try it on if(s[49] ==false)
+> END STRING
+
+> BEGIN STRING
+"マイクロビキニ試着1"
+> CONTEXT: Map007/events/8/pages/0/0/InlineScript/1:6
+"Microbikini Fitting 1"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](わぁ、何だこれ、布地が少なすぎる・・・
+ ほとんど紐のみだよ・・・)
+> CONTEXT: Map007/events/8/pages/0/62/Dialogue
+\\name[\\n[1]](Woah, there's barely any clothing...
+ It's just a few pieces of strings...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](しかも、普通に着けても
+ 乳輪見えちゃってるし、
+ おまんこのすじもちょっとはみ出しちゃってる・・・)
+> CONTEXT: Map007/events/8/pages/0/67/Dialogue
+> CONTEXT: Map007/events/8/pages/1/68/Dialogue
+\\name[\\n[1]](And just wearing it normally
+ You can see my areola,
+ and my pussy slips out a little)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それに、簡単に水着がズレちゃいそうだよ・・・
+ プールで遊んでいたら、おっぱい出ちゃったり
+ おまんこ見えちゃったりしそう・・・)
+> CONTEXT: Map007/events/8/pages/0/73/Dialogue
+> CONTEXT: Map007/events/8/pages/1/74/Dialogue
+\\name[\\n[1]](The swimsuit also seems to slip off easily...
+ If I just play around in the pool, my boobs will come out
+ As well as my pussy...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それを周りの人に見られたり・・・
+ あぁ・・・そんなの恥ずかしすぎるよぅ・・・♥)
+> CONTEXT: Map007/events/8/pages/0/79/Dialogue
+> CONTEXT: Map007/events/8/pages/1/80/Dialogue
+\\name[\\n[1]](They'll be seen by everyone around me...
+ Aah... so shameless... ♥)
+> END STRING
+
+> BEGIN STRING
+"マイクロビキニ試着2"
+> CONTEXT: Map007/events/8/pages/1/0/InlineScript/1:6
+"マイクロビキニ試着2"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](わぁ、何だこれ、布地が少なすぎるよ・・・
+ ほとんど紐のみだよ・・・)
+> CONTEXT: Map007/events/8/pages/1/63/Dialogue
+\\name[\\n[1]](Woah, there's barely any clothing...
+ It's just a few pieces of strings...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](このまま妄想をオカズにオナニーしちゃおう♥)
+> CONTEXT: Map007/events/8/pages/1/95/Dialogue
+\\name[\\n[1]](But thinking about it makes me want to masturbate♥)
+> END STRING
+
+> BEGIN STRING
+"sityakuB001"
+> CONTEXT: Map007/events/8/pages/1/98/InlineScript/1:25
+"sityakuB001"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ・・・はぁはぁ♥
+ この紐みたいなえっちな水着じゃ
+ 何もしなくてもはみ出してる乳輪やおまんこのすじを
+ プールに来ている人たちに見られちゃって・・・♥)
+> CONTEXT: Map007/events/8/pages/1/106/Dialogue
+\\name[\\n[1]](... *pant*♥
+ This string swimsuit
+ My areola is visible just wearing it
+ It'll be seen by everyone going to the pool♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](プールの中で遊んだりしたら
+ すぐに水着がズレで乳首まで見られちゃうんだ・・・♥)
+> CONTEXT: Map007/events/8/pages/1/111/Dialogue
+\\name[\\n[1]](If I play a little in the pool
+ It'll slip off and my nipple would be exposed♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それから紐が解けたりして・・・むふふ♥)
+> CONTEXT: Map007/events/8/pages/1/116/Dialogue
+\\name[\\n[1]](And then the string would fall off... teehee♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]んぁ・・・はぁ・・・んっ・・・♥
+> CONTEXT: Map007/events/8/pages/1/135/Dialogue
+\\name[\\n[1]]Ah... Ah... Ah...♥
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]！
+> CONTEXT: Map007/events/8/pages/1/138/Dialogue
+\\name[Clerk]!
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]お客様、何か音が聞こえましたが
+いかがなさいました？
+> CONTEXT: Map007/events/8/pages/1/150/Dialogue
+\\name[Clerk]Miss, I heard something
+Did something happen?
+> END STRING
+
+> BEGIN STRING
+"tk24"
+> CONTEXT: Map007/events/8/pages/1/153/InlineScript/1:25
+"tk24"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]へっ！？
+えっと、いえ・・・何でもないです・・・
+> CONTEXT: Map007/events/8/pages/1/157/Dialogue
+\\name[\\n[1]]Gah!?
+Err, no... it's nothing...
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]そうですか
+先ほどから試着にお時間がかかっているようですが
+よろしければお手伝いいたしましょうか？
+> CONTEXT: Map007/events/8/pages/1/160/Dialogue
+\\name[Clerk]Alright
+You've been trying it on for a while now
+Do you need any help?
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]やっ、ダメです・・・大丈夫です・・・！
+買うことに決めましたから・・・
+もう、すぐに出ますから・・・
+> CONTEXT: Map007/events/8/pages/1/166/Dialogue
+\\name[\\n[1]]Uh, you don't need to... I'm fine...!
+I'm ready to buy it...
+I'll leave right now...
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]さようでございますか
+それは失礼いたしました
+> CONTEXT: Map007/events/8/pages/1/170/Dialogue
+\\name[Clerk]Okay
+Pardon my intrusion
+> END STRING
+
+> BEGIN STRING
+"tk23"
+> CONTEXT: Map007/events/8/pages/1/186/InlineScript/1:25
+> CONTEXT: Map026/events/39/pages/0/252/InlineScript/1:25
+"tk23"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁ、危なかった・・・
+ 少し声が漏れちゃっていたみたい
+ 気をつけないと・・・)
+> CONTEXT: Map007/events/8/pages/1/190/Dialogue
+\\name[\\n[1]](Eek, that was dangerous...
+ My voice came out
+ I need to be careful)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ・・・んんっ・・・んふぅ♥
+ そうだ、試着室だったんだ・・・
+ すぐ外には人がいるというのに
+ そんなところでオナニーしちゃってるよぅ♥)
+> CONTEXT: Map007/events/8/pages/1/198/Dialogue
+\\name[\\n[1]](He.. he... hehe♥
+ But yeah, this changing room...
+ There's someone right outside
+ And I'm masturbating in such a place♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ、おまんこ汁の音が出ちゃってる・・・
+ もしかしたら外の人聞こえちゃうかも・・・)
+> CONTEXT: Map007/events/8/pages/1/205/Dialogue
+\\name[\\n[1]](Aah my pussy is making noise
+ Someone outside might hear...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、止められない・・・
+ おまんこいじるの止められないの・・・♥)
+> CONTEXT: Map007/events/8/pages/1/208/Dialogue
+\\name[\\n[1]](But, I can't stop...
+ I can't stop playing with my pussy...♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ・・・はぁ・・・もうイク・・・♥
+ すぐ近くに人がいるところで
+ オナニーしてイっちゃうよぅ♥)
+> CONTEXT: Map007/events/8/pages/1/215/Dialogue
+\\name[\\n[1]](Aah.... I'm... cumming...♥
+ In such a place, so close to someone
+ Masturbating♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ イっちゃった・・・
+ まだ買っていない水着がべちょべちょになっちゃった・・・)
+> CONTEXT: Map007/events/8/pages/1/223/Dialogue
+\\name[\\n[1]](*pant* *pant* *pant*♥
+ I came...
+ I haven't even bought it and I'm already making a mess...)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ちゃんと拭いてっと・・・
+ まだちょっと湿っているけど水着なんだし問題ないよね)
+> CONTEXT: Map007/events/8/pages/1/239/Dialogue
+\\name[\\n[1]](Need to dry it first...
+ It's still a little wet, but that's not a problem
+ It is a swimsuit)
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]はい、ありがとうございま・・・
+えっ！？ こ、この水着を、ですか！？
+> CONTEXT: Map007/events/8/pages/1/256/Dialogue
+\\name[Clerk]Sure, thank you ve-...
+Huh!? T-this swimsuit!?
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・はい♥
+> CONTEXT: Map007/events/8/pages/1/261/Dialogue
+\\name[\\n[1]]...Yep♥
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]か、かしこまりました
+それでは、お包みしますね
+> CONTEXT: Map007/events/8/pages/1/263/Dialogue
+\\name[Clerk]O-of course
+Let me wrap it for you
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]あれ、何でしょう？ 少し湿っているような・・・
+お客様、申し訳ございません
+綺麗なものと交換致しますので・・・
+> CONTEXT: Map007/events/8/pages/1/266/Dialogue
+\\name[Clerk]Oh, what's this? It's a little damp
+Sorry miss
+Let me get another one for you...
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あ、いえ・・・あの・・・えっと・・・
+そ、そのままで、いいです・・・
+> CONTEXT: Map007/events/8/pages/1/272/Dialogue
+\\name[\\n[1]]Ah, no... err.. uh...
+It-it's good, don't change it
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]・・・
+> CONTEXT: Map007/events/8/pages/1/275/Dialogue
+\\name[Clerk]...
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]・・・！
+し、失礼しましたっ！
+> CONTEXT: Map007/events/8/pages/1/277/Dialogue
+\\name[Clerk]...!
+O-okay, excuse me for that!
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]ど、どうぞ・・・
+お会計は3,000円でございます
+> CONTEXT: Map007/events/8/pages/1/281/Dialogue
+\\name[Clerk]A-alright...
+That'll come out to ¥3000
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]・・・あ、ありがとうございました
+> CONTEXT: Map007/events/8/pages/1/289/Dialogue
+\\name[Clerk]...Th-thank you very much
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ なぜ水着が濡れていたか察されたみたい・・・
+ この水着を試着しておまんこ濡らしていたって
+ バレちゃったよぅ・・・恥ずかしい♥)
+> CONTEXT: Map007/events/8/pages/1/293/Dialogue
+\\name[\\n[1]](*pant* *pant*♥
+ She seems to understand how it got wet...
+ When trying it on, it touched my wet pussy
+ For her to find out... it's so embarrassing♥)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](この紐みたいな何も隠せないような水着を買って
+ どうするつもりなのかとか、想像されちゃったのかな・・・)
+> CONTEXT: Map007/events/8/pages/1/300/Dialogue
+\\name[\\n[1]](Buying a swimsuit like this, you can't hide anything
+ You can't leave anything up to imagination)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、騒がずにスルーしてくれて助かった)
+> CONTEXT: Map007/events/8/pages/1/305/Dialogue
+\\name[\\n[1]](But, I did manage to hide the noise)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](これで今までより露出度の高い水着を着て
+ プールで遊んだり
+ 監視員のお仕事ができるね・・・むふふ♥)
+> CONTEXT: Map007/events/8/pages/1/309/Dialogue
+\\name[\\n[1]](I'll be exposing much more than before wearing this
+ I'll play in the pool
+ And work as a lifeguard... teehee♥)
+> END STRING
+
+> BEGIN STRING
+\\\>経験値 +\\v[19]
+\\\>元気   \\v[18]
+\\\>お金   -3000円
+> CONTEXT: Map007/events/8/pages/1/340/Dialogue
+\\\>Exp +\\v[19]
+\\\>Energy   \\v[18]
+\\\>Money   -¥3000
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]いらっしゃいませ！
+ゆっくり見ていってくださいね！
+> CONTEXT: Map007/events/10/pages/0/2/Dialogue
+\\name[Clerk]Welcome!
+Please take a look around!
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]いらっしゃいま・・・
+あっ、あの水着の・・・！
+> CONTEXT: Map007/events/10/pages/1/2/Dialogue
+\\name[Clerk]Welcome...
+Ah, that swimsuit...
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]・・・はっ！
+いえ、何でもございませんよ、ホホホ
+> CONTEXT: Map007/events/10/pages/1/7/Dialogue
+\\name[Clerk]...Oh!
+Sorry, it's nothing *blush*
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](顔を覚えられちゃった・・・)
+> CONTEXT: Map007/events/10/pages/1/12/Dialogue
+\\name[\\n[1]](She remembered my face...)
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]あっ、あの紐の水着の・・・！
+いっ、いらっしゃいませ！
+あの、水着の使い心地はいかがですか？
+> CONTEXT: Map007/events/10/pages/2/2/Dialogue
+\\name[Clerk]Ah, that microbikini...!
+W-welcome!
+Err... how does the swimsuit feel?
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・使い心地？
+> CONTEXT: Map007/events/10/pages/2/8/Dialogue
+\\name[\\n[1]]...Feel?
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]・・・はっ！
+す、すみません、間違えました・・・
+着心地は・・・いかがでしょうか？
+> CONTEXT: Map007/events/10/pages/2/10/Dialogue
+\\name[Clerk]...Oh!
+So-sorry, I made a mistake...
+Does it feel good... to wear?
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]とても、いい感じですよ・・・使い心地♥
+> CONTEXT: Map007/events/10/pages/2/16/Dialogue
+\\name[\\n[1]]Very... it feels very great♥
+> END STRING
+
+> BEGIN STRING
+\\name[店員さん]あわわ・・・///
+> CONTEXT: Map007/events/10/pages/2/18/Dialogue
+\\name[Clerk]Ahaa... *blush*
+> END STRING
+
+> BEGIN STRING
+\\name[おねえさん]こんな衣装恥ずかしくて着れないわ
+・・・でも、彼は喜んでくれるかしら
+> CONTEXT: Map007/events/11/pages/0/2/Dialogue
+\\name[Young Lady]Wearing clothes like this would be so embarrassing
+...But, would he enjoy it?
+> END STRING
+
+> BEGIN STRING
+\\name[おにいさん]彼女が買い物をするのを待っているんだ
+決して僕が女性物の服を買いに来たわけじゃないよ
+> CONTEXT: Map007/events/12/pages/0/2/Dialogue
+\\name[Young Man]I'm waiting for her while she shops
+I would never buy women's clothes
+> END STRING
+
+> BEGIN STRING
+\\name[おにいさん]あと、ここにいると試着室から聞こえる布擦れの音で
+中の様子を想像して、興奮しているわけでもないよ
+はぁはぁ
+> CONTEXT: Map007/events/12/pages/0/7/Dialogue
+\\name[Young Man]You can hear the clothes moving in the changing room here
+I can only imagine what's going on inside
+Not that it gets me excited
+*pant* *pant*
+> END STRING
+
+> BEGIN STRING
+\\name[おばさん]このコート・・・
+コートの下には何も着ていない人が
+着ているようなコートだわ
+> CONTEXT: Map007/events/13/pages/0/2/Dialogue
+\\name[Old Lady]This coat...
+Someone who doesn't wear anything underneath
+They would wear something like this
+> END STRING
+
+> BEGIN STRING
+\\name[女の子]これかわいいー！
+> CONTEXT: Map007/events/14/pages/0/2/Dialogue
+\\name[Girl]This is so cute~!
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](この女の子のほうがかわいい)
+> CONTEXT: Map007/events/14/pages/0/6/Dialogue
+\\name[\\n[1]](She's even cuter)
+> END STRING

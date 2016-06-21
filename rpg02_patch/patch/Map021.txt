@@ -1,0 +1,2007 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\name[絵画教室の生徒]そこに立たれると困ります
+> CONTEXT: Map021/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]すみません
+> CONTEXT: Map021/events/2/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒]ｶｷｶｷ
+> CONTEXT: Map021/events/2/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](絵を描くのに集中しているみたい)
+> CONTEXT: Map021/events/2/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 1 lv.1 ぱんちら"
+> CONTEXT: Map021/events/3/pages/0/0/InlineScript/1:6
+"モデル 1 lv.1 ぱんちら"
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]おお、あなたが絵のモデルを
+やってくださるのですか？
+> CONTEXT: Map021/events/3/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はい、えっと、でも、その・・・
+やっぱりヌード・・・脱がないといけませんか？
+> CONTEXT: Map021/events/3/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]うーむ、そうですね
+できればヌードのほうがありがたいですけど
+恥ずかしいという方も多いですからね
+> CONTEXT: Map021/events/3/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]今のような薄手の服でしたら
+服を着たままでもかまいませんよ
+> CONTEXT: Map021/events/3/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]じゃあ、お願いします
+> CONTEXT: Map021/events/3/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](いきなり裸は恥ずかしいし・・・)
+> CONTEXT: Map021/events/3/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それに積極的に脱ぐ変態だと思われちゃうかもしれないし
+ できれば脱ぎたくない風を装っておかないとね)
+> CONTEXT: Map021/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA001"
+> CONTEXT: Map021/events/3/pages/0/62/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/0/71/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/0/83/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/0/93/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/0/101/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/1/21/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/1/29/InlineScript/1:25
+"moderuA001"
+> END STRING
+
+> BEGIN STRING
+"moderuA101"
+> CONTEXT: Map021/events/3/pages/0/62/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/0/71/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/21/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/60/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/62/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/78/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/129/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/22/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/44/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/97/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/61/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/16/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/34/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/53/InlineScript/1:25
+"moderuA101"
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]皆さん揃いましたね
+では、はじめてください
+> CONTEXT: Map021/events/3/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛｶｷｶｷ
+> CONTEXT: Map021/events/3/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/5/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](うぅ、服も着て座ってるだけとはいえ
+ ずっと見られてるなんて緊張するなあ・・・)
+> CONTEXT: Map021/events/3/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](わざとぱんつ見えちゃうような体勢にしたけど
+ 気づいてくれてるかな・・・)
+> CONTEXT: Map021/events/3/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｼﾞｨｰ
+> CONTEXT: Map021/events/3/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA102"
+> CONTEXT: Map021/events/3/pages/0/83/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/0/101/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/29/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/41/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/49/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/69/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/86/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/86/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/144/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/187/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/28/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/149/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/77/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/84/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/93/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/108/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/128/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/40/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/62/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/74/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/99/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/59/InlineScript/1:25
+> CONTEXT: Map021/events/7/pages/0/65/InlineScript/1:25
+> CONTEXT: Map021/events/7/pages/0/94/InlineScript/1:25
+"moderuA102"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あ、生徒さんたち、顔赤くして私の股間あたりを凝視してる
+ むふふ、お絵描き教室とはいえ男の子だもんね
+ えっちな目で見ちゃうよね・・・嬉しい♥)
+> CONTEXT: Map021/events/3/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA107"
+> CONTEXT: Map021/events/3/pages/0/93/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/1/78/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/99/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/121/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/137/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/153/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/174/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/74/InlineScript/1:25
+"moderuA107"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ えっちな目で見られているとわかると
+ どんどん気持ちよくなってきちゃうよぅ)
+> CONTEXT: Map021/events/3/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](こんな風に気持ちよくなってるだけでいいお仕事・・・
+ 素敵すぎるよ・・・♥)
+> CONTEXT: Map021/events/3/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 2 lv.2 胸ちら"
+> CONTEXT: Map021/events/3/pages/1/0/InlineScript/1:6
+"モデル 2 lv.2 胸ちら"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](今回も服を着たまま絵のモデルだよ)
+> CONTEXT: Map021/events/3/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ﾁﾗﾁﾗｶｷｶｷﾁﾗﾁﾗ
+> CONTEXT: Map021/events/3/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](生徒さんたち、もう顔を赤くしてる・・・
+ 私のぱんつ、えっちな目で見てくれてる・・・♥)
+> CONTEXT: Map021/events/3/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ、気持ちよくなってきちゃった・・・
+ もうちょっとサービスしちゃおうかな・・・♥)
+> CONTEXT: Map021/events/3/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](こう、ちょっと肩をずらせば・・・)
+> CONTEXT: Map021/events/3/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA003"
+> CONTEXT: Map021/events/3/pages/1/41/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/1/49/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/1/60/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/1/69/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/1/78/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/1/86/InlineScript/1:25
+"moderuA003"
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]！
+> CONTEXT: Map021/events/3/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](むふふ、肩紐がずれて乳首はみ出しちゃった♥)
+> CONTEXT: Map021/events/3/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛ
+> CONTEXT: Map021/events/3/pages/1/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/2/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/6/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ふふ、さっきまでぱんつに集中していた視線が
+ 今度はおっぱいに集まってるのを感じるよ)
+> CONTEXT: Map021/events/3/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](絵のモデルの状態が変わっちゃってるのは
+ 問題ないのかな)
+> CONTEXT: Map021/events/3/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛｼﾞﾛ
+> CONTEXT: Map021/events/3/pages/1/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/5/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/6/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](おっぱいを見ようと一生懸命になっちゃって・・・
+ 絵を描くどころじゃないみたいだね♥)
+> CONTEXT: Map021/events/3/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛｼﾞﾛｼﾞﾛ
+> CONTEXT: Map021/events/3/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ そんなにおっぱいばかり見られたら
+ 乳首、気持ちよくなっちゃうよ・・・♥)
+> CONTEXT: Map021/events/3/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](もう、乳首勃っちゃってるの
+ 気づかれちゃってるかも・・・むふふ♥)
+> CONTEXT: Map021/events/3/pages/1/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 3 lv.3 ぱんいち"
+> CONTEXT: Map021/events/3/pages/2/0/InlineScript/1:6
+"モデル 3 lv.3 ぱんいち"
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]あの、すみません
+生徒たちが、もっと身体の線を確認しながら
+描きたいというので・・・
+> CONTEXT: Map021/events/3/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]下着はつけたままでもいいので
+服を脱いでもらってもいいでしょうか？
+・・・上は手で隠す感じで
+> CONTEXT: Map021/events/3/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えっと・・・
+> CONTEXT: Map021/events/3/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｿﾜｿﾜﾜｸﾜｸ
+> CONTEXT: Map021/events/3/pages/2/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あれだけえっちな目で見てきていたのに
+ 絵を描くためだなんて・・・)
+> CONTEXT: Map021/events/3/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そんなウソをついてまで
+ 私の身体見たいのかな・・・嬉しい♥)
+> CONTEXT: Map021/events/3/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]「うおっしゃー！！」
+「やったぜーっ！！」
+「ひょほーっ！！」
+> CONTEXT: Map021/events/3/pages/2/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB001"
+> CONTEXT: Map021/events/3/pages/2/72/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/2/83/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/2/92/InlineScript/1:25
+"moderuB001"
+> END STRING
+
+> BEGIN STRING
+"moderuB101"
+> CONTEXT: Map021/events/3/pages/2/72/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/2/138/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/3/48/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/3/65/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/61/InlineScript/3:25
+"moderuB101"
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]はい、それでは描き始めてください
+> CONTEXT: Map021/events/3/pages/2/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛｶｷｶｷｼﾞﾛｼﾞﾛ
+> CONTEXT: Map021/events/3/pages/2/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/2/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/2/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](すごいじろじろ見られちゃってる・・・
+　絵を描くためだからあたりまえだけど・・・)
+> CONTEXT: Map021/events/3/pages/2/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB103"
+> CONTEXT: Map021/events/3/pages/2/83/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/2/104/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/2/129/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/3/100/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/22/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/54/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/109/InlineScript/3:25
+"moderuB103"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それでも、服を脱いでぱんつ丸出しの姿を
+ 見られるのは恥ずかしいよぅ♥)
+> CONTEXT: Map021/events/3/pages/2/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB102"
+> CONTEXT: Map021/events/3/pages/2/92/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/3/78/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/3/110/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/48/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/78/InlineScript/3:25
+"moderuB102"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](しばらくこのままなんだ・・・
+ このまま恥ずかしい姿を
+ 見せ続けないといけないんだ・・・♥)
+> CONTEXT: Map021/events/3/pages/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB002"
+> CONTEXT: Map021/events/3/pages/2/104/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/2/112/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/2/123/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/2/129/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/2/138/InlineScript/1:25
+"moderuB002"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ どうしよう、こんなに長い時間
+ 人に見られ続けてたら・・・)
+> CONTEXT: Map021/events/3/pages/2/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB104"
+> CONTEXT: Map021/events/3/pages/2/112/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/3/86/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/38/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/70/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/87/InlineScript/3:25
+"moderuB104"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](恥ずかしすぎて
+ 気持ちよくなっちゃうよぅ♥)
+> CONTEXT: Map021/events/3/pages/2/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ・・・も、もう、ダメ・・・
+ 見られているだけなのに・・・
+ もう、イっちゃうぅ・・・♥)
+> CONTEXT: Map021/events/3/pages/2/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB105"
+> CONTEXT: Map021/events/3/pages/2/123/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/3/94/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/32/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/4/101/InlineScript/3:25
+"moderuB105"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 軽くイっちゃった・・・♥)
+> CONTEXT: Map021/events/3/pages/2/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](生徒さんたちには気づかれてないよね・・・？)
+> CONTEXT: Map021/events/3/pages/2/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 4 lv.5 ヌードになる"
+> CONTEXT: Map021/events/3/pages/3/0/InlineScript/1:6
+"モデル 4 lv.5 ヌードになる"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あの、モデルって本当はヌードのほうが
+いいんですよね？
+それなら・・・私もう大丈夫です
+> CONTEXT: Map021/events/3/pages/3/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ヌードに・・・なります！
+> CONTEXT: Map021/events/3/pages/3/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]わかりました
+はじめは恥ずかしいかと思いますが
+他にもヌードモデルしてくださる方はいますし
+特別なことと思わず気楽にやってください
+> CONTEXT: Map021/events/3/pages/3/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB003"
+> CONTEXT: Map021/events/3/pages/3/48/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/3/65/InlineScript/1:25
+"moderuB003"
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｻﾞﾜｻﾞﾜ
+(うおっ、すげえ！ 今日は裸だ！)
+(若い女性のヌードは初めてだぜ！)
+> CONTEXT: Map021/events/3/pages/3/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ヌードになったものの・・・
+ や・・・やっぱり恥ずかしすぎるよぅ・・・
+ 大事なところは手で隠していないと
+ まだちょっと耐えられないよ・・・)
+> CONTEXT: Map021/events/3/pages/3/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]では描き始めてください
+> CONTEXT: Map021/events/3/pages/3/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛ ｶｷｶｷ
+> CONTEXT: Map021/events/3/pages/3/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/3/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/4/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/4/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/4/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/4/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/4/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/5/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/5/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/6/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/7/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/8/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/8/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](見られてる・・・
+ 私の裸見られちゃってる・・・)
+> CONTEXT: Map021/events/3/pages/3/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](手で隠してるとはいえ
+ 全裸で人前に出てるなんて・・・
+ 恥ずかしすぎるよぅ・・・♥)
+> CONTEXT: Map021/events/3/pages/3/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuB004"
+> CONTEXT: Map021/events/3/pages/3/78/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/3/86/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/3/94/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/3/100/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/3/110/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/22/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/32/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/38/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/48/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/54/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/61/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/70/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/78/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/87/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/101/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/4/109/InlineScript/1:25
+"moderuB004"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](生徒さんたちのキャンバスから目を離して
+ 顔を上げてこちらを見る瞬間が
+ 視線を強く感じちゃって、とても気持ちい・・・♥)
+> CONTEXT: Map021/events/3/pages/3/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](もう、ダメ・・・
+ こんなの気持ちよすぎて
+ すぐに、イっちゃうよぅ・・・♥)
+> CONTEXT: Map021/events/3/pages/3/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ こんなにすぐにイっちゃった・・・)
+> CONTEXT: Map021/events/3/pages/3/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](まだまだ時間はたくさん残ってるのに・・・
+ この後何回イっちゃうんだろ・・・♥)
+> CONTEXT: Map021/events/3/pages/3/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・はっ！
+ おまんこ濡れ濡れになっちゃったけど・・・
+ 手で隠せていてよかった・・・)
+> CONTEXT: Map021/events/3/pages/3/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 5 lv.6 ヌード、隠している手でいじる"
+> CONTEXT: Map021/events/3/pages/4/0/InlineScript/1:6
+"モデル 5 lv.6 ヌード、隠している手でいじる"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 裸、見られてる・・・
+ 恥ずかしくて・・・気持ちいい・・・♥)
+> CONTEXT: Map021/events/3/pages/4/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ・・・はぁはぁ♥
+ もうイっちゃたぁ・・・♥
+ 手がえっちなお汁でべとべとだよ・・・)
+> CONTEXT: Map021/events/3/pages/4/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](生徒さんたち全然気がついてないよね)
+> CONTEXT: Map021/events/3/pages/4/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](これならちょっとくらい
+ おまんこいじってもバレないかも・・・)
+> CONTEXT: Map021/events/3/pages/4/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](手はちょうどおまんこの位置にあるんだし
+ 激しく動かさず、ちょっといじるだけなら・・・)
+> CONTEXT: Map021/events/3/pages/4/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾌﾆｭ
+> CONTEXT: Map021/events/3/pages/4/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ、はぁ・・・イイ・・・♥)
+> CONTEXT: Map021/events/3/pages/4/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](生徒さんたちもやっぱり気がついてない様子
+ しばらくこのまま楽しんじゃおう♥)
+> CONTEXT: Map021/events/3/pages/4/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾌﾆｭﾌﾆｭ
+> CONTEXT: Map021/events/3/pages/4/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 生徒さんたち、私を観察しているのに
+ オナニーしていることに気づいてないけど
+ 私今、人前でオナニーしちゃってるんだ・・・♥)
+> CONTEXT: Map021/events/3/pages/4/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](オナニー姿を見られているって思うと
+ 余計に・・・んんっ、気持ちよくなっちゃうよぅ♥)
+> CONTEXT: Map021/events/3/pages/4/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ オナニーでイってるところ
+ 描かれちゃった・・・♥)
+> CONTEXT: Map021/events/3/pages/4/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 6 lv.7 ヌード、隠さない"
+> CONTEXT: Map021/events/3/pages/5/0/InlineScript/1:6
+"モデル 6 lv.7 ヌード、隠さない"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そろそろ手で隠さなくても大丈夫かも・・・
+ すごくドキドキするけど・・・)
+> CONTEXT: Map021/events/3/pages/5/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](よし・・・！)
+> CONTEXT: Map021/events/3/pages/5/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あのっ・・・！
+> CONTEXT: Map021/events/3/pages/5/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]！！
+> CONTEXT: Map021/events/3/pages/5/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]今日は、手で胸やおま・・・あそこを
+隠さないので・・・
+> CONTEXT: Map021/events/3/pages/5/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]私の身体、全部見てください！
+> CONTEXT: Map021/events/3/pages/5/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]！！
+ｻﾞﾜｻﾞﾜ
+> CONTEXT: Map021/events/3/pages/5/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]・・・
+> CONTEXT: Map021/events/3/pages/5/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/5/178/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/6/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA005"
+> CONTEXT: Map021/events/3/pages/5/62/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/68/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/78/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/86/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/22/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/28/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/36/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/44/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/52/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/60/InlineScript/1:25
+> CONTEXT: Map021/events/7/pages/0/51/InlineScript/1:25
+"moderuA005"
+> END STRING
+
+> BEGIN STRING
+"moderuA108"
+> CONTEXT: Map021/events/3/pages/5/68/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/54/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/81/InlineScript/1:25
+"moderuA108"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はあぁ・・・焦ってつい本音が出ちゃったよぅ)
+> CONTEXT: Map021/events/3/pages/5/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]("見てください”って、それじゃ見られるために
+ やってるみたいになっちゃった・・・
+ 先生がフォローして、すぐに絵を描き始めさせてくれてよかった・・・)
+> CONTEXT: Map021/events/3/pages/5/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・変なこと言っちゃって焦って忘れてたけど
+ 私今裸晒しちゃってるんだ・・・)
+> CONTEXT: Map021/events/3/pages/5/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](おっぱいもおまんこもさらけ出して・・・
+ このまましばらく隠すこともできずに
+ 見られ続けちゃうんだ・・・♥)
+> CONTEXT: Map021/events/3/pages/5/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA006"
+> CONTEXT: Map021/events/3/pages/5/99/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/108/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/115/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/121/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/129/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/137/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/144/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/153/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/161/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/168/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/174/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/5/187/InlineScript/1:25
+> CONTEXT: Map021/events/7/pages/0/72/InlineScript/1:25
+"moderuA006"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ やっぱり気持ちいい・・・
+ 恥ずかしいところも全部見られちゃうの
+ 気持ちいいよぅ♥)
+> CONTEXT: Map021/events/3/pages/5/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA104"
+> CONTEXT: Map021/events/3/pages/5/108/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/161/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/71/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/101/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/48/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/84/InlineScript/3:25
+"moderuA104"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、んん・・・♥
+ もう・・・イっ、イキそう・・・)
+> CONTEXT: Map021/events/3/pages/5/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA105"
+> CONTEXT: Map021/events/3/pages/5/115/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/5/168/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/116/InlineScript/3:25
+"moderuA105"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・ん？
+ 生徒さんたちの絵を描く手が
+ 止まっているような・・・)
+> CONTEXT: Map021/events/3/pages/5/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はっ！
+ おまんこからお汁が溢れているの見られちゃってる・・・！)
+> CONTEXT: Map021/events/3/pages/5/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そうだった・・・今回は手で隠していないんだった
+ ど、どうしよう・・・
+ モデルしているだけでおまんこ濡らしている変態って
+ 思われちゃってるかも・・・！)
+> CONTEXT: Map021/events/3/pages/5/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ この状況、どうするか考えないといけないのに
+ おまんこ濡らしてるのバレちゃったと思うと・・・)
+> CONTEXT: Map021/events/3/pages/5/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](恥ずかしすぎて・・・
+ ま、またっ・・・イっちゃうよぅ・・・♥)
+> CONTEXT: Map021/events/3/pages/5/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]皆さん
+手が止まっていますよ
+しっかり描いてください
+> CONTEXT: Map021/events/3/pages/5/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]！！
+ｶｷｶｷｶｷ
+> CONTEXT: Map021/events/3/pages/5/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ・・・これからどうなっちゃうんだろう・・・)
+> CONTEXT: Map021/events/3/pages/5/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 7 lv.8 休憩時間に自慰"
+> CONTEXT: Map021/events/3/pages/6/0/InlineScript/1:6
+"モデル 7 lv.8 休憩時間に自慰"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 私の身体、見てもらえてる・・・
+ 気持ちいい・・・♥)
+> CONTEXT: Map021/events/3/pages/6/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA112"
+> CONTEXT: Map021/events/3/pages/6/36/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/127/InlineScript/3:25
+"moderuA112"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、この前
+ 私がおまんこ濡らしてるところ
+ 見られちゃったんだよね・・・)
+> CONTEXT: Map021/events/3/pages/6/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](だから今日はえっちな事は考えず
+ イったりもしないで
+ まともにモデルをやり遂げよう)
+> CONTEXT: Map021/events/3/pages/6/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA111"
+> CONTEXT: Map021/events/3/pages/6/52/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/85/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/105/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/134/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/7/67/InlineScript/3:25
+"moderuA111"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そしたらこの前のことは
+ きっと何かの間違いだった
+ と思ってもらえるはず・・・)
+> CONTEXT: Map021/events/3/pages/6/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA109"
+> CONTEXT: Map021/events/3/pages/6/60/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/6/143/InlineScript/3:25
+"moderuA109"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そうと決まれば
+ 心を無にして、時間が過ぎるのを待つだけだよ)
+> CONTEXT: Map021/events/3/pages/6/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA007"
+> CONTEXT: Map021/events/3/pages/6/71/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/85/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/105/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/114/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/127/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/134/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/143/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/149/InlineScript/1:25
+"moderuA007"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ 気持ちいい・・・イキたい・・・
+ けど、ダメ・・・イっちゃダメ・・・
+ まじめにモデルをやり遂げないと・・・)
+> CONTEXT: Map021/events/3/pages/6/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ううう・・・つらいよぅ・・・
+ 気持ちよくなるのを我慢するのがこんなにつらいなんて・・・)
+> CONTEXT: Map021/events/3/pages/6/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・というかイクの我慢していても
+ お汁が溢れてきちゃってるよ・・・
+ おまんこが濡れ濡れになっていること、バレてないかな・・・)
+> CONTEXT: Map021/events/3/pages/6/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]・・・
+はい、ストップ
+一旦休憩にしましょう
+> CONTEXT: Map021/events/3/pages/6/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・へ？
+> CONTEXT: Map021/events/3/pages/6/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]モデルさん、どうしました？
+顔色がよくありませんし
+気温も高くないのに汗をたくさんかいているようですが
+> CONTEXT: Map021/events/3/pages/6/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]え・・・えっと、大丈夫・・・です
+> CONTEXT: Map021/events/3/pages/6/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]もしかして、裸を見られて
+えっちな気分になっていますか？
+> CONTEXT: Map021/events/3/pages/6/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA110"
+> CONTEXT: Map021/events/3/pages/6/114/InlineScript/3:25
+"moderuA110"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えぇ！？ いやっ、えっと・・・
+そんなわけは・・・！
+> CONTEXT: Map021/events/3/pages/6/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]大丈夫です、そういう方結構いるんですよ
+そういう時には休憩をとって
+その間に一度すっきりしてもらってるんです
+> CONTEXT: Map021/events/3/pages/6/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えぇ！？
+> CONTEXT: Map021/events/3/pages/6/125/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/4/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それって今ここでオナニーしろってこと！？
+ そんな・・・先生も生徒さんたちも見ているというのに・・・)
+> CONTEXT: Map021/events/3/pages/6/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、他のモデルやってる人もしているらしいし
+ この業界ではそれが普通なのかな・・・？
+ それなら私だけ勝手に恥ずかしがってるほうが
+ 変だと思われたりするのかも・・・)
+> CONTEXT: Map021/events/3/pages/6/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]わかりました、やらせていただきます
+> CONTEXT: Map021/events/3/pages/6/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"jiiA002"
+> CONTEXT: Map021/events/3/pages/6/158/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/168/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/190/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/199/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/6/211/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/106/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/113/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/126/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/133/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/143/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/155/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/169/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/181/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/191/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/202/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/209/InlineScript/1:25
+> CONTEXT: Map021/events/7/pages/0/99/InlineScript/1:25
+"jiiA002"
+> END STRING
+
+> BEGIN STRING
+"jiiA105"
+> CONTEXT: Map021/events/3/pages/6/158/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/106/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/133/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/209/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/101/InlineScript/1:25
+> CONTEXT: Map021/events/7/pages/0/126/InlineScript/1:25
+"jiiA105"
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]！！？
+> CONTEXT: Map021/events/3/pages/6/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"jiiA101"
+> CONTEXT: Map021/events/3/pages/6/168/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/113/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/143/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/191/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/202/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/105/InlineScript/1:25
+> CONTEXT: Map021/events/7/pages/0/131/InlineScript/1:25
+"jiiA101"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]んはぁん♥ んんっ、はぁはぁ・・・♥
+き、気持ち・・・いいです♥
+> CONTEXT: Map021/events/3/pages/6/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ああぁ・・・すごいよぅ♥
+ みんなが見てる前でオナニーしちゃってるよぅ)
+> CONTEXT: Map021/events/3/pages/6/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](しかもずっとイクの我慢してたから・・・
+ こんなの気持ちよすぎて、おかしくなっちゃうぅ♥)
+> CONTEXT: Map021/events/3/pages/6/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]もっと、見て・・・
+私の恥ずかしいところ・・・
+オナニーしてるところ、
+もっと見てくださいっ♥
+> CONTEXT: Map021/events/3/pages/6/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"jiiA102"
+> CONTEXT: Map021/events/3/pages/6/190/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/155/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/137/InlineScript/1:25
+"jiiA102"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ああっ、も、もう・・・イキますっ・・・
+んっ・・・あっ、イっちゃいますぅ～・・・♥
+> CONTEXT: Map021/events/3/pages/6/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"jiiA103"
+> CONTEXT: Map021/events/3/pages/6/199/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/169/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/143/InlineScript/1:25
+"jiiA103"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ オナニー見ててもらえるのが
+ こんなに気持ちいいなんて・・・♥)
+> CONTEXT: Map021/events/3/pages/6/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]・・・
+落ち着きましたか？
+そろそろ再開しても大丈夫ですか？
+> CONTEXT: Map021/events/3/pages/6/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"jiiA104"
+> CONTEXT: Map021/events/3/pages/6/211/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/126/InlineScript/3:25
+> CONTEXT: Map021/events/3/pages/8/181/InlineScript/3:25
+> CONTEXT: Map021/events/7/pages/0/115/InlineScript/1:25
+"jiiA104"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あっ、えっと、あの・・・
+> CONTEXT: Map021/events/3/pages/6/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]もう一回だけ・・・いいですか？
+(ｸﾁｭｸﾁｭ)
+> CONTEXT: Map021/events/3/pages/6/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生](本当はトイレの個室ででも
+ こっそりしてもらおうと思ったのに
+ ここまでの変態さんだったとは・・・)
+> CONTEXT: Map021/events/3/pages/6/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 8 lv.9 外で"
+> CONTEXT: Map021/events/3/pages/7/0/InlineScript/1:6
+"モデル 8 lv.9 外で"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](よし、今日もヌードモデル頑張るぞ♥)
+> CONTEXT: Map021/events/3/pages/7/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]あの、実は
+教室的には生徒たちには
+そろそろ風景画を描かせないといけないのですが・・・
+> CONTEXT: Map021/events/3/pages/7/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]え、それじゃあすでに裸になった私は・・・
+> CONTEXT: Map021/events/3/pages/7/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]生徒たちがまだまだ人物画・・・
+というかあなたの絵を描きたいと言ってまして・・・
+> CONTEXT: Map021/events/3/pages/7/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]そ・・・そうですか・・・
+(ちょっと嬉しい♥)
+> CONTEXT: Map021/events/3/pages/7/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あ、そうだ
+> CONTEXT: Map021/events/3/pages/7/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]それなら、お外で風景をバックに
+人物の絵を描くというのはどうでしょう
+それなら、両方一緒に描けますし・・・
+> CONTEXT: Map021/events/3/pages/7/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]それは素晴らしいアイデアですね！
+さっそく公園へ行きましょう
+> CONTEXT: Map021/events/3/pages/7/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA008"
+> CONTEXT: Map021/events/3/pages/7/61/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/67/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/77/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/16/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/24/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/34/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/40/InlineScript/1:25
+"moderuA008"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ お外で全裸になっちゃってるよ♥
+ いいんだよね？ 捕まったりしないよね？)
+> CONTEXT: Map021/events/3/pages/7/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[他の人たち]ｼﾞﾛｼﾞﾛ
+> CONTEXT: Map021/events/3/pages/7/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/7/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](今回は生徒さんたちだけじゃない
+ 一般の人たちにまで見られちゃってるよ・・・)
+> CONTEXT: Map021/events/3/pages/7/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA009"
+> CONTEXT: Map021/events/3/pages/7/84/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/93/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/101/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/108/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/116/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/7/128/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/48/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/54/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/62/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/68/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/74/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/84/InlineScript/1:25
+> CONTEXT: Map021/events/3/pages/8/99/InlineScript/1:25
+"moderuA009"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](生徒さんたちは絵を描くという建前があるけど
+ 他の人たちはただただえっちな目で見ちゃってる・・・
+ 遠慮なんてせずに私の身体を見てくるよぅ
+ 恥ずかしい・・・♥)
+> CONTEXT: Map021/events/3/pages/7/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それに教室から公園までも
+ 全裸で歩いてきたから
+ 途中でも色んな人たちに見られちゃったし・・・♥)
+> CONTEXT: Map021/events/3/pages/7/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ もう限界だよ・・・イキそう・・・)
+> CONTEXT: Map021/events/3/pages/7/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](他の人たちはちょっと離れてるし
+ いいよね・・・イってもバレないよね・・・？
+ 生徒さんたちにはもう色々見られてるし・・・)
+> CONTEXT: Map021/events/3/pages/7/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁっ、イクっ・・・イっちゃう♥
+ お外で色んな人に裸を見られながら
+ イっちゃうぅ・・・♥)
+> CONTEXT: Map021/events/3/pages/7/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ お外で裸になって、人に見ていてもらえるなんて
+ 気持ちよすぎるよぅ・・・♥)
+> CONTEXT: Map021/events/3/pages/7/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"モデル 9 lv.10 外で自慰"
+> CONTEXT: Map021/events/3/pages/8/0/InlineScript/1:6
+"モデル 9 lv.10 外で自慰"
+> END STRING
+
+> BEGIN STRING
+\\name[他の人たち]ｼﾞﾛｼﾞﾛｼﾞﾛ
+> CONTEXT: Map021/events/3/pages/8/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/8/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/3/pages/8/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA103"
+> CONTEXT: Map021/events/3/pages/8/24/InlineScript/3:25
+"moderuA103"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 今日もお外で全裸姿を
+ こんなに多くの人に・・・)
+> CONTEXT: Map021/events/3/pages/8/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・前より人が増えてる気がする)
+> CONTEXT: Map021/events/3/pages/8/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](私の身体を見るために
+ わざわざ集まってくれたのかな
+ 嬉しい・・・♥)
+> CONTEXT: Map021/events/3/pages/8/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](うぅ、早くももうイキそうだよ・・・♥)
+> CONTEXT: Map021/events/3/pages/8/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、まだ我慢しないと・・・
+ 今回は途中で休憩を取ってもらえるように
+ お願いしておいたから、それまで我慢しないと・・・)
+> CONTEXT: Map021/events/3/pages/8/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](休憩になったら、この大勢の人の前で・・・むふふ♥)
+> CONTEXT: Map021/events/3/pages/8/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"moderuA106"
+> CONTEXT: Map021/events/3/pages/8/68/InlineScript/3:25
+"moderuA106"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、ダメっ・・・んんっ・・・♥)
+> CONTEXT: Map021/events/3/pages/8/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](も、妄想の中でイってしまいそうだったよ・・・)
+> CONTEXT: Map021/events/3/pages/8/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ も、もう・・・限界・・・
+ 気持ちよすぎておかしくなっちゃう♥
+ 早くオナニーしたい、おまんこいじりたいよぅ♥)
+> CONTEXT: Map021/events/3/pages/8/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]そろそろ一旦休憩にしましょう！
+> CONTEXT: Map021/events/3/pages/8/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](やったあ！)
+> CONTEXT: Map021/events/3/pages/8/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、はぁんっ♥
+ おまんこ、気持ちいい・・・♥
+ オナニー気持ちいいよぅ・・・♥)
+> CONTEXT: Map021/events/3/pages/8/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[他の人たち]ｻﾞﾜｻﾞﾜ
+「おいまじかよ、休憩になったとたんにオナニーをはじめたぞ」
+「今まで人に見られて感じまくってたってことか、とんだ変態だな」
+「見られるためにモデルやってんじゃないの？ いやらしい・・・」
+> CONTEXT: Map021/events/3/pages/8/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](やぁ・・・見てるよ・・・
+ 大勢の人にオナニー見られちゃってるよぅ♥)
+> CONTEXT: Map021/events/3/pages/8/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、ヌードモデルが見られて気持ちよくなって
+ オナニーしちゃうのは普通のことだから
+ みんなやってることだから・・・)
+> CONTEXT: Map021/events/3/pages/8/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](だから思いっきりオナニーしていいのっ♥)
+> CONTEXT: Map021/events/3/pages/8/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]んんっ、はぁ・・・ああん♥
+いい・・・気持ちいいいよぅ・・・♥
+> CONTEXT: Map021/events/3/pages/8/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[他の人たち]ｻﾞﾜｻﾞﾜ
+「おいおい喘ぎ声まであげはじめたぜ」
+「うひょーいいもん見れたぜ」
+「絵画教室に入ればこのヌードモデル見放題なのか！」
+> CONTEXT: Map021/events/3/pages/8/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ああっ、もうダメっイクっ・・・
+イっちゃいますぅ♥
+> CONTEXT: Map021/events/3/pages/8/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[他の人たち]ｻﾞﾜｻﾞﾜ
+「おお、イったみたいだぜ、よくやるよな」
+「今日のオカズは決まりだな」
+「俺にも勇気があれば今ここでオナニーがしたい」
+> CONTEXT: Map021/events/3/pages/8/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ 大勢の人たちに
+ オナニーでイクところ見られちゃった・・・
+ 恥ずかしすぎるよ・・・♥)
+> CONTEXT: Map021/events/3/pages/8/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]大丈夫ですか？
+再開できますか？
+> CONTEXT: Map021/events/3/pages/8/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あ、えっと・・・
+> CONTEXT: Map021/events/3/pages/8/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]・・・もう一度ですか？
+> CONTEXT: Map021/events/3/pages/8/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はい・・・
+> CONTEXT: Map021/events/3/pages/8/189/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/3/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[他の人たち]ｻﾞﾜｻﾞﾜ
+「まだやるのか！」
+「あの人絶対絵のモデルより、オナニーするためにやってるだろ」
+「体力あるなあ」
+> CONTEXT: Map021/events/3/pages/8/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あっ、んんっ♥
+んっ、うぅ・・・はぁはぁ・・・あぁん♥
+> CONTEXT: Map021/events/3/pages/8/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ こんなに気持ちいいこと
+ 一回で終わるなんてもったいないよね♥)
+> CONTEXT: Map021/events/3/pages/8/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵教室の先生]ありがとうございました
+またお願いします
+> CONTEXT: Map021/events/3/pages/9/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]ここは絵画教室です
+> CONTEXT: Map021/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]私、自分の街に帰ることになりました
+今まで働かせてくださってありがとうございました
+> CONTEXT: Map021/events/7/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/27/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/39/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]えぇ！？ そうなのかい？
+困ったな・・・外で絵を描いたときに見ていた人たちから
+入会希望がたくさん来ているというのに・・・
+> CONTEXT: Map021/events/7/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]申し訳ないが
+最後にちょっとだけ・・・
+短時間デッサンだけでいいから、モデルをやってもらえないかな？
+> CONTEXT: Map021/events/7/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えぇ・・・
+もう今日のうちに街を発つ予定なんで
+本当に少しの時間だけでしたら・・・
+> CONTEXT: Map021/events/7/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]ありがとう！
+早速生徒さんたちを呼んでくるよ！
+君は準備をしておいてくれないか！？
+> CONTEXT: Map021/events/7/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の生徒たち]ｶｷｶｷｶｷ
+> CONTEXT: Map021/events/7/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](うわぁ・・・本当にたくさんだぁ・・・)
+> CONTEXT: Map021/events/7/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](この人たちみんな、私がヌードモデルをするのを
+ 期待して来てくれたのかな・・・
+ 嬉しい♥)
+> CONTEXT: Map021/events/7/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](もう、私は街を出ちゃうから教室には入らないのだろうけど
+ 最後に思う存分私の裸を見て、ｶｷｶｷしてもらいたいな♥)
+> CONTEXT: Map021/events/7/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]ｼﾞﾛｼﾞﾛｼﾞﾛ
+> CONTEXT: Map021/events/7/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ・・・♥
+ こんなにたくさんの人に見られていると
+ 気持ちよくなっちゃうのも早いよ・・・♥
+ 短時間で終わるから、平気かと思っていたけど甘かった・・・)
+> CONTEXT: Map021/events/7/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]「おっ、もうモデルさんのおまんこ濡れてきてねぇか？」
+「やっぱり見られて感じる変態さんだったんだ！」
+「この教室に入ってよかった・・・！」
+> CONTEXT: Map021/events/7/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]先生！
+モデルさんが早くもつらそうにしているので
+休憩をとったほうがいいと思います！！
+> CONTEXT: Map021/events/7/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]う、うむ・・・そうだね
+モデルさん、いつもどおりすっきりしちゃおうか？
+> CONTEXT: Map021/events/7/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はい・・・♥
+> CONTEXT: Map021/events/7/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/3/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/4/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁ・・・んっ・・・あぁ♥
+> CONTEXT: Map021/events/7/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]「うおぉ、すげぇ！ 生オナニーだ！」
+「こんなに近くで見られるなんて・・・エロいっ！」
+「この教室に入ってよかった・・・！」
+> CONTEXT: Map021/events/7/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]モデルさん、やっぱり見られるのがいいの？
+> CONTEXT: Map021/events/7/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁ・・・はいっ、そうなんですっ♥
+おっぱいやおまんことか、オナニーしてる姿とか
+えっちな姿を見られると気持よくなっちゃうんですっ♥
+(ｸﾁｭｸﾁｭ)
+> CONTEXT: Map021/events/7/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]「まじかよ、とんだ淫乱女だな！」
+「こんな雌豚、これから俺達の肉便器確定だぜ！」
+「この教室に入ってよかった・・・！」
+> CONTEXT: Map021/events/7/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]やっ・・・やめてくださいっ・・・
+そんなに言われると・・・
+> CONTEXT: Map021/events/7/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ますます気持ちよくなっちゃいます・・・♥
+> CONTEXT: Map021/events/7/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ｸﾁｭｸﾁｭｸﾁｭ
+> CONTEXT: Map021/events/7/pages/0/135/Dialogue
+> CONTEXT: Map029/events/21/pages/9/149/Dialogue
+> CONTEXT: Map029/events/27/pages/0/169/Dialogue
+> CONTEXT: Map029/events/27/pages/0/214/Dialogue
+> CONTEXT: Map026/events/39/pages/0/254/Dialogue
+> CONTEXT: Map006/events/1/pages/3/135/Dialogue
+> CONTEXT: Map005/events/1/pages/6/176/Dialogue
+> CONTEXT: Map005/events/1/pages/6/211/Dialogue
+> CONTEXT: Map001/events/16/pages/4/98/Dialogue
+> CONTEXT: Map001/events/16/pages/5/172/Dialogue
+> CONTEXT: Map001/events/16/pages/5/181/Dialogue
+> CONTEXT: Map001/events/16/pages/6/91/Dialogue
+> CONTEXT: Map001/events/16/pages/6/143/Dialogue
+> CONTEXT: Map001/events/16/pages/6/200/Dialogue
+> CONTEXT: Map001/events/18/pages/8/296/Dialogue
+> CONTEXT: Map001/events/27/pages/0/167/Dialogue
+\\name[\\n[1]]*shlick* *shlick* *shlick*
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ふぁぁ・・・、んんっ♥
+ダメぇ・・・もうイっちゃいます・・・♥
+(ﾋﾞｸﾝﾋﾞｸﾝ)
+> CONTEXT: Map021/events/7/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]「イったみたいだな、今度は俺たちを満足させてもらおうか」
+「へへへ、お楽しみはこれからだぜ！」
+「この教室に入ってよかった・・・！」
+> CONTEXT: Map021/events/7/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あっ、私そろそろ行きますね
+> CONTEXT: Map021/events/7/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]えっ？
+> CONTEXT: Map021/events/7/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]私、今日でこの街を出て
+自分の街に帰るんです
+馬車の時間もあるから、そろそろ出ないと・・・
+> CONTEXT: Map021/events/7/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]自分の街に帰るって・・・
+えぇっ！？
+> CONTEXT: Map021/events/7/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]先生！ そんな話聞いてねぇぜ！
+> CONTEXT: Map021/events/7/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]あ～、えっと・・・うん
+> CONTEXT: Map021/events/7/pages/0/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の先生]皆さん今日の授業の参加されたということで、
+教室への入会が確定しまして、入会費と今年分の授業料と払っていただきます
+あ、もちろん、あなた達は大人料金ですので、
+合計で・・・○○万円頂戴します
+> CONTEXT: Map021/events/7/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[絵画教室の新しい生徒たち]「モデルさんのいない教室に誰が入るかー！！」
+「絶対払わねぇからな！！」
+「ヌードモデルのいる絵画教室に入りたかった・・・！」
+> CONTEXT: Map021/events/7/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あらら・・・えっと・・・
+> CONTEXT: Map021/events/7/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]私はこれで失礼しますねっ
+さよなら～
+> CONTEXT: Map021/events/7/pages/0/233/Dialogue < UNTRANSLATED
+
+> END STRING

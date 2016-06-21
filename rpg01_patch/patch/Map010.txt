@@ -1,0 +1,2047 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\n[1]
+「あの、すみませんが、
+　近くにお手洗いはありませんか？」
+> CONTEXT: Map010/events/3/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「いや、この公園にはないよ
+　どこかのお店で借りるか・・・」
+> CONTEXT: Map010/events/3/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「子供や男の人なんかはそこらへんの
+　草むらでやっちゃう人もいるけどね
+　はっはっは」
+> CONTEXT: Map010/events/3/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(近くにないのかぁ
+　 ないならしかたがないよね・・・)」
+> CONTEXT: Map010/events/3/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(私もお外でおしっこしちゃおう\\i[122])」)」
+> CONTEXT: Map010/events/3/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ここならきっと誰にも見られないよね)」
+> CONTEXT: Map010/events/3/pages/0/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(さすがにまだ見られながらおしっこする勇気は
+　 ないかな・・・)」
+> CONTEXT: Map010/events/3/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(よし、やるぞ)」
+> CONTEXT: Map010/events/3/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"25001001"
+> CONTEXT: Map010/events/3/pages/0/55/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/55/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/55/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/86/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Commonevents/2/16/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Commonevents/2/117/InlineScript/1:25 < UNTRANSLATED
+"25001001"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ぱんつ下ろして・・・)」
+> CONTEXT: Map010/events/3/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(よいしょっと)」
+> CONTEXT: Map010/events/3/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、お外でぱんつおろしちゃった\\i[122])」
+> CONTEXT: Map010/events/3/pages/0/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(大丈夫かな・・・人こないよね)」
+> CONTEXT: Map010/events/3/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ﾁｮﾛﾁｮﾛ
+> CONTEXT: Map010/events/3/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふぅ、気持ち良い・・・)」
+> CONTEXT: Map010/events/3/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(お外でおしっこをする開放感と
+　 人に見つかるかもしれないスリルがたまらない\\i[122])」
+> CONTEXT: Map010/events/3/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供の声
+「わー！ 見てー！」
+> CONTEXT: Map010/events/3/pages/0/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「！」
+> CONTEXT: Map010/events/3/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/3/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/1/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供の声
+「見てー！　これカニー！ カニ見てー！」
+> CONTEXT: Map010/events/3/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、びっくりした
+　 見つかっちゃったかと思った・・・)」
+> CONTEXT: Map010/events/3/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(・・・)」
+> CONTEXT: Map010/events/3/pages/0/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/1/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(見つかってしまうのも悪くないかも、
+　 なんて・・・ふふふ\\i[122])」
+> CONTEXT: Map010/events/3/pages/0/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「そうですか、
+　それなら私もお外ですませてきちゃいますね
+　ありがとうございました」
+> CONTEXT: Map010/events/3/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あ、すぐ近くでしちゃいますけど
+　覗かないでくださいね」
+> CONTEXT: Map010/events/3/pages/1/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「う、うむ・・・ｺﾞｸﾘ」
+> CONTEXT: Map010/events/3/pages/1/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っていたおじさん
+「ｼﾞｰ」
+> CONTEXT: Map010/events/3/pages/1/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/171/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/212/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/251/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/326/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、見に来てる見に来てる)」
+> CONTEXT: Map010/events/3/pages/1/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(もう、おまんこ見えちゃってるよね)」
+> CONTEXT: Map010/events/3/pages/1/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、今までぱんつはいてなかったの
+　 ばれちゃったかも・・・)」
+> CONTEXT: Map010/events/3/pages/1/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(恥ずかしいけど
+　 今からもっと恥ずかしいところ見られちゃうんだよね\\i[122])」
+> CONTEXT: Map010/events/3/pages/1/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(もう、おまんこうずうずしてきちゃった\\i[122])」
+> CONTEXT: Map010/events/3/pages/1/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あはぁ、もう、おしっこ出るだけで気持ちいいよう)」
+> CONTEXT: Map010/events/3/pages/1/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/248/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あっ、やっぱり見てる
+　 お外でおしっこなんてしている
+　 はしたない姿見られちゃったぁ\\i[122])」
+> CONTEXT: Map010/events/3/pages/1/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/2/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、
+　 おしっこ終わったけど・・・
+　 もっと・・・見られていたいなぁ\\i[122])」
+> CONTEXT: Map010/events/3/pages/2/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ティッシュで拭いてるふりして
+　 おまんこいじっちゃお・・・\\i[122])」
+> CONTEXT: Map010/events/3/pages/2/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ﾌｷﾌｷ
+> CONTEXT: Map010/events/3/pages/2/133/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/1/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/308/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あんっ・・・\\i[122]」
+> CONTEXT: Map010/events/3/pages/2/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(気持ちよくて声出ちゃう
+　 さがすがにばれちゃうかな・・・？)」
+> CONTEXT: Map010/events/3/pages/2/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも、おまんこｺｽｺｽする手が止まらないよう・・・\\i[122])」
+> CONTEXT: Map010/events/3/pages/2/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ああ、見られてるっ
+　 お、オナニーなんてしてないから
+　 おまんこしっかり拭いてるだけだから大丈夫だよね\\i[122])」
+> CONTEXT: Map010/events/3/pages/2/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(き、気持ち良い・・・イっ、イくぅっ・・・)」
+> CONTEXT: Map010/events/3/pages/2/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/340/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「んんっ、んあっ・・・あはぁ、はぁはぁ・・・\\i[122]」
+> CONTEXT: Map010/events/3/pages/2/168/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(まだ見てる・・・
+　 ずっと見られちゃってたけど、
+　 オナニーしてた事はばれてないよね・・・)」
+> CONTEXT: Map010/events/3/pages/2/177/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/4/pages/0/352/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(公園の池で子供たちが裸で遊んでいる)」
+> CONTEXT: Map010/events/4/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供たち
+「おねえさんも一緒に遊ぼうよ！」
+> CONTEXT: Map010/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供たち
+「きゃっきゃっ！」
+> CONTEXT: Map010/events/4/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/1/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「うふふ」
+> CONTEXT: Map010/events/4/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/4/pages/1/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供たちのお父さん
+「・・・」
+> CONTEXT: Map010/events/4/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(そういえば、子供たちのお父さんが見てるって
+　 言ってたよね・・・)」
+> CONTEXT: Map010/events/4/pages/1/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(子供たちも裸で遊んでるし
+　 私も裸になってもそれほどおかしくないよね・・・\\i[122])」
+> CONTEXT: Map010/events/4/pages/1/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、私お外で裸になってる・・・
+　 気持ちいい\\i[122])」
+> CONTEXT: Map010/events/4/pages/1/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(お外で裸になって遊んでも大丈夫だなんて
+　 公園の池って素敵・・・！)」
+> CONTEXT: Map010/events/4/pages/1/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供たちのお父さん
+「！」
+> CONTEXT: Map010/events/4/pages/1/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あっ、おじさんも見てる
+　 裸の身体、全部見られちゃってるよぅ・・・)」
+> CONTEXT: Map010/events/4/pages/1/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/1/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「うちの子たちと遊んでくれたみたいだね
+　見ていたよ。ありがとう」
+> CONTEXT: Map010/events/5/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ずいぶんと透け・・・濡れてしまったようだね
+　そのままでは風邪をひいてしまうよ
+　よかったらタオルを使うかい？」
+> CONTEXT: Map010/events/5/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ありがとうございます」
+> CONTEXT: Map010/events/5/pages/1/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ほほう・・・」
+> CONTEXT: Map010/events/5/pages/1/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「・・・」
+> CONTEXT: Map003/events/3/pages/2/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/125/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/152/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/214/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/1/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/11/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/113/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/0/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/1/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/1/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/1/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/1/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/1/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/2/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/2/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/297/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/297/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/302/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(もっとじっくり身体を拭いちゃおうかな・・・\\i[122])」
+> CONTEXT: Map010/events/5/pages/2/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「よいしょっと」
+> CONTEXT: Map010/events/5/pages/2/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/6/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/6/pages/1/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/1/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/4/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/15/pages/1/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/15/pages/1/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「おお・・・！」
+> CONTEXT: Map010/events/5/pages/2/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「えっと、しっかり拭かないと・・・
+　風邪ひいてしまいますので・・・」
+> CONTEXT: Map010/events/5/pages/2/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「う、うむ・・・
+　そうだね。しっかり拭かないとね！」
+> CONTEXT: Map010/events/5/pages/2/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「はい・・・\\i[122]」
+> CONTEXT: Map010/events/5/pages/2/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「ｼﾞｰ」
+> CONTEXT: Map010/events/5/pages/2/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/2/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/123/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁ・・・お外で上半身裸になって
+　 男の人の目の前にいるなんて・・・)」
+> CONTEXT: Map010/events/5/pages/2/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(おっぱい隠してるフリしてるけど
+　 見えちゃってるよね・・・ふふ)」
+> CONTEXT: Map010/events/5/pages/2/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(おじさん、すごくおっぱい見てる・・・
+　 見られるの気持ちいいよぉ・・・\\i[122])」
+> CONTEXT: Map010/events/5/pages/2/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/5/pages/3/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(このままおっぱいいじって
+　 もっと気持ちよくなっちゃおうかな・・・\\i[122])」
+> CONTEXT: Map010/events/5/pages/3/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(この胸を隠してる手でやれば
+　 きっとばれないよね)」
+> CONTEXT: Map010/events/5/pages/3/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ｲｼﾞｲｼﾞ
+> CONTEXT: Map010/events/5/pages/3/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁん、気持ちいいよぉ・・・\\i[122])」
+> CONTEXT: Map010/events/5/pages/3/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「んっ・・・\\i[122]」
+> CONTEXT: Map010/events/5/pages/3/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/224/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/3/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/12/pages/2/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「！」
+> CONTEXT: Map010/events/5/pages/3/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、声が出ちゃった・・・
+　 おじさんに気づかれちゃったかな・・・)」
+> CONTEXT: Map010/events/5/pages/3/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(・・・でも今やめるなんてできない・・・
+　 おじさんに見られながらおっぱいいじるの気持ちいいよう\\i[122])」
+> CONTEXT: Map010/events/5/pages/3/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「んんっ・・・！
+　んはぁ・・・はぁはぁ・・・\\i[122]」
+> CONTEXT: Map010/events/5/pages/3/159/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(イ、イっちゃった・・・おじさんの目の前で・・・)」
+> CONTEXT: Map010/events/5/pages/3/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あ、あの、タオルありがとうございました\\i[122]」
+> CONTEXT: Map010/events/5/pages/3/174/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/262/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「き、君！　今胸で・・・」
+> CONTEXT: Map010/events/5/pages/3/177/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「へっ・・・？
+　いやっ、ち、違います！」
+> CONTEXT: Map010/events/5/pages/3/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/272/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「へへへ、おじさんがもっと気持ちよく・・・」
+> CONTEXT: Map010/events/5/pages/3/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供たち
+「カニー！　お父さーん！　カニ見てカニー！
+　カニいたー！　お父さーん！　カニー！」
+> CONTEXT: Map010/events/5/pages/3/196/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「・・・」
+> CONTEXT: Map010/events/5/pages/3/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/290/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「お、おう！　見てるぞー」
+> CONTEXT: Map010/events/5/pages/3/205/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、危なかった・・・
+　 ちょっとやりすぎだったかも・・・)」
+> CONTEXT: Map010/events/5/pages/3/214/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/302/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも気持ちよかったなぁ\\i[122])」
+> CONTEXT: Map010/events/5/pages/3/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/310/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(おや、箱の中にエロ本が入っている
+　 古いエロ漫画雑誌のようだけど
+　 ちょっと読んでみよう)」
+> CONTEXT: Map010/events/8/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ﾍﾟﾗﾍﾟﾗ
+> CONTEXT: Map010/events/8/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/1/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あっ、これ"綿ぱんつ子”先生の昔の漫画だ！
+　 単行本に載ってなかった
+　 私の知らない作品があったとは・・・)」
+> CONTEXT: Map010/events/8/pages/1/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うわぁ、さすが”綿ぱんつ子”先生の漫画・・・
+　 こんなに昔のでもエロいなぁ)」
+> CONTEXT: Map010/events/8/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こんなところそうそう人こないよね
+　 オナニーしちゃおうかな)」
+> CONTEXT: Map010/events/8/pages/1/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、やっぱり"綿ぱんつ子"先生の漫画を
+　 読みながらするオナニーは最高だよ・・・)」
+> CONTEXT: Map010/events/8/pages/1/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(しかもお外で！)」
+> CONTEXT: Map010/events/8/pages/1/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも、本当に誰もこないかな・・・)」
+> CONTEXT: Map010/events/8/pages/1/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(本がおいてあったってことは
+　 誰かがここに来て隠したってことだよね
+　 またいつ人が来るかわからないというのに・・・)」
+> CONTEXT: Map010/events/8/pages/1/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(私誰かに見られたいと思ってる・・・
+　 こんなはしたない格好でオナニーしてるところ
+　 見られてみたいって思っちゃってるよぅ・・・)」
+> CONTEXT: Map010/events/8/pages/1/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「んあっ、あっ、あああん！」
+> CONTEXT: Map010/events/8/pages/1/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あはぁ・・・イっちゃった
+　 声抑えるの忘れてたけど
+　 大丈夫だよね・・・？)」
+> CONTEXT: Map010/events/8/pages/1/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ｶﾞｻｶﾞｻ
+> CONTEXT: Map010/events/8/pages/1/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(誰かいる!?
+ 　まずい・・・見られちゃった？
+　 どうしよう・・・)」
+> CONTEXT: Map010/events/8/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(と、とにかく逃げちゃおう・・・！)」
+> CONTEXT: Map010/events/8/pages/1/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/2/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/3/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/1/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/2/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/3/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(この前は慌てて逃げちゃったけど
+　 この本欲しいなぁ
+　 勝手に持って行ったらダメかな・・・)」
+> CONTEXT: Map010/events/8/pages/4/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「おいお前！ そこで何してんだ！」
+> CONTEXT: Map010/events/8/pages/4/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「！
+　え、ええっと今は別に何も・・・・
+　してないよ・・・？」
+> CONTEXT: Map010/events/8/pages/4/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「あっ！ それ俺の本だぞ！
+　それを盗むつもりだったんだろ！」
+> CONTEXT: Map010/events/8/pages/4/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「そ、そんなつもりは・・・
+　これ君の本なの？」
+> CONTEXT: Map010/events/8/pages/4/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「そうだ！ 何かそこらへんに落ちてたから
+　たまたま拾ってきただけだぞ！
+　べ、別にエロ漫画が読みたいわけじゃないぞ！」
+> CONTEXT: Map010/events/8/pages/4/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「そうなんだ・・・・
+　じゃ、じゃあこの本、私に譲ってくれないかな？」
+> CONTEXT: Map010/events/8/pages/4/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「だめだ！ それは俺の宝物・・・なんかじゃないけど！
+　お前なんかにタダであげたりするもんか！」
+> CONTEXT: Map010/events/8/pages/4/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「じゃあどうしたらいいかな？」
+> CONTEXT: Map010/events/8/pages/4/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「そ、それなら・・・この前ここでやってたこと
+　今ここでやって見せろ！」
+> CONTEXT: Map010/events/8/pages/4/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(えっ!?　この前って・・・ああ、やっぱり
+　 ここでオナニーしていたの見られてたの!?)」
+> CONTEXT: Map010/events/8/pages/4/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「あれをじっくり見せてくれたら
+　本はやるぞ！」
+> CONTEXT: Map010/events/8/pages/4/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「うん、わかったよ
+　見せてたら本ちょうだいね
+　あと、他の人には絶対に内緒だよ」
+> CONTEXT: Map010/events/8/pages/4/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「お、おう！ いいぞ！
+　早く早く！」
+> CONTEXT: Map010/events/8/pages/4/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/106/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「じゃあこの前みたいに本を読みながら・・・」
+> CONTEXT: Map010/events/8/pages/4/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「お、おお、すげー！
+　おっぱいもおまんこもまる見えだぞ！」
+> CONTEXT: Map010/events/8/pages/4/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「そうなの、見せるととても興奮するんだよ\\i[122]
+　だから・・・見るだけだったら好きに見ていいからね
+　触るのはダメだよ」
+> CONTEXT: Map010/events/8/pages/4/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/125/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「わ、わかったぞ！」
+> CONTEXT: Map010/events/8/pages/4/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「それじゃ、オナニー始めるよ」
+> CONTEXT: Map010/events/8/pages/4/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あっ、ああん・・・」
+> CONTEXT: Map010/events/8/pages/4/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「ｺﾞｸﾘ」
+> CONTEXT: Map010/events/8/pages/4/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁ、私またお外でオナニーしちゃってる
+　 しかも人に見られながらできるなんて・・・
+　 うぅん・・・気持ちいいよう)」
+> CONTEXT: Map010/events/8/pages/4/128/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/128/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/128/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あぁっ、んんっ・・・・いいよぅ・・・」
+> CONTEXT: Map010/events/8/pages/4/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「はぁはぁ」
+> CONTEXT: Map010/events/8/pages/4/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/4/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/241/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/165/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/241/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/170/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「き、君もしたくなっちゃった？
+　いいよ、一緒に・・・一緒にオナニーしよ？」
+> CONTEXT: Map010/events/8/pages/4/146/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/146/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/146/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/171/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/171/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「えっ、で、でも・・・」
+> CONTEXT: Map010/events/8/pages/4/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/150/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/175/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/175/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「オナニーしたことないの？
+　大丈夫、私がちゃんと教えてあげるから・・・
+　ほら、おちんちん出して」
+> CONTEXT: Map010/events/8/pages/4/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/156/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「う、うん」
+> CONTEXT: Map010/events/8/pages/4/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/161/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「そしたら、この漫画みたいにおちんちんを掴んで・・・そう、
+　そしたら手で上下にこすって・・・
+　後は感じるままに・・・」
+> CONTEXT: Map010/events/8/pages/4/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「うぅっ、気持ちいいよ・・・」
+> CONTEXT: Map010/events/8/pages/4/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「見ててあげるから、出しちゃっていいよ
+　ほら、見られてるとぞくぞくするでしょ？」
+> CONTEXT: Map010/events/8/pages/4/178/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/178/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/178/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「う、うん・・・も、もう、出ちゃうよ
+　うっ」
+> CONTEXT: Map010/events/8/pages/4/182/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/182/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/182/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/207/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/207/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/212/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「ﾄﾞﾋﾟｭﾄﾞﾋﾟｭ」
+> CONTEXT: Map010/events/8/pages/4/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/4/237/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/237/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/237/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/262/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/262/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/267/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ふふ、上手に出来たね
+　オナニーデビューおめでとう！」
+> CONTEXT: Map010/events/8/pages/4/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/192/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/217/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/217/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「じゃあ次は私だね」
+> CONTEXT: Map010/events/8/pages/4/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/224/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/224/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「はぁはぁ・・・う、うん」
+> CONTEXT: Map010/events/8/pages/4/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/227/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/227/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「はあぁん、いい・・・見て、もっと見てぇ・・・」
+> CONTEXT: Map010/events/8/pages/4/213/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/213/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/213/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/238/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/238/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ああ、すごい近くでオナニー見られてる・・・・
+　 またおちんちん握って・・・
+　 オナニーにおかずにされちゃってるよぅ)」
+> CONTEXT: Map010/events/8/pages/4/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ああんっ、もう、イく・・・イっちゃうぅ・・・」
+> CONTEXT: Map010/events/8/pages/4/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「はぁはぁ
+　お姉さん！ 僕も、また、でっ出る・・・！」
+> CONTEXT: Map010/events/8/pages/4/233/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/233/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/233/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/258/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/258/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「んああっ、はぁ・・・はぁはぁ・・・
+　ど、どうだったかな？」
+> CONTEXT: Map010/events/8/pages/4/243/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/243/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/243/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/268/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/268/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「よくわからないけど
+　お姉さん、すごく・・・エロかったです」
+> CONTEXT: Map010/events/8/pages/4/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/247/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/272/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/272/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/277/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ありがとう」
+> CONTEXT: Map010/events/8/pages/4/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/5/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/8/pages/6/254/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/4/279/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/279/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「お、おお、すげー！
+　おっぱいもぱんつもまる見えだぞ！」
+> CONTEXT: Map010/events/8/pages/5/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「おい変態！ 裸で何してんだ！」
+> CONTEXT: Map010/events/8/pages/6/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「あっ！ それ俺の本だぞ！
+　それを盗むつもりだったんだろ！ この変態！」
+> CONTEXT: Map010/events/8/pages/6/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男の子
+「だめだ！ それは俺の宝物・・・なんかじゃないけど！
+　変態なんかにタダであげたりするもんか！」
+> CONTEXT: Map010/events/8/pages/6/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「え、えっと、裸のほうが服が汚れなくていいんだよ
+　だから・・・見るだけだったら好きに見ていいからね
+　触るのはダメだよ」
+> CONTEXT: Map010/events/8/pages/6/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こんな水浸しのまま
+　 お店に入るわけにはいかないよね)」
+> CONTEXT: Map010/events/15/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/15/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『　銭湯　混浴のみ　入浴料xxx円
+　　貸しバスタオルあります　　　』
+> CONTEXT: Map010/events/20/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/20/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(スカートめくり小僧が出るのはこの辺かなぁ・・・
+　 待機してるっぽい男の人たちもいるし)」
+> CONTEXT: Map010/events/23/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ぱ、ぱんつはいてないけど
+　 大丈夫かな・・・\\i[122])」
+> CONTEXT: Map010/events/23/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小僧
+「おりゃー！
+　スキありー！」
+> CONTEXT: Map010/events/23/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/4/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「きゃ、きゃー」
+> CONTEXT: Map010/events/23/pages/1/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ああん、おまんこまるだしにされちゃってるよぅ\\i[122])」
+> CONTEXT: Map010/events/23/pages/1/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小僧
+「なっ、何ぃー!? のーぱんだー！」
+> CONTEXT: Map010/events/23/pages/1/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男ども
+「うおおっ！ のーぱん！ のーぱん！」
+> CONTEXT: Map010/events/23/pages/1/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うふふ、色んな人におまんこ見られちゃってる・・・\\i[122])」
+> CONTEXT: Map010/events/23/pages/1/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小僧
+「なんだこいつ、裾をおさえたり抵抗したりしないな・・・
+　おりゃ、もう一回だ！」
+> CONTEXT: Map010/events/23/pages/1/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あ・・・きゃー」
+> CONTEXT: Map010/events/23/pages/1/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男ども
+「うおおっ！ おまんこ！ おまんこ！」
+> CONTEXT: Map010/events/23/pages/1/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小僧
+「へっ、今回はこの辺にしておいてやるぜ！」
+> CONTEXT: Map010/events/23/pages/1/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うふふ・・・\\i[122])」
+> CONTEXT: Map010/events/23/pages/1/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/1/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ああん、ぱんつまるだしにされちゃってるよぅ\\i[122])」
+> CONTEXT: Map010/events/23/pages/2/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小僧
+「おおっ！ うおーっ！ 縞ぱんだーっ！」
+> CONTEXT: Map010/events/23/pages/2/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男ども
+「うおおっ！ 縞ぱん！ 縞ぱん！」
+> CONTEXT: Map010/events/23/pages/2/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/23/pages/2/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うふふ、色んな人にぱんつ見られちゃってる・・・\\i[122])」
+> CONTEXT: Map010/events/23/pages/2/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/23/pages/2/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+めくり待機男A
+「ｿﾜｿﾜ」
+> CONTEXT: Map010/events/25/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+めくり待機男A
+「まためくられに来てくれよな！」
+> CONTEXT: Map010/events/25/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+めくり待機男B
+「ﾄﾞｷﾄﾞｷ」
+> CONTEXT: Map010/events/26/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+めくり待機男B
+「良いめくられっぷりだったぞ！」
+> CONTEXT: Map010/events/26/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「ﾄﾞｷﾄﾞｷ・・・
+　水は好きなだけ飲んでいいんだよ」
+> CONTEXT: Map010/events/28/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/28/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「近くにあるのは水飲み場だよ
+　水を好きなだけ飲めるよ」
+> CONTEXT: Map010/events/28/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/28/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ｺﾞｸｺﾞｸ」
+> CONTEXT: Map010/events/29/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/29/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こうやって水を飲むふりをして
+　 お尻を突き出せば・・・)」
+> CONTEXT: Map010/events/29/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「！」
+> CONTEXT: Map010/events/29/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/29/pages/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、ぱんつ見えてるの気づかれちゃった\\i[122])」
+> CONTEXT: Map010/events/29/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、ぱんつはいてないから
+　 おまんこ見えてるの気づかれちゃった\\i[122])」
+> CONTEXT: Map010/events/29/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「ｼﾞｰ」
+> CONTEXT: Map010/events/29/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/29/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁ、すごく近くで
+　 まじまじと見つめられちゃってるよ・・・)」
+> CONTEXT: Map010/events/29/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、視線が熱い・・・
+　 気持ち良いよう・・・見られるだけで感じちゃう\\i[122])」
+> CONTEXT: Map010/events/29/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/29/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(！
+　 あぁん、濡れてきちゃった\\i[122])」
+> CONTEXT: Map010/events/29/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ばれちゃうといけないし、
+　 ずっと水飲んでるのもおかしいから
+　 そろそろやめておこう)」
+> CONTEXT: Map010/events/29/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/29/pages/1/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/99/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こうやって水を飲むふりをして
+　前かがみになれば・・・)」
+> CONTEXT: Map010/events/29/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、おっぱい見えてるの気づかれちゃった\\i[122])」
+> CONTEXT: Map010/events/29/pages/1/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁ、私こんなに明るいうちから
+　 おっぱい出して
+　 見られちゃってるよ)」
+> CONTEXT: Map010/events/29/pages/1/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(！
+　 あぁん、おっぱいたって来ちゃった\\i[122])」
+> CONTEXT: Map010/events/29/pages/1/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/29/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING

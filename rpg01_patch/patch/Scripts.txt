@@ -1,0 +1,4424 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"Graphics/Animations/"
+> CONTEXT: Scripts/Cache/15:17 < UNTRANSLATED
+"Graphics/Animations/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlebacks1/"
+> CONTEXT: Scripts/Cache/21:17 < UNTRANSLATED
+"Graphics/Battlebacks1/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlebacks2/"
+> CONTEXT: Scripts/Cache/27:17 < UNTRANSLATED
+"Graphics/Battlebacks2/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlers/"
+> CONTEXT: Scripts/Cache/33:17 < UNTRANSLATED
+"Graphics/Battlers/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Characters/"
+> CONTEXT: Scripts/Cache/39:17 < UNTRANSLATED
+"Graphics/Characters/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Faces/"
+> CONTEXT: Scripts/Cache/45:17 < UNTRANSLATED
+"Graphics/Faces/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Parallaxes/"
+> CONTEXT: Scripts/Cache/51:17 < UNTRANSLATED
+"Graphics/Parallaxes/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Pictures/"
+> CONTEXT: Scripts/Cache/57:17 < UNTRANSLATED
+"Graphics/Pictures/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/"
+> CONTEXT: Scripts/Cache/63:17 < UNTRANSLATED
+"Graphics/System/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Tilesets/"
+> CONTEXT: Scripts/Cache/69:17 < UNTRANSLATED
+"Graphics/Tilesets/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Titles1/"
+> CONTEXT: Scripts/Cache/75:17 < UNTRANSLATED
+"Graphics/Titles1/"
+> END STRING
+
+> BEGIN STRING
+"Graphics/Titles2/"
+> CONTEXT: Scripts/Cache/81:17 < UNTRANSLATED
+"Graphics/Titles2/"
+> END STRING
+
+> BEGIN STRING
+"購入する"
+> CONTEXT: Scripts/Vocab/11:21 < UNTRANSLATED
+"購入する"
+> END STRING
+
+> BEGIN STRING
+"売却する"
+> CONTEXT: Scripts/Vocab/12:21 < UNTRANSLATED
+"売却する"
+> END STRING
+
+> BEGIN STRING
+"やめる"
+> CONTEXT: Scripts/Vocab/13:21 < UNTRANSLATED
+"やめる"
+> END STRING
+
+> BEGIN STRING
+"持っている数"
+> CONTEXT: Scripts/Vocab/14:21 < UNTRANSLATED
+"持っている数"
+> END STRING
+
+> BEGIN STRING
+"現在の経験値"
+> CONTEXT: Scripts/Vocab/17:21 < UNTRANSLATED
+"現在の経験値"
+> END STRING
+
+> BEGIN STRING
+"次の%sまで"
+> CONTEXT: Scripts/Vocab/18:21 < UNTRANSLATED
+"次の%sまで"
+> END STRING
+
+> BEGIN STRING
+"どのファイルにセーブしますか？"
+> CONTEXT: Scripts/Vocab/21:21 < UNTRANSLATED
+"どのファイルにセーブしますか？"
+> END STRING
+
+> BEGIN STRING
+"どのファイルをロードしますか？"
+> CONTEXT: Scripts/Vocab/22:21 < UNTRANSLATED
+"どのファイルをロードしますか？"
+> END STRING
+
+> BEGIN STRING
+"ファイル"
+> CONTEXT: Scripts/Vocab/23:21 < UNTRANSLATED
+"ファイル"
+> END STRING
+
+> BEGIN STRING
+"%sたち"
+> CONTEXT: Scripts/Vocab/26:21 < UNTRANSLATED
+"%sたち"
+> END STRING
+
+> BEGIN STRING
+"%sが出現！"
+> CONTEXT: Scripts/Vocab/29:21 < UNTRANSLATED
+"%sが出現！"
+> END STRING
+
+> BEGIN STRING
+"%sは先手を取った！"
+> CONTEXT: Scripts/Vocab/30:21 < UNTRANSLATED
+"%sは先手を取った！"
+> END STRING
+
+> BEGIN STRING
+"%sは不意をつかれた！"
+> CONTEXT: Scripts/Vocab/31:21 < UNTRANSLATED
+"%sは不意をつかれた！"
+> END STRING
+
+> BEGIN STRING
+"%sは逃げ出した！"
+> CONTEXT: Scripts/Vocab/32:21 < UNTRANSLATED
+"%sは逃げ出した！"
+> END STRING
+
+> BEGIN STRING
+"しかし逃げることはできなかった！"
+> CONTEXT: Scripts/Vocab/33:21 < UNTRANSLATED
+"しかし逃げることはできなかった！"
+> END STRING
+
+> BEGIN STRING
+"%sの勝利！"
+> CONTEXT: Scripts/Vocab/36:21 < UNTRANSLATED
+"%sの勝利！"
+> END STRING
+
+> BEGIN STRING
+"%sは戦いに敗れた。"
+> CONTEXT: Scripts/Vocab/37:21 < UNTRANSLATED
+"%sは戦いに敗れた。"
+> END STRING
+
+> BEGIN STRING
+"%s の経験値を獲得！"
+> CONTEXT: Scripts/Vocab/38:21 < UNTRANSLATED
+"%s の経験値を獲得！"
+> END STRING
+
+> BEGIN STRING
+"お金を %s\\\\G 手に入れた！"
+> CONTEXT: Scripts/Vocab/39:21 < UNTRANSLATED
+"お金を %s\\\\G 手に入れた！"
+> END STRING
+
+> BEGIN STRING
+"%sを手に入れた！"
+> CONTEXT: Scripts/Vocab/40:21 < UNTRANSLATED
+"%sを手に入れた！"
+> END STRING
+
+> BEGIN STRING
+"%sは%s %s に上がった！"
+> CONTEXT: Scripts/Vocab/41:21 < UNTRANSLATED
+"%sは%s %s に上がった！"
+> END STRING
+
+> BEGIN STRING
+"%sを覚えた！"
+> CONTEXT: Scripts/Vocab/42:21 < UNTRANSLATED
+"%sを覚えた！"
+> END STRING
+
+> BEGIN STRING
+"%sは%sを使った！"
+> CONTEXT: Scripts/Vocab/45:21 < UNTRANSLATED
+"%sは%sを使った！"
+> END STRING
+
+> BEGIN STRING
+"会心の一撃！！"
+> CONTEXT: Scripts/Vocab/48:21 < UNTRANSLATED
+"会心の一撃！！"
+> END STRING
+
+> BEGIN STRING
+"痛恨の一撃！！"
+> CONTEXT: Scripts/Vocab/49:21 < UNTRANSLATED
+"痛恨の一撃！！"
+> END STRING
+
+> BEGIN STRING
+"%sは %s のダメージを受けた！"
+> CONTEXT: Scripts/Vocab/52:21 < UNTRANSLATED
+"%sは %s のダメージを受けた！"
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 回復した！"
+> CONTEXT: Scripts/Vocab/53:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/62:21 < UNTRANSLATED
+"%sの%sが %s 回復した！"
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 増えた！"
+> CONTEXT: Scripts/Vocab/54:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/63:21 < UNTRANSLATED
+"%sの%sが %s 増えた！"
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 減った！"
+> CONTEXT: Scripts/Vocab/55:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/64:21 < UNTRANSLATED
+"%sの%sが %s 減った！"
+> END STRING
+
+> BEGIN STRING
+"%sは%sを %s 奪われた！"
+> CONTEXT: Scripts/Vocab/56:21 < UNTRANSLATED
+"%sは%sを %s 奪われた！"
+> END STRING
+
+> BEGIN STRING
+"%sはダメージを受けていない！"
+> CONTEXT: Scripts/Vocab/57:21 < UNTRANSLATED
+"%sはダメージを受けていない！"
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sはダメージを受けていない！"
+> CONTEXT: Scripts/Vocab/58:21 < UNTRANSLATED
+"ミス！　%sはダメージを受けていない！"
+> END STRING
+
+> BEGIN STRING
+"%sに %s のダメージを与えた！"
+> CONTEXT: Scripts/Vocab/61:21 < UNTRANSLATED
+"%sに %s のダメージを与えた！"
+> END STRING
+
+> BEGIN STRING
+"%sの%sを %s 奪った！"
+> CONTEXT: Scripts/Vocab/65:21 < UNTRANSLATED
+"%sの%sを %s 奪った！"
+> END STRING
+
+> BEGIN STRING
+"%sにダメージを与えられない！"
+> CONTEXT: Scripts/Vocab/66:21 < UNTRANSLATED
+"%sにダメージを与えられない！"
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sにダメージを与えられない！"
+> CONTEXT: Scripts/Vocab/67:21 < UNTRANSLATED
+"ミス！　%sにダメージを与えられない！"
+> END STRING
+
+> BEGIN STRING
+"%sは攻撃をかわした！"
+> CONTEXT: Scripts/Vocab/70:21 < UNTRANSLATED
+"%sは攻撃をかわした！"
+> END STRING
+
+> BEGIN STRING
+"%sは魔法を打ち消した！"
+> CONTEXT: Scripts/Vocab/71:21 < UNTRANSLATED
+"%sは魔法を打ち消した！"
+> END STRING
+
+> BEGIN STRING
+"%sは魔法を跳ね返した！"
+> CONTEXT: Scripts/Vocab/72:21 < UNTRANSLATED
+"%sは魔法を跳ね返した！"
+> END STRING
+
+> BEGIN STRING
+"%sの反撃！"
+> CONTEXT: Scripts/Vocab/73:21 < UNTRANSLATED
+"%sの反撃！"
+> END STRING
+
+> BEGIN STRING
+"%sが%sをかばった！"
+> CONTEXT: Scripts/Vocab/74:21 < UNTRANSLATED
+"%sが%sをかばった！"
+> END STRING
+
+> BEGIN STRING
+"%sの%sが上がった！"
+> CONTEXT: Scripts/Vocab/77:21 < UNTRANSLATED
+"%sの%sが上がった！"
+> END STRING
+
+> BEGIN STRING
+"%sの%sが下がった！"
+> CONTEXT: Scripts/Vocab/78:21 < UNTRANSLATED
+"%sの%sが下がった！"
+> END STRING
+
+> BEGIN STRING
+"%sの%sが元に戻った！"
+> CONTEXT: Scripts/Vocab/79:21 < UNTRANSLATED
+"%sの%sが元に戻った！"
+> END STRING
+
+> BEGIN STRING
+"%sには効かなかった！"
+> CONTEXT: Scripts/Vocab/82:21 < UNTRANSLATED
+"%sには効かなかった！"
+> END STRING
+
+> BEGIN STRING
+"プレイヤーの初期位置が設定されていません。"
+> CONTEXT: Scripts/Vocab/85:21 < UNTRANSLATED
+"プレイヤーの初期位置が設定されていません。"
+> END STRING
+
+> BEGIN STRING
+"コモンイベントの呼び出しが上限を超えました。"
+> CONTEXT: Scripts/Vocab/86:21 < UNTRANSLATED
+"コモンイベントの呼び出しが上限を超えました。"
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Game_System/108:13 < UNTRANSLATED
+"%02d:%02d:%02d"
+> END STRING
+
+> BEGIN STRING
+"Data/Actors.rvdata2"
+> CONTEXT: Scripts/DataManager/37:37 < UNTRANSLATED
+"Data/Actors.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Classes.rvdata2"
+> CONTEXT: Scripts/DataManager/38:37 < UNTRANSLATED
+"Data/Classes.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Skills.rvdata2"
+> CONTEXT: Scripts/DataManager/39:37 < UNTRANSLATED
+"Data/Skills.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Items.rvdata2"
+> CONTEXT: Scripts/DataManager/40:37 < UNTRANSLATED
+"Data/Items.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Weapons.rvdata2"
+> CONTEXT: Scripts/DataManager/41:37 < UNTRANSLATED
+"Data/Weapons.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Armors.rvdata2"
+> CONTEXT: Scripts/DataManager/42:37 < UNTRANSLATED
+"Data/Armors.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Enemies.rvdata2"
+> CONTEXT: Scripts/DataManager/43:37 < UNTRANSLATED
+"Data/Enemies.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Troops.rvdata2"
+> CONTEXT: Scripts/DataManager/44:37 < UNTRANSLATED
+"Data/Troops.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/States.rvdata2"
+> CONTEXT: Scripts/DataManager/45:37 < UNTRANSLATED
+"Data/States.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Animations.rvdata2"
+> CONTEXT: Scripts/DataManager/46:37 < UNTRANSLATED
+"Data/Animations.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/Tilesets.rvdata2"
+> CONTEXT: Scripts/DataManager/47:37 < UNTRANSLATED
+"Data/Tilesets.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/CommonEvents.rvdata2"
+> CONTEXT: Scripts/DataManager/48:37 < UNTRANSLATED
+"Data/CommonEvents.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/System.rvdata2"
+> CONTEXT: Scripts/DataManager/49:37 < UNTRANSLATED
+"Data/System.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/MapInfos.rvdata2"
+> CONTEXT: Scripts/DataManager/50:37 < UNTRANSLATED
+"Data/MapInfos.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Actors.rvdata2"
+> CONTEXT: Scripts/DataManager/56:37 < UNTRANSLATED
+"Data/BT_Actors.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Classes.rvdata2"
+> CONTEXT: Scripts/DataManager/57:37 < UNTRANSLATED
+"Data/BT_Classes.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Skills.rvdata2"
+> CONTEXT: Scripts/DataManager/58:37 < UNTRANSLATED
+"Data/BT_Skills.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Items.rvdata2"
+> CONTEXT: Scripts/DataManager/59:37 < UNTRANSLATED
+"Data/BT_Items.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Weapons.rvdata2"
+> CONTEXT: Scripts/DataManager/60:37 < UNTRANSLATED
+"Data/BT_Weapons.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Armors.rvdata2"
+> CONTEXT: Scripts/DataManager/61:37 < UNTRANSLATED
+"Data/BT_Armors.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Enemies.rvdata2"
+> CONTEXT: Scripts/DataManager/62:37 < UNTRANSLATED
+"Data/BT_Enemies.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Troops.rvdata2"
+> CONTEXT: Scripts/DataManager/63:37 < UNTRANSLATED
+"Data/BT_Troops.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_States.rvdata2"
+> CONTEXT: Scripts/DataManager/64:37 < UNTRANSLATED
+"Data/BT_States.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Animations.rvdata2"
+> CONTEXT: Scripts/DataManager/65:37 < UNTRANSLATED
+"Data/BT_Animations.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Tilesets.rvdata2"
+> CONTEXT: Scripts/DataManager/66:37 < UNTRANSLATED
+"Data/BT_Tilesets.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_CommonEvents.rvdata2"
+> CONTEXT: Scripts/DataManager/67:37 < UNTRANSLATED
+"Data/BT_CommonEvents.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"Data/BT_System.rvdata2"
+> CONTEXT: Scripts/DataManager/68:37 < UNTRANSLATED
+"Data/BT_System.rvdata2"
+> END STRING
+
+> BEGIN STRING
+'Save*.rvdata2'
+> CONTEXT: Scripts/DataManager/119:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Save%02d.rvdata2"
+> CONTEXT: Scripts/DataManager/132:13 < UNTRANSLATED
+"Save%02d.rvdata2"
+> END STRING
+
+> BEGIN STRING
+"wb"
+> CONTEXT: Scripts/DataManager/161:37 < UNTRANSLATED
+"wb"
+> END STRING
+
+> BEGIN STRING
+"rb"
+> CONTEXT: Scripts/DataManager/173:37 < UNTRANSLATED
+> CONTEXT: Scripts/DataManager/185:37 < UNTRANSLATED
+"rb"
+> END STRING
+
+> BEGIN STRING
+""
+> CONTEXT: Scripts/Game_Message/40:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Message/99:19 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Picture/37:13 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Picture/116:13 < UNTRANSLATED
+> CONTEXT: Scripts/Game_ActionResult/142:7 < UNTRANSLATED
+> CONTEXT: Scripts/Game_ActionResult/156:7 < UNTRANSLATED
+> CONTEXT: Scripts/Game_BattlerBase/629:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler/46:21 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/28:15 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/71:42 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/159:17 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Party/131:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_CharacterBase/52:23 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Follower/23:57 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Event/243:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Player/39:54 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/243:26 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/250:26 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Help/27:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Help/34:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_EquipSlot/74:56 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/117:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/83:42 < UNTRANSLATED
+> CONTEXT: Scripts/Window_BattleLog/363:16 < UNTRANSLATED
+> CONTEXT: Scripts/Window_DebugRight/49:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_File/45:12 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/227:44 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/229:42 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/236:42 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/263:37 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/265:46 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/267:34 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/270:40 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/272:40 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/274:40 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/276:46 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/278:34 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/303:25 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/306:32 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/307:32 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/315:29 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/316:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/389:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/390:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/394:36 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/397:39 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/398:34 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/399:40 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/400:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/401:34 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/402:34 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/403:34 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/404:40 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/405:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/407:41 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/408:41 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/409:36 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/410:38 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/416:25 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/417:25 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/420:45 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/428:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/429:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/430:29 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/431:28 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/531:33 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/837:13 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/1024:35 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/1202:74 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/1217:23 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/1283:15 < UNTRANSLATED
+""
+> END STRING
+
+> BEGIN STRING
+"\\f"
+> CONTEXT: Scripts/Game_Message/93:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/262:10 < UNTRANSLATED
+"\\f"
+> END STRING
+
+> BEGIN STRING
+"\\n"
+> CONTEXT: Scripts/Game_Message/99:46 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1404:44 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1407:47 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/260:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/211:28 < UNTRANSLATED
+"\\n"
+> END STRING
+
+> BEGIN STRING
+'\\.'
+> CONTEXT: Scripts/BattleManager/225:25 < UNTRANSLATED
+> CONTEXT: Scripts/BattleManager/310:25 < UNTRANSLATED
+> CONTEXT: Scripts/BattleManager/319:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' A'
+> CONTEXT: Scripts/Game_Troop/12:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' B'
+> CONTEXT: Scripts/Game_Troop/12:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' C'
+> CONTEXT: Scripts/Game_Troop/12:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' D'
+> CONTEXT: Scripts/Game_Troop/12:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' E'
+> CONTEXT: Scripts/Game_Troop/12:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' F'
+> CONTEXT: Scripts/Game_Troop/12:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' G'
+> CONTEXT: Scripts/Game_Troop/12:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' H'
+> CONTEXT: Scripts/Game_Troop/12:59 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' I'
+> CONTEXT: Scripts/Game_Troop/12:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' J'
+> CONTEXT: Scripts/Game_Troop/12:69 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' K'
+> CONTEXT: Scripts/Game_Troop/13:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' L'
+> CONTEXT: Scripts/Game_Troop/13:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' M'
+> CONTEXT: Scripts/Game_Troop/13:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' N'
+> CONTEXT: Scripts/Game_Troop/13:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' O'
+> CONTEXT: Scripts/Game_Troop/13:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' P'
+> CONTEXT: Scripts/Game_Troop/13:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' Q'
+> CONTEXT: Scripts/Game_Troop/13:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' R'
+> CONTEXT: Scripts/Game_Troop/13:59 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' S'
+> CONTEXT: Scripts/Game_Troop/13:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' T'
+> CONTEXT: Scripts/Game_Troop/13:69 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' U'
+> CONTEXT: Scripts/Game_Troop/14:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' V'
+> CONTEXT: Scripts/Game_Troop/14:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' W'
+> CONTEXT: Scripts/Game_Troop/14:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' X'
+> CONTEXT: Scripts/Game_Troop/14:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' Y'
+> CONTEXT: Scripts/Game_Troop/14:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' Z'
+> CONTEXT: Scripts/Game_Troop/14:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ａ'
+> CONTEXT: Scripts/Game_Troop/15:24 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/50:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｂ'
+> CONTEXT: Scripts/Game_Troop/15:28 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/50:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｃ'
+> CONTEXT: Scripts/Game_Troop/15:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/50:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｄ'
+> CONTEXT: Scripts/Game_Troop/15:36 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/50:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｅ'
+> CONTEXT: Scripts/Game_Troop/15:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/50:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｆ'
+> CONTEXT: Scripts/Game_Troop/15:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｇ'
+> CONTEXT: Scripts/Game_Troop/15:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｈ'
+> CONTEXT: Scripts/Game_Troop/15:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｉ'
+> CONTEXT: Scripts/Game_Troop/15:56 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｊ'
+> CONTEXT: Scripts/Game_Troop/15:60 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｋ'
+> CONTEXT: Scripts/Game_Troop/16:24 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/52:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｌ'
+> CONTEXT: Scripts/Game_Troop/16:28 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/52:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｍ'
+> CONTEXT: Scripts/Game_Troop/16:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/52:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｎ'
+> CONTEXT: Scripts/Game_Troop/16:36 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/52:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｏ'
+> CONTEXT: Scripts/Game_Troop/16:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/52:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｐ'
+> CONTEXT: Scripts/Game_Troop/16:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｑ'
+> CONTEXT: Scripts/Game_Troop/16:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｒ'
+> CONTEXT: Scripts/Game_Troop/16:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｓ'
+> CONTEXT: Scripts/Game_Troop/16:56 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｔ'
+> CONTEXT: Scripts/Game_Troop/16:60 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｕ'
+> CONTEXT: Scripts/Game_Troop/17:24 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｖ'
+> CONTEXT: Scripts/Game_Troop/17:28 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｗ'
+> CONTEXT: Scripts/Game_Troop/17:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｘ'
+> CONTEXT: Scripts/Game_Troop/17:36 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｙ'
+> CONTEXT: Scripts/Game_Troop/17:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｚ'
+> CONTEXT: Scripts/Game_Troop/17:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Map%03d.rvdata2"
+> CONTEXT: Scripts/Game_Map/41:30 < UNTRANSLATED
+"Data/Map%03d.rvdata2"
+> END STRING
+
+> BEGIN STRING
+'!'
+> CONTEXT: Scripts/Game_CharacterBase/246:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:36 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/353:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/508:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/^[\\!\\$]./
+> CONTEXT: Scripts/Sprite_Character/88:28 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/390:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'$'
+> CONTEXT: Scripts/Sprite_Character/89:30 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/391:30 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/347:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/502:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Balloon"
+> CONTEXT: Scripts/Sprite_Character/155:43 < UNTRANSLATED
+"Balloon"
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d"
+> CONTEXT: Scripts/Sprite_Timer/61:13 < UNTRANSLATED
+"%02d:%02d"
+> END STRING
+
+> BEGIN STRING
+"Shadow"
+> CONTEXT: Scripts/Spriteset_Map/80:42 < UNTRANSLATED
+"Shadow"
+> END STRING
+
+> BEGIN STRING
+"Wasteland"
+> CONTEXT: Scripts/Spriteset_Battle/138:7 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/165:7 < UNTRANSLATED
+"Wasteland"
+> END STRING
+
+> BEGIN STRING
+"DirtField"
+> CONTEXT: Scripts/Spriteset_Battle/140:7 < UNTRANSLATED
+"DirtField"
+> END STRING
+
+> BEGIN STRING
+"Desert"
+> CONTEXT: Scripts/Spriteset_Battle/142:7 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/167:7 < UNTRANSLATED
+"Desert"
+> END STRING
+
+> BEGIN STRING
+"Lava1"
+> CONTEXT: Scripts/Spriteset_Battle/144:7 < UNTRANSLATED
+"Lava1"
+> END STRING
+
+> BEGIN STRING
+"Lava2"
+> CONTEXT: Scripts/Spriteset_Battle/146:7 < UNTRANSLATED
+"Lava2"
+> END STRING
+
+> BEGIN STRING
+"Snowfield"
+> CONTEXT: Scripts/Spriteset_Battle/148:7 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/171:7 < UNTRANSLATED
+"Snowfield"
+> END STRING
+
+> BEGIN STRING
+"Clouds"
+> CONTEXT: Scripts/Spriteset_Battle/150:7 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/173:7 < UNTRANSLATED
+"Clouds"
+> END STRING
+
+> BEGIN STRING
+"PoisonSwamp"
+> CONTEXT: Scripts/Spriteset_Battle/152:7 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/175:7 < UNTRANSLATED
+"PoisonSwamp"
+> END STRING
+
+> BEGIN STRING
+"Forest1"
+> CONTEXT: Scripts/Spriteset_Battle/161:7 < UNTRANSLATED
+"Forest1"
+> END STRING
+
+> BEGIN STRING
+"Cliff"
+> CONTEXT: Scripts/Spriteset_Battle/163:7 < UNTRANSLATED
+"Cliff"
+> END STRING
+
+> BEGIN STRING
+"Lava"
+> CONTEXT: Scripts/Spriteset_Battle/169:7 < UNTRANSLATED
+"Lava"
+> END STRING
+
+> BEGIN STRING
+"Grassland"
+> CONTEXT: Scripts/Spriteset_Battle/182:5 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/188:5 < UNTRANSLATED
+"Grassland"
+> END STRING
+
+> BEGIN STRING
+"Ship"
+> CONTEXT: Scripts/Spriteset_Battle/194:5 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/200:5 < UNTRANSLATED
+"Ship"
+> END STRING
+
+> BEGIN STRING
+"Window"
+> CONTEXT: Scripts/Window_Base/13:36 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/327:14 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/452:12 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/975:12 < UNTRANSLATED
+"Window"
+> END STRING
+
+> BEGIN STRING
+/\\\\/
+> CONTEXT: Scripts/Window_Base/229:18 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/210:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\e"
+> CONTEXT: Scripts/Window_Base/229:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/264:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/210:29 < UNTRANSLATED
+"\\e"
+> END STRING
+
+> BEGIN STRING
+/\\e\\e/
+> CONTEXT: Scripts/Window_Base/230:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\"
+> CONTEXT: Scripts/Window_Base/230:37 < UNTRANSLATED
+"\\\\"
+> END STRING
+
+> BEGIN STRING
+/\\eV\\[(\\d+)\\]/
+> CONTEXT: Scripts/Window_Base/231:18 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/232:18 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/374:18 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/375:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eN\\[(\\d+)\\]/
+> CONTEXT: Scripts/Window_Base/233:18 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/376:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eP\\[(\\d+)\\]/
+> CONTEXT: Scripts/Window_Base/234:18 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/377:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eG/
+> CONTEXT: Scripts/Window_Base/235:18 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/378:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/^[\\$\\.\\|\\^!\><\\{\\}\\\\]|^[A-Z]+/
+> CONTEXT: Scripts/Window_Base/295:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/^\\[\\d+\\]/
+> CONTEXT: Scripts/Window_Base/301:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\d+/
+> CONTEXT: Scripts/Window_Base/301:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'C'
+> CONTEXT: Scripts/Window_Base/309:10 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'I'
+> CONTEXT: Scripts/Window_Base/311:10 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'{'
+> CONTEXT: Scripts/Window_Base/313:10 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'}'
+> CONTEXT: Scripts/Window_Base/315:10 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/^.*$/
+> CONTEXT: Scripts/Window_Base/345:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[\\{\\}]/
+> CONTEXT: Scripts/Window_Base/345:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\e{"
+> CONTEXT: Scripts/Window_Base/346:35 < UNTRANSLATED
+"\\e{"
+> END STRING
+
+> BEGIN STRING
+"\\e}"
+> CONTEXT: Scripts/Window_Base/347:35 < UNTRANSLATED
+"\\e}"
+> END STRING
+
+> BEGIN STRING
+"Iconset"
+> CONTEXT: Scripts/Window_Base/370:27 < UNTRANSLATED
+"Iconset"
+> END STRING
+
+> BEGIN STRING
+"/"
+> CONTEXT: Scripts/Window_Base/487:46 < UNTRANSLATED
+"/"
+> END STRING
+
+> BEGIN STRING
+"command_\#{command.code}"
+> CONTEXT: Scripts/Game_Interpreter/195:19 < UNTRANSLATED
+"command_\#{command.code}"
+> END STRING
+
+> BEGIN STRING
+'Movies/'
+> CONTEXT: Scripts/Game_Interpreter/1043:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+":%2d"
+> CONTEXT: Scripts/Window_ItemList/101:29 < UNTRANSLATED
+":%2d"
+> END STRING
+
+> BEGIN STRING
+"→"
+> CONTEXT: Scripts/Window_EquipStatus/87:38 < UNTRANSLATED
+"→"
+> END STRING
+
+> BEGIN STRING
+" \#{@file_index + 1}"
+> CONTEXT: Scripts/Window_SaveFile/28:26 < UNTRANSLATED
+" \#{@file_index + 1}"
+> END STRING
+
+> BEGIN STRING
+"-------"
+> CONTEXT: Scripts/Window_Status/101:30 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Status/102:30 < UNTRANSLATED
+"-------"
+> END STRING
+
+> BEGIN STRING
+"×"
+> CONTEXT: Scripts/Window_ShopNumber/61:55 < UNTRANSLATED
+"×"
+> END STRING
+
+> BEGIN STRING
+"%+d"
+> CONTEXT: Scripts/Window_ShopStatus/86:29 < UNTRANSLATED
+"%+d"
+> END STRING
+
+> BEGIN STRING
+"あ"
+> CONTEXT: Scripts/Window_NameEdit/68:40 < UNTRANSLATED
+"あ"
+> END STRING
+
+> BEGIN STRING
+"A"
+> CONTEXT: Scripts/Window_NameEdit/68:46 < UNTRANSLATED
+"A"
+> END STRING
+
+> BEGIN STRING
+"%0*d"
+> CONTEXT: Scripts/Window_NumberInput/135:17 < UNTRANSLATED
+"%0*d"
+> END STRING
+
+> BEGIN STRING
+'A'
+> CONTEXT: Scripts/Window_NameInput/11:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'B'
+> CONTEXT: Scripts/Window_NameInput/11:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'D'
+> CONTEXT: Scripts/Window_NameInput/11:26 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/534:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'E'
+> CONTEXT: Scripts/Window_NameInput/11:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'a'
+> CONTEXT: Scripts/Window_NameInput/11:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'b'
+> CONTEXT: Scripts/Window_NameInput/11:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'c'
+> CONTEXT: Scripts/Window_NameInput/11:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'d'
+> CONTEXT: Scripts/Window_NameInput/11:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'e'
+> CONTEXT: Scripts/Window_NameInput/11:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'F'
+> CONTEXT: Scripts/Window_NameInput/12:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'G'
+> CONTEXT: Scripts/Window_NameInput/12:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'H'
+> CONTEXT: Scripts/Window_NameInput/12:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'J'
+> CONTEXT: Scripts/Window_NameInput/12:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'f'
+> CONTEXT: Scripts/Window_NameInput/12:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'g'
+> CONTEXT: Scripts/Window_NameInput/12:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'h'
+> CONTEXT: Scripts/Window_NameInput/12:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'i'
+> CONTEXT: Scripts/Window_NameInput/12:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'j'
+> CONTEXT: Scripts/Window_NameInput/12:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'K'
+> CONTEXT: Scripts/Window_NameInput/13:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'L'
+> CONTEXT: Scripts/Window_NameInput/13:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'M'
+> CONTEXT: Scripts/Window_NameInput/13:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'N'
+> CONTEXT: Scripts/Window_NameInput/13:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'O'
+> CONTEXT: Scripts/Window_NameInput/13:30 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/530:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'k'
+> CONTEXT: Scripts/Window_NameInput/13:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'l'
+> CONTEXT: Scripts/Window_NameInput/13:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'m'
+> CONTEXT: Scripts/Window_NameInput/13:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'n'
+> CONTEXT: Scripts/Window_NameInput/13:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'o'
+> CONTEXT: Scripts/Window_NameInput/13:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'P'
+> CONTEXT: Scripts/Window_NameInput/14:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Q'
+> CONTEXT: Scripts/Window_NameInput/14:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'R'
+> CONTEXT: Scripts/Window_NameInput/14:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'S'
+> CONTEXT: Scripts/Window_NameInput/14:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'T'
+> CONTEXT: Scripts/Window_NameInput/14:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'p'
+> CONTEXT: Scripts/Window_NameInput/14:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'q'
+> CONTEXT: Scripts/Window_NameInput/14:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'r'
+> CONTEXT: Scripts/Window_NameInput/14:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'s'
+> CONTEXT: Scripts/Window_NameInput/14:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'t'
+> CONTEXT: Scripts/Window_NameInput/14:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'U'
+> CONTEXT: Scripts/Window_NameInput/15:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'V'
+> CONTEXT: Scripts/Window_NameInput/15:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'W'
+> CONTEXT: Scripts/Window_NameInput/15:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'X'
+> CONTEXT: Scripts/Window_NameInput/15:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Y'
+> CONTEXT: Scripts/Window_NameInput/15:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'u'
+> CONTEXT: Scripts/Window_NameInput/15:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'v'
+> CONTEXT: Scripts/Window_NameInput/15:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'w'
+> CONTEXT: Scripts/Window_NameInput/15:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'x'
+> CONTEXT: Scripts/Window_NameInput/15:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'y'
+> CONTEXT: Scripts/Window_NameInput/15:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Z'
+> CONTEXT: Scripts/Window_NameInput/16:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'['
+> CONTEXT: Scripts/Window_NameInput/16:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+']'
+> CONTEXT: Scripts/Window_NameInput/16:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'^'
+> CONTEXT: Scripts/Window_NameInput/16:26 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/359:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/514:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'_'
+> CONTEXT: Scripts/Window_NameInput/16:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'z'
+> CONTEXT: Scripts/Window_NameInput/16:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'|'
+> CONTEXT: Scripts/Window_NameInput/16:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/351:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/506:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'~'
+> CONTEXT: Scripts/Window_NameInput/16:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'0'
+> CONTEXT: Scripts/Window_NameInput/17:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'1'
+> CONTEXT: Scripts/Window_NameInput/17:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'2'
+> CONTEXT: Scripts/Window_NameInput/17:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'3'
+> CONTEXT: Scripts/Window_NameInput/17:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'4'
+> CONTEXT: Scripts/Window_NameInput/17:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'\#'
+> CONTEXT: Scripts/Window_NameInput/17:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'%'
+> CONTEXT: Scripts/Window_NameInput/17:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'&'
+> CONTEXT: Scripts/Window_NameInput/17:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'5'
+> CONTEXT: Scripts/Window_NameInput/18:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'6'
+> CONTEXT: Scripts/Window_NameInput/18:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'7'
+> CONTEXT: Scripts/Window_NameInput/18:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'8'
+> CONTEXT: Scripts/Window_NameInput/18:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'9'
+> CONTEXT: Scripts/Window_NameInput/18:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'('
+> CONTEXT: Scripts/Window_NameInput/18:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+')'
+> CONTEXT: Scripts/Window_NameInput/18:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'*'
+> CONTEXT: Scripts/Window_NameInput/18:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'+'
+> CONTEXT: Scripts/Window_NameInput/18:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'-'
+> CONTEXT: Scripts/Window_NameInput/18:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'/'
+> CONTEXT: Scripts/Window_NameInput/19:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'='
+> CONTEXT: Scripts/Window_NameInput/19:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'@'
+> CONTEXT: Scripts/Window_NameInput/19:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'<'
+> CONTEXT: Scripts/Window_NameInput/19:26 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/357:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/512:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'\>'
+> CONTEXT: Scripts/Window_NameInput/19:30 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/355:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/510:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+':'
+> CONTEXT: Scripts/Window_NameInput/19:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+';'
+> CONTEXT: Scripts/Window_NameInput/19:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' '
+> CONTEXT: Scripts/Window_NameInput/19:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Page'
+> CONTEXT: Scripts/Window_NameInput/19:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'OK'
+> CONTEXT: Scripts/Window_NameInput/19:55 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Á'
+> CONTEXT: Scripts/Window_NameInput/20:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'É'
+> CONTEXT: Scripts/Window_NameInput/20:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Í'
+> CONTEXT: Scripts/Window_NameInput/20:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ó'
+> CONTEXT: Scripts/Window_NameInput/20:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ú'
+> CONTEXT: Scripts/Window_NameInput/20:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'á'
+> CONTEXT: Scripts/Window_NameInput/20:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'é'
+> CONTEXT: Scripts/Window_NameInput/20:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'í'
+> CONTEXT: Scripts/Window_NameInput/20:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ó'
+> CONTEXT: Scripts/Window_NameInput/20:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ú'
+> CONTEXT: Scripts/Window_NameInput/20:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'À'
+> CONTEXT: Scripts/Window_NameInput/21:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'È'
+> CONTEXT: Scripts/Window_NameInput/21:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ì'
+> CONTEXT: Scripts/Window_NameInput/21:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ò'
+> CONTEXT: Scripts/Window_NameInput/21:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ù'
+> CONTEXT: Scripts/Window_NameInput/21:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'à'
+> CONTEXT: Scripts/Window_NameInput/21:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'è'
+> CONTEXT: Scripts/Window_NameInput/21:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ì'
+> CONTEXT: Scripts/Window_NameInput/21:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ò'
+> CONTEXT: Scripts/Window_NameInput/21:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ù'
+> CONTEXT: Scripts/Window_NameInput/21:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Â'
+> CONTEXT: Scripts/Window_NameInput/22:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ê'
+> CONTEXT: Scripts/Window_NameInput/22:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Î'
+> CONTEXT: Scripts/Window_NameInput/22:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ô'
+> CONTEXT: Scripts/Window_NameInput/22:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Û'
+> CONTEXT: Scripts/Window_NameInput/22:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'â'
+> CONTEXT: Scripts/Window_NameInput/22:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ê'
+> CONTEXT: Scripts/Window_NameInput/22:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'î'
+> CONTEXT: Scripts/Window_NameInput/22:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ô'
+> CONTEXT: Scripts/Window_NameInput/22:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'û'
+> CONTEXT: Scripts/Window_NameInput/22:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ä'
+> CONTEXT: Scripts/Window_NameInput/23:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ë'
+> CONTEXT: Scripts/Window_NameInput/23:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ï'
+> CONTEXT: Scripts/Window_NameInput/23:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ö'
+> CONTEXT: Scripts/Window_NameInput/23:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ü'
+> CONTEXT: Scripts/Window_NameInput/23:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ä'
+> CONTEXT: Scripts/Window_NameInput/23:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ë'
+> CONTEXT: Scripts/Window_NameInput/23:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ï'
+> CONTEXT: Scripts/Window_NameInput/23:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ö'
+> CONTEXT: Scripts/Window_NameInput/23:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ü'
+> CONTEXT: Scripts/Window_NameInput/23:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ā'
+> CONTEXT: Scripts/Window_NameInput/24:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ē'
+> CONTEXT: Scripts/Window_NameInput/24:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ī'
+> CONTEXT: Scripts/Window_NameInput/24:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ō'
+> CONTEXT: Scripts/Window_NameInput/24:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ū'
+> CONTEXT: Scripts/Window_NameInput/24:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ā'
+> CONTEXT: Scripts/Window_NameInput/24:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ē'
+> CONTEXT: Scripts/Window_NameInput/24:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ī'
+> CONTEXT: Scripts/Window_NameInput/24:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ō'
+> CONTEXT: Scripts/Window_NameInput/24:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ū'
+> CONTEXT: Scripts/Window_NameInput/24:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ã'
+> CONTEXT: Scripts/Window_NameInput/25:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Å'
+> CONTEXT: Scripts/Window_NameInput/25:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Æ'
+> CONTEXT: Scripts/Window_NameInput/25:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ç'
+> CONTEXT: Scripts/Window_NameInput/25:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ð'
+> CONTEXT: Scripts/Window_NameInput/25:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ã'
+> CONTEXT: Scripts/Window_NameInput/25:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'å'
+> CONTEXT: Scripts/Window_NameInput/25:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'æ'
+> CONTEXT: Scripts/Window_NameInput/25:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ç'
+> CONTEXT: Scripts/Window_NameInput/25:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ð'
+> CONTEXT: Scripts/Window_NameInput/25:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ñ'
+> CONTEXT: Scripts/Window_NameInput/26:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Õ'
+> CONTEXT: Scripts/Window_NameInput/26:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ø'
+> CONTEXT: Scripts/Window_NameInput/26:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Š'
+> CONTEXT: Scripts/Window_NameInput/26:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ŵ'
+> CONTEXT: Scripts/Window_NameInput/26:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ñ'
+> CONTEXT: Scripts/Window_NameInput/26:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'õ'
+> CONTEXT: Scripts/Window_NameInput/26:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ø'
+> CONTEXT: Scripts/Window_NameInput/26:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'š'
+> CONTEXT: Scripts/Window_NameInput/26:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ŵ'
+> CONTEXT: Scripts/Window_NameInput/26:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ý'
+> CONTEXT: Scripts/Window_NameInput/27:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ŷ'
+> CONTEXT: Scripts/Window_NameInput/27:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ÿ'
+> CONTEXT: Scripts/Window_NameInput/27:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ž'
+> CONTEXT: Scripts/Window_NameInput/27:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Þ'
+> CONTEXT: Scripts/Window_NameInput/27:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ý'
+> CONTEXT: Scripts/Window_NameInput/27:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ÿ'
+> CONTEXT: Scripts/Window_NameInput/27:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ŷ'
+> CONTEXT: Scripts/Window_NameInput/27:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ž'
+> CONTEXT: Scripts/Window_NameInput/27:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'þ'
+> CONTEXT: Scripts/Window_NameInput/27:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ĳ'
+> CONTEXT: Scripts/Window_NameInput/28:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Œ'
+> CONTEXT: Scripts/Window_NameInput/28:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ĳ'
+> CONTEXT: Scripts/Window_NameInput/28:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'œ'
+> CONTEXT: Scripts/Window_NameInput/28:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ß'
+> CONTEXT: Scripts/Window_NameInput/28:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'«'
+> CONTEXT: Scripts/Window_NameInput/28:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'»'
+> CONTEXT: Scripts/Window_NameInput/28:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'あ'
+> CONTEXT: Scripts/Window_NameInput/32:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'い'
+> CONTEXT: Scripts/Window_NameInput/32:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'う'
+> CONTEXT: Scripts/Window_NameInput/32:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'え'
+> CONTEXT: Scripts/Window_NameInput/32:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'お'
+> CONTEXT: Scripts/Window_NameInput/32:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'が'
+> CONTEXT: Scripts/Window_NameInput/32:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぎ'
+> CONTEXT: Scripts/Window_NameInput/32:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぐ'
+> CONTEXT: Scripts/Window_NameInput/32:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'げ'
+> CONTEXT: Scripts/Window_NameInput/32:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ご'
+> CONTEXT: Scripts/Window_NameInput/32:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'か'
+> CONTEXT: Scripts/Window_NameInput/33:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'き'
+> CONTEXT: Scripts/Window_NameInput/33:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'く'
+> CONTEXT: Scripts/Window_NameInput/33:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'け'
+> CONTEXT: Scripts/Window_NameInput/33:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'こ'
+> CONTEXT: Scripts/Window_NameInput/33:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ざ'
+> CONTEXT: Scripts/Window_NameInput/33:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'じ'
+> CONTEXT: Scripts/Window_NameInput/33:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ず'
+> CONTEXT: Scripts/Window_NameInput/33:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぜ'
+> CONTEXT: Scripts/Window_NameInput/33:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぞ'
+> CONTEXT: Scripts/Window_NameInput/33:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'さ'
+> CONTEXT: Scripts/Window_NameInput/34:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'し'
+> CONTEXT: Scripts/Window_NameInput/34:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'す'
+> CONTEXT: Scripts/Window_NameInput/34:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'せ'
+> CONTEXT: Scripts/Window_NameInput/34:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'そ'
+> CONTEXT: Scripts/Window_NameInput/34:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'だ'
+> CONTEXT: Scripts/Window_NameInput/34:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぢ'
+> CONTEXT: Scripts/Window_NameInput/34:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'づ'
+> CONTEXT: Scripts/Window_NameInput/34:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'で'
+> CONTEXT: Scripts/Window_NameInput/34:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ど'
+> CONTEXT: Scripts/Window_NameInput/34:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'た'
+> CONTEXT: Scripts/Window_NameInput/35:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ち'
+> CONTEXT: Scripts/Window_NameInput/35:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'つ'
+> CONTEXT: Scripts/Window_NameInput/35:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'て'
+> CONTEXT: Scripts/Window_NameInput/35:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'と'
+> CONTEXT: Scripts/Window_NameInput/35:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ば'
+> CONTEXT: Scripts/Window_NameInput/35:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'び'
+> CONTEXT: Scripts/Window_NameInput/35:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぶ'
+> CONTEXT: Scripts/Window_NameInput/35:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'べ'
+> CONTEXT: Scripts/Window_NameInput/35:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぼ'
+> CONTEXT: Scripts/Window_NameInput/35:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'な'
+> CONTEXT: Scripts/Window_NameInput/36:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'に'
+> CONTEXT: Scripts/Window_NameInput/36:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぬ'
+> CONTEXT: Scripts/Window_NameInput/36:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ね'
+> CONTEXT: Scripts/Window_NameInput/36:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'の'
+> CONTEXT: Scripts/Window_NameInput/36:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぱ'
+> CONTEXT: Scripts/Window_NameInput/36:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぴ'
+> CONTEXT: Scripts/Window_NameInput/36:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぷ'
+> CONTEXT: Scripts/Window_NameInput/36:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぺ'
+> CONTEXT: Scripts/Window_NameInput/36:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぽ'
+> CONTEXT: Scripts/Window_NameInput/36:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'は'
+> CONTEXT: Scripts/Window_NameInput/37:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ひ'
+> CONTEXT: Scripts/Window_NameInput/37:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ふ'
+> CONTEXT: Scripts/Window_NameInput/37:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'へ'
+> CONTEXT: Scripts/Window_NameInput/37:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ほ'
+> CONTEXT: Scripts/Window_NameInput/37:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぁ'
+> CONTEXT: Scripts/Window_NameInput/37:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぃ'
+> CONTEXT: Scripts/Window_NameInput/37:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぅ'
+> CONTEXT: Scripts/Window_NameInput/37:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぇ'
+> CONTEXT: Scripts/Window_NameInput/37:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぉ'
+> CONTEXT: Scripts/Window_NameInput/37:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ま'
+> CONTEXT: Scripts/Window_NameInput/38:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'み'
+> CONTEXT: Scripts/Window_NameInput/38:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'む'
+> CONTEXT: Scripts/Window_NameInput/38:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'め'
+> CONTEXT: Scripts/Window_NameInput/38:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'も'
+> CONTEXT: Scripts/Window_NameInput/38:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'っ'
+> CONTEXT: Scripts/Window_NameInput/38:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゃ'
+> CONTEXT: Scripts/Window_NameInput/38:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゅ'
+> CONTEXT: Scripts/Window_NameInput/38:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ょ'
+> CONTEXT: Scripts/Window_NameInput/38:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゎ'
+> CONTEXT: Scripts/Window_NameInput/38:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'や'
+> CONTEXT: Scripts/Window_NameInput/39:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゆ'
+> CONTEXT: Scripts/Window_NameInput/39:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'よ'
+> CONTEXT: Scripts/Window_NameInput/39:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'わ'
+> CONTEXT: Scripts/Window_NameInput/39:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ん'
+> CONTEXT: Scripts/Window_NameInput/39:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ー'
+> CONTEXT: Scripts/Window_NameInput/39:36 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/48:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'～'
+> CONTEXT: Scripts/Window_NameInput/39:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/48:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'・'
+> CONTEXT: Scripts/Window_NameInput/39:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/48:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＝'
+> CONTEXT: Scripts/Window_NameInput/39:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/48:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/58:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'☆'
+> CONTEXT: Scripts/Window_NameInput/39:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/48:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ら'
+> CONTEXT: Scripts/Window_NameInput/40:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'り'
+> CONTEXT: Scripts/Window_NameInput/40:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'る'
+> CONTEXT: Scripts/Window_NameInput/40:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'れ'
+> CONTEXT: Scripts/Window_NameInput/40:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ろ'
+> CONTEXT: Scripts/Window_NameInput/40:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゔ'
+> CONTEXT: Scripts/Window_NameInput/40:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'を'
+> CONTEXT: Scripts/Window_NameInput/40:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'　'
+> CONTEXT: Scripts/Window_NameInput/40:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/49:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/58:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'カナ'
+> CONTEXT: Scripts/Window_NameInput/40:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'決定'
+> CONTEXT: Scripts/Window_NameInput/40:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/49:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/58:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ア'
+> CONTEXT: Scripts/Window_NameInput/41:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'イ'
+> CONTEXT: Scripts/Window_NameInput/41:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ウ'
+> CONTEXT: Scripts/Window_NameInput/41:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'エ'
+> CONTEXT: Scripts/Window_NameInput/41:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'オ'
+> CONTEXT: Scripts/Window_NameInput/41:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ガ'
+> CONTEXT: Scripts/Window_NameInput/41:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ギ'
+> CONTEXT: Scripts/Window_NameInput/41:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'グ'
+> CONTEXT: Scripts/Window_NameInput/41:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゲ'
+> CONTEXT: Scripts/Window_NameInput/41:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゴ'
+> CONTEXT: Scripts/Window_NameInput/41:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'カ'
+> CONTEXT: Scripts/Window_NameInput/42:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'キ'
+> CONTEXT: Scripts/Window_NameInput/42:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ク'
+> CONTEXT: Scripts/Window_NameInput/42:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ケ'
+> CONTEXT: Scripts/Window_NameInput/42:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'コ'
+> CONTEXT: Scripts/Window_NameInput/42:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ザ'
+> CONTEXT: Scripts/Window_NameInput/42:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ジ'
+> CONTEXT: Scripts/Window_NameInput/42:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ズ'
+> CONTEXT: Scripts/Window_NameInput/42:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゼ'
+> CONTEXT: Scripts/Window_NameInput/42:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゾ'
+> CONTEXT: Scripts/Window_NameInput/42:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'サ'
+> CONTEXT: Scripts/Window_NameInput/43:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'シ'
+> CONTEXT: Scripts/Window_NameInput/43:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ス'
+> CONTEXT: Scripts/Window_NameInput/43:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'セ'
+> CONTEXT: Scripts/Window_NameInput/43:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ソ'
+> CONTEXT: Scripts/Window_NameInput/43:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ダ'
+> CONTEXT: Scripts/Window_NameInput/43:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヂ'
+> CONTEXT: Scripts/Window_NameInput/43:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヅ'
+> CONTEXT: Scripts/Window_NameInput/43:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'デ'
+> CONTEXT: Scripts/Window_NameInput/43:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ド'
+> CONTEXT: Scripts/Window_NameInput/43:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'タ'
+> CONTEXT: Scripts/Window_NameInput/44:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'チ'
+> CONTEXT: Scripts/Window_NameInput/44:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ツ'
+> CONTEXT: Scripts/Window_NameInput/44:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'テ'
+> CONTEXT: Scripts/Window_NameInput/44:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ト'
+> CONTEXT: Scripts/Window_NameInput/44:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'バ'
+> CONTEXT: Scripts/Window_NameInput/44:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ビ'
+> CONTEXT: Scripts/Window_NameInput/44:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ブ'
+> CONTEXT: Scripts/Window_NameInput/44:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ベ'
+> CONTEXT: Scripts/Window_NameInput/44:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ボ'
+> CONTEXT: Scripts/Window_NameInput/44:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ナ'
+> CONTEXT: Scripts/Window_NameInput/45:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ニ'
+> CONTEXT: Scripts/Window_NameInput/45:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヌ'
+> CONTEXT: Scripts/Window_NameInput/45:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ネ'
+> CONTEXT: Scripts/Window_NameInput/45:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ノ'
+> CONTEXT: Scripts/Window_NameInput/45:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'パ'
+> CONTEXT: Scripts/Window_NameInput/45:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ピ'
+> CONTEXT: Scripts/Window_NameInput/45:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'プ'
+> CONTEXT: Scripts/Window_NameInput/45:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ペ'
+> CONTEXT: Scripts/Window_NameInput/45:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ポ'
+> CONTEXT: Scripts/Window_NameInput/45:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ハ'
+> CONTEXT: Scripts/Window_NameInput/46:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヒ'
+> CONTEXT: Scripts/Window_NameInput/46:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'フ'
+> CONTEXT: Scripts/Window_NameInput/46:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヘ'
+> CONTEXT: Scripts/Window_NameInput/46:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ホ'
+> CONTEXT: Scripts/Window_NameInput/46:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ァ'
+> CONTEXT: Scripts/Window_NameInput/46:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ィ'
+> CONTEXT: Scripts/Window_NameInput/46:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゥ'
+> CONTEXT: Scripts/Window_NameInput/46:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ェ'
+> CONTEXT: Scripts/Window_NameInput/46:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ォ'
+> CONTEXT: Scripts/Window_NameInput/46:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'マ'
+> CONTEXT: Scripts/Window_NameInput/47:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ミ'
+> CONTEXT: Scripts/Window_NameInput/47:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ム'
+> CONTEXT: Scripts/Window_NameInput/47:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'メ'
+> CONTEXT: Scripts/Window_NameInput/47:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'モ'
+> CONTEXT: Scripts/Window_NameInput/47:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ッ'
+> CONTEXT: Scripts/Window_NameInput/47:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ャ'
+> CONTEXT: Scripts/Window_NameInput/47:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ュ'
+> CONTEXT: Scripts/Window_NameInput/47:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ョ'
+> CONTEXT: Scripts/Window_NameInput/47:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヮ'
+> CONTEXT: Scripts/Window_NameInput/47:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヤ'
+> CONTEXT: Scripts/Window_NameInput/48:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ユ'
+> CONTEXT: Scripts/Window_NameInput/48:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヨ'
+> CONTEXT: Scripts/Window_NameInput/48:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ワ'
+> CONTEXT: Scripts/Window_NameInput/48:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ン'
+> CONTEXT: Scripts/Window_NameInput/48:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ラ'
+> CONTEXT: Scripts/Window_NameInput/49:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'リ'
+> CONTEXT: Scripts/Window_NameInput/49:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ル'
+> CONTEXT: Scripts/Window_NameInput/49:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'レ'
+> CONTEXT: Scripts/Window_NameInput/49:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ロ'
+> CONTEXT: Scripts/Window_NameInput/49:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヴ'
+> CONTEXT: Scripts/Window_NameInput/49:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヲ'
+> CONTEXT: Scripts/Window_NameInput/49:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'英数'
+> CONTEXT: Scripts/Window_NameInput/49:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ａ'
+> CONTEXT: Scripts/Window_NameInput/50:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｂ'
+> CONTEXT: Scripts/Window_NameInput/50:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｃ'
+> CONTEXT: Scripts/Window_NameInput/50:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｄ'
+> CONTEXT: Scripts/Window_NameInput/50:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｅ'
+> CONTEXT: Scripts/Window_NameInput/50:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｆ'
+> CONTEXT: Scripts/Window_NameInput/51:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｇ'
+> CONTEXT: Scripts/Window_NameInput/51:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｈ'
+> CONTEXT: Scripts/Window_NameInput/51:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｉ'
+> CONTEXT: Scripts/Window_NameInput/51:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｊ'
+> CONTEXT: Scripts/Window_NameInput/51:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｋ'
+> CONTEXT: Scripts/Window_NameInput/52:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｌ'
+> CONTEXT: Scripts/Window_NameInput/52:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｍ'
+> CONTEXT: Scripts/Window_NameInput/52:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｎ'
+> CONTEXT: Scripts/Window_NameInput/52:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｏ'
+> CONTEXT: Scripts/Window_NameInput/52:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｐ'
+> CONTEXT: Scripts/Window_NameInput/53:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｑ'
+> CONTEXT: Scripts/Window_NameInput/53:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｒ'
+> CONTEXT: Scripts/Window_NameInput/53:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｓ'
+> CONTEXT: Scripts/Window_NameInput/53:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｔ'
+> CONTEXT: Scripts/Window_NameInput/53:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｕ'
+> CONTEXT: Scripts/Window_NameInput/54:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｖ'
+> CONTEXT: Scripts/Window_NameInput/54:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｗ'
+> CONTEXT: Scripts/Window_NameInput/54:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｘ'
+> CONTEXT: Scripts/Window_NameInput/54:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｙ'
+> CONTEXT: Scripts/Window_NameInput/54:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'［'
+> CONTEXT: Scripts/Window_NameInput/55:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'］'
+> CONTEXT: Scripts/Window_NameInput/55:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＾'
+> CONTEXT: Scripts/Window_NameInput/55:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＿'
+> CONTEXT: Scripts/Window_NameInput/55:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ｚ'
+> CONTEXT: Scripts/Window_NameInput/55:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'｛'
+> CONTEXT: Scripts/Window_NameInput/55:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'｝'
+> CONTEXT: Scripts/Window_NameInput/55:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'｜'
+> CONTEXT: Scripts/Window_NameInput/55:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'０'
+> CONTEXT: Scripts/Window_NameInput/56:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'１'
+> CONTEXT: Scripts/Window_NameInput/56:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'２'
+> CONTEXT: Scripts/Window_NameInput/56:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'３'
+> CONTEXT: Scripts/Window_NameInput/56:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'４'
+> CONTEXT: Scripts/Window_NameInput/56:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'！'
+> CONTEXT: Scripts/Window_NameInput/56:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＃'
+> CONTEXT: Scripts/Window_NameInput/56:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＄'
+> CONTEXT: Scripts/Window_NameInput/56:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'％'
+> CONTEXT: Scripts/Window_NameInput/56:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＆'
+> CONTEXT: Scripts/Window_NameInput/56:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'５'
+> CONTEXT: Scripts/Window_NameInput/57:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'６'
+> CONTEXT: Scripts/Window_NameInput/57:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'７'
+> CONTEXT: Scripts/Window_NameInput/57:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'８'
+> CONTEXT: Scripts/Window_NameInput/57:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'９'
+> CONTEXT: Scripts/Window_NameInput/57:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'（'
+> CONTEXT: Scripts/Window_NameInput/57:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'）'
+> CONTEXT: Scripts/Window_NameInput/57:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＊'
+> CONTEXT: Scripts/Window_NameInput/57:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＋'
+> CONTEXT: Scripts/Window_NameInput/57:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'－'
+> CONTEXT: Scripts/Window_NameInput/57:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'／'
+> CONTEXT: Scripts/Window_NameInput/58:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＠'
+> CONTEXT: Scripts/Window_NameInput/58:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＜'
+> CONTEXT: Scripts/Window_NameInput/58:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＞'
+> CONTEXT: Scripts/Window_NameInput/58:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'：'
+> CONTEXT: Scripts/Window_NameInput/58:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'；'
+> CONTEXT: Scripts/Window_NameInput/58:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'かな'
+> CONTEXT: Scripts/Window_NameInput/58:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/^\\n/
+> CONTEXT: Scripts/Window_Message/328:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'.'
+> CONTEXT: Scripts/Window_Message/349:10 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/504:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"S [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/82:22 < UNTRANSLATED
+"S [%04d-%04d]"
+> END STRING
+
+> BEGIN STRING
+"V [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/85:22 < UNTRANSLATED
+"V [%04d-%04d]"
+> END STRING
+
+> BEGIN STRING
+"%04d:"
+> CONTEXT: Scripts/Window_DebugRight/40:23 < UNTRANSLATED
+"%04d:"
+> END STRING
+
+> BEGIN STRING
+"[ON]"
+> CONTEXT: Scripts/Window_DebugRight/44:42 < UNTRANSLATED
+"[ON]"
+> END STRING
+
+> BEGIN STRING
+"[OFF]"
+> CONTEXT: Scripts/Window_DebugRight/44:51 < UNTRANSLATED
+"[OFF]"
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/BattleStart"
+> CONTEXT: Scripts/Scene_Map/254:29 < UNTRANSLATED
+"Graphics/System/BattleStart"
+> END STRING
+
+> BEGIN STRING
+"C (Enter) : ON / OFF"
+> CONTEXT: Scripts/Scene_Debug/79:7 < UNTRANSLATED
+"C (Enter) : ON / OFF"
+> END STRING
+
+> BEGIN STRING
+"← (Left)    :  -1\\n"
+> CONTEXT: Scripts/Scene_Debug/81:7 < UNTRANSLATED
+"← (Left)    :  -1\\n"
+> END STRING
+
+> BEGIN STRING
+"→ (Right)   :  +1\\n"
+> CONTEXT: Scripts/Scene_Debug/82:7 < UNTRANSLATED
+"→ (Right)   :  +1\\n"
+> END STRING
+
+> BEGIN STRING
+"L (Pageup)   : -10\\n"
+> CONTEXT: Scripts/Scene_Debug/83:7 < UNTRANSLATED
+"L (Pageup)   : -10\\n"
+> END STRING
+
+> BEGIN STRING
+"R (Pagedown) : +10"
+> CONTEXT: Scripts/Scene_Debug/84:7 < UNTRANSLATED
+"R (Pagedown) : +10"
+> END STRING
+
+> BEGIN STRING
+"GameOver"
+> CONTEXT: Scripts/Scene_Gameover/57:35 < UNTRANSLATED
+> CONTEXT: Scripts/画面サイズ/157:35 < UNTRANSLATED
+"GameOver"
+> END STRING
+
+> BEGIN STRING
+"TOMOChoiceListBack"
+> CONTEXT: Scripts/選択肢の背景同期/15:11 < UNTRANSLATED
+"TOMOChoiceListBack"
+> END STRING
+
+> BEGIN STRING
+//
+> CONTEXT: Scripts/選択肢の拡張/8:14 < UNTRANSLATED
+> CONTEXT: Scripts/選択肢の拡張/52:8 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/7:24 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/82:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/rgss3/
+> CONTEXT: Scripts/選択肢の拡張/52:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"選択肢ヘルプ"
+> CONTEXT: Scripts/選択肢の拡張/80:10 < UNTRANSLATED
+"選択肢ヘルプ"
+> END STRING
+
+> BEGIN STRING
+/\\s*en\\((.+)\\)/
+> CONTEXT: Scripts/選択肢の拡張/138:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\s*if\\((.+)\\)/
+> CONTEXT: Scripts/選択肢の拡張/155:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"以下の条件判定でエラーが出ました。\\n\\n"
+> CONTEXT: Scripts/選択肢の拡張/186:14 < UNTRANSLATED
+"以下の条件判定でエラーが出ました。\\n\\n"
+> END STRING
+
+> BEGIN STRING
+/選択肢位置\\((\\d+),\\s*(\\d+),?\\s*(\\d*)\\)/
+> CONTEXT: Scripts/選択肢の拡張/210:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\hold/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/227:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\info/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/229:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\_(.*?)\\x00/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/231:9 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/233:18 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/392:9 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/394:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Nn]ame\\[(.*?)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/236:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Hh]\\[-1\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/263:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Hh]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/265:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Hh]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/267:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Tt]\\[-1\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/270:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Tt]\\[-2\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/272:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Tt]\\[-3\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/274:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Tt]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/276:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Tt]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/278:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\[Ss]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/286:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eS[\#{$1}]"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/286:41 < UNTRANSLATED
+"\\eS[\#{$1}]"
+> END STRING
+
+> BEGIN STRING
+/\\\\[Oo]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/287:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eO[\#{$1}]"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/287:41 < UNTRANSLATED
+"\\eO[\#{$1}]"
+> END STRING
+
+> BEGIN STRING
+/\\\\last_holder/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/288:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\e18"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/288:36 < UNTRANSLATED
+"\\e18"
+> END STRING
+
+> BEGIN STRING
+/\\\\last_material/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/289:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\e19"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/289:38 < UNTRANSLATED
+"\\e19"
+> END STRING
+
+> BEGIN STRING
+/\\\\B/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/290:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eB"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/290:25 < UNTRANSLATED
+"\\eB"
+> END STRING
+
+> BEGIN STRING
+/\\\\D/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/291:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eD"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/291:25 < UNTRANSLATED
+"\\eD"
+> END STRING
+
+> BEGIN STRING
+"\\x01"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:12 < UNTRANSLATED
+"\\x01"
+> END STRING
+
+> BEGIN STRING
+"\\x02"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:19 < UNTRANSLATED
+"\\x02"
+> END STRING
+
+> BEGIN STRING
+"\\x03"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:26 < UNTRANSLATED
+"\\x03"
+> END STRING
+
+> BEGIN STRING
+"\\x04"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:33 < UNTRANSLATED
+"\\x04"
+> END STRING
+
+> BEGIN STRING
+"\\x05"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:40 < UNTRANSLATED
+"\\x05"
+> END STRING
+
+> BEGIN STRING
+"\\x06"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:47 < UNTRANSLATED
+"\\x06"
+> END STRING
+
+> BEGIN STRING
+"\\x07"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:54 < UNTRANSLATED
+"\\x07"
+> END STRING
+
+> BEGIN STRING
+"\\x08"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/295:61 < UNTRANSLATED
+"\\x08"
+> END STRING
+
+> BEGIN STRING
+/\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/296:7 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/531:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x11"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:7 < UNTRANSLATED
+"\\x11"
+> END STRING
+
+> BEGIN STRING
+"\\x12"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:14 < UNTRANSLATED
+"\\x12"
+> END STRING
+
+> BEGIN STRING
+"\\x13"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:21 < UNTRANSLATED
+"\\x13"
+> END STRING
+
+> BEGIN STRING
+"\\x14"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:28 < UNTRANSLATED
+"\\x14"
+> END STRING
+
+> BEGIN STRING
+"\\x15"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:36 < UNTRANSLATED
+"\\x15"
+> END STRING
+
+> BEGIN STRING
+"\\x16"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:44 < UNTRANSLATED
+"\\x16"
+> END STRING
+
+> BEGIN STRING
+"\\x17"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:52 < UNTRANSLATED
+"\\x17"
+> END STRING
+
+> BEGIN STRING
+"\\x18"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:60 < UNTRANSLATED
+"\\x18"
+> END STRING
+
+> BEGIN STRING
+"\\x19"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/297:67 < UNTRANSLATED
+"\\x19"
+> END STRING
+
+> BEGIN STRING
+"\\x00"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/298:24 < UNTRANSLATED
+"\\x00"
+> END STRING
+
+> BEGIN STRING
+/\\\\center/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/306:19 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/315:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\right/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/307:19 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/316:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"-right"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/336:48 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/979:44 < UNTRANSLATED
+"-right"
+> END STRING
+
+> BEGIN STRING
+"-left"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/341:48 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/981:44 < UNTRANSLATED
+"-left"
+> END STRING
+
+> BEGIN STRING
+/\\\\[vV]\\[/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/370:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eV\\["
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/370:41 < UNTRANSLATED
+"\\eV\\["
+> END STRING
+
+> BEGIN STRING
+/\\\\[nN]\\[/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/371:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eN\\["
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/371:41 < UNTRANSLATED
+"\\eN\\["
+> END STRING
+
+> BEGIN STRING
+/\\\\[pP]\\[/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/372:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eP\\["
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/372:41 < UNTRANSLATED
+"\\eP\\["
+> END STRING
+
+> BEGIN STRING
+/\\\\[gG]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/373:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\eG"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/373:39 < UNTRANSLATED
+"\\eG"
+> END STRING
+
+> BEGIN STRING
+/\\ehold/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/389:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\einfo/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/390:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Nn]ame\\[(.*?)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/397:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Hh]\\[-1\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/398:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Hh]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/399:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Hh]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/400:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Tt]\\[-1\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/401:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Tt]\\[-2\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/402:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Tt]\\[-3\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/403:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Tt]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/404:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Tt]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/405:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Ss]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/407:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e[Oo]\\[([0-9]+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/408:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\elast_holder/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/409:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\elast_material/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/410:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eB/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/416:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eD/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/417:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eI/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/418:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eI\\[(\\d+)\\]/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/420:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\ecenter/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/428:15 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/430:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\eright/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/429:15 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/431:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\e(\\S)/
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/435:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"-top"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/456:42 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/985:46 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/993:44 < UNTRANSLATED
+"-top"
+> END STRING
+
+> BEGIN STRING
+"-under"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/464:42 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/987:46 < UNTRANSLATED
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/995:44 < UNTRANSLATED
+"-under"
+> END STRING
+
+> BEGIN STRING
+/./
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/486:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Think"
+> CONTEXT: Scripts/吹きだしウィンドウＶＸＡｃｅ/976:12 < UNTRANSLATED
+"Think"
+> END STRING

@@ -1,0 +1,283 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+物理
+> CONTEXT: System/elements/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最大ＨＰ
+> CONTEXT: System/terms/params/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最大ＭＰ
+> CONTEXT: System/terms/params/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃力
+> CONTEXT: System/terms/params/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御力
+> CONTEXT: System/terms/params/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法力
+> CONTEXT: System/terms/params/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法防御
+> CONTEXT: System/terms/params/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敏捷性
+> CONTEXT: System/terms/params/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+運
+> CONTEXT: System/terms/params/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器
+> CONTEXT: System/terms/etypes/0/ < UNTRANSLATED
+> CONTEXT: System/terms/commands/12/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盾
+> CONTEXT: System/terms/etypes/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頭
+> CONTEXT: System/terms/etypes/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+身体
+> CONTEXT: System/terms/etypes/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装飾品
+> CONTEXT: System/terms/etypes/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦う
+> CONTEXT: System/terms/commands/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: System/terms/commands/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃
+> CONTEXT: System/terms/commands/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: System/terms/commands/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム
+> CONTEXT: System/terms/commands/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキル
+> CONTEXT: System/terms/commands/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/terms/commands/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステータス
+> CONTEXT: System/terms/commands/7/
+Status
+> END STRING
+
+> BEGIN STRING
+並び替え
+> CONTEXT: System/terms/commands/8/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セーブ
+> CONTEXT: System/terms/commands/9/
+> CONTEXT: Commonevents/2/69/Choice/0
+> CONTEXT: Commonevents/2/173/Choice/0
+Save
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+> CONTEXT: System/terms/commands/10/
+Game end
+> END STRING
+
+> BEGIN STRING
+防具
+> CONTEXT: System/terms/commands/13/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大事なもの
+> CONTEXT: System/terms/commands/14/
+Key Items
+> END STRING
+
+> BEGIN STRING
+装備変更
+> CONTEXT: System/terms/commands/15/
+Equip
+> END STRING
+
+> BEGIN STRING
+最強装備
+> CONTEXT: System/terms/commands/16/
+Optimize
+> END STRING
+
+> BEGIN STRING
+全て外す
+> CONTEXT: System/terms/commands/17/
+Remove all
+> END STRING
+
+> BEGIN STRING
+ニューゲーム
+> CONTEXT: System/terms/commands/18/
+New Game
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+> CONTEXT: System/terms/commands/19/
+Continue
+> END STRING
+
+> BEGIN STRING
+シャットダウン
+> CONTEXT: System/terms/commands/20/
+Shutdown
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+> CONTEXT: System/terms/commands/21/
+Title
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: System/terms/commands/22/
+> CONTEXT: Map002/events/11/pages/0/27/Choice/1
+> CONTEXT: Map002/events/11/pages/0/71/Choice/1
+> CONTEXT: Map002/events/11/pages/1/26/Choice/1
+> CONTEXT: Map002/events/11/pages/1/69/Choice/1
+Cancel
+> END STRING
+
+> BEGIN STRING
+レベル
+> CONTEXT: System/terms/basic/0/
+Level
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: System/terms/basic/1/
+Lv
+> END STRING
+
+> BEGIN STRING
+ＨＰ
+> CONTEXT: System/terms/basic/2/
+HP
+> END STRING
+
+> BEGIN STRING
+HP
+> CONTEXT: System/terms/basic/3/
+HP
+> END STRING
+
+> BEGIN STRING
+ＭＰ
+> CONTEXT: System/terms/basic/4/
+MP
+> END STRING
+
+> BEGIN STRING
+MP
+> CONTEXT: System/terms/basic/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＴＰ
+> CONTEXT: System/terms/basic/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+TP
+> CONTEXT: System/terms/basic/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特技
+> CONTEXT: System/skill_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧
+> CONTEXT: System/weapon_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一般防具
+> CONTEXT: System/armor_types/1/ < UNTRANSLATED
+
+> END STRING

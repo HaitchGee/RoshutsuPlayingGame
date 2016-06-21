@@ -1,0 +1,813 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+セーブ
+> CONTEXT: Commonevents/3/9/Choice/0
+Save
+> END STRING
+
+> BEGIN STRING
+回想部屋へ if(s[31]==false)
+> CONTEXT: Commonevents/3/17/Choice/0
+To Recollection Room if(s[31]==false)
+> END STRING
+
+> BEGIN STRING
+回想部屋を出る if(s[31]==true)
+> CONTEXT: Commonevents/3/17/Choice/1
+Leave Recollection Room if(s[31]==true)
+> END STRING
+
+> BEGIN STRING
+ステータスを表示する if(s[39] ==false)
+> CONTEXT: Commonevents/3/39/Choice/0
+Show Status if(s[39] ==false)
+> END STRING
+
+> BEGIN STRING
+ステータスを表示しない if(s[39]==true)
+> CONTEXT: Commonevents/3/39/Choice/1
+Hide Status if(s[39]==true)
+> END STRING
+
+> BEGIN STRING
+\\\>経験値 \\v[16]\\v[19]
+\\\>元気   +\\v[18]
+\\\>\\v[14]
+> CONTEXT: Commonevents/5/46/Dialogue
+> CONTEXT: Commonevents/5/46/Dialogue
+\\\>Exp \\v[16]\\v[19]
+\\\>Energy   +\\v[18]
+\\\>\\v[14]
+> END STRING
+
+> BEGIN STRING
+レベルが 10 (限界値) になりました
+> CONTEXT: Commonevents/9/7/Dialogue
+Reached level 10 (MAX)
+> END STRING
+
+> BEGIN STRING
+レベルが \\v[31] になりました
+> CONTEXT: Commonevents/9/15/Dialogue
+Reached level \\v[31]
+> END STRING
+
+> BEGIN STRING
+"+"
+> CONTEXT: Commonevents/11/7/InlineScript/2:24
+> CONTEXT: Commonevents/11/12/InlineScript/2:24
+> CONTEXT: Commonevents/11/17/InlineScript/2:24
+"+"
+> END STRING
+
+> BEGIN STRING
+\\\>経験値 \\v[16]\\v[19]
+\\\>元気   \\v[15]\\v[18]
+\\\>お金   \\v[17]\\v[20]
+> CONTEXT: Commonevents/11/23/Dialogue
+\\\>Exp      \\v[16]\\v[19]
+\\\>Energy   \\v[15]\\v[18]
+\\\>Money   \\v[17]\\v[20]
+> END STRING
+
+> BEGIN STRING
+\\\>経験値 \\v[16]\\v[19]
+\\\>元気   \\v[15]\\v[18]
+\\\>\\v[14]
+> CONTEXT: Commonevents/11/29/Dialogue
+\\\>Exp      \\v[16]\\v[19]
+\\\>Energy   \\v[15]\\v[18]
+\\\>\\v[14]
+> END STRING
+
+> BEGIN STRING
+"t0000"
+> CONTEXT: Commonevents/20/14/InlineScript/1:25
+> CONTEXT: Commonevents/20/60/InlineScript/1:25
+> CONTEXT: Commonevents/20/161/InlineScript/1:25
+> CONTEXT: Commonevents/20/193/InlineScript/1:25
+> CONTEXT: Commonevents/20/265/InlineScript/1:25
+> CONTEXT: Commonevents/20/343/InlineScript/1:25
+"t0000"
+> END STRING
+
+> BEGIN STRING
+"t0001"
+> CONTEXT: Commonevents/20/18/InlineScript/1:25
+> CONTEXT: Commonevents/20/33/InlineScript/1:25
+> CONTEXT: Commonevents/20/141/InlineScript/1:25
+> CONTEXT: Commonevents/20/204/InlineScript/1:25
+> CONTEXT: Commonevents/20/219/InlineScript/1:25
+> CONTEXT: Commonevents/20/279/InlineScript/1:25
+> CONTEXT: Commonevents/20/294/InlineScript/1:25
+> CONTEXT: Commonevents/20/309/InlineScript/1:25
+> CONTEXT: Commonevents/20/324/InlineScript/1:25
+> CONTEXT: Commonevents/20/354/InlineScript/1:25
+> CONTEXT: Commonevents/20/369/InlineScript/1:25
+> CONTEXT: Commonevents/20/384/InlineScript/1:25
+"t0001"
+> END STRING
+
+> BEGIN STRING
+"t0002"
+> CONTEXT: Commonevents/20/23/InlineScript/1:25
+> CONTEXT: Commonevents/20/40/InlineScript/1:25
+> CONTEXT: Commonevents/20/151/InlineScript/1:25
+> CONTEXT: Commonevents/20/226/InlineScript/1:25
+> CONTEXT: Commonevents/20/335/InlineScript/2:26
+> CONTEXT: Commonevents/20/390/InlineScript/2:26
+"t0002"
+> END STRING
+
+> BEGIN STRING
+"t0100"
+> CONTEXT: Commonevents/20/30/InlineScript/1:25
+> CONTEXT: Commonevents/20/117/InlineScript/1:25
+"t0100"
+> END STRING
+
+> BEGIN STRING
+"t0101"
+> CONTEXT: Commonevents/20/35/InlineScript/1:25
+> CONTEXT: Commonevents/20/129/InlineScript/1:25
+"t0101"
+> END STRING
+
+> BEGIN STRING
+"t0102"
+> CONTEXT: Commonevents/20/42/InlineScript/1:25
+> CONTEXT: Commonevents/20/122/InlineScript/1:25
+"t0102"
+> END STRING
+
+> BEGIN STRING
+"t1000"
+> CONTEXT: Commonevents/20/64/InlineScript/1:25
+"t1000"
+> END STRING
+
+> BEGIN STRING
+"t1001"
+> CONTEXT: Commonevents/20/69/InlineScript/1:25
+"t1001"
+> END STRING
+
+> BEGIN STRING
+"t1010"
+> CONTEXT: Commonevents/20/77/InlineScript/1:25
+"t1010"
+> END STRING
+
+> BEGIN STRING
+"t1011"
+> CONTEXT: Commonevents/20/82/InlineScript/1:25
+"t1011"
+> END STRING
+
+> BEGIN STRING
+"t1020"
+> CONTEXT: Commonevents/20/90/InlineScript/1:25
+"t1020"
+> END STRING
+
+> BEGIN STRING
+"t1021"
+> CONTEXT: Commonevents/20/95/InlineScript/1:25
+"t1021"
+> END STRING
+
+> BEGIN STRING
+"t1030"
+> CONTEXT: Commonevents/20/103/InlineScript/1:25
+"t1030"
+> END STRING
+
+> BEGIN STRING
+"t1031"
+> CONTEXT: Commonevents/20/108/InlineScript/1:25
+"t1031"
+> END STRING
+
+> BEGIN STRING
+"t2000"
+> CONTEXT: Commonevents/20/159/InlineScript/1:25
+> CONTEXT: Commonevents/20/165/InlineScript/1:25
+"t2000"
+> END STRING
+
+> BEGIN STRING
+"t2002"
+> CONTEXT: Commonevents/20/170/InlineScript/1:25
+"t2002"
+> END STRING
+
+> BEGIN STRING
+"t2010"
+> CONTEXT: Commonevents/20/178/InlineScript/1:25
+"t2010"
+> END STRING
+
+> BEGIN STRING
+"t2012"
+> CONTEXT: Commonevents/20/183/InlineScript/1:25
+"t2012"
+> END STRING
+
+> BEGIN STRING
+"t3000"
+> CONTEXT: Commonevents/20/197/InlineScript/1:25
+"t3000"
+> END STRING
+
+> BEGIN STRING
+"t3001"
+> CONTEXT: Commonevents/20/202/InlineScript/1:25
+"t3001"
+> END STRING
+
+> BEGIN STRING
+"t3010"
+> CONTEXT: Commonevents/20/212/InlineScript/1:25
+"t3010"
+> END STRING
+
+> BEGIN STRING
+"t3011"
+> CONTEXT: Commonevents/20/217/InlineScript/1:25
+"t3011"
+> END STRING
+
+> BEGIN STRING
+"t3020"
+> CONTEXT: Commonevents/20/235/InlineScript/1:25
+"t3020"
+> END STRING
+
+> BEGIN STRING
+"t3022"
+> CONTEXT: Commonevents/20/240/InlineScript/1:25
+"t3022"
+> END STRING
+
+> BEGIN STRING
+"t3021"
+> CONTEXT: Commonevents/20/248/InlineScript/1:25
+"t3021"
+> END STRING
+
+> BEGIN STRING
+"t3023"
+> CONTEXT: Commonevents/20/253/InlineScript/1:25
+"t3023"
+> END STRING
+
+> BEGIN STRING
+"t5100"
+> CONTEXT: Commonevents/20/268/InlineScript/1:25
+> CONTEXT: Commonevents/20/394/InlineScript/2:26
+"t5100"
+> END STRING
+
+> BEGIN STRING
+"t5200"
+> CONTEXT: Commonevents/20/268/InlineScript/3:26
+> CONTEXT: Commonevents/20/394/InlineScript/4:27
+"t5200"
+> END STRING
+
+> BEGIN STRING
+"t5001"
+> CONTEXT: Commonevents/20/277/InlineScript/1:25
+"t5001"
+> END STRING
+
+> BEGIN STRING
+"t5000"
+> CONTEXT: Commonevents/20/284/InlineScript/1:25
+"t5000"
+> END STRING
+
+> BEGIN STRING
+"t5011"
+> CONTEXT: Commonevents/20/292/InlineScript/1:25
+"t5011"
+> END STRING
+
+> BEGIN STRING
+"t5010"
+> CONTEXT: Commonevents/20/299/InlineScript/1:25
+"t5010"
+> END STRING
+
+> BEGIN STRING
+"t5021"
+> CONTEXT: Commonevents/20/307/InlineScript/1:25
+"t5021"
+> END STRING
+
+> BEGIN STRING
+"t5020"
+> CONTEXT: Commonevents/20/314/InlineScript/1:25
+"t5020"
+> END STRING
+
+> BEGIN STRING
+"t5031"
+> CONTEXT: Commonevents/20/322/InlineScript/1:25
+"t5031"
+> END STRING
+
+> BEGIN STRING
+"t5030"
+> CONTEXT: Commonevents/20/329/InlineScript/1:25
+"t5030"
+> END STRING
+
+> BEGIN STRING
+"t6000"
+> CONTEXT: Commonevents/20/347/InlineScript/1:25
+"t6000"
+> END STRING
+
+> BEGIN STRING
+"t6001"
+> CONTEXT: Commonevents/20/352/InlineScript/1:25
+"t6001"
+> END STRING
+
+> BEGIN STRING
+"t6010"
+> CONTEXT: Commonevents/20/362/InlineScript/1:25
+> CONTEXT: Commonevents/20/367/InlineScript/1:25
+"t6010"
+> END STRING
+
+> BEGIN STRING
+"t6020"
+> CONTEXT: Commonevents/20/377/InlineScript/1:25
+"t6020"
+> END STRING
+
+> BEGIN STRING
+"t6021"
+> CONTEXT: Commonevents/20/382/InlineScript/1:25
+"t6021"
+> END STRING
+
+> BEGIN STRING
+"tk\#{$game_variables[110]}"
+> CONTEXT: Commonevents/20/403/InlineScript/1:5
+"tk\#{$game_variables[110]}"
+> END STRING
+
+> BEGIN STRING
+衣装1
+> CONTEXT: Commonevents/21/3/Choice/0
+Clothes 1
+> END STRING
+
+> BEGIN STRING
+0 なし
+> CONTEXT: Commonevents/21/6/Choice/0
+0 Nothing
+> END STRING
+
+> BEGIN STRING
+1 ワンピース
+> CONTEXT: Commonevents/21/6/Choice/1
+1 Dress
+> END STRING
+
+> BEGIN STRING
+2 バニースーツ
+> CONTEXT: Commonevents/21/6/Choice/2
+2 Bunny suit
+> END STRING
+
+> BEGIN STRING
+3 バスタオル
+> CONTEXT: Commonevents/21/6/Choice/3
+3 Bath towel
+> END STRING
+
+> BEGIN STRING
+4 頭巾
+> CONTEXT: Commonevents/21/24/Choice/0
+4 Kerchief
+> END STRING
+
+> BEGIN STRING
+5 白スク
+> CONTEXT: Commonevents/21/30/Choice/0
+5 White swimsuit
+> END STRING
+
+> BEGIN STRING
+6 マイクロビキニ
+> CONTEXT: Commonevents/21/30/Choice/1
+6 Microbikini
+> END STRING
+
+> BEGIN STRING
+衣装2 if(v[101]<=1 or v[101]==4)
+> CONTEXT: Commonevents/21/48/Choice/0
+Clothes 2 if(v[101]<=1 or v[101]==4)
+> END STRING
+
+> BEGIN STRING
+ぱんつを脱ぐ
+> CONTEXT: Commonevents/21/51/Choice/0
+Take off panties
+> END STRING
+
+> BEGIN STRING
+ぱんつをはく
+> CONTEXT: Commonevents/21/51/Choice/1
+Put on panties
+> END STRING
+
+> BEGIN STRING
+衣装2 if(v[101]==5 or v[101]==6)
+> CONTEXT: Commonevents/21/65/Choice/0
+Clothes 2 if(v[101]==5 or v[101]==6)
+> END STRING
+
+> BEGIN STRING
+0なし
+> CONTEXT: Commonevents/21/68/Choice/0
+0 Nothing
+> END STRING
+
+> BEGIN STRING
+1監視員
+> CONTEXT: Commonevents/21/68/Choice/1
+1 Lifeguard
+> END STRING
+
+> BEGIN STRING
+衣装その他 if(v[101]\>=1)
+> CONTEXT: Commonevents/21/82/Choice/0
+More clothes if(v[101]\>=1)
+> END STRING
+
+> BEGIN STRING
+0 通常
+> CONTEXT: Commonevents/21/86/Choice/0
+> CONTEXT: Commonevents/21/108/Choice/0
+> CONTEXT: Commonevents/21/124/Choice/0
+> CONTEXT: Commonevents/21/143/Choice/0
+> CONTEXT: Commonevents/21/165/Choice/0
+> CONTEXT: Commonevents/21/187/Choice/0
+0 Casual
+> END STRING
+
+> BEGIN STRING
+1 腰でくくる
+> CONTEXT: Commonevents/21/86/Choice/1
+> CONTEXT: Commonevents/21/143/Choice/1
+1 Bind to waist
+> END STRING
+
+> BEGIN STRING
+2 片乳ぽろり
+> CONTEXT: Commonevents/21/86/Choice/2
+> CONTEXT: Commonevents/21/143/Choice/2
+2 One breast out
+> END STRING
+
+> BEGIN STRING
+3 両乳ぽろり
+> CONTEXT: Commonevents/21/86/Choice/3
+> CONTEXT: Commonevents/21/143/Choice/3
+3 Both breasts out
+> END STRING
+
+> BEGIN STRING
+1 胸出し
+> CONTEXT: Commonevents/21/108/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1 ずれ
+> CONTEXT: Commonevents/21/124/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2 タオルを手に持つ
+> CONTEXT: Commonevents/21/124/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1 片乳ぽろり
+> CONTEXT: Commonevents/21/165/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2 両乳ぽろり
+> CONTEXT: Commonevents/21/165/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3 肩紐ずらし
+> CONTEXT: Commonevents/21/165/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1 おっぱいはみ出し
+> CONTEXT: Commonevents/21/187/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2 おっぱいはみ出し+下なし
+> CONTEXT: Commonevents/21/187/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+濡れ if(v[101] !=2)
+> CONTEXT: Commonevents/21/206/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+0 濡れなし
+> CONTEXT: Commonevents/21/209/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1 濡れあり
+> CONTEXT: Commonevents/21/209/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お湿り
+> CONTEXT: Commonevents/21/223/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+0 お湿りなし
+> CONTEXT: Commonevents/21/226/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1 お湿りあり
+> CONTEXT: Commonevents/21/226/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+表情
+> CONTEXT: Commonevents/21/240/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤いの つける if(v[110]<20)
+> CONTEXT: Commonevents/21/244/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤いの けす if(v[110]\>=20)
+> CONTEXT: Commonevents/21/244/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+0 基本
+> CONTEXT: Commonevents/21/252/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1 むふふ
+> CONTEXT: Commonevents/21/258/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2 目を瞑る
+> CONTEXT: Commonevents/21/264/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3 困る
+> CONTEXT: Commonevents/21/270/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+4 はっ！
+> CONTEXT: Commonevents/21/276/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+5 微笑み
+> CONTEXT: Commonevents/21/282/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+6 苦笑い
+> CONTEXT: Commonevents/21/288/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+7 いきそう
+> CONTEXT: Commonevents/21/294/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+8 いく
+> CONTEXT: Commonevents/21/300/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+9 とろん・・・
+> CONTEXT: Commonevents/21/306/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、こんな格好でお仕事に申し込むなんて
+ 変に目立っちゃうよね
+ 普通の状態に着替えよう)
+> CONTEXT: Commonevents/22/19/Dialogue
+\\name[\\n[1]](Ah, I can't apply for a job looking like this
+ I'll attract attention
+ I'll change my clothes first)
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](これでよしっ)
+> CONTEXT: Commonevents/22/33/Dialogue
+\\name[\\n[1]](Done)
+> END STRING
+
+> BEGIN STRING
+"\#{v[22]}\#{v[27]}\#{v[26]}\#{v[28]}\#{v[30]}"
+> CONTEXT: Commonevents/24/0/InlineScript/2:3
+"\#{v[22]}\#{v[27]}\#{v[26]}\#{v[28]}\#{v[30]}"
+> END STRING
+
+> BEGIN STRING
+"尿意○"
+> CONTEXT: Commonevents/24/12/InlineScript/2:24
+"Pee ○"
+> END STRING
+
+> BEGIN STRING
+" "
+> CONTEXT: Commonevents/24/12/InlineScript/5:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"イベント成果 バニー"
+> CONTEXT: Commonevents/25/0/InlineScript/2:7
+"Event Result: Bunny"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 銭湯掃除"
+> CONTEXT: Commonevents/25/7/InlineScript/2:7
+"Event Result: Bath Cleaning"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 モデル"
+> CONTEXT: Commonevents/25/14/InlineScript/2:7
+"Event Result: Modeling"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 プール監視"
+> CONTEXT: Commonevents/25/21/InlineScript/2:7
+"Event Result: Lifeguarding"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 宿掃除"
+> CONTEXT: Commonevents/25/29/InlineScript/2:7
+"Event Result: Innkeeping"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 宿自室"
+> CONTEXT: Commonevents/25/37/InlineScript/2:7
+"Event Result: Inn Room"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 宿胸ちら"
+> CONTEXT: Commonevents/25/43/InlineScript/2:7
+"Event Result: Inn Counter"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 宿シャワー"
+> CONTEXT: Commonevents/25/49/InlineScript/2:7
+"Event Result: Inn Shower"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 トイレ"
+> CONTEXT: Commonevents/25/55/InlineScript/2:7
+"Event Result: Restroom"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 銭湯洗い場"
+> CONTEXT: Commonevents/25/61/InlineScript/2:7
+"Event Result: Bathhouse"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 銭湯入浴"
+> CONTEXT: Commonevents/25/67/InlineScript/2:7
+"Event Result: Public bathing"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 プール中スク水"
+> CONTEXT: Commonevents/25/73/InlineScript/2:7
+"Event Result: Pool"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 プール中紐水着"
+> CONTEXT: Commonevents/25/79/InlineScript/2:7
+"Event Result: Pool (Microbikini)"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 サマーベッドスク水"
+> CONTEXT: Commonevents/25/85/InlineScript/2:7
+"Event Result: Sunlounger"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 サマーベッド紐水着"
+> CONTEXT: Commonevents/25/91/InlineScript/2:7
+"Event Result: Sunlounger (Microbikini)"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 ぱんつおじさんに見せる"
+> CONTEXT: Commonevents/25/97/InlineScript/2:7
+"Event Result: Panty show"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 銭湯でおしっこ"
+> CONTEXT: Commonevents/25/102/InlineScript/2:7
+"Event Result: Bathhouse restroom"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 白スク試着"
+> CONTEXT: Commonevents/25/108/InlineScript/2:7
+"Event Result: Try swimsuit"
+> END STRING
+
+> BEGIN STRING
+"イベント成果 マイクロビキニ試着"
+> CONTEXT: Commonevents/25/113/InlineScript/2:7
+"Event Result: Try microbikini"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](こんな格好のまま屋内に入るのは迷惑だよね・・・
+ どこかで身だしなみをを整えてこようかな)
+> CONTEXT: Commonevents/26/2/Dialogue
+\\name[\\n[1]](It'd be troublesome to enter like this
+ Let me fix my clothes first)
+> END STRING
+
+> BEGIN STRING
+ささっと身だしなみを整えてくる
+> CONTEXT: Commonevents/26/5/Choice/0
+I quickly fix my appearance
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・よし)
+> CONTEXT: Commonevents/26/19/Dialogue
+\\name[\\n[1]](...Alright)
+> END STRING

@@ -1,0 +1,45 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+RPG ˜IoƒvƒŒƒCƒ“ƒOƒQ[ƒ€2 ‚¨ŽdŽ–•Ò ver.1.00
+> CONTEXT: System/game_title/
+RPG2 - Roshutsu Playing Game 2 ver.1.00
+> END STRING
+
+> BEGIN STRING
+ニューゲーム
+> CONTEXT: System/terms/commands/18/
+New Game
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+> CONTEXT: System/terms/commands/19/
+Continue
+> END STRING
+
+> BEGIN STRING
+シャットダウン
+> CONTEXT: System/terms/commands/20/
+Shutdown
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+> CONTEXT: System/terms/commands/21/
+To Title
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: System/terms/commands/22/
+> CONTEXT: Map001/events/6/pages/0/27/Choice/0
+> CONTEXT: Map001/events/6/pages/1/17/Choice/0
+> CONTEXT: Map001/events/6/pages/2/17/Choice/0
+Cancel
+> END STRING
+
+> BEGIN STRING
+Ｇ
+> CONTEXT: System/currency_unit/
+G
+> END STRING

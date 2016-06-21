@@ -1,0 +1,130 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\\>現在の勇気レベルは \\v[24] です。
+> CONTEXT: Commonevents/2/10/Dialogue
+\\\>Courage level is \\v[42].
+> END STRING
+
+> BEGIN STRING
+ぱんつを脱ぐ if(s[6]==true && v[24]\>=3)
+> CONTEXT: Commonevents/2/12/Choice/0
+> CONTEXT: Commonevents/2/113/Choice/0
+Take off panties if(s[6]==true && v[24]\>=3)
+> END STRING
+
+> BEGIN STRING
+ぱんつをはく if(s[6]==false && s[21]==false)
+> CONTEXT: Commonevents/2/12/Choice/1
+> CONTEXT: Commonevents/2/113/Choice/1
+Put on panties if(s[6]==false && s[21]==false)
+> END STRING
+
+> BEGIN STRING
+"25001002"
+> CONTEXT: Commonevents/2/29/InlineScript/1:25
+> CONTEXT: Commonevents/2/130/InlineScript/1:25
+"25001002"
+> END STRING
+
+> BEGIN STRING
+裸になる if(v[24]\>=6 && s[21]==false)
+> CONTEXT: Commonevents/2/40/Choice/0
+> CONTEXT: Commonevents/2/141/Choice/0
+Take off dress if(v[24]\>=6 && s[21]==false)
+> END STRING
+
+> BEGIN STRING
+服を着る if(s[21]==true)
+> CONTEXT: Commonevents/2/40/Choice/1
+> CONTEXT: Commonevents/2/141/Choice/1
+Put on dress if(s[21]==true)
+> END STRING
+
+> BEGIN STRING
+回想部屋 if(s[60]==false)
+> CONTEXT: Commonevents/2/76/Choice/0
+> CONTEXT: Commonevents/2/180/Choice/0
+View scenes if(s[60]==false)
+> END STRING
+
+> BEGIN STRING
+回想部屋を出る if(s[60]==true)
+> CONTEXT: Commonevents/2/76/Choice/1
+> CONTEXT: Commonevents/2/180/Choice/1
+Return to world if(s[60]==true)
+> END STRING
+
+> BEGIN STRING
+閉じる
+> CONTEXT: Commonevents/2/93/Choice/0
+> CONTEXT: Commonevents/2/197/Choice/0
+Close
+> END STRING
+
+> BEGIN STRING
+\\\>現在の勇気レベルは MAX です。
+> CONTEXT: Commonevents/2/111/Dialogue
+\\\>Courage level is MAX.
+> END STRING
+
+> BEGIN STRING
+勇気加算 + \\v[42]
+> CONTEXT: Commonevents/14/3/Dialogue
+Courage + \\v[42]
+> END STRING
+
+> BEGIN STRING
+勇気レベルが ２ になりました
+少し大胆に露出する勇気がわいてきました
+(イベントが新しく発生したり、
+ 一部イベントの内容が変化します)
+> CONTEXT: Commonevents/14/13/Dialogue
+Your courage grew to level 2
+You now have the courage to expose more
+(New events are available,
+and some events have changed)
+> END STRING
+
+> BEGIN STRING
+勇気レベルが ３ になりました
+ぱんつを脱ぐ勇気がわいてきました
+メニューからぱんつを脱いだりはいたりできるようになりました
+(イベントが新しく発生したり、一部イベントの内容が変化します)
+> CONTEXT: Commonevents/14/26/Dialogue
+Your courage grew to level 3
+You can now take off your panties
+Use the menu to take them off
+(New events available and some have changed)
+> END STRING
+
+> BEGIN STRING
+勇気レベルが ４ になりました
+人が近くにいる状況でもこっそりオナニーする勇気がわいてきました
+(イベントが新しく発生したり、
+ 一部イベントの内容が変化します)
+> CONTEXT: Commonevents/14/39/Dialogue
+Your courage grew to level 4
+You can now masturbate around others
+(New events are available,
+and some events have changed)
+> END STRING
+
+> BEGIN STRING
+勇気レベルが ５ になりました
+状況によってはオナニーを他人に見せられる勇気がわいてきました
+(イベントが新しく発生したり、
+ 一部イベントの内容が変化します)
+> CONTEXT: Commonevents/14/52/Dialogue
+Your courage grew to level 5
+You can now show yourself masturbating
+(New events are available,
+and some events have changed)
+> END STRING
+
+> BEGIN STRING
+勇気レベルが MAX になりました
+勇気100%です
+> CONTEXT: Commonevents/14/65/Dialogue
+Your courage level has reached MAX level
+Courage is 100%
+> END STRING

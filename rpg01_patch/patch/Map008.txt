@@ -1,0 +1,437 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\n[1]
+「(ここの奥、暗くなってて
+　 通りからはあまり見えなかったな・・・)」
+> CONTEXT: Map008/events/19/pages/0/6/Dialogue
+> CONTEXT: Map008/events/19/pages/1/5/Dialogue
+> CONTEXT: Map008/events/19/pages/2/6/Dialogue
+> CONTEXT: Map008/events/19/pages/3/5/Dialogue
+> CONTEXT: Map008/events/19/pages/4/6/Dialogue
+> CONTEXT: Map008/events/19/pages/5/5/Dialogue
+> CONTEXT: Map008/events/19/pages/6/5/Dialogue
+> CONTEXT: Map008/events/19/pages/7/5/Dialogue
+> CONTEXT: Map002/events/35/pages/0/3/Dialogue
+> CONTEXT: Map002/events/35/pages/1/10/Dialogue
+\\n[1]
+「(It's dark back here
+　 not much is visible from the street)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ちょっと脱いでみても大丈夫かも\\i[122])」
+> CONTEXT: Map008/events/19/pages/0/13/Dialogue
+> CONTEXT: Map008/events/19/pages/1/12/Dialogue
+> CONTEXT: Map008/events/19/pages/2/13/Dialogue
+> CONTEXT: Map008/events/19/pages/3/12/Dialogue
+> CONTEXT: Map008/events/19/pages/4/13/Dialogue
+> CONTEXT: Map008/events/19/pages/5/12/Dialogue
+> CONTEXT: Map008/events/19/pages/6/12/Dialogue
+> CONTEXT: Map008/events/19/pages/7/12/Dialogue
+> CONTEXT: Map002/events/35/pages/0/10/Dialogue
+\\n[1]
+「(It's safe so I'll take off a little\\i[122])」
+> END STRING
+
+> BEGIN STRING
+"20001001"
+> CONTEXT: Map008/events/19/pages/0/16/InlineScript/1:25
+"20001001"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、人通りがすぐ近くに・・・
+　 本当に通りから見えてないかな)」
+> CONTEXT: Map008/events/19/pages/0/18/Dialogue
+> CONTEXT: Map008/events/19/pages/1/17/Dialogue
+> CONTEXT: Map008/events/19/pages/2/18/Dialogue
+> CONTEXT: Map008/events/19/pages/3/17/Dialogue
+> CONTEXT: Map008/events/19/pages/4/18/Dialogue
+> CONTEXT: Map008/events/19/pages/5/17/Dialogue
+> CONTEXT: Map008/events/19/pages/6/19/Dialogue
+> CONTEXT: Map008/events/19/pages/7/18/Dialogue
+> CONTEXT: Map002/events/35/pages/0/34/Dialogue
+> CONTEXT: Map002/events/35/pages/0/95/Dialogue
+> CONTEXT: Map002/events/35/pages/0/146/Dialogue
+> CONTEXT: Map002/events/35/pages/0/197/Dialogue
+> CONTEXT: Map002/events/35/pages/0/251/Dialogue
+\\n[1]
+「(Haahaa, so many people walking by...
+　 they really can't see from the road)」
+> END STRING
+
+> BEGIN STRING
+"20001003"
+> CONTEXT: Map008/events/19/pages/0/22/InlineScript/1:25
+"20001003"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こんな明らかに自ら見せてる格好を
+　 人に見られちゃったら言い訳できないよね・・・)」
+> CONTEXT: Map008/events/19/pages/0/24/Dialogue
+> CONTEXT: Map008/events/19/pages/1/23/Dialogue
+> CONTEXT: Map008/events/19/pages/2/24/Dialogue
+> CONTEXT: Map008/events/19/pages/3/23/Dialogue
+> CONTEXT: Map008/events/19/pages/4/24/Dialogue
+> CONTEXT: Map008/events/19/pages/5/23/Dialogue
+> CONTEXT: Map002/events/35/pages/0/153/Dialogue
+> CONTEXT: Map002/events/35/pages/0/204/Dialogue
+> CONTEXT: Map002/events/35/pages/0/258/Dialogue
+\\n[1]
+「(If I'm seen by someone like this
+　 there's no way I could excuse it...)」
+> END STRING
+
+> BEGIN STRING
+"20001002"
+> CONTEXT: Map008/events/19/pages/0/28/InlineScript/1:25
+"20001002"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(もし男の人に見つかったら
+　 そのまま襲われちゃうかも・・・)」
+> CONTEXT: Map008/events/19/pages/0/30/Dialogue
+> CONTEXT: Map008/events/19/pages/1/29/Dialogue
+> CONTEXT: Map008/events/19/pages/2/30/Dialogue
+> CONTEXT: Map008/events/19/pages/3/29/Dialogue
+> CONTEXT: Map008/events/19/pages/4/30/Dialogue
+> CONTEXT: Map008/events/19/pages/5/29/Dialogue
+> CONTEXT: Map008/events/19/pages/6/32/Dialogue
+> CONTEXT: Map008/events/19/pages/7/31/Dialogue
+> CONTEXT: Map002/events/35/pages/0/47/Dialogue
+> CONTEXT: Map002/events/35/pages/0/108/Dialogue
+> CONTEXT: Map002/events/35/pages/0/160/Dialogue
+> CONTEXT: Map002/events/35/pages/0/211/Dialogue
+> CONTEXT: Map002/events/35/pages/0/265/Dialogue
+\\n[1]
+「(If I'm found by a man like this...
+　 they might attack me)」
+> END STRING
+
+> BEGIN STRING
+"20301003"
+> CONTEXT: Map008/events/19/pages/0/34/InlineScript/1:25
+"20301003"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(・・・\\i[122])」
+> CONTEXT: Map008/events/19/pages/0/36/Dialogue
+> CONTEXT: Map008/events/19/pages/1/35/Dialogue
+> CONTEXT: Map009/events/3/pages/0/210/Dialogue
+> CONTEXT: Map008/events/19/pages/2/36/Dialogue
+> CONTEXT: Map008/events/19/pages/3/35/Dialogue
+> CONTEXT: Map008/events/19/pages/4/36/Dialogue
+> CONTEXT: Map009/events/16/pages/0/210/Dialogue
+> CONTEXT: Map008/events/19/pages/5/35/Dialogue
+> CONTEXT: Map008/events/19/pages/6/38/Dialogue
+> CONTEXT: Map008/events/19/pages/7/37/Dialogue
+> CONTEXT: Map002/events/35/pages/0/53/Dialogue
+> CONTEXT: Map002/events/35/pages/0/114/Dialogue
+> CONTEXT: Map002/events/35/pages/0/168/Dialogue
+> CONTEXT: Map002/events/35/pages/0/219/Dialogue
+> CONTEXT: Map002/events/35/pages/0/273/Dialogue
+\\n[1]
+「(...\\i[122])」
+> END STRING
+
+> BEGIN STRING
+"20301002"
+> CONTEXT: Map008/events/19/pages/0/39/InlineScript/1:25
+"20301002"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(妄想してたら濡れてきちゃったよ\\i[122])」
+> CONTEXT: Map008/events/19/pages/0/41/Dialogue
+> CONTEXT: Map008/events/19/pages/1/40/Dialogue
+> CONTEXT: Map008/events/19/pages/2/41/Dialogue
+> CONTEXT: Map008/events/19/pages/3/40/Dialogue
+> CONTEXT: Map008/events/19/pages/4/41/Dialogue
+> CONTEXT: Map008/events/19/pages/5/40/Dialogue
+> CONTEXT: Map008/events/19/pages/6/43/Dialogue
+> CONTEXT: Map002/events/35/pages/0/119/Dialogue
+> CONTEXT: Map002/events/35/pages/0/174/Dialogue
+> CONTEXT: Map002/events/35/pages/0/225/Dialogue
+> CONTEXT: Map002/events/35/pages/0/279/Dialogue
+\\n[1]
+「(My fantasies are getting me wet\\i[122])」
+> END STRING
+
+> BEGIN STRING
+"20001101"
+> CONTEXT: Map008/events/19/pages/1/15/InlineScript/1:25
+"20001101"
+> END STRING
+
+> BEGIN STRING
+"20001103"
+> CONTEXT: Map008/events/19/pages/1/21/InlineScript/1:25
+"20001103"
+> END STRING
+
+> BEGIN STRING
+"20001102"
+> CONTEXT: Map008/events/19/pages/1/27/InlineScript/1:25
+"20001102"
+> END STRING
+
+> BEGIN STRING
+"20301103"
+> CONTEXT: Map008/events/19/pages/1/33/InlineScript/1:25
+"20301103"
+> END STRING
+
+> BEGIN STRING
+"20301102"
+> CONTEXT: Map008/events/19/pages/1/38/InlineScript/1:25
+"20301102"
+> END STRING
+
+> BEGIN STRING
+"20001021"
+> CONTEXT: Map008/events/19/pages/2/16/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/4/16/InlineScript/1:25
+"20001021"
+> END STRING
+
+> BEGIN STRING
+"20001023"
+> CONTEXT: Map008/events/19/pages/2/22/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/4/22/InlineScript/1:25
+"20001023"
+> END STRING
+
+> BEGIN STRING
+"20001022"
+> CONTEXT: Map008/events/19/pages/2/28/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/4/28/InlineScript/1:25
+"20001022"
+> END STRING
+
+> BEGIN STRING
+"20301023"
+> CONTEXT: Map008/events/19/pages/2/34/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/4/34/InlineScript/1:25
+"20301023"
+> END STRING
+
+> BEGIN STRING
+"20301022"
+> CONTEXT: Map008/events/19/pages/2/39/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/4/39/InlineScript/1:25
+"20301022"
+> END STRING
+
+> BEGIN STRING
+"20001121"
+> CONTEXT: Map008/events/19/pages/3/15/InlineScript/1:25
+"20001121"
+> END STRING
+
+> BEGIN STRING
+"20001123"
+> CONTEXT: Map008/events/19/pages/3/21/InlineScript/1:25
+"20001123"
+> END STRING
+
+> BEGIN STRING
+"20001122"
+> CONTEXT: Map008/events/19/pages/3/27/InlineScript/1:25
+"20001122"
+> END STRING
+
+> BEGIN STRING
+"20301123"
+> CONTEXT: Map008/events/19/pages/3/33/InlineScript/1:25
+"20301123"
+> END STRING
+
+> BEGIN STRING
+"20301122"
+> CONTEXT: Map008/events/19/pages/3/38/InlineScript/1:25
+"20301122"
+> END STRING
+
+> BEGIN STRING
+"20001131"
+> CONTEXT: Map008/events/19/pages/5/15/InlineScript/1:25
+"20001131"
+> END STRING
+
+> BEGIN STRING
+"20001133"
+> CONTEXT: Map008/events/19/pages/5/21/InlineScript/1:25
+"20001133"
+> END STRING
+
+> BEGIN STRING
+"20001132"
+> CONTEXT: Map008/events/19/pages/5/27/InlineScript/1:25
+"20001132"
+> END STRING
+
+> BEGIN STRING
+"20301133"
+> CONTEXT: Map008/events/19/pages/5/33/InlineScript/1:25
+"20301133"
+> END STRING
+
+> BEGIN STRING
+"20301132"
+> CONTEXT: Map008/events/19/pages/5/38/InlineScript/1:25
+"20301132"
+> END STRING
+
+> BEGIN STRING
+"20000001"
+> CONTEXT: Map008/events/19/pages/6/17/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/7/16/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/31/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/92/InlineScript/1:25
+"20000001"
+> END STRING
+
+> BEGIN STRING
+"20000003"
+> CONTEXT: Map008/events/19/pages/6/23/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/7/22/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/38/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/99/InlineScript/1:25
+"20000003"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(全裸になっちゃって・・・
+　 もし見つかりそうになっても
+　 とっさに隠すこともできないよ・・・)」
+> CONTEXT: Map008/events/19/pages/6/25/Dialogue
+> CONTEXT: Map008/events/19/pages/7/24/Dialogue
+> CONTEXT: Map002/events/35/pages/0/40/Dialogue
+> CONTEXT: Map002/events/35/pages/0/101/Dialogue
+\\n[1]
+「(I'm completely naked...
+　 If I'm found now
+　 I won't be able to cover myself)」
+> END STRING
+
+> BEGIN STRING
+"20000002"
+> CONTEXT: Map008/events/19/pages/6/30/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/7/29/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/45/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/106/InlineScript/1:25
+"20000002"
+> END STRING
+
+> BEGIN STRING
+"20300002"
+> CONTEXT: Map008/events/19/pages/6/36/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/7/35/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/51/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/112/InlineScript/1:25
+"20300002"
+> END STRING
+
+> BEGIN STRING
+"20300003"
+> CONTEXT: Map008/events/19/pages/6/41/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/117/InlineScript/1:25
+"20300003"
+> END STRING
+
+> BEGIN STRING
+"20300013"
+> CONTEXT: Map008/events/19/pages/7/40/InlineScript/1:25
+> CONTEXT: Map008/events/19/pages/7/50/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/56/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/66/InlineScript/1:25
+"20300013"
+> END STRING
+
+> BEGIN STRING
+ｸﾁｭｸﾁｭ
+> CONTEXT: Map008/events/19/pages/7/42/Dialogue
+> CONTEXT: Map010/events/8/pages/1/43/Dialogue
+> CONTEXT: Map010/events/8/pages/1/81/Dialogue
+> CONTEXT: Map010/events/8/pages/2/44/Dialogue
+> CONTEXT: Map010/events/8/pages/2/82/Dialogue
+> CONTEXT: Map010/events/8/pages/3/48/Dialogue
+> CONTEXT: Map010/events/8/pages/3/86/Dialogue
+> CONTEXT: Map010/events/8/pages/4/117/Dialogue
+> CONTEXT: Map010/events/8/pages/4/208/Dialogue
+> CONTEXT: Map004/events/9/pages/2/104/Dialogue
+> CONTEXT: Map010/events/8/pages/5/117/Dialogue
+> CONTEXT: Map010/events/8/pages/5/208/Dialogue
+> CONTEXT: Map010/events/8/pages/6/117/Dialogue
+> CONTEXT: Map010/events/8/pages/6/208/Dialogue
+> CONTEXT: Map002/events/12/pages/1/68/Dialogue
+> CONTEXT: Map004/events/12/pages/2/87/Dialogue
+> CONTEXT: Map002/events/12/pages/1/106/Dialogue
+> CONTEXT: Map002/events/12/pages/2/68/Dialogue
+> CONTEXT: Map002/events/12/pages/2/106/Dialogue
+> CONTEXT: Map002/events/12/pages/3/73/Dialogue
+> CONTEXT: Map002/events/12/pages/3/111/Dialogue
+> CONTEXT: Map002/events/12/pages/4/142/Dialogue
+> CONTEXT: Map002/events/12/pages/4/233/Dialogue
+> CONTEXT: Map002/events/12/pages/5/142/Dialogue
+> CONTEXT: Map002/events/12/pages/5/233/Dialogue
+> CONTEXT: Map002/events/12/pages/6/147/Dialogue
+> CONTEXT: Map002/events/12/pages/6/238/Dialogue
+> CONTEXT: Map002/events/35/pages/0/58/Dialogue
+wallawalla
+> END STRING
+
+> BEGIN STRING
+"20300012"
+> CONTEXT: Map008/events/19/pages/7/44/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/60/InlineScript/1:25
+"20300012"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(露出しながら妄想オナニーするの
+　 気持ち良いよぅ)」
+> CONTEXT: Map008/events/19/pages/7/46/Dialogue
+> CONTEXT: Map002/events/35/pages/0/62/Dialogue
+\\n[1]
+「(To be so exposed and masturbating
+　 It feels so good)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あぁん、イくっ、イくぅ・・・っ！」
+> CONTEXT: Map008/events/19/pages/7/52/Dialogue
+> CONTEXT: Map002/events/35/pages/0/68/Dialogue
+\\n[1]
+「Aah, aah, cum, cumming...!」
+> END STRING
+
+> BEGIN STRING
+"20300011"
+> CONTEXT: Map008/events/19/pages/7/55/InlineScript/1:25
+> CONTEXT: Map002/events/35/pages/0/71/InlineScript/1:25
+"20300011"
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、思わず声出ちゃった・・・
+　 ば、ばれてないよね)」
+> CONTEXT: Map008/events/19/pages/7/57/Dialogue
+> CONTEXT: Map002/events/35/pages/0/73/Dialogue
+\\n[1]
+「(Haahaa, my voice came out...
+　 I-I hope no one heard)」
+> END STRING

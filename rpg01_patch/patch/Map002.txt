@@ -1,0 +1,1781 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\n[1]
+「(水を飲みすぎておしっこしたくなっちゃった
+　 トイレはどこにあるんだろう)」
+> CONTEXT: Map002/events/4/pages/0/8/Dialogue
+\\n[1]
+「(I drank too much water and need to pee
+　 where's the restroom)」
+> END STRING
+
+> BEGIN STRING
+草むらに隠れてこっそり済ます
+> CONTEXT: Map002/events/4/pages/0/40/Choice/0
+Hide in the bush and finish quietly
+> END STRING
+
+> BEGIN STRING
+近くの草むらで済ますことを告げる if(s[51]== true && v[24]\>=3)
+> CONTEXT: Map002/events/4/pages/0/40/Choice/1
+Tell him I'll find a nearby bush if(s[51]== true && v[24]\>=3)
+> END STRING
+
+> BEGIN STRING
+我慢する
+> CONTEXT: Map002/events/4/pages/0/40/Choice/2
+Endure it
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(私もお外でおしっこしちゃおう\\i[122])」
+> CONTEXT: Map002/events/4/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふぅ、すっきり！)」
+> CONTEXT: Map002/events/4/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オナニーする
+> CONTEXT: Map002/events/4/pages/0/272/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+終わる
+> CONTEXT: Map002/events/4/pages/0/272/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ふぅ、すっきり！」
+> CONTEXT: Map002/events/4/pages/0/290/Dialogue
+> CONTEXT: Map002/events/4/pages/0/367/Dialogue
+\\n[1]
+「Phew, refreshing!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(露出プレイをするために
+　 遠くの街までやってきました)」
+> CONTEXT: Map002/events/5/pages/0/3/Dialogue
+\\n[1]
+「(To do some exhibitionism
+　 I went over to a distant town)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(薄手のワンピースで
+　 裾もこんなに短くしちゃったし)」
+> CONTEXT: Map002/events/5/pages/0/10/Dialogue
+\\n[1]
+「(With a thin dress
+　 and the hem has been shortened)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも露出プレイは初めてなので
+　 あまり大胆なことをする勇気はまだありません)」
+> CONTEXT: Map002/events/5/pages/0/17/Dialogue
+\\n[1]
+「(But since is my first time
+　 I don't have courage to bold things yet)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(軽い露出からはだんだん慣れていけば
+　 大胆な露出プレイをする勇気が身につくかも・・・
+　 そしたらあんなことやこんなことを・・・むふふ\\i[122])」
+> CONTEXT: Map002/events/5/pages/0/24/Dialogue
+\\n[1]
+「(If I gradually get accustomed to it
+　 I can get the courage to be more bold...
+　 and then I can do... that\\i[122])」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(よし頑張って露出するぞー)」
+> CONTEXT: Map002/events/5/pages/0/32/Dialogue
+\\n[1]
+「(Alright I'll do my best for exhibitionism)」
+> END STRING
+
+> BEGIN STRING
+\\\>『　基本操作
+\\\>　決定,調べる等 　　　:Z,Enter　 移動     :矢印キー
+\\\>　メニュー,キャンセル :X　　　　　ダッシュ :Shiftキー
+\\\>　メッセージ高速化　　:A                              』
+> CONTEXT: Map002/events/8/pages/0/0/Dialogue
+\\\>『　How to Play
+\\\>　Decide 　　　:Z,Enter　 Movement     :Arrow keys
+\\\>　Cancel :X　　　　　Dash :Shift
+\\\>　Speed up text　　:A                              』
+> END STRING
+
+> BEGIN STRING
+おじさん
+「池で遊んでいるのは私の子供たちです」
+> CONTEXT: Map002/events/9/pages/0/1/Dialogue
+Mister
+「My kids are enjoying themselves in the pond」
+> END STRING
+
+> BEGIN STRING
+タオルを借りる
+> CONTEXT: Map002/events/9/pages/0/22/Choice/0
+Borrow a towel
+> END STRING
+
+> BEGIN STRING
+借りない
+> CONTEXT: Map002/events/9/pages/0/22/Choice/1
+Don't borrow
+> END STRING
+
+> BEGIN STRING
+じっくり拭く
+> CONTEXT: Map002/events/9/pages/0/52/Choice/0
+Wipe thoroughly
+> END STRING
+
+> BEGIN STRING
+拭き終わる
+> CONTEXT: Map002/events/9/pages/0/52/Choice/1
+Finish wiping
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ありがとうございました」
+> CONTEXT: Map002/events/9/pages/0/70/Dialogue
+> CONTEXT: Map002/events/9/pages/0/184/Dialogue
+\\n[1]
+「Thank you」
+> END STRING
+
+> BEGIN STRING
+いじっちゃう！
+> CONTEXT: Map002/events/9/pages/0/158/Choice/0
+Touch myself
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(さすがにそれはばれちゃうそうで危ないよね・・・
+　 やめておこう)」
+> CONTEXT: Map002/events/9/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさん
+「いやいや、こちらこそ！
+　またおいで！」
+> CONTEXT: Map002/events/9/pages/0/187/Dialogue
+Mister
+「No, it's my pleasure!
+　Come again!」
+> END STRING
+
+> BEGIN STRING
+おじさん
+「君っ！ どうして裸なんだい!?
+　まさか変態さんなのかい!?
+　それならおじさんといいことしようじゃないか！」
+> CONTEXT: Map002/events/9/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ひぃ・・・え、えっと、その～・・・」
+> CONTEXT: Map002/events/9/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供たち
+「お姉さん！ もう準備できてるなら
+　早く一緒に水遊びしようよう！」
+> CONTEXT: Map002/events/9/pages/1/11/Dialogue
+Child
+「Miss! If you're ready
+　let's play already！」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「えっと・・・う、うん
+　今いくね！」
+> CONTEXT: Map002/events/9/pages/1/18/Dialogue
+\\n[1]
+「Huh... okay
+　Ready!」
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「僕は階段に座って休憩しているだけなんだ
+　気にせず隣を通っておくれ」
+> CONTEXT: Map002/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/1/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ｸｼｭﾝ！」
+> CONTEXT: Map002/events/10/pages/1/1/Dialogue
+> CONTEXT: Map002/events/10/pages/2/1/Dialogue
+> CONTEXT: Map002/events/11/pages/0/1/Dialogue
+> CONTEXT: Map002/events/11/pages/1/1/Dialogue
+> CONTEXT: Map002/events/12/pages/1/1/Dialogue
+> CONTEXT: Map002/events/12/pages/2/1/Dialogue
+> CONTEXT: Map002/events/12/pages/3/1/Dialogue
+> CONTEXT: Map002/events/12/pages/4/1/Dialogue
+> CONTEXT: Map002/events/12/pages/5/1/Dialogue
+> CONTEXT: Map002/events/12/pages/6/1/Dialogue
+> CONTEXT: Map002/events/12/pages/7/1/Dialogue
+> CONTEXT: Map002/events/12/pages/8/1/Dialogue
+> CONTEXT: Map002/events/29/pages/0/1/Dialogue
+> CONTEXT: Map002/events/35/pages/2/1/Dialogue
+\\n[1]
+「Splash!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うぅ寒くなってきちゃった。
+　 露出プレイを楽しむ前に身体を拭かないと
+　 風邪をひいてしまいそうだよ)」
+> CONTEXT: Map002/events/10/pages/1/7/Dialogue
+> CONTEXT: Map002/events/10/pages/2/7/Dialogue
+> CONTEXT: Map002/events/11/pages/0/7/Dialogue
+> CONTEXT: Map002/events/11/pages/1/7/Dialogue
+> CONTEXT: Map002/events/12/pages/1/7/Dialogue
+> CONTEXT: Map002/events/12/pages/2/7/Dialogue
+> CONTEXT: Map002/events/12/pages/3/7/Dialogue
+> CONTEXT: Map002/events/12/pages/4/7/Dialogue
+> CONTEXT: Map002/events/12/pages/5/7/Dialogue
+> CONTEXT: Map002/events/12/pages/6/7/Dialogue
+> CONTEXT: Map002/events/12/pages/7/7/Dialogue
+> CONTEXT: Map002/events/12/pages/8/7/Dialogue
+> CONTEXT: Map002/events/29/pages/0/7/Dialogue
+> CONTEXT: Map002/events/35/pages/2/7/Dialogue
+「(It's getting cold.
+　 I need to wipe myself before doing more
+　 otherwise I'll catch a cold)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(私もここに座って休憩したら・・・\\i[122])」
+> CONTEXT: Map002/events/10/pages/1/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+座る
+> CONTEXT: Map002/events/10/pages/1/38/Choice/0
+> CONTEXT: Map002/events/10/pages/2/38/Choice/0
+Sit
+> END STRING
+
+> BEGIN STRING
+座らない
+> CONTEXT: Map002/events/10/pages/1/38/Choice/1
+> CONTEXT: Map002/events/10/pages/2/38/Choice/1
+Don't sit
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あの、私もここに座って休憩してもいいですか？」
+> CONTEXT: Map002/events/10/pages/1/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/4/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「へ？ ま、まあお好きにどうぞ」
+> CONTEXT: Map002/events/10/pages/1/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おにいさん
+「！」
+> CONTEXT: Map002/events/10/pages/1/63/Dialogue
+> CONTEXT: Map002/events/10/pages/1/87/Dialogue
+> CONTEXT: Map002/events/10/pages/2/63/Dialogue
+> CONTEXT: Map002/events/10/pages/2/87/Dialogue
+> CONTEXT: Map002/events/10/pages/4/16/Dialogue
+> CONTEXT: Map002/events/11/pages/0/35/Dialogue
+> CONTEXT: Map002/events/11/pages/0/79/Dialogue
+> CONTEXT: Map010/events/9/pages/0/18/Dialogue
+> CONTEXT: Map002/events/11/pages/1/34/Dialogue
+> CONTEXT: Map010/events/9/pages/0/52/Dialogue
+> CONTEXT: Map010/events/9/pages/1/18/Dialogue
+> CONTEXT: Map002/events/11/pages/1/77/Dialogue
+> CONTEXT: Map010/events/9/pages/1/52/Dialogue
+> CONTEXT: Map010/events/10/pages/1/32/Dialogue
+> CONTEXT: Map010/events/10/pages/1/56/Dialogue
+> CONTEXT: Map010/events/10/pages/2/32/Dialogue
+> CONTEXT: Map010/events/10/pages/2/56/Dialogue
+> CONTEXT: Map010/events/10/pages/3/17/Dialogue
+おにいさん
+「!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(わあ・・・すっごい見てる・・・)」
+> CONTEXT: Map002/events/10/pages/1/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/4/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こんな間近でおまんこ見られちゃうなんて・・・
+　 ドキドキする\\i[122])」
+> CONTEXT: Map002/events/10/pages/1/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「ｼﾞｰ」
+> CONTEXT: Map002/events/10/pages/1/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ・・・
+　 そんなに見つめられると・・・濡れてきちゃう\\i[122])」
+> CONTEXT: Map002/events/10/pages/1/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こんなに近くで見られていたら
+　 濡れてるのばれちゃってるかも・・・\\i[122])」
+> CONTEXT: Map002/events/10/pages/1/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「はぁはぁ」
+> CONTEXT: Map002/events/10/pages/1/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「うっ！」
+> CONTEXT: Map002/events/10/pages/1/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(お兄さん、股間を押さえて走っていっちゃった)」
+> CONTEXT: Map002/events/10/pages/1/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/10/pages/2/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/1/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(こんな間近でぱんつ見られちゃうなんて・・・
+　 ドキドキする\\i[122])」
+> CONTEXT: Map002/events/10/pages/2/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「へ？ ま、まあお好きにどうぞ
+　・・・って、え？ 裸!?」
+> CONTEXT: Map002/events/10/pages/4/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(おまんこもおっぱいも、
+　 至近距離で見つめられちゃってるよぅ)」
+> CONTEXT: Map002/events/10/pages/4/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「あ、あの、好きでそんな格好してるんですか？
+　さ、さわっ・・・触ってみてもいいかな？」
+> CONTEXT: Map002/events/10/pages/4/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「好きでやってるけど見られるのが好きなだけなので
+　触るのはダメですよ\\i[122]」
+> CONTEXT: Map002/events/10/pages/4/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「じゃ、じゃああの・・・オナニー
+　してもいいかな？」
+> CONTEXT: Map002/events/10/pages/4/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「それは・・・どうぞご自由に」
+> CONTEXT: Map002/events/10/pages/4/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「それじゃ失礼します！
+　ﾎﾞﾛﾝ・・・ｼｺｼｺｼｺ」
+> CONTEXT: Map002/events/10/pages/4/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「わあ、すごい激しい・・・
+　どうですか？ 普段と比べて気持ちいいですか？」
+> CONTEXT: Map002/events/10/pages/4/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「あ、ああ・・・すごく良いよ
+　こんなの初めてだ・・・手が止まらないよ
+　も、もう出るっ！」
+> CONTEXT: Map002/events/10/pages/4/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「ﾄﾞﾋﾟｭ」
+> CONTEXT: Map002/events/10/pages/4/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「・・・\\i[122]」
+> CONTEXT: Map002/events/10/pages/4/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/10/pages/3/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(このまま階段を上ると・・・
+　 今ぱんつはいていないから
+　 座っているお兄さんにおまんこ見えちゃうかも・・・)」
+> CONTEXT: Map002/events/11/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上る
+> CONTEXT: Map002/events/11/pages/0/27/Choice/0
+> CONTEXT: Map002/events/11/pages/1/26/Choice/0
+Get up
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ・・・おまんこ見られちゃった\\i[122])」
+> CONTEXT: Map002/events/11/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(このまま階段を降りると・・・
+　 今ぱんつはいていないから
+　 座っているお兄さんにおまんこ見えちゃうかも・・・)」
+> CONTEXT: Map002/events/11/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+降りる
+> CONTEXT: Map002/events/11/pages/0/71/Choice/0
+> CONTEXT: Map002/events/11/pages/1/69/Choice/0
+Get down
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(このまま階段を上ると
+　 座っているお兄さんにぱんつ見えちゃうかも・・・)」
+> CONTEXT: Map002/events/11/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ・・・ぱんつ見られちゃった\\i[122])」
+> CONTEXT: Map010/events/9/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/1/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/1/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/11/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(このまま階段を降りると
+　 座っているお兄さんにぱんつ見えちゃうかも・・・)」
+> CONTEXT: Map002/events/11/pages/1/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/9/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オナニーしちゃう
+> CONTEXT: Map002/events/12/pages/1/53/Choice/0
+> CONTEXT: Map002/events/12/pages/2/53/Choice/0
+> CONTEXT: Map002/events/12/pages/3/53/Choice/0
+Masturbate
+> END STRING
+
+> BEGIN STRING
+オナニーしてみせる
+> CONTEXT: Map002/events/12/pages/4/88/Choice/0
+> CONTEXT: Map002/events/12/pages/5/88/Choice/0
+> CONTEXT: Map002/events/12/pages/6/88/Choice/0
+Show masturbation
+> END STRING
+
+> BEGIN STRING
+そんなことはしない
+> CONTEXT: Map002/events/12/pages/4/88/Choice/1
+> CONTEXT: Map002/events/12/pages/5/88/Choice/1
+> CONTEXT: Map002/events/12/pages/6/88/Choice/1
+Don't do such a thing
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「じゃあ、この本もらってもいいかな？」
+> CONTEXT: Map002/events/12/pages/4/288/Dialogue
+> CONTEXT: Map002/events/12/pages/5/288/Dialogue
+> CONTEXT: Map002/events/12/pages/6/293/Dialogue
+\\n[1]
+「Then, may I get this book?」
+> END STRING
+
+> BEGIN STRING
+男の子
+「はい・・・・でも・・・・ﾓｼﾞﾓｼﾞ」
+> CONTEXT: Map002/events/12/pages/4/291/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/291/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「・・・うーん、それじゃあ私がまだこの街にいる間
+　この本を預かっていてもらおうかな
+　またこの本読みたくなったら借りにくるから・・・」
+> CONTEXT: Map002/events/12/pages/4/303/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/5/303/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/6/308/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「そのときはまた一緒にオナニーしよう！」
+> CONTEXT: Map002/events/12/pages/4/311/Dialogue
+> CONTEXT: Map002/events/12/pages/5/311/Dialogue
+> CONTEXT: Map002/events/12/pages/6/316/Dialogue
+\\n[1]
+「Let's masturbate together!」
+> END STRING
+
+> BEGIN STRING
+男の子
+「はい！」
+> CONTEXT: Map002/events/12/pages/4/314/Dialogue
+> CONTEXT: Map002/events/12/pages/5/314/Dialogue
+> CONTEXT: Map002/events/12/pages/6/319/Dialogue
+> CONTEXT: Map002/events/12/pages/7/43/Dialogue
+> CONTEXT: Map002/events/12/pages/7/88/Dialogue
+> CONTEXT: Map002/events/12/pages/8/34/Dialogue
+> CONTEXT: Map002/events/12/pages/8/79/Dialogue
+Boy
+「Sure!」
+> END STRING
+
+> BEGIN STRING
+男の子
+「あ、お姉さん・・・本、読みますか？」
+> CONTEXT: Map002/events/12/pages/7/24/Dialogue
+Boy
+「Ah, miss... want to reading that?」
+> END STRING
+
+> BEGIN STRING
+読む
+> CONTEXT: Map002/events/12/pages/7/27/Choice/0
+Read
+> END STRING
+
+> BEGIN STRING
+読まない
+> CONTEXT: Map002/events/12/pages/7/27/Choice/1
+Don't read
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「うん、じゃあ一緒にしよっか」
+> CONTEXT: Map002/events/12/pages/7/40/Dialogue
+> CONTEXT: Map002/events/12/pages/8/31/Dialogue
+\\n[1]
+「Yeah, let's read together」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ほら、ここ見て・・・
+　この漫画すごくエロいでしょう？」
+> CONTEXT: Map002/events/12/pages/7/57/Dialogue
+> CONTEXT: Map002/events/12/pages/8/48/Dialogue
+\\n[1]
+「Hey, look here...
+　isn't this manga erotic?」
+> END STRING
+
+> BEGIN STRING
+男の子
+「はいっ！
+　あぁ、お姉さん僕、もう・・・」
+> CONTEXT: Map002/events/12/pages/7/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/12/pages/8/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「私ももうすぐ・・・
+　それじゃ、一緒にイこうか・・・」
+> CONTEXT: Map002/events/12/pages/7/68/Dialogue
+> CONTEXT: Map002/events/12/pages/8/59/Dialogue
+\\n[1]
+「I'm close...
+　let's cum together...」
+> END STRING
+
+> BEGIN STRING
+ｸﾁｭｸﾁｭ
+
+ｼｺｼｺ
+> CONTEXT: Map002/events/12/pages/7/75/Dialogue
+> CONTEXT: Map002/events/12/pages/8/66/Dialogue
+Schlick schlick
+
+Fap fap
+> END STRING
+
+> BEGIN STRING
+二人
+「んあー、イくー！」
+> CONTEXT: Map002/events/12/pages/7/79/Dialogue
+> CONTEXT: Map002/events/12/pages/8/70/Dialogue
+Both of them
+「I'm, cuming~!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「はぁはぁ、気持ちよかったね」
+> CONTEXT: Map002/events/12/pages/7/85/Dialogue
+> CONTEXT: Map002/events/12/pages/8/76/Dialogue
+\\n[1]
+「Haahaa, that was good」
+> END STRING
+
+> BEGIN STRING
+男の子
+「あ、お姉さん・・・もう裸だ！
+　オナニー見せてください！」
+> CONTEXT: Map002/events/12/pages/8/24/Dialogue
+Boy
+「Ah, a girl... already naked!
+　Please masturbate for me!」
+> END STRING
+
+> BEGIN STRING
+一緒に遊ぶ
+> CONTEXT: Map002/events/14/pages/0/14/Choice/0
+> CONTEXT: Map002/events/14/pages/1/14/Choice/0
+> CONTEXT: Map002/events/14/pages/3/14/Choice/0
+> CONTEXT: Map002/events/14/pages/0/17/Label
+> CONTEXT: Map002/events/14/pages/0/17/Label
+> CONTEXT: Map002/events/14/pages/0/29/Label
+> CONTEXT: Map002/events/14/pages/0/29/Label
+> CONTEXT: Map002/events/14/pages/1/17/Label
+> CONTEXT: Map002/events/14/pages/1/17/Label
+> CONTEXT: Map002/events/14/pages/1/32/Label
+> CONTEXT: Map002/events/14/pages/1/32/Label
+Play together
+> END STRING
+
+> BEGIN STRING
+遊ばない
+> CONTEXT: Map002/events/14/pages/0/14/Choice/1
+> CONTEXT: Map002/events/14/pages/1/14/Choice/2
+> CONTEXT: Map002/events/14/pages/3/14/Choice/1
+Don't play
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(服が濡れちゃった・・・
+　 ちょっと透けちゃってるけど
+　 しかたないよね\\i[122])」
+> CONTEXT: Map002/events/14/pages/0/58/Dialogue
+> CONTEXT: Map002/events/14/pages/1/60/Dialogue
+\\n[1]
+「(My clothes got wet...
+　 They're a little transparent now
+　 not that I mind\\i[122])」
+> END STRING
+
+> BEGIN STRING
+裸になって一緒に遊ぶif(s[8]==true)
+> CONTEXT: Map002/events/14/pages/1/14/Choice/1
+Play naked together if(s[8]==true)
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(裸になっていたおかげで
+　 服が濡れなくてすんだよ)」
+> CONTEXT: Map002/events/14/pages/1/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/14/pages/3/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子供たち
+「お姉さん！ また遊ぼうねー！」
+> CONTEXT: Map002/events/14/pages/2/4/Dialogue
+Children
+「Miss! Let's play together~!」
+> END STRING
+
+> BEGIN STRING
+子供たち
+「おねえさんも裸だ！
+　一緒に遊んでくれるの!?」
+> CONTEXT: Map002/events/14/pages/3/10/Dialogue
+Children
+「Miss! You're naked!
+　Want to play together!?」
+> END STRING
+
+> BEGIN STRING
+？？？
+「ついさっき、近くで”縞ぱん”と聞こえたんだが
+　もしかして君が縞ぱんをはいているのかい？」
+> CONTEXT: Map002/events/22/pages/1/3/Dialogue
+???
+「I heard "shimapan" just now
+　are you wearing them by any chance?」
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「ああ、失礼、私は”綿ぱんつ子”というペンネームで
+　漫画家をしている者なんだが、もし君が縞ぱんをはいているのなら
+　うちでぱんつモデルをしてくれないかな？」
+> CONTEXT: Map002/events/22/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ええっ!? あなたがあの”綿ぱんつ子”先生なんですか!?
+　私、先生の大ファンなんです！
+　特に先生の描かれるぱんつの質感とかエロくって・・・」
+> CONTEXT: Map002/events/22/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「本当かい？ それは嬉しいな！
+　後でサインをあげるよ
+　それでぱんつモデルはしてくれるかな？」
+> CONTEXT: Map002/events/22/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+する
+> CONTEXT: Map002/events/22/pages/1/25/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/22/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/27/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/27/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/39/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/1/39/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/10/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/10/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/22/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/22/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/24/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/24/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/37/Label < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/37/Label < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「そうか、残念だ
+　もし気が変わったらまた話しかけておくれ」
+> CONTEXT: Map002/events/22/pages/1/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「もちろん、先生のお役に立てるのなら・・・！」
+> CONTEXT: Map002/events/22/pages/1/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「ありがとう
+　では家の中へどうぞ」
+> CONTEXT: Map002/events/22/pages/1/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「はい！」
+> CONTEXT: Map002/events/22/pages/1/53/Dialogue
+\\n[1]
+「Sure!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ぱんつを脱いだの忘れていたよ・・・)」
+> CONTEXT: Map002/events/22/pages/1/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/2/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「あ、縞ぱんちゃん
+　もし時間があるなら
+　また縞ぱんをスケッチさせておくれ」
+> CONTEXT: Map002/events/22/pages/2/3/Dialogue
+Panties Enthusiast
+「Ah, miss shimapan
+　If you have time
+　I'll sketch your shimapan」
+> END STRING
+
+> BEGIN STRING
+はい、喜んで
+> CONTEXT: Map002/events/22/pages/2/8/Choice/0
+With pleasure
+> END STRING
+
+> BEGIN STRING
+ごめんなさい
+> CONTEXT: Map002/events/22/pages/2/8/Choice/1
+Sorry
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「どうぞ、私のぱんつ見てください\\i[122]」
+> CONTEXT: Map002/events/22/pages/2/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「うむ、今回も可愛くてエッチな縞ぱんだ！
+　いいぞ！ ペンが進む！」
+> CONTEXT: Map002/events/22/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁん、また先生に褒められちゃった・・・\\i[122])」
+> CONTEXT: Map002/events/22/pages/2/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「あ、縞ぱんちゃん
+　君を待っていたんだ」
+> CONTEXT: Map002/events/22/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「えっ!? 私のことを・・・？」
+> CONTEXT: Map002/events/22/pages/3/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「実は君のおかげでいい縞ぱん漫画を描けそうだったんだが
+　私の縞ぱん作画にアシスタントたちが
+　ついて来れないみたいでね・・・」
+> CONTEXT: Map002/events/22/pages/3/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「よかったら、アシスタントたちにも
+　君の縞ぱんをスケッチさせてもらえないだろうか？」
+> CONTEXT: Map002/events/22/pages/3/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「今日はありがとう助かったよ
+　だがアシスタントたちはまだまだ未熟だ
+　よかったらまたぱんつモデルをしに来ておくれ」
+> CONTEXT: Map002/events/22/pages/3/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「ｼﾞｰ」
+> CONTEXT: Map002/events/22/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁ・・・濡れた服が身体に張り付いて
+　 透けちゃっている様子を見られちゃってるよぅ・・・\\i[122])」
+> CONTEXT: Map002/events/22/pages/4/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/4/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「縞ぱんちゃん、良い縞ぱん具合だよ！
+　ぜひまたスケッチさせてもらいたいところだが・・・」
+> CONTEXT: Map002/events/22/pages/4/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「水浸しのまま仕事場に入れるわけにはいかないんだ
+　残念だけれど、身体を拭いたらまたスケッチさせておくれ」
+> CONTEXT: Map002/events/22/pages/4/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「き、君ぃ！ 縞ぱんちゃんだろ!?
+　縞ぱんはいったいどうしたのかね？」
+> CONTEXT: Map002/events/22/pages/4/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/5/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「ちゃんと縞ぱんをはかないと
+　縞ぱんちゃんが縞ぱんちゃんでなくなってしまうよ！」
+> CONTEXT: Map002/events/22/pages/4/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「ｼﾞｰ」
+> CONTEXT: Map002/events/22/pages/4/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「き、君は縞ぱんをはいているのかい!?
+　僕は漫画家をしていてね、ぜひ資料として
+　君の縞ぱんをスケッチさせて欲しいと思ったのだが・・・」
+> CONTEXT: Map002/events/22/pages/4/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「水浸しのまま仕事場に入れるわけにはいかないんだ
+　残念だけれど、身体を拭いたらまたスケッチさせておくれ」
+> CONTEXT: Map002/events/22/pages/4/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「君はぱんつをはいていないのかい？
+　ぱんつはいいぞ。特に綿100％のものがいい。」
+> CONTEXT: Map002/events/22/pages/4/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/22/pages/5/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「身体を乾かして
+　ぱんつをはいたら、またおいで」」
+> CONTEXT: Map002/events/22/pages/4/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綿ぱんつ子
+「ちゃんと縞ぱんをはかないと
+　縞ぱんちゃんが縞ぱんちゃんでなくなってしまうよ！
+　まったくもう！」
+> CONTEXT: Map002/events/22/pages/5/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「ぱんつをはいたら、またおいで」」
+> CONTEXT: Map002/events/22/pages/5/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小僧
+「ってお前ずぶ濡れじゃねぇか！
+　早く乾かさないと風邪をひくぞ！」
+> CONTEXT: Map002/events/23/pages/3/20/Dialogue
+Youngster
+「You're drippping wet!
+　You'll catch a cold if you don't dry yourself」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(案外良い子だ)」
+> CONTEXT: Map002/events/23/pages/3/34/Dialogue
+\\n[1]
+「(He's a surprisingly good kid)」
+> END STRING
+
+> BEGIN STRING
+小僧
+「・・・ってめくるものがねぇじゃねぇか！
+　俺はめくられて恥ずかしがる女子を見たいんだよー！
+　チクショー！」
+> CONTEXT: Map002/events/23/pages/4/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「・・・な、なんだよ
+　別に何もしようとしてねえよ！」
+> CONTEXT: Map002/events/24/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「・・・な、なんだよ
+　濡れたままの服着てると風邪ひくぞ！」
+> CONTEXT: Map002/events/24/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「・・・な、なんだよ
+　服を着ろよ！」
+> CONTEXT: Map002/events/24/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ｿﾜｿﾜ」
+> CONTEXT: Map002/events/25/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ｼﾞｰ」
+> CONTEXT: Map002/events/25/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/26/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/34/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/38/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/43/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/45/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「やっぱり俺はスカートから覗くチラリズムがいいかな」
+> CONTEXT: Map002/events/25/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「まためくられに来てくれよな！」
+> CONTEXT: Map002/events/25/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「チラリズムが大事なんだ・・・」
+> CONTEXT: Map002/events/25/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ﾄﾞｷﾄﾞｷ」
+> CONTEXT: Map002/events/26/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「透けてしまっていることに気づかずに
+　平然とおっぱいを見られてる女の子・・・
+　いいぞ！」
+> CONTEXT: Map002/events/26/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「良いめくられっぷりだったぞ！」
+> CONTEXT: Map002/events/26/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「自分の意思とは別に
+　露出してしまっている女の子が好きなんだ・・・」
+> CONTEXT: Map002/events/26/pages/3/0/Dialogue
+Person
+「Contrary to your goal
+　that girl wants to be exposed」
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「水を飲むときにこぼしてしまったのかな？
+　ﾄﾞｷﾄﾞｷ・・・」
+> CONTEXT: Map002/events/28/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「もしかして君は変態さんかい？
+　君をオカズにオナニーしてもいいかな？」
+> CONTEXT: Map002/events/28/pages/2/3/Dialogue
+Mister sitting on the bench
+「Are you pervert by any chance?
+　Do you mind if I masturbate with you?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「見るだけなら・・・どうぞ\\i[122]」
+> CONTEXT: Map002/events/28/pages/2/10/Dialogue
+\\n[1]
+「If you only look... sure\\i[122]」
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「ｼｺｼｺ・・・ﾄﾞﾋﾟｭ」
+> CONTEXT: Map002/events/28/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「わあ、早いですね」
+> CONTEXT: Map002/events/28/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「いや、まだまだいけるぜ
+　ｼｺｼｺｼｺ・・・ﾄﾞﾋﾟｭ
+　ｼｺｼｺｼｺｼｺ・・・ﾄﾞﾋﾟｭ」
+> CONTEXT: Map002/events/28/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「・・・ﾄﾞﾋﾟｭ
+　はぁはぁ、もう出ねぇ・・・」
+> CONTEXT: Map002/events/28/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「たくさん出ましたね、すごいです！」
+> CONTEXT: Map002/events/28/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「へへへ・・・」
+> CONTEXT: Map002/events/28/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベンチに座っているおじさん
+「服を着たほうがいいんじゃあないかな
+　裸で外を歩き回るのは犯罪だよ」
+> CONTEXT: Map002/events/28/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(水飲み場がある
+　 ここで水を飲んだら、すぐ近くでベンチに座っているおじさんに
+　 色々見えちゃうかもしれない)」
+> CONTEXT: Map002/events/29/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさんのいる側から飲む
+> CONTEXT: Map002/events/29/pages/0/24/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おじさんの反対側から飲む
+> CONTEXT: Map002/events/29/pages/0/24/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飲まない
+> CONTEXT: Map002/events/29/pages/0/24/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(この格好なら、別に水を飲むふりをしなくても
+　 見てもらえるよね)」
+> CONTEXT: Map002/events/29/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「あなた、その道を通るの？」
+> CONTEXT: Map002/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/30/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/32/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/32/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通りすがりのお姉さん
+「その道には"スカートめくり小僧"が出るのよ」
+> CONTEXT: Map002/events/30/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/30/pages/2/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/32/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/32/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通りすがりのお姉さん
+「近くにいる男たちも"スカートめくり小僧"が
+　スカートをめくるところをみようと待機しているのよ」
+> CONTEXT: Map002/events/30/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/32/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通りすがりのお姉さん
+「スカートをめくられてぱんつを見られたくなければ
+　その道は通らないことね」
+> CONTEXT: Map002/events/30/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/32/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通りすがりのお姉さん
+「・・・って、あなたはスカートめくり対策は万全のようね
+　その方法はどうかと思うけど」
+> CONTEXT: Map002/events/30/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/32/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「この大きな家には漫画家が住んでいるんだよ
+　どんな人かは知らないけど
+　よほどの売れっ子なんだろうな」
+> CONTEXT: Map002/events/34/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ここの漫画家が雇ったヌードデッサンモデルかい？
+　僕にもちょっと見せてくれないかな」
+> CONTEXT: Map002/events/34/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「見るだけでしたら・・・どうぞ\\i[122]」
+> CONTEXT: Map002/events/34/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ふむふむ・・・なるほど
+　ｼｺｼｺｼｺ・・・ﾄﾞﾋﾟｭ」
+> CONTEXT: Map002/events/34/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱いでみる
+> CONTEXT: Map002/events/35/pages/0/13/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめておく
+> CONTEXT: Map002/events/35/pages/0/13/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お兄さん
+「へへへ、ようねえちゃん！
+　裸でこんな路地裏に入って行くなんて
+　襲ってくれって言ってるようなもんだぜ」
+> CONTEXT: Map002/events/35/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「いやーやめてーあーれー」
+> CONTEXT: Map002/events/35/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(なんてことになるかもしれないから
+　 目立つ格好で路地裏に入るのはやめておこう)」
+> CONTEXT: Map002/events/35/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ここの銭湯、混浴しかないんだって
+　そんなの実質女は利用できないってことじゃない」
+> CONTEXT: Map002/events/37/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「濡れたままだと風邪をひいてしまうよ
+　ここが混浴なんかじゃなければ
+　銭湯で温まることができたのにね」
+> CONTEXT: Map002/events/37/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「あなた混浴に入る気なの？
+　それにしてももう脱いじゃうなんて気が早すぎよ・・・
+　それじゃ変態だよ・・・」
+> CONTEXT: Map002/events/37/pages/2/3/Dialogue
+Person
+「Are you going to the mixed bath?
+　You're really impatient to get undressed...
+　You must be a pervert...」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「\\i[122]」
+> CONTEXT: Map002/events/37/pages/2/11/Dialogue
+\\n[1]
+「\\i[122]」
+> END STRING
+
+> BEGIN STRING
+モブ
+「・・・」
+> CONTEXT: Map002/events/38/pages/0/0/Dialogue
+> CONTEXT: Map002/events/39/pages/0/0/Dialogue
+> CONTEXT: Map002/events/43/pages/0/0/Dialogue
+Person
+「...」
+> END STRING
+
+> BEGIN STRING
+モブ
+「う、うわぁー！ 裸の女だー！」
+> CONTEXT: Map002/events/38/pages/2/3/Dialogue
+Person
+「Woah~! A naked girl~!」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ﾋﾞｸｯ」
+> CONTEXT: Map002/events/38/pages/2/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ｼｺｼｺｼｺ・・・ﾄﾞﾋﾟｭ」
+> CONTEXT: Map002/events/38/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「あなた、おっぱい透けちゃってるよ？」
+> CONTEXT: Map002/events/39/pages/1/3/Dialogue
+Person
+「Are your breasts transparent?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「は、はい・・・\\i[122]」
+> CONTEXT: Map002/events/39/pages/1/9/Dialogue
+> CONTEXT: Map002/events/39/pages/2/10/Dialogue
+\\n[1]
+「Oh, yeah...\\i[122]」
+> END STRING
+
+> BEGIN STRING
+モブ
+「あなた、どうしたの？
+　服を着るのを忘れているよ？」
+> CONTEXT: Map002/events/39/pages/2/3/Dialogue
+Person
+「What happened?
+　Did you forget to wear clothes?」
+> END STRING
+
+> BEGIN STRING
+モブ
+「全裸のまま歩き回るなんて
+　とんだ変態さんだね
+　おっぱい触ってもいいかな？」
+> CONTEXT: Map002/events/43/pages/2/3/Dialogue
+Person
+「To walk around completely naked
+　You're a real pervert
+　May I touch your breasts?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「だ、ダメです・・・\\i[122]」
+> CONTEXT: Map002/events/43/pages/2/11/Dialogue
+\\n[1]
+「N-no you can't...\\i[122]」
+> END STRING
+
+> BEGIN STRING
+モブ
+「むう、しかたがない・・・
+　ではオナニーだけさせてもらうとしよう
+　ｼｺｼｺｼｺ・・・ﾄﾞﾋﾟｭ」
+> CONTEXT: Map002/events/43/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「ﾜｲﾜｲ」
+> CONTEXT: Map002/events/44/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「おねえさん、おっぱいみえちゃってるよー！
+　ろしゅつきょーのへんたいなの？」
+> CONTEXT: Map002/events/44/pages/1/3/Dialogue
+Person
+「Miss, your breasts are visible~!
+　Are you an exhibitionist?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「こ、これは服が濡れてしまったから
+　しかたのないことなんだよ
+　だからセーフなんだよ・・・」
+> CONTEXT: Map002/events/44/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「おねえさん、おっぱいもおまんこもみえちゃってるよー！
+　ろしゅつきょーのへんたいなの？」
+> CONTEXT: Map002/events/44/pages/2/3/Dialogue
+Persons
+「Your breasts and pussy are visible~!
+　Are you an exhibitionist?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「池で遊ぶときは濡れちゃわないように
+　服を脱ぐでしょ？
+　だからセーフなんだよ・・・\\i[122]」
+> CONTEXT: Map002/events/44/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「おとなはいけであそばないし
+　あそんでもはだかにはならないよ」
+> CONTEXT: Map002/events/44/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「この本屋、薄暗いし、店員は無愛想だし
+　いつも客はいないしで、何か入りづらいだ」
+> CONTEXT: Map002/events/45/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「濡れた身体のままお店に入るのはどうかと思うよ」
+> CONTEXT: Map002/events/45/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「エロ本を買うために本屋に行こうかと思ってたけど
+　その必要はなくなったみたいだ
+　君の裸を見ながらオナニーしてもいいかな？」
+> CONTEXT: Map002/events/45/pages/2/3/Dialogue
+Person
+「I was going to buy some porn at the bookstore
+　but that doesn't seem necessary now
+　May I masturbate while seeing you naked?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「どうぞ\\i[122]」
+> CONTEXT: Map002/events/45/pages/2/11/Dialogue
+\\n[1]
+「Go ahead\\i[122]」
+> END STRING
+
+> BEGIN STRING
+モブ
+「ｼｺｼｺｼｺ・・・ﾄﾞﾋﾟｭ
+　・・・ありがとう、
+　今日の夜も君のことを思い出してオナニーするよ」
+> CONTEXT: Map002/events/45/pages/2/14/Dialogue
+Person
+「Fapfapfap...
+　...thank you,
+　I'll remember you when I masturbate tonight」
+> END STRING
+
+> BEGIN STRING
+モブ
+「あらあなた可愛いわね
+　よかったらお姉さんとイイコトしない？」
+> CONTEXT: Map002/events/46/pages/0/3/Dialogue
+Mob
+「My you're pretty
+　Do you want to feel really good?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ええっ!?
+　い、いえ、すみません・・・」
+> CONTEXT: Map002/events/46/pages/0/10/Dialogue
+\\n[1]
+「Huh!?
+　N-no, sorry」
+> END STRING
+
+> BEGIN STRING
+モブ
+「あらあなた可愛いおっぱいが透けちゃってるわよ？
+　お姉さんとイイコトする？
+　ﾂﾝﾂﾝ」
+> CONTEXT: Map002/events/46/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ひゃぁん！
+　ごっ、ごめんなさい！」
+> CONTEXT: Map002/events/46/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/46/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モブ
+「あらあなたすっぱだかだなんて大胆ね
+　やっとお姉さんとイイコトする気になってくれたのね
+　ｸﾁｭｸﾁｭ」
+> CONTEXT: Map002/events/46/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING

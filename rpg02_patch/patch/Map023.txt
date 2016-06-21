@@ -1,0 +1,2833 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\name[酒場の店主]いらっしゃい
+何か食べていくかい？
+> CONTEXT: Map023/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食事する(150円)
+> CONTEXT: Map023/events/1/pages/0/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](今日のランチはもう十分に食べたよね)
+> CONTEXT: Map023/events/1/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そんなにお金を持っていなかったよ・・・
+ 宿で出されるディナーだけで我慢しよう・・・)
+> CONTEXT: Map023/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾓｸﾞﾓｸﾞﾑｼｬﾑｼｬ
+> CONTEXT: Map023/events/1/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ごちそうさまでした
+> CONTEXT: Map023/events/1/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+元気 +20
+お金 -150
+> CONTEXT: Map023/events/1/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おじさん]みんなバニーちゃんのおっぱいおっぱいと言ってるが
+僕はお股にも注目したいね！
+あのするどい角度、食い込みつつもギリギリ見えないおまんこがエロい！
+あの衣装を用意したマスターはいい仕事してるぜ！
+> CONTEXT: Map023/events/3/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](えぇ・・・おっぱい出してるのに
+ おまんこに注目している人もいるんだ・・・
+ こっそり角オナしてるのバレちゃうかも・・・)
+> CONTEXT: Map023/events/3/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それもそれで・・・むふふ♥)
+> CONTEXT: Map023/events/3/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー1 最初 ｼ見られる$game_variables[1]"
+> CONTEXT: Map023/events/4/pages/0/0/InlineScript/1:6
+"バニー1 最初 ｼ見られる$game_variables[1]"
+> END STRING
+
+> BEGIN STRING
+"酒場のマスター"
+> CONTEXT: Map023/events/4/pages/0/3/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/1/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/2/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/3/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/4/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/5/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/6/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/7/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/8/4/InlineScript/1:22
+> CONTEXT: Map023/events/4/pages/9/4/InlineScript/1:22
+"酒場のマスター"
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]仕事はバニースーツを着て接客だ
+メニューをとったり、酒や料理を運んだり、机を片付けたりだ
+まあ適当でいいぜ
+> CONTEXT: Map023/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]それじゃバニースーツに着替えてきてくれ
+> CONTEXT: Map023/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]わかりました
+> CONTEXT: Map023/events/4/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/22/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]き、着替えてきました
+> CONTEXT: Map023/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]よし、チェックするぞ
+> CONTEXT: Map023/events/4/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"bani1"
+> CONTEXT: Map023/events/4/pages/0/49/InlineScript/1:25
+"bani1"
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]ふむふむ(ｼﾞﾛｼﾞﾛ)
+> CONTEXT: Map023/events/4/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](わ・・・ち、近いよう
+ 正面からだと見えてないだろうけど
+ 上からだと乳首見えちゃってるんだよね
+ 常に露出してるみたいだよ・・・)
+> CONTEXT: Map023/events/4/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"bani2"
+> CONTEXT: Map023/events/4/pages/0/58/InlineScript/1:25
+"bani2"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ、お股もそんなに近くで・・・
+ 股間部の角度もきつくて、ぱんつ見えちゃうから
+ のーぱんだし変な感じ・・・恥ずかしいよう♥)
+> CONTEXT: Map023/events/4/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]ぶわっ(涙)
+> CONTEXT: Map023/events/4/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えぇ！？ なぜ泣くんですか！？
+> CONTEXT: Map023/events/4/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]俺はよぉ、ﾊﾞﾆｰガールのいる酒場を持つのが
+夢だったんだ
+それがついに・・・ついに・・・うううぅ
+> CONTEXT: Map023/events/4/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁ、そうですか
+> CONTEXT: Map023/events/4/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]よしじゃあそろそろお客が増える時間だ
+しっかり働いてくれよ！
+> CONTEXT: Map023/events/4/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA001"
+> CONTEXT: Map023/events/4/pages/0/95/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/0/107/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/0/111/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/0/119/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/16/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/26/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/36/InlineScript/1:25
+"baniA001"
+> END STRING
+
+> BEGIN STRING
+"baniA101"
+> CONTEXT: Map023/events/4/pages/0/95/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/0/107/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/55/InlineScript/3:25
+"baniA101"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]いらっしゃいませ、ご注文をどうぞ
+> CONTEXT: Map023/events/4/pages/0/99/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]！！
+> CONTEXT: Map025/events/5/pages/2/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/0/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/1/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/4/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/3/173/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/3/257/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/6/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/0/133/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/1/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/3/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/22/pages/6/237/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/5/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/0/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/0/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/1/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/3/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/3/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/5/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あ、お客さん驚いてる
+ 今まで店にﾊﾞﾆｰガールいなかったみたいだしね
+ そりゃあ驚くよね)
+> CONTEXT: Map023/events/4/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA109"
+> CONTEXT: Map023/events/4/pages/0/111/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/40/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/67/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/74/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/35/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/51/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/61/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/120/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/143/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/189/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/218/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/255/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/41/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/73/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/106/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/162/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/192/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/236/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/31/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/51/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/58/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/117/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/184/InlineScript/3:25
+> CONTEXT: Map023/events/8/pages/0/166/InlineScript/1:25
+"baniA109"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それに結構大胆な衣装だし・・・)
+> CONTEXT: Map023/events/4/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA102"
+> CONTEXT: Map023/events/4/pages/0/119/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/0/127/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/1/26/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/92/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/86/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/200/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/248/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/88/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/122/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/97/InlineScript/3:25
+> CONTEXT: Map023/events/8/pages/0/147/InlineScript/1:25
+"baniA102"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](じろじろと見すぎだよ・・・
+ こんなえっちな衣装姿を見知らぬ男の人に見られるなんて
+ 恥ずかしいよぅ♥)
+> CONTEXT: Map023/events/4/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA002"
+> CONTEXT: Map023/events/4/pages/0/127/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/0/135/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/0/143/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/0/151/InlineScript/1:25
+"baniA002"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ、どうしよう・・・
+ 見られすぎておまんこ濡れてきちゃいそうだよ
+ バレないうちに・・・)
+> CONTEXT: Map023/events/4/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA103"
+> CONTEXT: Map023/events/4/pages/0/135/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/51/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/130/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/27/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/80/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/112/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/226/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/24/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/40/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/76/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/176/InlineScript/3:25
+> CONTEXT: Map023/events/8/pages/0/175/InlineScript/1:25
+"baniA103"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お客様、ご注文は？
+> CONTEXT: Map023/events/4/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]あ、ああ！ じゃあこれとそれを
+> CONTEXT: Map023/events/4/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA104"
+> CONTEXT: Map023/events/4/pages/0/143/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/16/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/25/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/16/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/16/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/32/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/16/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/66/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/195/InlineScript/3:25
+"baniA104"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]かしこまりました
+> CONTEXT: Map023/events/4/pages/0/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA105"
+> CONTEXT: Map023/events/4/pages/0/151/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/1/16/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/1/36/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/31/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/42/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/29/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/135/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/207/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/99/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/130/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/149/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/183/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/218/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/87/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/108/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/154/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/164/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/219/InlineScript/3:25
+> CONTEXT: Map023/events/8/pages/0/160/InlineScript/1:25
+"baniA105"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](むふふ、えっちな衣装姿見られるの
+ 恥ずかしいけど・・・楽しい♥)
+> CONTEXT: Map023/events/4/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー2 胸ちら"
+> CONTEXT: Map023/events/4/pages/1/0/InlineScript/1:6
+"バニー2 胸ちら"
+> END STRING
+
+> BEGIN STRING
+\\name[客]うーんどうしようかなあ(ﾁﾗﾁﾗ)
+> CONTEXT: Map023/events/4/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]迷うなあ、もうちょっと待ってね(ｼﾞﾛｼﾞﾛ)
+> CONTEXT: Map023/events/4/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](うぅ、すごく見られてる
+ わざと注文を悩むふりをして思い切りこっちを見てるよ
+ 恥ずかしい・・・♥)
+> CONTEXT: Map023/events/4/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]じゃああれとこれね(ｼﾞﾛｼﾞﾛ)
+> CONTEXT: Map023/events/4/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はい、かしこまりました
+> CONTEXT: Map023/events/4/pages/1/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/4/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB001"
+> CONTEXT: Map023/events/4/pages/1/46/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/54/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/60/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/66/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/76/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/105/InlineScript/1:25
+"baniB001"
+> END STRING
+
+> BEGIN STRING
+"baniB104"
+> CONTEXT: Map023/events/4/pages/1/46/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/1/76/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/1/84/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/2/18/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/2/26/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/2/46/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/2/60/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/3/16/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/3/70/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/3/185/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/153/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/16/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/73/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/93/InlineScript/3:25
+"baniB104"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お待たせしました、どうぞ
+> CONTEXT: Map023/events/4/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB109"
+> CONTEXT: Map023/events/4/pages/1/54/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/2/34/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/165/InlineScript/1:25
+"baniB109"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]？
+> CONTEXT: Map023/events/4/pages/1/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/3/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB102"
+> CONTEXT: Map023/events/4/pages/1/60/InlineScript/3:25
+"baniB102"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・！
+> CONTEXT: Map023/events/4/pages/1/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/7/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/8/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/1/pages/1/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/5/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB103"
+> CONTEXT: Map023/events/4/pages/1/66/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/1/96/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/2/40/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/2/53/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/3/78/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/3/198/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/111/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/147/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/157/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/24/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/40/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/67/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/85/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/106/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/133/InlineScript/3:25
+"baniB103"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、今前かがみになってるから
+ 前から乳首見えちゃってるんだ
+ ど、どうしよう・・・♥)
+> CONTEXT: Map023/events/4/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ｼﾞｨｰ
+> CONTEXT: Map023/events/4/pages/1/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](じっと見すぎだよう
+ でも慌てて隠したり、手を止めるわけにはいかないよね
+ 料理を出し終わるまで我慢しないと・・・♥)
+> CONTEXT: Map023/events/4/pages/1/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB002"
+> CONTEXT: Map023/events/4/pages/1/84/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/1/96/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/2/18/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/2/26/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/2/34/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/2/40/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/2/46/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/2/53/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/2/60/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/16/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/70/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/78/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/185/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/191/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/198/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/206/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/3/214/InlineScript/1:25
+"baniB002"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]こちらがあれで
+> CONTEXT: Map023/events/4/pages/1/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]こちらがそれです
+> CONTEXT: Map023/events/4/pages/1/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ、おっぱいをずっと見られ続けて
+ どんどん気持ちよくなってきちゃった♥)
+> CONTEXT: Map023/events/4/pages/1/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]以上でございます
+ごゆっくりどうぞ
+> CONTEXT: Map023/events/4/pages/1/107/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/4/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](また次のお客さんにも
+ おっぱい見てもらっちゃおう♥)
+> CONTEXT: Map023/events/4/pages/1/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー3 胸ぽろり"
+> CONTEXT: Map023/events/4/pages/2/0/InlineScript/1:6
+"バニー3 胸ぽろり"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はい、どうぞ
+> CONTEXT: Map023/events/4/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ またおっぱい見られちゃってる・・・
+ 恥ずかしいよぅ♥)
+> CONTEXT: Map023/events/4/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、まだ上からちょっとしか見えてないよね)
+> CONTEXT: Map023/events/4/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・もうちょっと思い切って見せちゃおうかな♥)
+> CONTEXT: Map023/events/4/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](よし、体勢を戻すときにちょっと勢いをつければ
+ きっとぽろりしたままになっちゃう・・・)
+> CONTEXT: Map023/events/4/pages/2/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ、おっぱい丸出しにしちゃうのは
+ ちょっとキドキドするよ・・・♥)
+> CONTEXT: Map023/events/4/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](えいっ)
+> CONTEXT: Map023/events/4/pages/2/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]うお！！
+> CONTEXT: Map023/events/4/pages/2/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]きゃ、きゃあー
+> CONTEXT: Map023/events/4/pages/2/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾅｵｼﾅｵｼ
+> CONTEXT: Map023/events/4/pages/2/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/3/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/22/pages/6/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]・・・
+> CONTEXT: Map023/events/4/pages/2/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/4/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/6/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/6/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/9/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/9/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/2/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/215/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/5/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/8/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/8/163/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/5/219/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/6/217/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/8/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/8/228/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/9/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/27/pages/0/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/27/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/27/pages/0/237/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/0/153/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/1/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/2/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/5/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/8/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/8/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]え、えへへ・・・失礼しました
+> CONTEXT: Map023/events/4/pages/2/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/6/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/5/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/2/pages/5/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ、一瞬だけど
+ 完全におっぱい出しちゃった♥
+> CONTEXT: Map023/events/4/pages/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](お客さん驚いて声でちゃってたよ・・・
+ 私もそれで気づいたふりをして
+ すぐに隠せたからよかった・・・かな
+ あれならわざとぽろりしたってバレないよね♥)
+> CONTEXT: Map023/events/4/pages/2/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](何はともあれ
+ 恥ずかしかったけど・・・気持ちよかったぁ♥)
+> CONTEXT: Map023/events/4/pages/2/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー4 胸だしっぱなし"
+> CONTEXT: Map023/events/4/pages/3/0/InlineScript/1:6
+"バニー4 胸だしっぱなし"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]どうぞ、お料理は以上です
+> CONTEXT: Map023/events/4/pages/3/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾎﾟﾛﾝ
+> CONTEXT: Map023/events/4/pages/3/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/3/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]きゃっ！
+> CONTEXT: Map023/events/4/pages/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]！！
+・・・ｼﾞﾛｼﾞﾛ
+> CONTEXT: Map023/events/4/pages/3/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/3/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]し、失礼しましたっ
+> CONTEXT: Map023/events/4/pages/3/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](むふふ・・・わざとおっぱいぽろりして
+ お客さんに見られるの楽しい♥
+ 驚いた表情してジロジロと見られちゃって・・・)
+> CONTEXT: Map023/events/4/pages/3/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・もし、自分でぽろりに気づかなかったら
+ どうなるんだろう
+ お客さん、言ってくれるのかな・・・)
+> CONTEXT: Map023/events/4/pages/3/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お待たせいたしました
+> CONTEXT: Map023/events/4/pages/3/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]どうぞ
+> CONTEXT: Map023/events/4/pages/3/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/4/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+・・・
+> CONTEXT: Map023/events/4/pages/3/76/Dialogue
+> CONTEXT: Map029/events/20/pages/4/109/Dialogue
+> CONTEXT: Map029/events/20/pages/5/39/Dialogue
+> CONTEXT: Map029/events/20/pages/5/61/Dialogue
+> CONTEXT: Map021/events/3/pages/0/91/Dialogue
+> CONTEXT: Map021/events/3/pages/2/100/Dialogue
+> CONTEXT: Map029/events/21/pages/5/339/Dialogue
+> CONTEXT: Map007/events/8/pages/1/184/Dialogue
+> CONTEXT: Map006/events/1/pages/3/48/Dialogue
+> CONTEXT: Map019/events/64/pages/6/134/Dialogue
+> CONTEXT: Map005/events/1/pages/1/28/Dialogue
+> CONTEXT: Map006/events/1/pages/8/285/Dialogue
+...
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](よし、試してみよう
+ 今度はおっぱいぽろりしてから
+ お客さんに言われるまで
+ 気づかないふりを続けてみよう・・・！)
+> CONTEXT: Map023/events/4/pages/3/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 店内でおっぱい出したままにしちゃってる・・・
+ このまま立ってるだけでもすごく恥ずかしいよぅ♥)
+> CONTEXT: Map023/events/4/pages/3/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・ご、ご注文は以上です
+ごゆっくりどうぞ
+> CONTEXT: Map023/events/4/pages/3/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](お客さん、おっぱいを見つめ続けてる・・・
+ ぽろりしちゃってること、言わないつもりなんだ
+ このまま私におっぱい出したままに
+ させるつもりなんだ・・・♥)
+> CONTEXT: Map023/events/4/pages/3/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]で、では、失礼します・・・
+> CONTEXT: Map023/events/4/pages/3/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ このままじゃ、もっとたくさんの人に
+ 私のおっぱい見られちゃう・・・♥)
+> CONTEXT: Map023/events/4/pages/3/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも店主さんなら、さすがにぽろりしてること
+ 注意してくれるよね・・・？)
+> CONTEXT: Map023/events/4/pages/3/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あ、あの・・・
+お料理、お出ししてきました
+> CONTEXT: Map023/events/4/pages/3/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\v[1]]おう！ それじゃ次はそこに用意してある料理を
+あっちのテーブルに持っていってくれ
+> CONTEXT: Map023/events/4/pages/3/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・はい
+> CONTEXT: Map023/events/4/pages/3/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](店主さん調理に集中していて
+ こっちの様子に気がついてない・・・)
+> CONTEXT: Map023/events/4/pages/3/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](どうしよう・・・
+ 胸を戻すタイミングが分からないよぅ)
+> CONTEXT: Map023/events/4/pages/3/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お、お待たせいたしました
+> CONTEXT: Map023/events/4/pages/3/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ こっちのお客さんにも見られちゃってる・・・
+ おっぱい丸出しにしながら店内を歩いてくるところも
+ 見られちゃったよぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/3/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お料理をどうぞ・・・
+> CONTEXT: Map023/events/4/pages/3/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB105"
+> CONTEXT: Map023/events/4/pages/3/191/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/107/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/117/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/123/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/31/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/50/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/79/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/127/InlineScript/3:25
+"baniB105"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](このお客さんもおっぱいぽろりしちゃってること
+ 教えてくれないんだ・・・)
+> CONTEXT: Map023/events/4/pages/3/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そんなに私のおっぱい見続けたいと
+ 思ってくれてるんだ・・・♥)
+ はぁはぁ・・・嬉しい♥)
+> CONTEXT: Map023/events/4/pages/3/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB106"
+> CONTEXT: Map023/events/4/pages/3/206/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/4/141/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/58/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/99/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/112/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/119/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/142/InlineScript/3:25
+"baniB106"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ん・・・はぁ、ダメ・・・
+ こんなにおっぱい見られ続けてたら、もう・・・
+ イっちゃうぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/3/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB107"
+> CONTEXT: Map023/events/4/pages/3/214/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/5/158/InlineScript/3:25
+"baniB107"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁはぁ♥
+ご注文は、以上です・・・
+ごゆっくり、どうぞ♥
+> CONTEXT: Map023/events/4/pages/3/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ、どうしよう
+ もう私のおっぱい丸出しを止める人はいないよ・・・
+ このままずっとおっぱい出したままお仕事するのが
+ 当たり前になっちゃうよぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/3/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]いらっしゃいませー♥
+> CONTEXT: Map023/events/4/pages/3/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁん♥
+ また新たに他の人におっぱい見られちゃった♥)
+> CONTEXT: Map023/events/4/pages/3/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー5 角オナはじめる"
+> CONTEXT: Map023/events/4/pages/4/0/InlineScript/1:6
+"バニー5 角オナはじめる"
+> END STRING
+
+> BEGIN STRING
+"baniA003"
+> CONTEXT: Map023/events/4/pages/4/16/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/25/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/31/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/4/42/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/16/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/29/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/40/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/51/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/61/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/67/InlineScript/1:25
+"baniA003"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]いらっしゃいませ
+ご注文をどうぞ
+> CONTEXT: Map023/events/4/pages/4/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/6/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]う～む、そうだね・・・
+> CONTEXT: Map023/events/4/pages/4/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ おっぱい見られちゃってる・・・
+ もうずっとおっぱい出しっぱなしに
+ なっちゃってるよぅ・・・)
+> CONTEXT: Map023/events/4/pages/4/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]じゃあ、これとそれね
+> CONTEXT: Map023/events/4/pages/4/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ・・・こっちのお客さんも見てる・・・
+ 明るい店内でおっぱい出しっぱなしの姿
+ 色んなお客さんに見られちゃって・・・)
+> CONTEXT: Map023/events/4/pages/4/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んくっ・・・はぁはぁ・・・♥
+ ちょっと、もう、イキそう・・・)
+> CONTEXT: Map023/events/4/pages/4/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ おっぱい丸出しで・・・
+ みんなに注目されているのに
+ イっちゃったよぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/4/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お料理お持ちしました
+> CONTEXT: Map023/events/4/pages/4/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](むふふ・・・まだおっぱい見てる♥
+ さっき遠くからも見てたのに
+ 近くにきても思い切りじろじろ見てるよ・・・)
+> CONTEXT: Map023/events/4/pages/4/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥ ・・・)
+> CONTEXT: Map023/events/4/pages/4/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB003"
+> CONTEXT: Map023/events/4/pages/4/121/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/16/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/24/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/31/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/40/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/50/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/58/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/67/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/73/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/79/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/85/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/93/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/99/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/106/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/112/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/119/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/127/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/133/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/142/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/5/158/InlineScript/1:25
+"baniB003"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]こちらもどうぞ
+> CONTEXT: Map023/events/4/pages/4/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB201"
+> CONTEXT: Map023/events/4/pages/4/127/InlineScript/1:25
+"baniB201"
+> END STRING
+
+> BEGIN STRING
+ﾑﾆｭﾝ
+> CONTEXT: Map023/events/4/pages/4/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniB108"
+> CONTEXT: Map023/events/4/pages/4/131/InlineScript/1:25
+"baniB108"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ひゃう！
+> CONTEXT: Map023/events/4/pages/4/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]！？
+> CONTEXT: Map023/events/4/pages/4/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/8/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あ・・・あっ・・・・
+ テーブルの角がおまたに当たっちゃって・・・)
+> CONTEXT: Map023/events/4/pages/4/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](急な刺激で軽くイっちゃったよぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/4/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あ、声でちゃったんだ・・・
+ お客さんに変な人だと思われちゃう
+ なんとかごまかさないと・・・！)
+> CONTEXT: Map023/events/4/pages/4/149/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ぅんっ、こほん・・・
+> CONTEXT: Map023/events/4/pages/4/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ひっく、ひっく・・・
+すみません、急にしゃっくりが出てしまって
+ひっく
+> CONTEXT: Map023/events/4/pages/4/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・何とかうまくごまかせたみたい、よかった)
+> CONTEXT: Map023/events/4/pages/4/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ひっく！
+> CONTEXT: Map023/events/4/pages/4/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](さっきのテーブルの角がおまたにあたったの
+ びっくりしたけど・・・)
+> CONTEXT: Map023/events/4/pages/4/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](気持ちよかったなぁ♥)
+> CONTEXT: Map023/events/4/pages/4/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー6 料理出しながら角オナ"
+> CONTEXT: Map023/events/4/pages/5/0/InlineScript/1:6
+"バニー6 料理出しながら角オナ"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お料理を、どうぞ
+> CONTEXT: Map023/events/4/pages/5/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](今日もおっぱいばっかり
+ たくさん見られて・・・気持ちいい♥)
+> CONTEXT: Map023/events/4/pages/5/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ・・・
+ もう、イキたいよぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/5/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そういえば
+ この前のおまたにテーブルの角が当たったの
+ 気持ちよかったなぁ・・・)
+> CONTEXT: Map023/events/4/pages/5/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ちょっとやってみようかな)
+> CONTEXT: Map023/events/4/pages/5/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾄﾞｷﾄﾞｷ
+> CONTEXT: Map023/events/4/pages/5/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/11/pages/4/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/22/pages/0/117/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/22/pages/3/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/4/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/16/pages/5/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/18/pages/4/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/18/pages/8/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾑﾆｭﾝ
+> CONTEXT: Map023/events/4/pages/5/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/6/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ・・・ふはぁ
+ き、気持ちいい♥)
+> CONTEXT: Map023/events/4/pages/5/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はっ、料理をお出ししないと・・・！)
+> CONTEXT: Map023/events/4/pages/5/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ｽｯ
+> CONTEXT: Map023/events/4/pages/5/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/5/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/5/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、もっと気持ちよくなりたいよ・・・)
+> CONTEXT: Map023/events/4/pages/5/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](この体勢なら角に当たってるおまた部分は
+ お客さんから見えないから大丈夫だよね
+ 料理を出しながらでも、少しずつ・・・)
+> CONTEXT: Map023/events/4/pages/5/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾑﾆｭﾝ
+(んっ♥)
+> CONTEXT: Map023/events/4/pages/5/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/5/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 気持ちいいよぅ・・・
+ もうすぐイけそう)
+> CONTEXT: Map023/events/4/pages/5/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](なのに、もう料理を全部お出ししちゃったよ・・・)
+> CONTEXT: Map023/events/4/pages/5/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、今ここで止めることなんてできないよっ
+ もうちょっと・・・もうすぐイクからぁ・・・♥)
+> CONTEXT: Map023/events/4/pages/5/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾑﾆｭﾑﾆｭ
+> CONTEXT: Map023/events/4/pages/5/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/6/103/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/7/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/170/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/8/pages/0/149/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/8/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/5/187/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/4/193/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/4/215/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/4/260/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/4/279/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/5/196/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/6/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/6/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、はぁっ、んんっ・・・♥)
+> CONTEXT: Map023/events/4/pages/5/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ お客さん見てる・・・
+ 料理出し終わったのにそのままの体制だから
+ 絶対怪しく思われちゃってるよ・・・)
+> CONTEXT: Map023/events/4/pages/5/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、もうイクから・・・見てて・・・
+ そのまま見ていてくださいっ)
+> CONTEXT: Map023/events/4/pages/5/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ、んんはっ・・・イク・・・イっちゃうぅ♥)
+> CONTEXT: Map023/events/4/pages/5/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]お嬢さん
+どうしたんだい？
+> CONTEXT: Map023/events/4/pages/5/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁはぁはぁ・・・♥
+な、なんでも・・・ありません
+失礼致しました・・・はぁはぁ♥
+> CONTEXT: Map023/events/4/pages/5/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](イっちゃった・・・♥
+ お客さんの見てる目の前で
+ 角オナしながらイっちゃったよぅ♥)
+> CONTEXT: Map023/events/4/pages/5/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ちょっと怪しまれていたけど
+ バレてないみたいでよかった)
+> CONTEXT: Map023/events/4/pages/5/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](これからも料理をお出しするたびに
+ 角オナできると思うと・・・むふふふふ♥)
+> CONTEXT: Map023/events/4/pages/5/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー7 メニュー聞きながら角オナ"
+> CONTEXT: Map023/events/4/pages/6/0/InlineScript/1:6
+"バニー7 メニュー聞きながら角オナ"
+> END STRING
+
+> BEGIN STRING
+\\name[客]そうだねー
+(ｼﾞﾛｼﾞﾛｼﾞﾛ)
+> CONTEXT: Map023/events/4/pages/6/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]うーんとねー
+(ｼﾞﾛｼﾞﾛｼﾞﾛ)
+> CONTEXT: Map023/events/4/pages/6/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](おっぱい見てる・・・
+ このお客さんも注文に迷ってるふりして
+ 私のおっぱいを眺める時間を稼ぐタイプの
+ お客さんだ)
+> CONTEXT: Map023/events/4/pages/6/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ この何もせずにおっぱい出しながら待機してる時間が
+ とても恥ずかしいよぅ・・・
+ 他の席のお客さんもこっち見てるの感じちゃうし・・・♥)
+> CONTEXT: Map023/events/4/pages/6/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](で、でもさすがにちょっと長いよ・・・
+ 早く注文とって、料理をお出しするときに
+ 角オナしたいのにぃ・・・むぅ)
+> CONTEXT: Map023/events/4/pages/6/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA106"
+> CONTEXT: Map023/events/4/pages/6/61/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/82/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/99/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/6/119/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/45/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/126/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/153/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/161/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/226/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/238/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/140/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/172/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/200/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/126/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/201/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/207/InlineScript/3:25
+> CONTEXT: Map023/events/8/pages/0/151/InlineScript/1:25
+> CONTEXT: Map023/events/8/pages/0/183/InlineScript/1:25
+"baniA106"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](オナニーしたい・・・角オナしたいよぅ・・・)
+> CONTEXT: Map023/events/4/pages/6/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・このお客さんおっぱいばっかり見てるし
+ 今角オナしてもバレないんじゃ・・・)
+> CONTEXT: Map023/events/4/pages/6/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA004"
+> CONTEXT: Map023/events/4/pages/6/74/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/82/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/92/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/99/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/113/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/119/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/6/130/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/16/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/27/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/35/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/45/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/51/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/32/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/41/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/55/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/61/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/73/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/80/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/88/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/99/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/106/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/112/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/122/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/130/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/140/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/149/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/162/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/172/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/183/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/192/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/200/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/208/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/218/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/226/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/8/236/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/16/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/24/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/31/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/40/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/51/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/58/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/66/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/76/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/87/InlineScript/1:25
+> CONTEXT: Map023/events/8/pages/0/145/InlineScript/1:25
+"baniA004"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・ｺｿｺｿ
+> CONTEXT: Map023/events/4/pages/6/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁん♥
+ 気持ちいい・・・
+ 長い間我慢したあとのオナニーはたまらないよぅ♥)
+> CONTEXT: Map023/events/4/pages/6/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](・・・よかった、やっぱりおっぱいに集中しているみたい
+ それじゃあ、もっと気持ちよくなっちゃおう♥)
+> CONTEXT: Map023/events/4/pages/6/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 見られてる・・・見られてるのに
+ オナニーしてるってバレないなんて・・・素敵っ♥)
+> CONTEXT: Map023/events/4/pages/6/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](視線を感じるのにオナニーし続けられるの・・・
+ 気持ちいいよぅ♥
+ んんっ、あぁっ、もう・・・イっちゃうぅ♥)
+> CONTEXT: Map023/events/4/pages/6/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA107"
+> CONTEXT: Map023/events/4/pages/6/113/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/183/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/208/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/9/144/InlineScript/3:25
+> CONTEXT: Map023/events/8/pages/0/191/InlineScript/1:25
+"baniA107"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁはぁ♥
+ 長い間我慢していただけあって
+ すぐにイけちゃったぁ♥)
+> CONTEXT: Map023/events/4/pages/6/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]・・・あれとこれと・・・
+ん？ 君、聞いているのかい？
+> CONTEXT: Map023/events/4/pages/6/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はっ！ はい！
+大丈夫ですよ！ それとあれですね！
+少々お待ちください！
+> CONTEXT: Map023/events/4/pages/6/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー8 メニュー聞きながら角オナ 水かかる"
+> CONTEXT: Map023/events/4/pages/7/0/InlineScript/1:6
+"バニー8 メニュー聞きながら角オナ 水かかる"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]いらっしゃいませ
+ご注文をどうぞ♥
+> CONTEXT: Map023/events/4/pages/7/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]うーんちょっと待ってねー
+> CONTEXT: Map023/events/4/pages/7/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あ、また注文を長引かせてる間に
+ おっぱいを眺め続けようとするお客さんだ
+ 最近多いなあ)
+> CONTEXT: Map023/events/4/pages/7/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、注文中でも料理を出してる最中でも
+ 角オナすることができるようになった私には
+ もはや敵なしだよ)
+> CONTEXT: Map023/events/4/pages/7/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁん、気持ちいい♥)
+> CONTEXT: Map023/events/4/pages/7/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](おっぱいも見てもらえるし
+ その間角オナしながら待っていられるし
+ このお仕事素敵すぎるよ・・・♥)
+> CONTEXT: Map023/events/4/pages/7/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ふぅむ
+> CONTEXT: Map023/events/4/pages/7/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA005"
+> CONTEXT: Map023/events/4/pages/7/61/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/72/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/78/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/86/InlineScript/1:25
+"baniA005"
+> END STRING
+
+> BEGIN STRING
+\\name[客]ｶﾀﾝ
+ﾍﾞｼｬｱ
+> CONTEXT: Map023/events/4/pages/7/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]へ？
+> CONTEXT: Map023/events/4/pages/7/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/1/pages/3/191/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/18/pages/7/379/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾋﾟﾁｮ
+> CONTEXT: Map023/events/4/pages/7/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA108"
+> CONTEXT: Map023/events/4/pages/7/72/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/7/78/InlineScript/3:25
+> CONTEXT: Map023/events/4/pages/8/61/InlineScript/3:25
+"baniA108"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]っ！！？
+> CONTEXT: Map023/events/4/pages/7/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ、急に冷たい水が
+ 火照ったおまんこを刺激して
+ 軽くイっちゃったよぅ♥)
+> CONTEXT: Map023/events/4/pages/7/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、声を抑えられてよかった・・・)
+> CONTEXT: Map023/events/4/pages/7/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]コップを倒して水をこぼしてしまったよ
+申し訳ない
+> CONTEXT: Map023/events/4/pages/7/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]大丈夫ですよ
+すぐにテーブルを拭きますね
+> CONTEXT: Map023/events/4/pages/7/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]おやおや
+こぼれた水がお嬢さんのおまたにかかってしまったみたいだね
+> CONTEXT: Map023/events/4/pages/7/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あっ・・・えっと、じゃあ・・・
+おまたも拭かないといけませんね・・・♥
+> CONTEXT: Map023/events/4/pages/7/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA006"
+> CONTEXT: Map023/events/4/pages/7/120/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/126/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/135/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/143/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/153/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/161/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/183/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/189/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/200/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/255/InlineScript/1:25
+"baniA006"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]んっ♥
+> CONTEXT: Map023/events/4/pages/7/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]！
+ｼﾞﾛｼﾞﾛ
+> CONTEXT: Map023/events/4/pages/7/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 見られてる・・・
+ おまんこふきふきしてるところ見られちゃってるよ・・・♥)
+> CONTEXT: Map023/events/4/pages/7/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](で、でもこれは、ただ拭いてるだけだから・・・
+ 故意におまんこを刺激して気持ちよくなったり
+ してるわけじゃないから・・・)
+> CONTEXT: Map023/events/4/pages/7/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あぁん♥ あっ・・・んんっ♥
+> CONTEXT: Map023/events/4/pages/7/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](お、お客さん、いつもはおっぱいばっかり見てるのに・・・
+ そんなに見られてると
+ どんどんおまんこ気持ちよくなっちゃうよぅ♥)
+> CONTEXT: Map023/events/4/pages/7/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ ダメぇっ・・・拭いてるのに・・・
+ おまんこからえっちなお汁が出てきちゃう♥)
+> CONTEXT: Map023/events/4/pages/7/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾌｷﾌｷﾌｷ
+> CONTEXT: Map023/events/4/pages/7/173/Dialogue
+\\name[\\n[1]]*wipe* *wipe*
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](ああん、んん・・・
+ 出てきたお汁も拭くために
+ しっかりと拭こうとしたら・・・)
+> CONTEXT: Map023/events/4/pages/7/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](気持ちよすぎて
+ オナニーしてるわけじゃないのに
+ イっちゃうよぅ♥)
+> CONTEXT: Map023/events/4/pages/7/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](オナニーじゃないけど
+ おまんこふきふきしてイクところ
+ 見られちゃったぁ♥)
+> CONTEXT: Map023/events/4/pages/7/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ん？ どうしたんだい？
+拭けたかい？
+> CONTEXT: Map023/events/4/pages/7/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えっと、あの・・・
+拭いたんですけど・・・
+> CONTEXT: Map023/events/4/pages/7/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA007"
+> CONTEXT: Map023/events/4/pages/7/207/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/218/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/226/InlineScript/1:25
+"baniA007"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ちゃんと、拭けているか・・・
+確認してもらえませんか？
+> CONTEXT: Map023/events/4/pages/7/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、はぁん♥
+ 私、自分からおまたの布を引っ張って
+ お客さんに見せちゃってる・・・♥)
+> CONTEXT: Map023/events/4/pages/7/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](布がおまんこに食い込んで気持ちいい・・・
+ でも、おまんこのお肉はみだしちゃってるよね
+ そんなのところも見られちゃってるんだ・・・
+ 恥ずかしいよぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/7/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]う、うむぅ・・・よく確認しなければ・・・
+(ｼﾞﾛｼﾞﾛｼﾞﾛ)
+> CONTEXT: Map023/events/4/pages/7/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"baniA008"
+> CONTEXT: Map023/events/4/pages/7/238/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/7/248/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/97/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/108/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/117/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/126/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/144/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/154/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/164/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/176/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/184/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/195/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/201/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/207/InlineScript/1:25
+> CONTEXT: Map023/events/4/pages/9/219/InlineScript/1:25
+"baniA008"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あぁ・・・そんな近くで恥ずかしいところ見られたら
+ またおまんこからえっちなお汁が出てきて
+ ずっと衣装が乾かないよぅ♥)
+> CONTEXT: Map023/events/4/pages/7/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ま、まだ濡れていますぞ！
+> CONTEXT: Map023/events/4/pages/7/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]じゃ、じゃあ・・・もっとしっかり拭かないと・・・
+ですね♥
+> CONTEXT: Map023/events/4/pages/7/252/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー9 自慰されていたので　角オナする"
+> CONTEXT: Map023/events/4/pages/8/0/InlineScript/1:6
+"バニー9 自慰されていたので　角オナする"
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](むふふぅ♥
+ 今日も楽しく露出プレイしながらの
+ お仕事だよー♥)
+> CONTEXT: Map023/events/4/pages/8/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]いらっしゃいませ
+ご注文をどうぞ
+> CONTEXT: Map023/events/4/pages/8/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](むふふ♥
+ 見てる見てる・・・
+ 今日もおっぱい見られちゃってるよ♥)
+> CONTEXT: Map023/events/4/pages/8/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](このお客さん
+ おちんちん出してオナニーしている！)
+> CONTEXT: Map023/events/4/pages/8/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](どどど、どうしよう・・・
+ これって、隠れてやってるつもりなのかな・・・？
+ そうだとしたら気づかないふりしてあげたいけど
+ バレバレだよ・・・)
+> CONTEXT: Map023/events/4/pages/8/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、私の身体を見て興奮してくれたんだよね・・・
+ 嬉しい・・・♥)
+> CONTEXT: Map023/events/4/pages/8/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それにお外でも店内でも
+ オナニーするの我慢できなくなる気持ち
+ 私もわかるよ・・・しかたないよね♥)
+> CONTEXT: Map023/events/4/pages/8/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](私がここに立っていれば
+ 周りからこのお客さんのオナニー
+ 見えないだろうし
+ このまま私が壁になっていてあげよう)
+> CONTEXT: Map023/events/4/pages/8/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ｼｺｼｺｼｺ はぁはぁはぁ
+> CONTEXT: Map023/events/4/pages/8/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/8/270/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/9/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](とても気持ち良さそうな表情をしてる・・・
+ いいな・・・)
+> CONTEXT: Map023/events/4/pages/8/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](何だか、私もえっちな気分になってきちゃった♥)
+> CONTEXT: Map023/events/4/pages/8/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](でも、私がちゃんと壁になっててあげないと
+ このお客さんのオナニー
+ きっと隣の席から丸見えだろうし・・・)
+> CONTEXT: Map023/events/4/pages/8/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾑﾆｭ
+> CONTEXT: Map023/events/4/pages/8/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んっ、ダメぇ・・・そんなに気持ち良さそうな
+ オナニー見せられたら
+ 私もオナニーするの我慢できないよぅ♥)
+> CONTEXT: Map023/events/4/pages/8/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](んはぁっ、気持ちいい・・・♥
+ 最初から角オナする気満々だったのに
+ 壁になろうとして我慢しちゃったから
+ やっとオナニーできて気持ちいいよぅ♥)
+> CONTEXT: Map023/events/4/pages/8/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そうだよ、別に角オナしながらでも
+ このお客さんのオナニーを隠す壁には
+ なれるんだよ・・・)
+> CONTEXT: Map023/events/4/pages/8/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](このお客さんおっぱいばっかり見てるから
+ オカズにしてる相手がオナニーしてることに気づいていないみたい)
+> CONTEXT: Map023/events/4/pages/8/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](もしバレたら
+ 人のオナニー見てオナニーする変態と思われたり
+ するかもって不安だったけど・・・よかった)
+> CONTEXT: Map023/events/4/pages/8/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 角オナ気持ちいいっ・・・♥
+ オナニーのオカズにされながら
+ オナニーするの気持ちいいよぅ♥)
+> CONTEXT: Map023/events/4/pages/8/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ｼｺｼｺｼｺｼｺｼｺｼｺ
+> CONTEXT: Map023/events/4/pages/8/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/9/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、お客さんの手の動きが激しく・・・
+ もうすぐ射精しちゃうんだ
+ もしオナニーが終わればおっぱいへの集中が切れて
+ 私の角オナに気づいてしまうかもしれない・・・)
+> CONTEXT: Map023/events/4/pages/8/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](私が先にイっちゃわないと・・・！)
+> CONTEXT: Map023/events/4/pages/8/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ﾑﾆｭﾆｭﾆｭﾆｭ
+> CONTEXT: Map023/events/4/pages/8/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁっ、はぁっ・・・すごいっ♥
+ こんなに激しくしたら、こんなに気持ちいいなんてっ♥
+ イけるっ・・・これで私、先にイけちゃうよぅ♥)
+> CONTEXT: Map023/events/4/pages/8/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]・・・ｼｺｼｺｼｺ ﾄﾞﾋﾟｭ
+> CONTEXT: Map023/events/4/pages/8/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あ、射精てる・・・♥)
+> CONTEXT: Map023/events/4/pages/8/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]あの、これとそれをお願いします
+> CONTEXT: Map023/events/4/pages/8/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](何事もなかったかのように注文してきたよ・・・
+ でも、よかった、私のほうが先にイけたから
+ 私もオナニーしてたってバレずに済んだみたい)
+> CONTEXT: Map023/events/4/pages/8/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](それにしても、他の人にオナニーのオカズにされるのも
+ 他の人と一緒にオナニーするのも
+ とっても気持ちいいかも・・・♥)
+> CONTEXT: Map023/events/4/pages/8/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バニー10 自慰されていたので 一緒にする"
+> CONTEXT: Map023/events/4/pages/9/0/InlineScript/1:6
+"バニー10 自慰されていたので 一緒にする"
+> END STRING
+
+> BEGIN STRING
+\\name[客]いらっしゃいませー
+> CONTEXT: Map023/events/4/pages/9/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あっ、またテーブルの下で
+ こっそりオナニーしてるお客さんだ！)
+> CONTEXT: Map023/events/4/pages/9/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](私、また男の人にオナニーのオカズに
+ されちゃってる・・・♥)
+> CONTEXT: Map023/events/4/pages/9/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ｼｺｼｺｼｺ ﾄﾞﾋﾟｭ
+> CONTEXT: Map023/events/4/pages/9/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/8/183/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/9/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](あ、もう射精しちゃった
+ 私も一緒にオナニーしたかったのに・・・)
+> CONTEXT: Map023/events/4/pages/9/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]・・・ｼｺｼｺｼｺ
+> CONTEXT: Map023/events/4/pages/9/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](まさかの二回目！？
+ どれだけ私でオナニーしたいんだよぅ・・・♥)
+> CONTEXT: Map023/events/4/pages/9/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](そんなに私をえっちな目で見てくれるなら・・・)
+> CONTEXT: Map023/events/4/pages/9/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ﾋｿﾋｿ
+> CONTEXT: Map023/events/4/pages/9/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あの、お客様・・・
+> CONTEXT: Map023/events/4/pages/9/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]！！
+ひぃっ、すみませんっ！
+もうしませんっ！
+> CONTEXT: Map023/events/4/pages/9/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あ、いえ・・・そうじゃなくって・・・
+確かに店内でオナ・・・そういったことは、
+他のお客様に見つかる可能性もあるので困りますから・・・
+えっと、その・・・
+> CONTEXT: Map023/events/4/pages/9/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]・・・？
+> CONTEXT: Map023/events/4/pages/9/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]なので、私ももっとえっちな姿をお見せしますから
+お客様も早めにオナニー済ませちゃってください・・・！
+> CONTEXT: Map023/events/4/pages/9/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]えぇ！？
+そ、そんなこと・・・
+> CONTEXT: Map023/events/4/pages/9/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ほら、見てください
+衣装のおまたの部分がおまんこに食い込んで
+おまんこのお肉がはみ出しちゃってますよ♥
+> CONTEXT: Map023/events/4/pages/9/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ｼﾞﾛｼﾞﾛｼﾞﾛ
+・・・ｺﾞｸﾘ
+> CONTEXT: Map023/events/4/pages/9/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お客様、おちんちんをしごく手が止まっていますよ
+しっかりオ・・・オナニーしてください・・・♥
+> CONTEXT: Map023/events/4/pages/9/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]むふふ♥
+それじゃあ、私も・・・
+> CONTEXT: Map023/events/4/pages/9/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]んっ・・・あんっ、はぁ♥
+こうすると・・・衣装とおまんこやクリトリスがこすれて
+気持ちよくなっちゃうんです・・・♥
+> CONTEXT: Map023/events/4/pages/9/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]ｼﾞﾛｼﾞﾛｼｺｼｺ
+> CONTEXT: Map023/events/4/pages/9/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁはぁはぁ♥
+ご、ごめんなさい・・・
+私、もう・・・イっちゃいそうですっ
+> CONTEXT: Map023/events/4/pages/9/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お、お客様のオナニーを・・・
+早く済ませていただこうと
+しただけなのに・・・んっ♥
+> CONTEXT: Map023/events/4/pages/9/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あんっ、んふぅ、はぁ・・・♥
+私のほうが気持ちよくなって・・・
+先に・・・イっちゃうぅ♥
+> CONTEXT: Map023/events/4/pages/9/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁ・・・はぁ・・・♥
+すみません、見られていると気持ちよすぎて・・・
+すぐにイっちゃうんです・・・♥
+> CONTEXT: Map023/events/4/pages/9/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]わっ、すごい手の動きですね
+もうすぐ射精ちゃいそうですか？
+がんばってください
+> CONTEXT: Map023/events/4/pages/9/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]はぁはぁはぁ・・・
+> CONTEXT: Map023/events/4/pages/9/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お疲れ様でした
+これならきっと他のお客様に
+気づかれていませんよ
+> CONTEXT: Map023/events/4/pages/9/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]でも・・・あの・・・
+> CONTEXT: Map023/events/4/pages/9/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客]？
+> CONTEXT: Map023/events/4/pages/9/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/27/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/1/pages/6/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]お客様のオナニーを見ていたら
+私も二回目をしたくなっちゃいまして・・・
+> CONTEXT: Map023/events/4/pages/9/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]もう少しここでオナニーさせていただきますねっ♥
+> CONTEXT: Map023/events/4/pages/9/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あんっ、はぁ・・・んんっ
+気持ちいい・・・オナニー見られてるの
+気持ちいいですっ♥
+> CONTEXT: Map023/events/4/pages/9/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]わあ、まだオナニーしますか♥
+それじゃあ、他の人に見つからないように
+頑張って早く済ませちゃいましょうね♥
+> CONTEXT: Map023/events/4/pages/9/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[酒場のマスター]お疲れさん
+また働きにきておくれよ
+> CONTEXT: Map023/events/4/pages/10/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あの、私、自分の街に帰ることになりまして・・・
+今までお世話になりました
+> CONTEXT: Map023/events/8/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[酒場の店主]そうかい・・・
+君のおかげで客も増えてきたところなのに、残念だな
+でも、しかたねぇ
+こちらこそ、今までありがとな！
+> CONTEXT: Map023/events/8/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]「えぇ！！ \\n[1]ちゃん、バニーガールやめちゃうの！？」
+「そんなぁ！ ばにーちゃん目当てにこの店に来ていたのに！」
+「もうこの店に来る意味なくなっちゃうよ」
+> CONTEXT: Map023/events/8/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えぇ・・・でも私は旅行でこの街に来ていただけなので
+そろそろお家に帰らないと・・・
+> CONTEXT: Map023/events/8/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]それじゃあさ
+最後にバニースーツ姿を拝ませてよ
+目に焼き付けておくからさ！
+> CONTEXT: Map023/events/8/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えぇっと・・・
+> CONTEXT: Map023/events/8/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]・・・はい♥
+かまいませんよ♥
+> CONTEXT: Map023/events/8/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]着替えてきました・・・♥
+> CONTEXT: Map023/events/8/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]「おぉ、やっぱり\\n[1]ちゃんのバニーガール姿は最高だな！」
+「あぁ・・・エロ・・・セクシーだぜ！」
+「これがもう見れないなんて・・・うぅ」
+> CONTEXT: Map023/events/8/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]](はぁはぁ♥
+ 普段はお仕事している姿を覗き見されていただけだったけど
+ 今は見られるためにバニースーツを来て
+ 近くで遠慮なしに見られちゃってる・・・♥)
+> CONTEXT: Map023/events/8/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]ﾋｿﾋｿ
+「でも、\\n[1]ちゃんのバニーガールといったらあれだよな・・・」
+「そう、胸が・・・」
+「本人は気づいていないみたいだったけど、いつも・・・」
+> CONTEXT: Map023/events/8/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]こう・・・ですか？
+> CONTEXT: Map023/events/8/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]！！！
+えっ！？ バニーちゃん、なんで！？
+> CONTEXT: Map023/events/8/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]実は・・・私、えっちな姿を見られるのが好きで
+わざとおっぱい出しちゃっていたんです・・・♥
+> CONTEXT: Map023/events/8/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]なっ、なんだって！！
+いや、でも確かにうっかりにしては、いつも見えているとは思っていたけど・・・
+極度のうっかりさんという線も捨てきれなかったし・・・
+> CONTEXT: Map023/events/8/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]さらに、こういうこともしていたんですよ・・・♥
+> CONTEXT: Map023/events/8/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁ・・・んっ♥
+いい・・・♥
+> CONTEXT: Map023/events/8/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]なにぃ！？ そんなことまで！？
+すぐ近くに客がいたというのに
+なんてえっちな娘さんなんだ・・・！
+> CONTEXT: Map023/events/8/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]ごめんなさいっ
+でも、見られてるかと思うとどんどん気持ちよくなっちゃって
+我慢もできなかったんです・・・♥
+> CONTEXT: Map023/events/8/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]そして今も・・・(ﾑﾆｭﾑﾆｭ)
+> CONTEXT: Map023/events/8/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]そうだったのか・・・
+見てるのバレないように、こっそり見ていたというのに、
+見られて喜んでいたとは・・・
+もっとじっくりと見ていればよかったぜ・・・！
+> CONTEXT: Map023/events/8/pages/0/170/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]では今だけでも、
+私が角オナするところ、じっくり見ていってください・・・♥
+(ﾑﾆｭﾑﾆｭ)
+> CONTEXT: Map023/events/8/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]ｼﾞﾛｼﾞﾛｼﾞﾛ
+> CONTEXT: Map023/events/8/pages/0/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁはぁ・・・♥
+いいです・・・、オナニーしている所見られるの
+気持ちいいです・・・♥
+> CONTEXT: Map023/events/8/pages/0/187/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]あぁ・・・もう、イク・・・♥
+イクところまで見られちゃいます・・・んっ・・・
+あぁっ、あぁぁん♥
+> CONTEXT: Map023/events/8/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]「おぉ、すげえ！ イったイった！」
+「エロいぜ！」
+「僕、この状態見たことある！」
+> CONTEXT: Map023/events/8/pages/0/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]はぁはぁ・・・
+私のオナニー姿、見ていただいて
+ありがとうございました・・・♥
+大変気持ちよかったです♥
+> CONTEXT: Map023/events/8/pages/0/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]それじゃあ、そろそろいきますね
+> CONTEXT: Map023/events/8/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]えっ！？ まだイクの！？
+> CONTEXT: Map023/events/8/pages/0/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]いえ、そろそろ帰ります
+> CONTEXT: Map023/events/8/pages/0/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]うぅ、そんなぁ・・・
+せっかく見られたがってるのが分かったのだから、
+これからは、思い切り見放題、見られ放題になれるんだよ？
+もっと気持ちよくなれるんだよ？
+> CONTEXT: Map023/events/8/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]それも、いいですけど・・・
+やっぱり帰らないと・・・
+> CONTEXT: Map023/events/8/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]マスターもバニーちゃんにいて欲しいよな？
+バニーちゃんがいなくなったら
+この店潰れちまうぜ！
+> CONTEXT: Map023/events/8/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[酒場の店主]う、うむ・・・
+確かに君が来てから、売上は増大したが・・・
+> CONTEXT: Map023/events/8/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]えぇ・・・う～ん、それなら・・・
+> CONTEXT: Map023/events/8/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]一度帰ったら、またそのうち遊びに来ますので・・・
+その時にお店にいてくれた方には、
+もっとすごいサービスしちゃいます♥
+> CONTEXT: Map023/events/8/pages/0/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]もっとすごいサービス・・・ｺﾞｸﾘ
+> CONTEXT: Map023/events/8/pages/0/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]だから、毎日お店に通って待っていてくださいね♥
+> CONTEXT: Map023/events/8/pages/0/255/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち]「うおお！！ 分かった、俺達待ってるよ！」
+「\\n[1]ちゃん、お元気で！！」
+「早く帰ってきてくれよな！ 金がなくなっちまうからよ、ハハハ」
+> CONTEXT: Map023/events/8/pages/0/257/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]それじゃあ、今までありがとうございました
+さようなら～
+> CONTEXT: Map023/events/8/pages/0/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[\\n[1]]バニースーツから着替えるの、忘れてました・・・
+> CONTEXT: Map023/events/8/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[客たち](極度のうっかりさんというのは間違っていなかった)
+> CONTEXT: Map023/events/8/pages/0/306/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おじさん]今日はバニーちゃんいねぇのかぁ・・・
+> CONTEXT: Map023/events/9/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/9/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おじさん]この酒場、華がねぇよなぁ・・・
+> CONTEXT: Map023/events/9/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/9/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おにいさん]料理はうまいな
+> CONTEXT: Map023/events/11/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おじいさん]今日のバニーちゃんのおっぱいはまだかのぉ
+> CONTEXT: Map023/events/12/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おにいさん]ﾑｼｬﾑｼｬ
+> CONTEXT: Map023/events/15/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おじさん]今日はバニーちゃんいないのか！？
+マスター！
+今すぐバニーちゃんを増やすべきである！
+バニーちゃんが見たいのである！
+> CONTEXT: Map023/events/16/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[海賊の男]やっぱり魚料理だな、ガハハ
+> CONTEXT: Map023/events/17/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[おじさん]この店にはものすごいバニーちゃんがいる時があるんだ
+なんと、常におっぱいが見えているんだ！
+今日はいないのかな、残念だ・・・
+って、女の子相手にする話じゃなかったね、ごめんよ
+> CONTEXT: Map023/events/18/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

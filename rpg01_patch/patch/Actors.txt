@@ -1,0 +1,18 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ミエ
+> CONTEXT: Actors/1/name/
+Mie
+> END STRING
+
+> BEGIN STRING
+へんたい
+> CONTEXT: Actors/1/description/
+Pervert
+> END STRING
+
+> BEGIN STRING
+露出狂
+> CONTEXT: Actors/1/nickname/
+Exhibitionist
+> END STRING

@@ -1,0 +1,496 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+本屋のおじさん
+「・・・いらっしゃい」
+> CONTEXT: Map003/events/2/pages/0/0/Dialogue
+Bookstore 
+「...Welcome」
+> END STRING
+
+> BEGIN STRING
+本屋のおじさん
+「！
+　いらっしゃいませ！
+　よろしければ店内をご案内しましょうか!?」
+> CONTEXT: Map003/events/2/pages/1/3/Dialogue
+Bookstore Owner
+「!
+　What can I do for you?
+　Do you need help finding anything!?」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「い、いえ
+　結構です・・・」
+> CONTEXT: Map003/events/2/pages/1/11/Dialogue
+\\n[1]
+「N-no
+　I'm good...」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、"月刊エロエロパンツコミック"の今月号だ
+　 今月も私好きな"綿ぱんつ子"先生の漫画
+　 載っているのか、買わないと・・・)」
+> CONTEXT: Map003/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも荷物になっちゃうから
+　 買うのは帰るときにしよう)」
+> CONTEXT: Map003/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、"月刊エロエロパンツコミック"の今月号だ
+　 でも今買うと荷物になっちゃうし・・・)」
+> CONTEXT: Map003/events/3/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/2/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でも早く読みたいな
+　 ちょっとだけ立ち読みしちゃおうかな)」
+> CONTEXT: Map003/events/3/pages/1/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でもでも、エロ漫画を立ち読みするのは
+　 さすがに恥ずかしいよね
+　 やっぱり我慢しよう)」
+> CONTEXT: Map003/events/3/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+立ち読みする
+> CONTEXT: Map003/events/3/pages/2/14/Choice/0
+> CONTEXT: Map003/events/3/pages/3/6/Choice/0
+Browse
+> END STRING
+
+> BEGIN STRING
+しない
+> CONTEXT: Map003/events/3/pages/2/14/Choice/1
+> CONTEXT: Map003/events/3/pages/3/6/Choice/1
+> CONTEXT: Map002/events/9/pages/0/158/Choice/1
+> CONTEXT: Map002/events/12/pages/1/53/Choice/1
+> CONTEXT: Map002/events/12/pages/2/53/Choice/1
+> CONTEXT: Map002/events/12/pages/3/53/Choice/1
+> CONTEXT: Map002/events/22/pages/1/25/Choice/1
+> CONTEXT: Map002/events/22/pages/3/22/Choice/1
+Don't do it
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ﾍﾟﾗﾍﾟﾗ」
+> CONTEXT: Map003/events/3/pages/2/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/2/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(わあ・・・"綿ぱんつ子"先生の漫画、
+　 今回もエロいなぁ)」
+> CONTEXT: Map003/events/3/pages/2/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふぅ、オナニーしたい・・・)」
+> CONTEXT: Map003/events/3/pages/2/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あっ、気がついたら無意識に手がお股に・・・！)」
+> CONTEXT: Map003/events/3/pages/2/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「ﾁﾗﾁﾗ」
+> CONTEXT: Map003/events/3/pages/2/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/2/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/2/184/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/5/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(店員さんは本を読みながら
+　 ちらちらとこちらを見ているときもあるけど・・・)」
+> CONTEXT: Map003/events/3/pages/2/85/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(服の上からちょっといじるだけなら
+　 きっとばれないよね・・・)」
+> CONTEXT: Map003/events/3/pages/2/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(それに、こんなエロい漫画を読んで
+　 オナニーしないなんてありえないよ！)」
+> CONTEXT: Map003/events/3/pages/2/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ｺｽｺｽ」
+> CONTEXT: Map003/events/3/pages/2/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/2/168/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁん、気持ちいいよう・・・)」
+> CONTEXT: Map003/events/3/pages/2/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/3/pages/3/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、おっぱい出ちゃった・・・
+　 まあいいや)」
+> CONTEXT: Map003/events/3/pages/2/123/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ、店員さんに気づかれてないかな)」
+> CONTEXT: Map003/events/3/pages/2/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あっ、こっち見てる
+　 ちょっと怪しまれちゃってるかな・・・
+　 でもオナニーしてるなんてわからないよね)」
+> CONTEXT: Map003/events/3/pages/2/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(・・・
+　　それに、今更手を止められないし\\i[122])」
+> CONTEXT: Map003/events/3/pages/2/160/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「んっ・・・はぁん・・・」
+> CONTEXT: Map003/events/3/pages/2/171/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あぁ、こ、声がもれちゃう・・・
+　 気持ちよくて抑えられないよ
+　 我慢しないとばれちゃうのにぃ)」
+> CONTEXT: Map003/events/3/pages/2/191/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(でもエロ漫画を立ち読みしてオナニーしてるところを
+　 見られていると思うと・・・)」
+> CONTEXT: Map003/events/3/pages/2/200/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(も、もう、イっちゃうぅ・・・)」
+> CONTEXT: Map003/events/3/pages/2/208/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「あっ、んんっ・・・！
+　はぁあん・・・\\i[122]」
+> CONTEXT: Map003/events/3/pages/2/215/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(はぁはぁ・・・き、気持ちよかったぁ・・・)」
+> CONTEXT: Map003/events/3/pages/2/223/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、あぁそうだ
+　 オナニーなんてしてませんよって顔しなくっちゃ・・・)」
+> CONTEXT: Map003/events/3/pages/2/230/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「ﾁﾗﾁﾗ　ﾁﾗﾁﾗ」
+> CONTEXT: Map003/events/3/pages/2/244/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/235/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うん、店員さんもちらちらと見てるけど
+　 特に動きはないし、きっと大丈夫だよね)」
+> CONTEXT: Map003/events/3/pages/2/251/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/1/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(裸だけど本を立ち読みしちゃおうかな)」
+> CONTEXT: Map003/events/3/pages/3/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ｸﾁｭｸﾁｭ」
+> CONTEXT: Map003/events/3/pages/3/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/3/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/3/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「ちょっと君！ 何をやっているんだ！」
+> CONTEXT: Map003/events/3/pages/3/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「そんなことをしたら本が汚れてしまうだろう！
+　服の上からオナニーするならともかく
+　ぬれぬれおまんこを直接はいかんだろう！」
+> CONTEXT: Map003/events/3/pages/3/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ご、ごめんなさーい」
+> CONTEXT: Map003/events/3/pages/3/52/Dialogue
+\\n[1]
+「S-sorry」
+> END STRING
+
+> BEGIN STRING
+店員さん
+「・・・」
+> CONTEXT: Map003/events/3/pages/3/61/Dialogue
+Shop Attendant
+「...」
+> END STRING
+
+> BEGIN STRING
+店員さん
+「ｸﾝｸﾝ・・・
+　この本は宝物にしよう」
+> CONTEXT: Map003/events/3/pages/3/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、この本おもしろそう
+　 ちょっと立ち読みしちゃおう)」
+> CONTEXT: Map003/events/5/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「ふむふむ」
+> CONTEXT: Map003/events/5/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(・・・店員さんが何かこっちをちらちらを見てるなぁ
+　 万引きとか警戒してるのかな？)」
+> CONTEXT: Map003/events/5/pages/0/29/Dialogue
+> CONTEXT: Map003/events/7/pages/0/30/Dialogue
+\\n[1]
+「(...The shop attendant keeps looking over
+　 Does he think I'm shoplifting?)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(そうだ、それなら・・・)」
+> CONTEXT: Map003/events/5/pages/0/37/Dialogue
+> CONTEXT: Map003/events/7/pages/0/38/Dialogue
+\\n[1]
+「(Well, if it's like this...)」
+> END STRING
+
+> BEGIN STRING
+露出しちゃおう
+> CONTEXT: Map003/events/5/pages/0/40/Choice/0
+Expose
+> END STRING
+
+> BEGIN STRING
+立ち読みをやめる
+> CONTEXT: Map003/events/5/pages/0/40/Choice/1
+Stop browsing
+> END STRING
+
+> BEGIN STRING
+ﾎﾟﾛﾘ
+> CONTEXT: Map003/events/5/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「！」
+> CONTEXT: Map003/events/5/pages/0/58/Dialogue
+> CONTEXT: Map003/events/7/pages/0/50/Dialogue
+Shop Attendant
+「！」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(うふふ、おっぱい見られちゃった
+　 お店の中でおっぱい出してるの見られちゃってるよう\\i[122])」
+> CONTEXT: Map003/events/5/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、ちゃんと本に集中して肩紐がずれてしまっていることに
+　 気づいていないふりをしないとね)」
+> CONTEXT: Map003/events/5/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「ｼﾞｰ・・・はぁはぁ」
+> CONTEXT: Map003/events/5/pages/0/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(ふふ、そんなに真剣に見てくれて、
+　 興奮してくれていると思うと・・・
+　 私も気持ちいいよう\\i[122])」
+> CONTEXT: Map003/events/5/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ｶﾗﾝｺﾛﾝｶﾗﾝ
+> CONTEXT: Map003/events/5/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+店員さん
+「！
+　いらっしゃいませー」
+> CONTEXT: Map003/events/5/pages/0/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/7/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(わわっ、他のお客さんが来ちゃった
+　 そろそろ終わりにしておこう)」
+> CONTEXT: Map003/events/5/pages/0/103/Dialogue
+> CONTEXT: Map003/events/7/pages/0/95/Dialogue
+\\n[1]
+「(Uh oh, customers
+　 I have to stop)」
+> END STRING
+
+> BEGIN STRING
+\\n[1]
+「(あ、"月刊エロエロパンツコミック"の今月号だ
+　 今買うと荷物になっちゃうし・・・)」
+> CONTEXT: Map003/events/7/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING

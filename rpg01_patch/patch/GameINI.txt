@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+RPG 露出プレイングゲーム
+> CONTEXT: GameINI/Title
+> CONTEXT: System/game_title/
+RPG - Roshutsu Playing Game
+> END STRING
