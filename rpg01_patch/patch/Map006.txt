@@ -141,7 +141,7 @@ Rewatch 『Modeling 1』?
 > CONTEXT: Map006/events/9/pages/1/29/Dialogue
 > CONTEXT: Map002/events/22/pages/1/67/Dialogue
 \\n[1]
-「Yes, please」
+「Y-yes, please」
 > END STRING
 
 > BEGIN STRING

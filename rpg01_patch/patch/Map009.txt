@@ -16,8 +16,8 @@
 
 > BEGIN STRING
 "1001103"
-> CONTEXT: Map009/events/3/pages/0/5/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map009/events/16/pages/0/6/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map009/events/3/pages/0/5/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/6/InlineScript/1:25
 "1001103"
 > END STRING
 
@@ -91,11 +91,11 @@
 
 > BEGIN STRING
 "1000004"
-> CONTEXT: Map009/events/3/pages/0/37/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map009/events/16/pages/0/37/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/13/pages/0/11/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/13/pages/0/24/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/14/pages/0/9/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map009/events/3/pages/0/37/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/37/InlineScript/1:25
+> CONTEXT: Map004/events/13/pages/0/11/InlineScript/1:25
+> CONTEXT: Map004/events/13/pages/0/24/InlineScript/1:25
+> CONTEXT: Map004/events/14/pages/0/9/InlineScript/1:25
 "1000004"
 > END STRING
 
@@ -211,11 +211,9 @@ Couple
 兵士
 「しまった女の方は逃がしてしまったか。
 　とりあえずお前を連行する！」
-> CONTEXT: Map009/events/3/pages/0/164/Dialogue
-> CONTEXT: Map009/events/16/pages/0/164/Dialogue
-Soldier
-「しまった女の方は逃がしてしまったか。
-　とりあえずお前を連行する！」
+> CONTEXT: Map009/events/3/pages/0/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/16/pages/0/164/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -252,16 +250,16 @@ Soldier
 \\n[1]
 「(But that felt so good\\i[122]
 　 I only got to walk a little...
-　 I'm glad I came here to do some exhibitionism)」
+　 I'm glad I came here to do some exposure play)」
 > END STRING
 
 > BEGIN STRING
 "1000001"
-> CONTEXT: Map009/events/3/pages/0/183/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map009/events/16/pages/0/183/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/4/pages/0/67/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/56/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/1/124/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map009/events/3/pages/0/183/InlineScript/1:25
+> CONTEXT: Map009/events/16/pages/0/183/InlineScript/1:25
+> CONTEXT: Map004/events/4/pages/0/67/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/56/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/1/124/InlineScript/1:25
 "1000001"
 > END STRING
 

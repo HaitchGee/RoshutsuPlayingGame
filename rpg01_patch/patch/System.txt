@@ -6,6 +6,12 @@
 > END STRING
 
 > BEGIN STRING
+Untitled
+> CONTEXT: System/game_title/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 最大ＨＰ
 > CONTEXT: System/terms/params/0/ < UNTRANSLATED
 

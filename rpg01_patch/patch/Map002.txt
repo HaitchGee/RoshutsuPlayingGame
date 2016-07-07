@@ -6,7 +6,7 @@
 > CONTEXT: Map002/events/4/pages/0/8/Dialogue
 \\n[1]
 「(I drank too much water and need to pee
-　 where's the restroom)」
+　 Where's the restroom?)」
 > END STRING
 
 > BEGIN STRING
@@ -162,7 +162,7 @@ Finish wiping
 > CONTEXT: Map002/events/9/pages/0/70/Dialogue
 > CONTEXT: Map002/events/9/pages/0/184/Dialogue
 \\n[1]
-「Thank you」
+「Thank you very much」
 > END STRING
 
 > BEGIN STRING
@@ -358,13 +358,14 @@ Don't sit
 > BEGIN STRING
 \\n[1]
 「(わあ・・・すっごい見てる・・・)」
-> CONTEXT: Map002/events/10/pages/1/66/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/10/pages/2/66/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/10/pages/4/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/1/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/2/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/3/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/10/pages/1/66/Dialogue
+> CONTEXT: Map002/events/10/pages/2/66/Dialogue
+> CONTEXT: Map002/events/10/pages/4/19/Dialogue
+> CONTEXT: Map010/events/10/pages/1/35/Dialogue
+> CONTEXT: Map010/events/10/pages/2/35/Dialogue
+> CONTEXT: Map010/events/10/pages/3/20/Dialogue
+\\n[1]
+「(Wah... awesome, he's looking...)」
 > END STRING
 
 > BEGIN STRING
@@ -390,22 +391,26 @@ Don't sit
 \\n[1]
 「(はぁはぁ・・・
 　 そんなに見つめられると・・・濡れてきちゃう\\i[122])」
-> CONTEXT: Map002/events/10/pages/1/83/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/10/pages/2/83/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/1/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/2/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/10/pages/1/83/Dialogue
+> CONTEXT: Map002/events/10/pages/2/83/Dialogue
+> CONTEXT: Map010/events/10/pages/1/52/Dialogue
+> CONTEXT: Map010/events/10/pages/2/52/Dialogue
+\\n[1]
+「(Haahaa...
+His staring... it's getting me wet \\i[122])」
 > END STRING
 
 > BEGIN STRING
 \\n[1]
 「(こんなに近くで見られていたら
 　 濡れてるのばれちゃってるかも・・・\\i[122])」
-> CONTEXT: Map002/events/10/pages/1/90/Dialogue < UNTRANSLATED
-> CONTEXT: Map002/events/10/pages/2/90/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/1/59/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/2/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/10/pages/1/90/Dialogue
+> CONTEXT: Map002/events/10/pages/2/90/Dialogue
+> CONTEXT: Map010/events/10/pages/1/59/Dialogue
+> CONTEXT: Map010/events/10/pages/2/59/Dialogue
+\\n[1]
+「(Being this close
+　 He might notice me getting wet... \\i[122])」
 > END STRING
 
 > BEGIN STRING
@@ -539,9 +544,10 @@ Don't sit
 > BEGIN STRING
 \\n[1]
 「・・・\\i[122]」
-> CONTEXT: Map002/events/10/pages/4/70/Dialogue < UNTRANSLATED
-> CONTEXT: Map010/events/10/pages/3/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/10/pages/4/70/Dialogue
+> CONTEXT: Map010/events/10/pages/3/71/Dialogue
+\\n[1]
+「...\\i[122]」
 > END STRING
 
 > BEGIN STRING
@@ -902,21 +908,21 @@ Children
 
 > BEGIN STRING
 する
-> CONTEXT: Map002/events/22/pages/1/25/Choice/0 < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/3/22/Choice/0 < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/1/27/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/1/27/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/1/39/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/1/39/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/2/10/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/2/10/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/2/22/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/2/22/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/3/24/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/3/24/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/3/37/Label < UNTRANSLATED
-> CONTEXT: Map002/events/22/pages/3/37/Label < UNTRANSLATED
-
+> CONTEXT: Map002/events/22/pages/1/25/Choice/0
+> CONTEXT: Map002/events/22/pages/3/22/Choice/0
+> CONTEXT: Map002/events/22/pages/1/27/Label
+> CONTEXT: Map002/events/22/pages/1/27/Label
+> CONTEXT: Map002/events/22/pages/1/39/Label
+> CONTEXT: Map002/events/22/pages/1/39/Label
+> CONTEXT: Map002/events/22/pages/2/10/Label
+> CONTEXT: Map002/events/22/pages/2/10/Label
+> CONTEXT: Map002/events/22/pages/2/22/Label
+> CONTEXT: Map002/events/22/pages/2/22/Label
+> CONTEXT: Map002/events/22/pages/3/24/Label
+> CONTEXT: Map002/events/22/pages/3/24/Label
+> CONTEXT: Map002/events/22/pages/3/37/Label
+> CONTEXT: Map002/events/22/pages/3/37/Label
+Do it
 > END STRING
 
 > BEGIN STRING

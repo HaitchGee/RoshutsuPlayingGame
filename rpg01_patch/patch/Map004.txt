@@ -25,8 +25,8 @@ Attendant Senior
 > CONTEXT: Map004/events/3/pages/0/27/Dialogue
 > CONTEXT: Map004/events/3/pages/1/13/Dialogue
 \\n[1]
-「(Mixed bathing...teehee
-　 what to do)」
+「(Mixed bathing...mufufu
+　 What should I do?)」
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +57,7 @@ Don't enter
 > CONTEXT: Map004/events/3/pages/0/47/Dialogue
 > CONTEXT: Map004/events/3/pages/1/33/Dialogue
 \\n[1]
-「Y」
+「Sure, I'll take a bath」
 > END STRING
 
 > BEGIN STRING
@@ -102,13 +102,13 @@ Don't enter
 > CONTEXT: Map004/events/6/pages/2/8/Label
 > CONTEXT: Map004/events/6/pages/2/16/Label
 > CONTEXT: Map004/events/6/pages/2/16/Label
-Get out
+Leave
 > END STRING
 
 > BEGIN STRING
 まだ
 > CONTEXT: Map004/events/3/pages/2/6/Choice/1
-Still
+Not yet
 > END STRING
 
 > BEGIN STRING
@@ -203,8 +203,8 @@ Don't change
 
 > BEGIN STRING
 "9001104"
-> CONTEXT: Map004/events/4/pages/0/40/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/29/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/40/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/29/InlineScript/1:25
 "9001104"
 > END STRING
 
@@ -221,9 +221,9 @@ Don't change
 
 > BEGIN STRING
 "1000101"
-> CONTEXT: Map004/events/4/pages/0/47/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/36/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/1/112/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/47/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/36/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/1/112/InlineScript/1:25
 "1000101"
 > END STRING
 
@@ -240,10 +240,10 @@ Don't change
 
 > BEGIN STRING
 "25000001"
-> CONTEXT: Map004/events/4/pages/0/52/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/6/pages/1/128/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/41/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/1/117/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/52/InlineScript/1:25
+> CONTEXT: Map004/events/6/pages/1/128/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/41/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/1/117/InlineScript/1:25
 "25000001"
 > END STRING
 
@@ -260,8 +260,8 @@ Don't change
 
 > BEGIN STRING
 "9001004"
-> CONTEXT: Map004/events/4/pages/0/60/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/49/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/60/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/49/InlineScript/1:25
 "9001004"
 > END STRING
 
@@ -284,10 +284,10 @@ Don't change
 
 > BEGIN STRING
 "1000007"
-> CONTEXT: Map004/events/4/pages/0/88/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/4/pages/0/96/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/77/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/85/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/88/InlineScript/1:25
+> CONTEXT: Map004/events/4/pages/0/96/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/77/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/85/InlineScript/1:25
 "1000007"
 > END STRING
 
@@ -320,8 +320,8 @@ Don't change
 
 > BEGIN STRING
 "1200002"
-> CONTEXT: Map004/events/4/pages/0/110/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/99/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/110/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/99/InlineScript/1:25
 "1200002"
 > END STRING
 
@@ -338,8 +338,8 @@ Don't change
 
 > BEGIN STRING
 "1200003"
-> CONTEXT: Map004/events/4/pages/0/116/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/15/pages/0/105/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/4/pages/0/116/InlineScript/1:25
+> CONTEXT: Map004/events/15/pages/0/105/InlineScript/1:25
 "1200003"
 > END STRING
 
@@ -732,15 +732,15 @@ Don't change
 
 > BEGIN STRING
 "10210001"
-> CONTEXT: Map004/events/9/pages/0/24/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/0/194/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/1/20/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/1/53/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/2/20/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/4/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/3/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/36/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/3/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/24/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/0/194/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/1/20/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/1/53/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/2/20/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/4/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/3/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/36/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/3/InlineScript/1:25
 "10210001"
 > END STRING
 
@@ -759,8 +759,8 @@ Don't change
 
 > BEGIN STRING
 "10210002"
-> CONTEXT: Map004/events/9/pages/0/35/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/15/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/35/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/15/InlineScript/1:25
 "10210002"
 > END STRING
 
@@ -775,13 +775,13 @@ Don't change
 
 > BEGIN STRING
 "10210003"
-> CONTEXT: Map004/events/9/pages/0/47/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/0/204/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/1/43/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/2/45/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/27/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/26/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/28/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/47/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/0/204/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/1/43/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/2/45/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/27/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/26/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/28/InlineScript/1:25
 "10210003"
 > END STRING
 
@@ -837,11 +837,11 @@ Don't change
 
 > BEGIN STRING
 "10210004"
-> CONTEXT: Map004/events/9/pages/0/64/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/0/215/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/1/65/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/44/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/48/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/64/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/0/215/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/1/65/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/44/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/48/InlineScript/1:25
 "10210004"
 > END STRING
 
@@ -866,10 +866,10 @@ Don't change
 
 > BEGIN STRING
 "10210006"
-> CONTEXT: Map004/events/9/pages/0/76/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/0/89/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/56/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/69/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/76/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/0/89/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/56/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/69/InlineScript/1:25
 "10210006"
 > END STRING
 
@@ -906,8 +906,8 @@ Don't change
 
 > BEGIN STRING
 "10210007"
-> CONTEXT: Map004/events/9/pages/0/84/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/64/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/84/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/64/InlineScript/1:25
 "10210007"
 > END STRING
 
@@ -929,8 +929,8 @@ Don't change
 
 > BEGIN STRING
 "10210008"
-> CONTEXT: Map004/events/9/pages/0/103/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/83/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/103/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/83/InlineScript/1:25
 "10210008"
 > END STRING
 
@@ -944,8 +944,8 @@ Don't change
 
 > BEGIN STRING
 "10210009"
-> CONTEXT: Map004/events/9/pages/0/109/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/89/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/109/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/89/InlineScript/1:25
 "10210009"
 > END STRING
 
@@ -968,10 +968,10 @@ Don't change
 
 > BEGIN STRING
 "1210002"
-> CONTEXT: Map004/events/9/pages/0/121/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/0/158/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/101/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/136/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/121/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/0/158/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/101/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/136/InlineScript/1:25
 "1210002"
 > END STRING
 
@@ -1012,8 +1012,8 @@ Don't change
 
 > BEGIN STRING
 "1210005"
-> CONTEXT: Map004/events/9/pages/0/163/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/143/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/163/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/143/InlineScript/1:25
 "1210005"
 > END STRING
 
@@ -1041,8 +1041,8 @@ Don't change
 
 > BEGIN STRING
 "1210003"
-> CONTEXT: Map004/events/9/pages/0/174/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/0/154/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/0/174/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/0/154/InlineScript/1:25
 "1210003"
 > END STRING
 
@@ -1106,8 +1106,8 @@ Don't change
 
 > BEGIN STRING
 "10210010"
-> CONTEXT: Map004/events/9/pages/1/71/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/54/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/71/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/54/InlineScript/1:25
 "10210010"
 > END STRING
 
@@ -1132,10 +1132,10 @@ Don't change
 
 > BEGIN STRING
 "11210001"
-> CONTEXT: Map004/events/9/pages/1/82/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/2/66/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/65/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/47/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/82/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/2/66/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/65/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/47/InlineScript/1:25
 "11210001"
 > END STRING
 
@@ -1157,8 +1157,8 @@ Don't change
 
 > BEGIN STRING
 "11210002"
-> CONTEXT: Map004/events/9/pages/1/101/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/84/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/101/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/84/InlineScript/1:25
 "11210002"
 > END STRING
 
@@ -1174,10 +1174,10 @@ Don't change
 
 > BEGIN STRING
 "11210003"
-> CONTEXT: Map004/events/9/pages/1/109/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/1/123/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/92/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/106/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/109/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/1/123/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/92/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/106/InlineScript/1:25
 "11210003"
 > END STRING
 
@@ -1192,8 +1192,8 @@ Don't change
 
 > BEGIN STRING
 "11210004"
-> CONTEXT: Map004/events/9/pages/1/116/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/99/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/116/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/99/InlineScript/1:25
 "11210004"
 > END STRING
 
@@ -1216,8 +1216,8 @@ Don't change
 
 > BEGIN STRING
 "11210005"
-> CONTEXT: Map004/events/9/pages/1/133/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/116/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/133/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/116/InlineScript/1:25
 "11210005"
 > END STRING
 
@@ -1239,15 +1239,15 @@ Don't change
 
 > BEGIN STRING
 "12010001"
-> CONTEXT: Map004/events/9/pages/1/145/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/130/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/145/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/130/InlineScript/1:25
 "12010001"
 > END STRING
 
 > BEGIN STRING
 "12010002"
-> CONTEXT: Map004/events/9/pages/1/155/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/138/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/155/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/138/InlineScript/1:25
 "12010002"
 > END STRING
 
@@ -1279,8 +1279,8 @@ Don't change
 
 > BEGIN STRING
 "12010003"
-> CONTEXT: Map004/events/9/pages/1/169/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/152/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/169/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/152/InlineScript/1:25
 "12010003"
 > END STRING
 
@@ -1295,8 +1295,8 @@ Don't change
 
 > BEGIN STRING
 "12010004"
-> CONTEXT: Map004/events/9/pages/1/176/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/159/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/176/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/159/InlineScript/1:25
 "12010004"
 > END STRING
 
@@ -1310,8 +1310,8 @@ Don't change
 
 > BEGIN STRING
 "12010005"
-> CONTEXT: Map004/events/9/pages/1/182/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/165/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/182/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/165/InlineScript/1:25
 "12010005"
 > END STRING
 
@@ -1327,10 +1327,10 @@ Don't change
 
 > BEGIN STRING
 "12010016"
-> CONTEXT: Map004/events/9/pages/1/190/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/2/149/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/173/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/132/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/190/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/2/149/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/173/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/132/InlineScript/1:25
 "12010016"
 > END STRING
 
@@ -1344,13 +1344,13 @@ Don't change
 
 > BEGIN STRING
 "12010015"
-> CONTEXT: Map004/events/9/pages/1/199/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/1/205/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/2/154/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/105/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/182/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/188/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/137/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/199/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/1/205/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/2/154/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/105/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/182/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/188/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/137/InlineScript/1:25
 "12010015"
 > END STRING
 
@@ -1373,15 +1373,15 @@ Don't change
 
 > BEGIN STRING
 "12010006"
-> CONTEXT: Map004/events/9/pages/1/212/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/195/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/212/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/195/InlineScript/1:25
 "12010006"
 > END STRING
 
 > BEGIN STRING
 "12010007"
-> CONTEXT: Map004/events/9/pages/1/218/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/201/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/218/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/201/InlineScript/1:25
 "12010007"
 > END STRING
 
@@ -1403,8 +1403,8 @@ Don't change
 
 > BEGIN STRING
 "12010008"
-> CONTEXT: Map004/events/9/pages/1/244/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/1/225/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/1/244/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/1/225/InlineScript/1:25
 "12010008"
 > END STRING
 
@@ -1427,8 +1427,8 @@ Don't change
 
 > BEGIN STRING
 "10210005"
-> CONTEXT: Map004/events/9/pages/2/51/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/34/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/51/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/34/InlineScript/1:25
 "10210005"
 > END STRING
 
@@ -1444,8 +1444,8 @@ Don't change
 
 > BEGIN STRING
 "11210006"
-> CONTEXT: Map004/events/9/pages/2/73/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/54/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/73/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/54/InlineScript/1:25
 "11210006"
 > END STRING
 
@@ -1459,9 +1459,9 @@ Don't change
 
 > BEGIN STRING
 "12010009"
-> CONTEXT: Map004/events/9/pages/2/82/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/52/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/65/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/82/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/52/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/65/InlineScript/1:25
 "12010009"
 > END STRING
 
@@ -1475,35 +1475,35 @@ Don't change
 
 > BEGIN STRING
 "12010010"
-> CONTEXT: Map004/events/9/pages/2/93/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/76/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/93/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/76/InlineScript/1:25
 "12010010"
 > END STRING
 
 > BEGIN STRING
 "13010001"
-> CONTEXT: Map004/events/9/pages/2/99/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/27/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/83/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/82/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/99/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/27/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/83/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/82/InlineScript/1:25
 "13010001"
 > END STRING
 
 > BEGIN STRING
 "13010002"
-> CONTEXT: Map004/events/9/pages/2/107/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/2/137/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/34/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/90/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/120/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/107/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/2/137/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/34/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/90/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/120/InlineScript/1:25
 "13010002"
 > END STRING
 
 > BEGIN STRING
 "13010003"
-> CONTEXT: Map004/events/9/pages/2/116/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/44/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/99/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/116/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/44/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/99/InlineScript/1:25
 "13010003"
 > END STRING
 
@@ -1519,10 +1519,10 @@ Don't change
 
 > BEGIN STRING
 "13010004"
-> CONTEXT: Map004/events/9/pages/2/124/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/2/143/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/107/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/126/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/124/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/2/143/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/107/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/126/InlineScript/1:25
 "13010004"
 > END STRING
 
@@ -1536,9 +1536,9 @@ Don't change
 
 > BEGIN STRING
 "13010005"
-> CONTEXT: Map004/events/9/pages/2/130/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/75/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/113/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/130/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/75/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/113/InlineScript/1:25
 "13010005"
 > END STRING
 
@@ -1587,8 +1587,8 @@ Don't change
 
 > BEGIN STRING
 "12010013"
-> CONTEXT: Map004/events/9/pages/2/166/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/150/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/166/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/150/InlineScript/1:25
 "12010013"
 > END STRING
 
@@ -1602,10 +1602,10 @@ Don't change
 
 > BEGIN STRING
 "12010014"
-> CONTEXT: Map004/events/9/pages/2/186/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/68/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/9/pages/3/115/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map004/events/12/pages/2/170/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/2/186/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/68/InlineScript/1:25
+> CONTEXT: Map004/events/9/pages/3/115/InlineScript/1:25
+> CONTEXT: Map004/events/12/pages/2/170/InlineScript/1:25
 "12010014"
 > END STRING
 
@@ -1668,7 +1668,7 @@ Don't change
 
 > BEGIN STRING
 "13010006"
-> CONTEXT: Map004/events/9/pages/3/91/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/9/pages/3/91/InlineScript/1:25
 "13010006"
 > END STRING
 
@@ -1870,6 +1870,6 @@ Don't change
 
 > BEGIN STRING
 "1200007"
-> CONTEXT: Map004/events/15/pages/1/149/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map004/events/15/pages/1/149/InlineScript/1:25
 "1200007"
 > END STRING

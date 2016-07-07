@@ -2,7 +2,7 @@
 > BEGIN STRING
 \\\>現在の勇気レベルは \\v[24] です。
 > CONTEXT: Commonevents/2/10/Dialogue
-\\\>Courage level is \\v[42].
+\\\>Courage is now level \\v[42].
 > END STRING
 
 > BEGIN STRING
@@ -30,28 +30,28 @@ Put on panties if(s[6]==false && s[21]==false)
 裸になる if(v[24]\>=6 && s[21]==false)
 > CONTEXT: Commonevents/2/40/Choice/0
 > CONTEXT: Commonevents/2/141/Choice/0
-Take off dress if(v[24]\>=6 && s[21]==false)
+Get naked if(v[24]\>=6 && s[21]==false)
 > END STRING
 
 > BEGIN STRING
 服を着る if(s[21]==true)
 > CONTEXT: Commonevents/2/40/Choice/1
 > CONTEXT: Commonevents/2/141/Choice/1
-Put on dress if(s[21]==true)
+Put on clothes if(s[21]==true)
 > END STRING
 
 > BEGIN STRING
 回想部屋 if(s[60]==false)
 > CONTEXT: Commonevents/2/76/Choice/0
 > CONTEXT: Commonevents/2/180/Choice/0
-View scenes if(s[60]==false)
+To scenes room if(s[60]==false)
 > END STRING
 
 > BEGIN STRING
 回想部屋を出る if(s[60]==true)
 > CONTEXT: Commonevents/2/76/Choice/1
 > CONTEXT: Commonevents/2/180/Choice/1
-Return to world if(s[60]==true)
+Leave scenes room if(s[60]==true)
 > END STRING
 
 > BEGIN STRING
@@ -64,7 +64,7 @@ Close
 > BEGIN STRING
 \\\>現在の勇気レベルは MAX です。
 > CONTEXT: Commonevents/2/111/Dialogue
-\\\>Courage level is MAX.
+\\\>Courage is now MAX.
 > END STRING
 
 > BEGIN STRING

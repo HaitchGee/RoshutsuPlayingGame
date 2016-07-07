@@ -80,12 +80,12 @@
 
 > BEGIN STRING
 "25001001"
-> CONTEXT: Map010/events/3/pages/0/55/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map010/events/3/pages/1/55/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map010/events/3/pages/2/55/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Map002/events/4/pages/0/86/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Commonevents/2/16/InlineScript/1:25 < UNTRANSLATED
-> CONTEXT: Commonevents/2/117/InlineScript/1:25 < UNTRANSLATED
+> CONTEXT: Map010/events/3/pages/0/55/InlineScript/1:25
+> CONTEXT: Map010/events/3/pages/1/55/InlineScript/1:25
+> CONTEXT: Map010/events/3/pages/2/55/InlineScript/1:25
+> CONTEXT: Map002/events/4/pages/0/86/InlineScript/1:25
+> CONTEXT: Commonevents/2/16/InlineScript/1:25
+> CONTEXT: Commonevents/2/117/InlineScript/1:25
 "25001001"
 > END STRING
 
