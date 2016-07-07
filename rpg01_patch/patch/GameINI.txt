@@ -1,6 +1,6 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
-RPG 露出プレイングゲーム
-> CONTEXT: None < UNUSED
+RPG 髴ｲ蜃ｺ繝励Ξ繧､繝ｳ繧ｰ繧ｲ繝ｼ繝
+> CONTEXT: GameINI/Title
 RPG - Roshutsu Playing Game
 > END STRING
