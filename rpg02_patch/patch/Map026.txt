@@ -2106,7 +2106,8 @@ Should I try it too...
 \\name[おじさん]水着の女の子を見放題だなんて
 ここは天国か
 > CONTEXT: Map026/events/18/pages/1/20/Dialogue < UNTRANSLATED
-
+\\name[Old Man]Unlimited women in swimsuits!
+This is heaven!
 > END STRING
 
 > BEGIN STRING
@@ -2115,7 +2116,7 @@ Should I try it too...
 > CONTEXT: Map026/events/19/pages/0/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/19/pages/1/5/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/19/pages/2/4/Dialogue < UNTRANSLATED
-
+\\name[Practicing Girl]*splash* *splash*
 > END STRING
 
 > BEGIN STRING
@@ -2170,7 +2171,7 @@ Should I try it too...
 \\name[おねえさん]ﾜｲﾜｲ
 > CONTEXT: Map026/events/20/pages/1/33/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/21/pages/1/29/Dialogue < UNTRANSLATED
-
+\\name[Female teenager]*chatter*
 > END STRING
 
 > BEGIN STRING
@@ -4478,7 +4479,7 @@ I'll put my swimsuit on!!
 > BEGIN STRING
 \\name[男の子]ﾜｲﾜｲ
 > CONTEXT: Map026/events/24/pages/0/58/Dialogue < UNTRANSLATED
-
+\\name[Boy]*chatter*
 > END STRING
 
 > BEGIN STRING
@@ -4517,7 +4518,7 @@ I'll put my swimsuit on!!
 > BEGIN STRING
 \\name[女の子]ﾜｲﾜｲ
 > CONTEXT: Map026/events/25/pages/1/20/Dialogue < UNTRANSLATED
-
+\\name[Girl]*chatter*
 > END STRING
 
 > BEGIN STRING
@@ -4854,7 +4855,7 @@ I'll put my swimsuit on!!
 > BEGIN STRING
 \\name[\\n[1]]ｼﾞｬﾊﾞｼﾞｬﾊﾞ
 > CONTEXT: Map026/events/29/pages/1/84/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]*splash* *splash*
 > END STRING
 
 > BEGIN STRING
@@ -6373,7 +6374,8 @@ I'll put my swimsuit on!!
 \\name[おにいさん]プールから上がる瞬間の女子を眺めているのさ
 水に濡れた身体を一番堪能できる場所なんだよ
 > CONTEXT: Map026/events/30/pages/1/24/Dialogue < UNTRANSLATED
-
+\\name[Teenager]This is the best spot to check out women, 
+I enjoy it when they are drenched from leaving the pool.
 > END STRING
 
 > BEGIN STRING
@@ -6413,13 +6415,13 @@ I'll put my swimsuit on!!
 すべての女性の水着をチェックできるんだな！
 > CONTEXT: Map026/events/31/pages/1/22/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/31/pages/2/32/Dialogue < UNTRANSLATED
-
+\\name[Teenager]If you stand here you can check out the swimsuit all the women!
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]君の水着もえっちぃんだな、ぶひひ
 > CONTEXT: Map026/events/31/pages/1/25/Dialogue < UNTRANSLATED
-
+\\name[Teenager]Yours is very lewd!
 > END STRING
 
 > BEGIN STRING
@@ -6545,7 +6547,7 @@ There wasn't a person with a swimsuit as transparent as that
 > BEGIN STRING
 \\name[おにいさん]ぐうぐう・・・ｼﾞﾛｼﾞﾛ
 > CONTEXT: Map026/events/35/pages/0/18/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*snore*...*stare*
 > END STRING
 
 > BEGIN STRING
@@ -6558,7 +6560,7 @@ There wasn't a person with a swimsuit as transparent as that
 > BEGIN STRING
 \\name[おにいさん]ぐうぐう・・・ﾁﾗﾁﾗ
 > CONTEXT: Map026/events/35/pages/0/32/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*snore*
 > END STRING
 
 > BEGIN STRING
