@@ -159,6 +159,7 @@ Not now
 > CONTEXT: Map019/events/13/pages/1/32/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/13/pages/2/32/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/13/pages/5/32/Dialogue < UNTRANSLATED
+\\name[\\n[1]](I shouldn't have bought that swimsuit・・・)
 
 > END STRING
 
@@ -948,8 +949,8 @@ Though it's a little pricey
 > BEGIN STRING
 \\name[おにいさん]ここは宿と言っても
 そういうことをする場所じゃあないんだよ・・・はぁはぁ
-> CONTEXT: Map019/events/32/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/32/pages/2/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/32/pages/1/2/Dialogue
+> CONTEXT: Map019/events/32/pages/2/2/Dialogue
 \\name[Teenager]Even though it is a hotel
 this is not a place to do... such things... *pant*
 > END STRING
@@ -1510,7 +1511,7 @@ I'll get on
 > BEGIN STRING
 \\name[Passengers]!!?
 (A girl with exposed breasts has gotten on!!)
-> CONTEXT: Map019/events/64/pages/6/100/Dialogue < UNTRANSLATED
+> CONTEXT: None < UNUSED
 
 > END STRING
 
