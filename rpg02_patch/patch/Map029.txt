@@ -5,7 +5,7 @@
 > CONTEXT: Map029/events/2/pages/0/3/Dialogue
 > CONTEXT: Map029/events/8/pages/0/34/Dialogue
 > CONTEXT: Map026/events/9/pages/0/22/Dialogue
-\\name[\\n[1]](Should I do some exposure play here?)
+\\name[\\n[1]](Should I expose myself here?)
 > END STRING
 
 > BEGIN STRING

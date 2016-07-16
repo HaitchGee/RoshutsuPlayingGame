@@ -2105,7 +2105,7 @@ Should I try it too...
 > BEGIN STRING
 \\name[おじさん]水着の女の子を見放題だなんて
 ここは天国か
-> CONTEXT: Map026/events/18/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/18/pages/1/20/Dialogue
 \\name[Old Man]Unlimited women in swimsuits!
 This is heaven!
 > END STRING
@@ -2113,9 +2113,9 @@ This is heaven!
 > BEGIN STRING
 \\name[バタ足の練習をしているおねえさん]ｼﾞｬﾊﾞｼﾞｬﾊﾞ
 ・・・///
-> CONTEXT: Map026/events/19/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/19/pages/1/5/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/19/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/19/pages/0/4/Dialogue
+> CONTEXT: Map026/events/19/pages/1/5/Dialogue
+> CONTEXT: Map026/events/19/pages/2/4/Dialogue
 \\name[Practicing Girl]*splash* *splash*
 > END STRING
 
@@ -2169,8 +2169,8 @@ This is heaven!
 
 > BEGIN STRING
 \\name[おねえさん]ﾜｲﾜｲ
-> CONTEXT: Map026/events/20/pages/1/33/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/21/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/20/pages/1/33/Dialogue
+> CONTEXT: Map026/events/21/pages/1/29/Dialogue
 \\name[Female teenager]*chatter*
 > END STRING
 
@@ -4478,7 +4478,7 @@ I'll put my swimsuit on!!
 
 > BEGIN STRING
 \\name[男の子]ﾜｲﾜｲ
-> CONTEXT: Map026/events/24/pages/0/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/24/pages/0/58/Dialogue
 \\name[Boy]*chatter*
 > END STRING
 
@@ -4517,27 +4517,28 @@ I'll put my swimsuit on!!
 
 > BEGIN STRING
 \\name[女の子]ﾜｲﾜｲ
-> CONTEXT: Map026/events/25/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/25/pages/1/20/Dialogue
 \\name[Girl]*chatter*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](水に濡れると水着が透けちゃいそうだけど
  プールの中に入っちゃおうかな・・・♥)
-> CONTEXT: Map026/events/27/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/27/pages/0/3/Dialogue
+\\name[\\n[1]](The swimsuit will become transparent because of the water...
+ Should I jump in...♥)
 > END STRING
 
 > BEGIN STRING
 露出プレイをする
-> CONTEXT: Map026/events/27/pages/0/6/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map026/events/27/pages/0/6/Choice/0
+Jump in
 > END STRING
 
 > BEGIN STRING
 入らない
-> CONTEXT: Map026/events/27/pages/0/6/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map026/events/27/pages/0/6/Choice/1
+Don't
 > END STRING
 
 > BEGIN STRING
@@ -4854,7 +4855,7 @@ I'll put my swimsuit on!!
 
 > BEGIN STRING
 \\name[\\n[1]]ｼﾞｬﾊﾞｼﾞｬﾊﾞ
-> CONTEXT: Map026/events/29/pages/1/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/29/pages/1/84/Dialogue
 \\name[\\n[1]]*splash* *splash*
 > END STRING
 
@@ -6373,7 +6374,7 @@ I'll put my swimsuit on!!
 > BEGIN STRING
 \\name[おにいさん]プールから上がる瞬間の女子を眺めているのさ
 水に濡れた身体を一番堪能できる場所なんだよ
-> CONTEXT: Map026/events/30/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/30/pages/1/24/Dialogue
 \\name[Teenager]This is the best spot to check out women, 
 I enjoy it when they are drenched from leaving the pool.
 > END STRING
@@ -6413,14 +6414,14 @@ I enjoy it when they are drenched from leaving the pool.
 > BEGIN STRING
 \\name[おにいさん]ここで待機していれば
 すべての女性の水着をチェックできるんだな！
-> CONTEXT: Map026/events/31/pages/1/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/31/pages/2/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/31/pages/1/22/Dialogue
+> CONTEXT: Map026/events/31/pages/2/32/Dialogue
 \\name[Teenager]If you stand here you can check out the swimsuit all the women!
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]君の水着もえっちぃんだな、ぶひひ
-> CONTEXT: Map026/events/31/pages/1/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/31/pages/1/25/Dialogue
 \\name[Teenager]Yours is very lewd!
 > END STRING
 
@@ -6546,7 +6547,7 @@ There wasn't a person with a swimsuit as transparent as that
 
 > BEGIN STRING
 \\name[おにいさん]ぐうぐう・・・ｼﾞﾛｼﾞﾛ
-> CONTEXT: Map026/events/35/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/35/pages/0/18/Dialogue
 \\name[Teenager]*snore*...*stare*
 > END STRING
 
@@ -6559,7 +6560,7 @@ There wasn't a person with a swimsuit as transparent as that
 
 > BEGIN STRING
 \\name[おにいさん]ぐうぐう・・・ﾁﾗﾁﾗ
-> CONTEXT: Map026/events/35/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/35/pages/0/32/Dialogue
 \\name[Teenager]*snore*
 > END STRING
 

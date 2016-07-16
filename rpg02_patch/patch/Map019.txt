@@ -586,8 +586,9 @@ Keep the door open and pee
 \\name[\\n[1]](今日はもうトイレで露出プレイしちゃったし
  同じことを何度もやっていたら怪しまれるかもしれないから
  やめておこう)
-> CONTEXT: Map019/events/15/pages/1/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/15/pages/1/41/Dialogue
+\\name[\\n[1]](I already exposed myself in the restroom today
+ It would only raise suspicion if i do it multiple time)
 > END STRING
 
 > BEGIN STRING
@@ -889,7 +890,7 @@ Don't just leave!
  露出プレイが捗りそうだよ・・・むふふ♥)
 > CONTEXT: Map019/events/27/pages/0/19/Dialogue
 \\name[\\n[1]](With a swimsuit...
- I can do some more exposure play here... teehee♥)
+ I can expose myself some more here... teehee♥)
 > END STRING
 
 > BEGIN STRING
@@ -1129,7 +1130,7 @@ The new paintings might get more exciting...
 > BEGIN STRING
 \\name[\\n[1]](子供が多くて、ここで露出プレイはできないかな・・・)
 > CONTEXT: Map019/events/46/pages/0/6/Dialogue
-\\name[\\n[1]](So much children... I can't perform exposure play here...)
+\\name[\\n[1]](So much children... I can't expose myself here...)
 > END STRING
 
 > BEGIN STRING

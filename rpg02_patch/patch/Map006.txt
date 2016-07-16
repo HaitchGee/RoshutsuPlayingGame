@@ -1869,6 +1869,6 @@
 
 > BEGIN STRING
 \\name[\\n[1]]ふぅ、すっきりした
-> CONTEXT: Map006/events/1/pages/9/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map006/events/1/pages/9/19/Dialogue
+\\name[\\n[1]]So refreshing
 > END STRING
