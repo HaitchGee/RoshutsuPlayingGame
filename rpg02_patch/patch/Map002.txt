@@ -230,73 +230,73 @@ Working at the public bath
 > BEGIN STRING
 1 遠目にお掃除姿を見られる if(v[$event]\>=1)
 > CONTEXT: Map002/events/5/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 Distant cleaning if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 近くでお掃除姿を見られる if(v[$event]\>=2)
 > CONTEXT: Map002/events/5/pages/1/9/Choice/0 < UNTRANSLATED
-
+2 Cleaning nearby if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
 3 服が濡れて透けてくる if(v[$event]\>=3)
 > CONTEXT: Map002/events/5/pages/1/14/Choice/0 < UNTRANSLATED
-
+3 transparant clothing if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 4 ワンピースの裾を腰でくくり、ぱんつ丸出し if(v[$event]\>=4)
 > CONTEXT: Map002/events/5/pages/1/19/Choice/0 < UNTRANSLATED
-
+4 showing of panties if(v[$event]\>=4)
 > END STRING
 
 > BEGIN STRING
 5 バスタオル姿でおまんこ見られる if(v[$event]\>=5)
 > CONTEXT: Map002/events/5/pages/1/24/Choice/0 < UNTRANSLATED
-
+5 wearing towel if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 6 バスタオルがずり落ちて、裸見られる if(v[$event]\>=6)
 > CONTEXT: Map002/events/5/pages/1/29/Choice/0 < UNTRANSLATED
-
+6 Bath towel malfunction if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 7 バスタオル、人のいないところでデッキブラシオナニー if(v[$event]\>=7)
 > CONTEXT: Map002/events/5/pages/1/34/Choice/0 < UNTRANSLATED
-
+7 discreet masturbation with brush if(v[$event]\>=7)
 > END STRING
 
 > BEGIN STRING
 8 裸、デッキブラシオナニー見つかる if(v[$event]\>=8)
 > CONTEXT: Map002/events/5/pages/1/39/Choice/0 < UNTRANSLATED
-
+8 caught during brush masturbation if(v[$event]\>=8)
 > END STRING
 
 > BEGIN STRING
 9 裸、湯船の前でデッキブラシオナニー if(v[$event]\>=9)
 > CONTEXT: Map002/events/5/pages/1/44/Choice/0 < UNTRANSLATED
-
+9 public brush masturbation if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 10 掃除姿でオナニーされたので、自分もオナニーする if(v[$event]\>=10)
 > CONTEXT: Map002/events/5/pages/1/49/Choice/0 < UNTRANSLATED
-
+10 Mutual masturbation if(v[$event]\>=10)
 > END STRING
 
 > BEGIN STRING
 銭湯の洗い場でおしっこしちゃうイベント
 > CONTEXT: Map002/events/6/pages/0/0/Dialogue < UNTRANSLATED
-
+Public bath restroom
 > END STRING
 
 > BEGIN STRING
 \\\>浴室でおしっこ 全2種
 > CONTEXT: Map002/events/6/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>Public bath restroom events (2 total)
 > END STRING
 
 > BEGIN STRING
@@ -326,127 +326,127 @@ Working at the public bath
 > BEGIN STRING
 銭湯の浴室で身体を洗うイベント
 > CONTEXT: Map002/events/7/pages/0/0/Dialogue < UNTRANSLATED
-
+washing in the public bath
 > END STRING
 
 > BEGIN STRING
 \\\>銭湯洗い場イベント (全7種)
 > CONTEXT: Map002/events/7/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>public bathroom washing events (7 total)
 > END STRING
 
 > BEGIN STRING
 1 バスタオル、男の隣で身体を洗う if(v[$event]\>=1)
 > CONTEXT: Map002/events/7/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 Washing with a man next to youif(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 バスタオル、足を開いておまんこ見えそう if(v[$event]\>=3)
 > CONTEXT: Map002/events/7/pages/1/9/Choice/0 < UNTRANSLATED
-
+2 spreading legs if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 3 バスタオル、泡で隠して乳首オナニー if(v[$event]\>=4)
 > CONTEXT: Map002/events/7/pages/1/14/Choice/0 < UNTRANSLATED
-
+3 Concealed breast fondling if(v[$event]\>=4)
 > END STRING
 
 > BEGIN STRING
 4 裸、泡で隠しておまんこオナニー if(v[$event]\>=5)
 > CONTEXT: Map002/events/7/pages/1/19/Choice/0 < UNTRANSLATED
-
+4 concealed masturbation if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 5 裸、調子に乗って激しくオナニーしていたら声が出ちゃう if(v[$event]\>=6)
 > CONTEXT: Map002/events/7/pages/1/24/Choice/0 < UNTRANSLATED
-
+5 Naked, quiet masturbating if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 6 裸、泡で隠さずにおまんこ洗うところを見てもらう if(v[$event]\>=8)
 > CONTEXT: Map002/events/7/pages/1/29/Choice/0 < UNTRANSLATED
-
+6 Openly masturbating if(v[$event]\>=8)
 > END STRING
 
 > BEGIN STRING
 7 裸、オナニーを見せる if(v[$event]\>=9)
 > CONTEXT: Map002/events/7/pages/1/34/Choice/0 < UNTRANSLATED
-
+7 Mutual masturbation if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 銭湯で男たちの近くで入浴するイベント
 > CONTEXT: Map002/events/8/pages/0/0/Dialogue < UNTRANSLATED
-
+Bathing in the public bath
 > END STRING
 
 > BEGIN STRING
 \\\>銭湯入浴イベント 全8+1種
 > CONTEXT: Map002/events/8/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>public bathing events (8+1 total)
 > END STRING
 
 > BEGIN STRING
 1 バスタオル、透け乳見られる if(v[$event]\>=1)
 > CONTEXT: Map002/events/8/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 Towel if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 バスタオル、ぽろり if(v[$event]\>=2)
 > CONTEXT: Map002/events/8/pages/1/9/Choice/0 < UNTRANSLATED
-
+2 Towel wardrobe malfunction if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
 3 裸で入浴 if(v[$event]\>=4)
 > CONTEXT: Map002/events/8/pages/1/14/Choice/0 < UNTRANSLATED
-
+3 Naked if(v[$event]\>=4)
 > END STRING
 
 > BEGIN STRING
 4 おっぱいマッサージ if(v[$event]\>=5)
 > CONTEXT: Map002/events/8/pages/1/19/Choice/0 < UNTRANSLATED
-
+4 Fondling breasts if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 5 縁に座って全裸を見られる if(v[$event]\>=6)
 > CONTEXT: Map002/events/8/pages/1/24/Choice/0 < UNTRANSLATED
-
+5 Sitting on the edge if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 6 縁に座っておっぱいマッサージ if(v[$event]\>=8)
 > CONTEXT: Map002/events/8/pages/1/29/Choice/0 < UNTRANSLATED
-
+6 Breast fondling on the edge if(v[$event]\>=8)
 > END STRING
 
 > BEGIN STRING
 7 隣に座られオナニーをする if(v[$event]\>=9)
 > CONTEXT: Map002/events/8/pages/1/34/Choice/0 < UNTRANSLATED
-
+7 Masturbation on the edge if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 8 一緒にオナニー if(v[$event]\>=10)
 > CONTEXT: Map002/events/8/pages/1/39/Choice/0 < UNTRANSLATED
-
+8 Mutual masturbation if(v[$event]\>=10)
 > END STRING
 
 > BEGIN STRING
 8-2 その後 if(v[$event]\>=11)
 > CONTEXT: Map002/events/8/pages/1/44/Choice/0 < UNTRANSLATED
-
+8-2 Epilogue if(v[$event]\>=11)
 > END STRING
 
 > BEGIN STRING
 バニーガールのお仕事
 > CONTEXT: Map002/events/9/pages/0/0/Dialogue < UNTRANSLATED
-
+Working as a bunny girl
 > END STRING
 
 > BEGIN STRING
@@ -518,73 +518,73 @@ Working at the public bath
 > BEGIN STRING
 絵のモデルのお仕事
 > CONTEXT: Map002/events/10/pages/0/0/Dialogue < UNTRANSLATED
-
+Working as a model
 > END STRING
 
 > BEGIN STRING
 \\\>絵のモデルのお仕事イベント 全9種
 > CONTEXT: Map002/events/10/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>Modeling events (9 total)
 > END STRING
 
 > BEGIN STRING
 1 ぱんちら if(v[$event]\>=1)
 > CONTEXT: Map002/events/10/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 Showing panties if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 胸ちら if(v[$event]\>=2)
 > CONTEXT: Map002/events/10/pages/1/9/Choice/0 < UNTRANSLATED
-
+2 Showing breasts if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
 3 ぱんつのみ、胸を隠す if(v[$event]\>=3)
 > CONTEXT: Map002/events/10/pages/1/14/Choice/0 < UNTRANSLATED
-
+3 Handbra with panties if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 4 裸になる、手で隠す if(v[$event]\>=5)
 > CONTEXT: Map002/events/10/pages/1/19/Choice/0 < UNTRANSLATED
-
+4 Naked, covering with hands if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 5 隠している手でいじる if(v[$event]\>=6)
 > CONTEXT: Map002/events/10/pages/1/24/Choice/0 < UNTRANSLATED
-
+5 Discreet masturbation if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 6 裸、隠さない if(v[$event]\>=7)
 > CONTEXT: Map002/events/10/pages/1/29/Choice/0 < UNTRANSLATED
-
+6 Openly aked if(v[$event]\>=7)
 > END STRING
 
 > BEGIN STRING
 7 休憩時間にオナニーする if(v[$event]\>=8)
 > CONTEXT: Map002/events/10/pages/1/34/Choice/0 < UNTRANSLATED
-
+7 Masturbating during break if(v[$event]\>=8)
 > END STRING
 
 > BEGIN STRING
 8 公園で、生徒さん以外の人にも裸を見られる if(v[$event]\>=9)
 > CONTEXT: Map002/events/10/pages/1/39/Choice/0 < UNTRANSLATED
-
+8 Modelling in the park if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 9 公園でも休憩時間にオナニーする if(v[$event]\>=10)
 > CONTEXT: Map002/events/10/pages/1/44/Choice/0 < UNTRANSLATED
-
+9 Masturbating during break in the park if(v[$event]\>=10)
 > END STRING
 
 > BEGIN STRING
 プールの監視員のお仕事
 > CONTEXT: Map002/events/11/pages/0/0/Dialogue < UNTRANSLATED
-
+Working as a lifeguard
 > END STRING
 
 > BEGIN STRING
