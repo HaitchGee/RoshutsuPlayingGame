@@ -55,14 +55,14 @@
 
 > BEGIN STRING
 \\name[おじさん]ﾁﾗﾁﾗ
-> CONTEXT: Map001/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/4/pages/0/2/Dialogue
+\\name[Man]*glance*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](鏡越しにちらちら見られてる・・・むふふ♥)
-> CONTEXT: Map001/events/4/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/4/pages/0/6/Dialogue
+\\name[\\n[1]](He's looking at me through the mirror... *pant*♥)
 > END STRING
 
 > BEGIN STRING
@@ -141,8 +141,8 @@ Take a bath(Free)
 \\name[\\v[1]]！！
 どうぞごゆっくり！！
 (番台をやっていてよかった・・・うぅ)
-> CONTEXT: Map001/events/6/pages/3/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/6/pages/3/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/6/pages/3/4/Dialogue
+> CONTEXT: Map001/events/6/pages/3/46/Dialogue
 \\name[\\v[1]]!!
 Make yourself at home!!
 (I'm grateful to be at this counter today)
@@ -150,20 +150,20 @@ Make yourself at home!!
 
 > BEGIN STRING
 \\name[\\v[1]]どうぞごゆっくり(ﾜｸﾜｸ)
-> CONTEXT: Map001/events/6/pages/3/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/6/pages/3/16/Dialogue
 \\name[\\v[1]]Make yourself at home 
 (This is amazing)
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]どうぞごゆっくり・・・はぁはぁ
-> CONTEXT: Map001/events/6/pages/3/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/6/pages/3/25/Dialogue
 \\name[\\v[1]]Make yourself at home *huff* *huff*
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]どうぞごゆっくり(ｼﾞﾛｼﾞﾛｼﾞﾛ)
-> CONTEXT: Map001/events/6/pages/3/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/6/pages/3/37/Dialogue
 \\name[\\v[1]]Make yourself at home *stare*
 > END STRING
 
@@ -171,7 +171,7 @@ Make yourself at home!!
 \\name[\\v[1]]風呂上りの牛乳はいかがかな？
 1本 100円 だよ
 (ｼﾞﾛｼﾞﾛ)
-> CONTEXT: Map001/events/6/pages/4/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/6/pages/4/7/Dialogue
 \\name[\\v[1]]how about some milk after bathing?
 just ¥100 for one bottle
 *stare*
@@ -192,8 +192,8 @@ Buy
 > BEGIN STRING
 \\name[\\v[1]]ｼﾞﾛｼﾞﾛｼﾞﾛ
 (番台をやっていてよかった・・・うぅ)
-> CONTEXT: Map001/events/6/pages/4/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/6/pages/5/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/6/pages/4/29/Dialogue
+> CONTEXT: Map001/events/6/pages/5/14/Dialogue
 *stare*
 (I'm grateful to be at this counter today)
 > END STRING
@@ -276,13 +276,13 @@ How shameful ♥)
  隅っこでささっと浸かっちゃおうかな)
 > CONTEXT: Map001/events/7/pages/1/3/Dialogue
 \\name[\\n[1]](It's embarrassing being near the men
- Should I soak here?)
+ Should I bathe here?)
 > END STRING
 
 > BEGIN STRING
 ここで浸かる
 > CONTEXT: Map001/events/7/pages/1/6/Choice/0
-Soak here
+Bathe here
 > END STRING
 
 > BEGIN STRING
@@ -504,8 +504,9 @@ Stay
 > BEGIN STRING
 \\name[\\n[1]](番台のおじさんがじろじろ見てくる・・・
  着替えるということは裸になるの見られちゃうってとこだよね)
-> CONTEXT: Map001/events/11/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/11/pages/0/23/Dialogue
+\\name[\\n[1]](The bathhouse owner is staring...
+ If I change here I'm sure he would see me naked)
 > END STRING
 
 > BEGIN STRING
@@ -517,8 +518,8 @@ Stay
 
 > BEGIN STRING
 \\name[\\n[1]](この辺りの周りから見えない場所で着替えようかな)
-> CONTEXT: Map001/events/11/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/11/pages/0/35/Dialogue
+\\name[\\n[1]](Should I change here, out of sight of the owner?)
 > END STRING
 
 > BEGIN STRING
@@ -564,7 +565,7 @@ Change into bath towel
 > BEGIN STRING
 \\name[\\n[1]](服を着たまま入るわけにはいかないよね
  着替えてから浴室に行こう)
-> CONTEXT: Map001/events/12/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/12/pages/0/39/Dialogue
 \\name[\\n[1]](I can't enter with my clothes on
  Let's enter after I've changed)
 > END STRING
@@ -572,28 +573,28 @@ Change into bath towel
 > BEGIN STRING
 \\name[\\n[1]](服を着たまま入るわけにはいかないよね
  ぱぱっと着替えて来ようかな)
-> CONTEXT: Map001/events/12/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/12/pages/0/48/Dialogue
 \\name[\\n[1]](I can't enter with my clothes on
  Let's change first)
 > END STRING
 
 > BEGIN STRING
 パパっと着替えてくる
-> CONTEXT: Map001/events/12/pages/0/51/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/12/pages/0/51/Choice/0
 Undress
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](よし、入ろう)
-> CONTEXT: Map001/events/12/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/12/pages/0/63/Dialogue
 \\name[\\n[1]](There we go)
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]ｼﾞﾛｼﾞﾛ・・・！！
-> CONTEXT: Map001/events/13/pages/0/4/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/13/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/13/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/13/pages/0/4/Dialogue
+> CONTEXT: Map001/events/13/pages/0/19/Dialogue
+> CONTEXT: Map001/events/13/pages/0/66/Dialogue
 \\name[young men]*Staring intensely*
 > END STRING
 
@@ -657,7 +658,7 @@ Undress
 
 > BEGIN STRING
 身体を洗う
-> CONTEXT: Map001/events/15/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/15/pages/0/6/Choice/0
 Wash here
 > END STRING
 
@@ -2115,7 +2116,7 @@ Wash here
 > BEGIN STRING
 \\name[\\n[1]](近くに男の人がいるけど
  ここで湯船に浸かろうかな)
-> CONTEXT: Map001/events/17/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/17/pages/0/3/Dialogue
 Should I bathe here, even though there are men nearby?
 > END STRING
 
@@ -2574,10 +2575,8 @@ Blahblahblah
 > CONTEXT: Map001/events/18/pages/6/15/Dialogue
 > CONTEXT: Map001/events/18/pages/7/25/Dialogue
 > CONTEXT: Map001/events/18/pages/8/15/Dialogue
-\\name[\\n[1]](...I'll soak naked in the bath
- It is bad manners to bring your towel into the bath
- The towel is for the bathroom
- It's not unnatural to remove it when soaking in the bath...)
+\\name[\\n[1]](...The towel is for the bathroom, it is bad manners to bring it into the bath.
+ It's not unnatural to bathe naked...)
 > END STRING
 
 > BEGIN STRING
@@ -4450,16 +4449,18 @@ C(僕は・・・やる！)
 > BEGIN STRING
 \\name[おじさん]！！！？
 ・・・ｼﾞﾛｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map001/events/20/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/20/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/20/pages/0/19/Dialogue
+> CONTEXT: Map001/events/20/pages/0/36/Dialogue
+\\name[Man]!!!?
+...*staring intensely*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](濡れて透けた身体を見られちゃってる・・・
  恥ずかしい・・・♥)
-> CONTEXT: Map001/events/20/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/20/pages/0/24/Dialogue
+\\name[\\n[1]](The towel became transparent... My body is visible...
+ How shameful・・・♥)
 > END STRING
 
 > BEGIN STRING
@@ -4529,14 +4530,14 @@ C(僕は・・・やる！)
 > BEGIN STRING
 \\name[おじさん]わっ！ 女の子！？
 恥ずかしぃん・・・っ
-> CONTEXT: Map001/events/23/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/23/pages/0/38/Dialogue
+\\name[Man]Uwa! A woman!?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おじさんのおちんちん、見ちゃった・・・♥)
-> CONTEXT: Map001/events/23/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/23/pages/0/41/Dialogue
+\\name[\\n[1]](I saw his penis♥)
 > END STRING
 
 > BEGIN STRING
