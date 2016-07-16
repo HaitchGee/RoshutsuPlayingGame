@@ -802,7 +802,7 @@ More clothes if(v[101]\>=1)
 > BEGIN STRING
 ささっと身だしなみを整えてくる
 > CONTEXT: Commonevents/26/5/Choice/0
-I quickly fix my appearance
+fix appearance
 > END STRING
 
 > BEGIN STRING

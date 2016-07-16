@@ -299,7 +299,7 @@ Leave
 > CONTEXT: Map026/events/8/pages/0/20/Dialogue
 \\name[\\n[1]](My body got very wet
  If I don't wipe myself before changing...
- Then my clothes will get wet and transparent... ♥)
+ Then my clothes will become wet and transparent... ♥)
 > END STRING
 
 > BEGIN STRING
@@ -2092,7 +2092,7 @@ Should I try it too...
 \\name[おじさん]ふぉっ・・・ふぉおおお・・・女神よっ！
 > CONTEXT: Map026/events/18/pages/1/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/18/pages/2/3/Dialogue < UNTRANSLATED
-
+\\name[Man]*pant*... *pant*... It's a godess!
 > END STRING
 
 > BEGIN STRING
@@ -2124,7 +2124,7 @@ This is heaven!
 > CONTEXT: Map026/events/19/pages/0/9/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/19/pages/1/10/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/19/pages/2/9/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](She's clearly struggling)
 > END STRING
 
 > BEGIN STRING
@@ -4473,7 +4473,8 @@ I'll put my swimsuit on!!
  可愛い・・・♥)
 > CONTEXT: Map026/events/24/pages/0/18/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/24/pages/0/44/Dialogue < UNTRANSLATED
-
+\\name[Boy](If I look sneakily she won't notice...
+ How pretty...♥)
 > END STRING
 
 > BEGIN STRING
@@ -4486,33 +4487,35 @@ I'll put my swimsuit on!!
 \\name[女の子]おねえさん、プールではちゃんと水着を着ないと
 いけないんだよ？
 > CONTEXT: Map026/events/25/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Girl]Big sis, shouldn't you wear your swimsuit properly?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ご、ごめんなさい・・・
 水着を着てきます・・・
 > CONTEXT: Map026/events/25/pages/0/7/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]S-sorry...
+I'll fix it...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](自分より年下の子に怒られちゃった・・・)
 > CONTEXT: Map026/events/25/pages/0/20/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](A child half my age has scolded me...)
 > END STRING
 
 > BEGIN STRING
 \\name[女の子]おねえさん、おっぱいでてるよ？
 そういうのいけないんだよ？
 > CONTEXT: Map026/events/25/pages/1/3/Dialogue < UNTRANSLATED
-
+\\name[Girl]Big Sis, why are your boobs visible?
+Isn't that bad?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ご、ごめんなさい・・・
 > CONTEXT: Map026/events/25/pages/1/10/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]S-sorry...
 > END STRING
 
 > BEGIN STRING
@@ -6361,7 +6364,10 @@ Don't
 > CONTEXT: Map026/events/30/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/30/pages/1/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/30/pages/2/3/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*pant* *pant*
+Is it okay?!
+Is it really okay?!
+*pant* *pant*...
 > END STRING
 
 > BEGIN STRING
@@ -6400,7 +6406,8 @@ I enjoy it when they are drenched from leaving the pool.
 すごいんだな！ おおお、おっぱ・・・見え・・・！
 > CONTEXT: Map026/events/31/pages/1/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/31/pages/2/13/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*cough*Whoa!
+Amazing! I can see your b-b-boobs!
 > END STRING
 
 > BEGIN STRING
@@ -6408,7 +6415,8 @@ I enjoy it when they are drenched from leaving the pool.
 すごいんだな！ すすす・・・透け・・・見え・・・！
 > CONTEXT: Map026/events/31/pages/1/13/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/31/pages/2/23/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*cough*Whoa!
+Amazing! It's s-s-seethrough!
 > END STRING
 
 > BEGIN STRING
@@ -6416,7 +6424,8 @@ I enjoy it when they are drenched from leaving the pool.
 すべての女性の水着をチェックできるんだな！
 > CONTEXT: Map026/events/31/pages/1/22/Dialogue
 > CONTEXT: Map026/events/31/pages/2/32/Dialogue
-\\name[Teenager]If you stand here you can check out the swimsuit all the women!
+\\name[Teenager]This is the perfect place to check out 
+the swimsuits of the women!
 > END STRING
 
 > BEGIN STRING
@@ -6429,7 +6438,8 @@ I enjoy it when they are drenched from leaving the pool.
 \\name[おにいさん]ぶひっ、ぶひっ！
 すごいんだな！ おおお、おっぱ・・・おまん・・・見え・・・！
 > CONTEXT: Map026/events/31/pages/2/3/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*cough*Whoa!
+Amazing! I can see you b-b-boobs!
 > END STRING
 
 > BEGIN STRING

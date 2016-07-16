@@ -628,7 +628,10 @@ Undress
  恥ずかしい・・・♥)
 > CONTEXT: Map001/events/13/pages/0/47/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/13/pages/0/70/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](When submerged in the bath,
+ his eyes are level with my crotch・・・
+ he can look straight at my pussy・・・♥
+ So embarrassing・・・♥)
 > END STRING
 
 > BEGIN STRING
@@ -636,7 +639,9 @@ Undress
  こんなに恥ずかしくて気持ちいいと
  おまんこ濡れてきちゃう・・・♥)
 > CONTEXT: Map001/events/13/pages/0/55/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](So distasteful...
+ But the shame feels so good
+ My pussy is getting wet・・・♥)
 > END STRING
 
 > BEGIN STRING
@@ -2123,7 +2128,7 @@ Should I bathe here, even though there are men nearby?
 > BEGIN STRING
 入浴する
 > CONTEXT: Map001/events/17/pages/0/6/Choice/0 < UNTRANSLATED
-
+Bathe
 > END STRING
 
 > BEGIN STRING
@@ -4443,7 +4448,8 @@ C(僕は・・・やる！)
 \\name[\\n[1]](驚いた様子でじろじろと私のこと見てる・・・
  恥ずかしい・・・♥)
 > CONTEXT: Map001/events/20/pages/0/9/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](He's looking at my body...
+ How shameful・・・♥)
 > END STRING
 
 > BEGIN STRING
@@ -4467,7 +4473,8 @@ C(僕は・・・やる！)
 \\name[\\n[1]](驚いた様子でじろじろと遠慮なしに私の裸を見てる・・・
  恥ずかしい・・・♥)
 > CONTEXT: Map001/events/20/pages/0/41/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](He's staring intensely at my naked body...
+ How shameful・・・♥)
 > END STRING
 
 > BEGIN STRING

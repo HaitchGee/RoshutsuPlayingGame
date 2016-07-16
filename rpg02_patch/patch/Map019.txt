@@ -950,7 +950,8 @@ Though it's a little pricey
 そういうことをする場所じゃあないんだよ・・・はぁはぁ
 > CONTEXT: Map019/events/32/pages/1/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/32/pages/2/2/Dialogue < UNTRANSLATED
-
+\\name[Teenager]Even though it is a hotel
+this is not a place to do... such things... *pant*
 > END STRING
 
 > BEGIN STRING
@@ -1206,8 +1207,8 @@ Please go out with me!
  恋人の前でなければ声をかけられたのに・・・)
 > CONTEXT: Map019/events/48/pages/0/2/Dialogue
 \\name[Male Yuppie]*stare*
-(Her huge boobs are almost falling out of her dress... How erotic...
- It's slightly transparant too...
+(Her huge boobs are almost falling out of her dress...
+ It's slightly transparant too... How erotic...
  I'd flirt with her if my girlfriend wasn't here... )
 > END STRING
 
