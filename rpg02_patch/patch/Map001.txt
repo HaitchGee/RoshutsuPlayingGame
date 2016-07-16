@@ -69,7 +69,7 @@
 \\name[\\n[1]](入場料を払ってないのに
  勝手に入っちゃダメだよね)
 > CONTEXT: Map001/events/5/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Can't enter the bathhouse without paying admission)
 > END STRING
 
 > BEGIN STRING
@@ -205,21 +205,26 @@ Buy
 \\\>お金   \\v[20]
 \\\>尿意○
 > CONTEXT: Map001/events/6/pages/4/59/Dialogue < UNTRANSLATED
-
+\\\>Energy   +\\v[18]
+\\\>Exp +1
+\\\>Money   \\v[20]
+\\\>Bladder full
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]風呂上りの牛乳はいかがかな？
 (ｼﾞﾛｼﾞﾛ)
 > CONTEXT: Map001/events/6/pages/4/77/Dialogue < UNTRANSLATED
-
+\\name[\\v[1]]How was the milk？
+(*stare*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あぁ・・・濡れた身体を見られてる
  恥ずかしい・・・♥)
 > CONTEXT: Map001/events/6/pages/4/82/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Aah... He's looking at my body...
+How shameful ♥)
 > END STRING
 
 > BEGIN STRING
@@ -239,25 +244,25 @@ Buy
 > BEGIN STRING
 \\name[\\n[1]]い、いえ・・・結構です・・・
 > CONTEXT: Map001/events/6/pages/4/97/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]N-No... it's great...
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]どうぞごゆっくり(ｼﾞﾛｼﾞﾛ)
 > CONTEXT: Map001/events/6/pages/5/23/Dialogue < UNTRANSLATED
-
+\\name[\\v[1]]Make yourself at home *stare*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](今日はもうお風呂に入ったよね)
 > CONTEXT: Map001/events/6/pages/6/10/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I already had a bath today)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]今日はもう、入りましたので・・・
 > CONTEXT: Map001/events/6/pages/6/26/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]I already had a bath today...
 > END STRING
 
 > BEGIN STRING
@@ -474,7 +479,7 @@ Get naked
 \\name[\\n[1]](もう着替えて出ようかな)
 > CONTEXT: Map001/events/8/pages/3/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/11/pages/1/2/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Let's get dressed and leave.)
 > END STRING
 
 > BEGIN STRING
@@ -638,7 +643,8 @@ Change into bath towel
 \\name[\\n[1]](すぐ隣に男の人がいるけど
  ここで身体を洗っちゃおうかな・・・♥)
 > CONTEXT: Map001/events/15/pages/0/3/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](There's a man right next to this seat...
+ Should I wash my body here♥?)
 > END STRING
 
 > BEGIN STRING
@@ -651,7 +657,7 @@ Change into bath towel
 \\name[\\n[1]](今は疲れてそれどころではないよ・・・
  早く湯船につかってゆっくりしたい・・・)
 > CONTEXT: Map001/events/15/pages/0/11/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I'm too tired... I'd love to take a long bath right now...)
 > END STRING
 
 > BEGIN STRING
@@ -4458,7 +4464,7 @@ C(僕は・・・やる！)
 > BEGIN STRING
 \\name[\\n[1]](ここでおしっこしちゃおうかな・・・♥)
 > CONTEXT: Map001/events/22/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Should I pee here・・・♥)
 > END STRING
 
 > BEGIN STRING
@@ -4528,7 +4534,7 @@ C(僕は・・・やる！)
 > BEGIN STRING
 \\name[\\n[1]](トイレだ)
 > CONTEXT: Map001/events/24/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Restroom)
 > END STRING
 
 > BEGIN STRING

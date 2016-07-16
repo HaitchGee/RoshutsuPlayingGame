@@ -33,8 +33,7 @@ Hide Status if(s[39]==true)
 \\\>経験値 \\v[16]\\v[19]
 \\\>元気   +\\v[18]
 \\\>\\v[14]
-> CONTEXT: Commonevents/5/46/Dialogue
-> CONTEXT: Commonevents/5/46/Dialogue
+> CONTEXT: Commonevents/5/47/Dialogue
 \\\>Exp \\v[16]\\v[19]
 \\\>Energy   +\\v[18]
 \\\>\\v[14]

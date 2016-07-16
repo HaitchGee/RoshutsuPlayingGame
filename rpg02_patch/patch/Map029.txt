@@ -26,7 +26,7 @@ Do
 > CONTEXT: Map029/events/8/pages/0/36/Choice/1
 > CONTEXT: Map026/events/9/pages/0/24/Choice/1
 > CONTEXT: Map019/events/40/pages/1/4/Choice/1
-Don't do
+Don't
 > END STRING
 
 > BEGIN STRING

@@ -538,26 +538,26 @@ Pee
 
 > BEGIN STRING
 \\name[\\n[1]]ふぅ、すっきり
-> CONTEXT: Map019/events/15/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/15/pages/1/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/24/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/15/pages/0/26/Dialogue
+> CONTEXT: Map019/events/15/pages/1/96/Dialogue
+> CONTEXT: Map001/events/24/pages/0/30/Dialogue
+\\name[\\n[1]]Ahhh... refreshing.
 > END STRING
 
 > BEGIN STRING
 \\\>尿意×
-> CONTEXT: Map019/events/15/pages/0/30/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/15/pages/1/100/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/24/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/15/pages/0/30/Dialogue
+> CONTEXT: Map019/events/15/pages/1/100/Dialogue
+> CONTEXT: Map001/events/24/pages/0/34/Dialogue
+\\\>Bladder empty
 > END STRING
 
 > BEGIN STRING
 我慢する
-> CONTEXT: Map019/events/15/pages/0/37/Choice/0 < UNTRANSLATED
-> CONTEXT: Map019/events/15/pages/1/107/Choice/0 < UNTRANSLATED
-> CONTEXT: Map001/events/24/pages/0/41/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map019/events/15/pages/0/37/Choice/0
+> CONTEXT: Map019/events/15/pages/1/107/Choice/0
+> CONTEXT: Map001/events/24/pages/0/41/Choice/0
+Endure
 > END STRING
 
 > BEGIN STRING
@@ -607,7 +607,7 @@ Lock the door and pee
 \\name[水売りのおじさん]おいしいおいしいお水だよ
 一杯 100円 だよ
 いかがかな？
-> CONTEXT: Map019/events/17/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/0/2/Dialogue
 \\name[Water Merchant]Fresh, delicious water!
 Just 100 Yen!
 Want some?
@@ -621,48 +621,48 @@ Drink (¥100)
 
 > BEGIN STRING
 \\name[\\n[1]](今日はもう飲んだからいいや)
-> CONTEXT: Map019/events/17/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/0/11/Dialogue
 \\name[\\n[1]](I already drank today...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](すでにおしっこが出そうだから
  これ以上飲み物を飲むのはやめておこう・・・)
-> CONTEXT: Map019/events/17/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/1/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/3/21/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/6/pages/4/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/0/20/Dialogue
+> CONTEXT: Map019/events/17/pages/1/21/Dialogue
+> CONTEXT: Map019/events/17/pages/3/21/Dialogue
+> CONTEXT: Map001/events/6/pages/4/16/Dialogue
 \\name[\\n[1]](I really need to pee, better not drink any more water...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そんなにお金を持っていなかったよ・・・
  水すらも買えないなんて・・・)
-> CONTEXT: Map019/events/17/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/0/30/Dialogue
 \\name[\\n[1]](I don't have enough money...
 I can't even buy water.)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ｺﾞｸｺﾞｸ・・・ぷはぁ
-> CONTEXT: Map019/events/17/pages/0/41/Dialogue < UNTRANSLATED
-\\name[\\n[1]]*gulp* *gulp*... ahh
+> CONTEXT: Map019/events/17/pages/0/41/Dialogue
+\\name[\\n[1]]gulpgulp... ahh
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おいしい・・・ちょっと元気出たかも)
-> CONTEXT: Map019/events/17/pages/0/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/1/41/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/3/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/0/45/Dialogue
+> CONTEXT: Map019/events/17/pages/1/41/Dialogue
+> CONTEXT: Map019/events/17/pages/3/41/Dialogue
 \\name[\\n[1]](Delicious... I'm feeling refreshed)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ・・・でも、おしっこしたくなってきちゃった)
-> CONTEXT: Map019/events/17/pages/0/49/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/1/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/3/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/6/pages/4/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/0/49/Dialogue
+> CONTEXT: Map019/events/17/pages/1/45/Dialogue
+> CONTEXT: Map019/events/17/pages/3/45/Dialogue
+> CONTEXT: Map001/events/6/pages/4/39/Dialogue
 \\name[\\n[1]](OH... Now I really need to pee)
 > END STRING
 
@@ -703,7 +703,7 @@ I can't even buy water.)
 \\\>元気 +\\v[18]
 \\\>お金 \\v[20]
 \\\>尿意○
-> CONTEXT: Map019/events/17/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/0/69/Dialogue
 \\\>Energy +\\v[18]
 \\\>Money \\v[20]
 \\\>Bladder full
@@ -723,8 +723,10 @@ Nevermind
 君は浴びるほど水が好きなのかな？
 ならうちのおいしいおいしい水を一杯サービスするから、
 ゆっくり飲んでいってよ！
-> CONTEXT: Map019/events/17/pages/1/2/Dialogue < UNTRANSLATED
-\\name[Water Merchant]Hey there lady! You must really enjoy water if you are so drenched. Have a drink of our delicous water, on the house!
+> CONTEXT: Map019/events/17/pages/1/2/Dialogue
+\\name[Water Merchant]Hey there lady! 
+You must really enjoy water if you are so drenched. 
+Have a drink of our delicous water, on the house!
 > END STRING
 
 > BEGIN STRING
@@ -736,8 +738,8 @@ Drink(Free)
 
 > BEGIN STRING
 \\name[\\n[1]](今日はもう飲んだから遠慮しておこう)
-> CONTEXT: Map019/events/17/pages/1/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/3/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/1/12/Dialogue
+> CONTEXT: Map019/events/17/pages/3/12/Dialogue
 \\name[\\n[1]](I already drank today, better hold back.)
 > END STRING
 
@@ -754,8 +756,8 @@ Thank you very much♥
 \\name[水売りのおじさん]ｼﾞﾛｼﾞﾛｼﾞﾛ・・・
 はぁはぁはぁ
 こちらこそありがとうございました！
-> CONTEXT: Map019/events/17/pages/1/35/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/3/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/1/35/Dialogue
+> CONTEXT: Map019/events/17/pages/3/35/Dialogue
 \\name[Water Merchant]*Stare*...
 Hahaha! I should be thanking you!
 > END STRING
@@ -765,8 +767,8 @@ Hahaha! I should be thanking you!
 \\\>経験値 +\\v[19]
 \\\>お金   \\v[20]
 \\\>尿意○
-> CONTEXT: Map019/events/17/pages/1/65/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/3/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/1/65/Dialogue
+> CONTEXT: Map019/events/17/pages/3/65/Dialogue
 \\\>Energy +\\v[18]
 \\\>Exp +\\v[19]
 \\\>Money \\v[20]
@@ -777,8 +779,8 @@ Hahaha! I should be thanking you!
 \\name[水売りのおじさん]はぁはぁ
 良い物を見させてもらったよ
 またおいで
-> CONTEXT: Map019/events/17/pages/2/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/17/pages/4/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/2/2/Dialogue
+> CONTEXT: Map019/events/17/pages/4/2/Dialogue
 \\name[Water Merchant]Haa...
 I have seen heaven...
 I pray it won't be the last time I see it.
@@ -789,7 +791,7 @@ I pray it won't be the last time I see it.
 それは・・・ちょっと疲れているのかな？
 ならうちのおいしいおいしい水を一杯サービスするから、
 ゆっくり飲んでいってよ！
-> CONTEXT: Map019/events/17/pages/3/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/17/pages/3/2/Dialogue
 \\name[Water Merchant]Hey there lady! You seem tired. Have a drink of our delicous water, on the house!
 > END STRING
 
@@ -1018,8 +1020,10 @@ I'm envious
 \\name[おじさん]はぁはぁ・・・
 おじさんには全裸よりも
 その状態のほうが興奮するかもしれない・・・
-> CONTEXT: Map019/events/36/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/36/pages/2/2/Dialogue
+\\name[Old Mand]*huff* *huff*
+Compared to my naked body
+The new paintings might get more exciting...
 > END STRING
 
 > BEGIN STRING
@@ -1056,82 +1060,86 @@ I'm envious
  服が濡れて・・・透けて大変なことになっちゃうよね
  まだその恥ずかしさには耐えられないかな)
 > CONTEXT: Map019/events/40/pages/0/10/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Playing in the water...
+ My clothes would get wet and become transparant...
+ I wonder if I could endure the shame?)
 > END STRING
 
 > BEGIN STRING
 \\name[水浴遊び少年A]お姉さんも一緒に水遊び、する？
 > CONTEXT: Map019/events/40/pages/1/2/Dialogue < UNTRANSLATED
-
+\\name[Boy A playing in water]Big sis, do you want to play in the water together?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]うん、お姉さんも一緒に遊ぶよ！
 > CONTEXT: Map019/events/40/pages/1/8/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Yeah, big sis also wants to play!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]それじゃ、またね
 > CONTEXT: Map019/events/40/pages/1/43/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Well then, Bye!
 > END STRING
 
 > BEGIN STRING
 \\name[水遊び少年たち]はい・・・///
 > CONTEXT: Map019/events/40/pages/1/45/Dialogue < UNTRANSLATED
-
+\\name[Boys playing in water]Bye~~!
 > END STRING
 
 > BEGIN STRING
 \\name[水浴遊び少年A]お姉さんもびしょ濡れだね
-> CONTEXT: Map019/events/40/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/40/pages/2/2/Dialogue
+\\name[Bathing boy A]Oh, big sis is also soaking wet
 > END STRING
 
 > BEGIN STRING
 \\name[水浴遊び少年B]ﾜｲﾜｲｷｬｯｷｬ
-> CONTEXT: Map019/events/41/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/41/pages/0/2/Dialogue
+\\name[Bathing boy B]*noises*
 > END STRING
 
 > BEGIN STRING
 \\name[水浴遊び少年B]ﾁﾗｯ ﾁﾗｯ
-> CONTEXT: Map019/events/41/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/41/pages/1/2/Dialogue
+\\name[Bathing boy B]*noises*
 > END STRING
 
 > BEGIN STRING
 \\name[子どもたち]ﾜｲﾜｲｷｬｯｷｬ
-> CONTEXT: Map019/events/42/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/43/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/42/pages/0/2/Dialogue
+> CONTEXT: Map019/events/43/pages/0/2/Dialogue
+\\name[Children]*noises*
 > END STRING
 
 > BEGIN STRING
 \\name[少年]ちょうちょまてまてー
-> CONTEXT: Map019/events/45/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/45/pages/0/2/Dialogue
+\\name[Boy]*noises*
 > END STRING
 
 > BEGIN STRING
 \\name[おばさん]子供たちが遊べる公園が広くていいわね
-> CONTEXT: Map019/events/46/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/46/pages/0/2/Dialogue
+\\name[Auntie]The children can enjoy theirselves in this spacious park
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](子供が多くて、ここで露出プレイはできないかな・・・)
 > CONTEXT: Map019/events/46/pages/0/6/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](So much children... I can't perform exposure play here...)
 > END STRING
 
 > BEGIN STRING
 \\name[おばさん]あら、あなた
 服が透けて、見えてるわよ
 そんな姿、子供たちに見せないでくださいね
-> CONTEXT: Map019/events/46/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/46/pages/1/2/Dialogue
+\\name[Auntie]Ah, you..
+Your clothes are transparent
+Please don't show such an appearance to the children.
 > END STRING
 
 > BEGIN STRING
@@ -1153,19 +1161,21 @@ I'm envious
 > BEGIN STRING
 \\name[都会派カップル(男)]・・・エロい！
 僕と付き合ってください！
-> CONTEXT: Map019/events/47/pages/1/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/48/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/47/pages/1/9/Dialogue
+> CONTEXT: Map019/events/48/pages/1/2/Dialogue
+\\name[Male Yuppie]How erotic!
+Please go out with me!
 > END STRING
 
 > BEGIN STRING
 \\name[都会派カップル(女)]ちょっと、ダーリン！！
 何を言っているのっ！？
-> CONTEXT: Map019/events/47/pages/1/14/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/47/pages/2/15/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/48/pages/1/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/48/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/47/pages/1/14/Dialogue
+> CONTEXT: Map019/events/47/pages/2/15/Dialogue
+> CONTEXT: Map019/events/48/pages/1/7/Dialogue
+> CONTEXT: Map019/events/48/pages/2/8/Dialogue
+\\name[Female Yuppie]Excuse me, darling!!
+What did you say?!
 > END STRING
 
 > BEGIN STRING
@@ -1181,9 +1191,11 @@ I'm envious
 \\name[都会派カップル(男)]・・・おおお、おっぱい！
 僕の彼女よりおっきい！
 僕と付き合ってください！
-> CONTEXT: Map019/events/47/pages/2/9/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/48/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/47/pages/2/9/Dialogue
+> CONTEXT: Map019/events/48/pages/2/2/Dialogue
+\\name[male Yuppie]Ooooh! Boobs!
+Bigger than my girlfriend!
+Please go out with me!
 > END STRING
 
 > BEGIN STRING
@@ -1191,15 +1203,19 @@ I'm envious
 (大きなおっぱいが、ワンピースからこぼれそうでエロいなぁ
  しかも薄手の生地で透けそうだ
  恋人の前でなければ声をかけられたのに・・・)
-> CONTEXT: Map019/events/48/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/48/pages/0/2/Dialogue
+\\name[Male Yuppie]*stare*
+(Her huge boobs are almost falling out of her dress... How erotic...
+ It's slightly transparant too...
+ I'd flirt with her if my girlfriend wasn't here... )
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おしゃれすぎる飲食店だ
  田舎者の私には入りづらいな)
-> CONTEXT: Map019/events/49/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/49/pages/0/2/Dialogue
+\\name[\\n[1]](This restaurant is too fancy.
+ A country bumpkin like me can't get in.)
 > END STRING
 
 > BEGIN STRING
@@ -1277,58 +1293,59 @@ I'm envious
 
 > BEGIN STRING
 \\name[街行く人]見えてますよ
-> CONTEXT: Map019/events/62/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/62/pages/2/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/62/pages/1/2/Dialogue
+> CONTEXT: Map019/events/62/pages/2/2/Dialogue
+\\name[Townsperson]I can see it...
 > END STRING
 
 > BEGIN STRING
 \\name[募金活動をする青年]募金をお願いします、ぶひひ
-> CONTEXT: Map019/events/63/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/7/Dialogue
+\\name[Fundraiser]Please donate!
 > END STRING
 
 > BEGIN STRING
 募金する
 > CONTEXT: Map019/events/63/pages/0/9/Choice/0
-Raise funds
+Donate
 > END STRING
 
 > BEGIN STRING
 募金しない
 > CONTEXT: Map019/events/63/pages/0/9/Choice/1
-Don't raise funds
+Don't donate
 > END STRING
 
 > BEGIN STRING
 \\name[募金活動をする青年]ﾁｯ
-> CONTEXT: Map019/events/63/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/13/Dialogue
+\\name[Fundraiser]Tch
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そんなに持ってなかったよ・・・)
-> CONTEXT: Map019/events/63/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/22/Dialogue
+\\name[\\n[1]](I don't have enough...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ところで、このお金は何に使われるんですか？
-> CONTEXT: Map019/events/63/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/41/Dialogue
+\\name[\\n[1]]By the way, to what cause is this money given?
 > END STRING
 
 > BEGIN STRING
 \\name[募金活動をする青年]このお金は恵まれない人のため・・・
 つまりは僕のために使われます！
-> CONTEXT: Map019/events/63/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/43/Dialogue
+\\name[Fundraiser]This money is not given away...
+It's for myself！
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]は？
-> CONTEXT: Map019/events/63/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/46/Dialogue
+\\name[\\n[1]]Huh?
 > END STRING
 
 > BEGIN STRING
@@ -1419,9 +1436,9 @@ Don't raise funds
 
 > BEGIN STRING
 \\name[\\n[1]](よし)
-> CONTEXT: Map026/events/39/pages/0/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/64/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/39/pages/0/81/Dialogue
+> CONTEXT: Map019/events/64/pages/0/24/Dialogue
+\\name[\\n[1]](Alright)
 > END STRING
 
 > BEGIN STRING

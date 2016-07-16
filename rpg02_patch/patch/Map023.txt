@@ -2,45 +2,45 @@
 > BEGIN STRING
 \\name[酒場の店主]いらっしゃい
 何か食べていくかい？
-> CONTEXT: Map023/events/1/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/2/Dialogue
 \\name[Barkeep]Welcome. Do you want something to eat？
 > END STRING
 
 > BEGIN STRING
 食事する(150円)
-> CONTEXT: Map023/events/1/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/5/Choice/0
 Eat (¥150)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](今日のランチはもう十分に食べたよね)
-> CONTEXT: Map023/events/1/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/10/Dialogue
 \\name[\\n[1]](I already ate today...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そんなにお金を持っていなかったよ・・・
  宿で出されるディナーだけで我慢しよう・・・)
-> CONTEXT: Map023/events/1/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/19/Dialogue
 \\name[\\n[1]](I don't have enough money... Guess I'll just have dinner at the Inn)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ﾓｸﾞﾓｸﾞﾑｼｬﾑｼｬ
-> CONTEXT: Map023/events/1/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/36/Dialogue
 \\name[\\n[1]]*Munch* *Munch*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ごちそうさまでした
-> CONTEXT: Map023/events/1/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/40/Dialogue
 \\name[\\n[1]]Thanks for the meal!
 > END STRING
 
 > BEGIN STRING
 元気 +20
 お金 -150
-> CONTEXT: Map023/events/1/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/1/pages/0/48/Dialogue
 Energy +20
 Money -150
 > END STRING

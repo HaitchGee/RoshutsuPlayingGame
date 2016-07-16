@@ -1,7 +1,7 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 RPG ˜IoƒvƒŒƒCƒ“ƒOƒQ[ƒ€2 ‚¨ŽdŽ–•Ò ver.1.00
-> CONTEXT: System/game_title/
+> CONTEXT: None < UNUSED
 RPG2 - Roshutsu Playing Game 2 ver.1.00
 > END STRING
 
