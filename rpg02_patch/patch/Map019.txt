@@ -1059,7 +1059,7 @@ The new paintings might get more exciting...
 \\name[\\n[1]](ここで水遊びしちゃうと
  服が濡れて・・・透けて大変なことになっちゃうよね
  まだその恥ずかしさには耐えられないかな)
-> CONTEXT: Map019/events/40/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/40/pages/0/10/Dialogue
 \\name[\\n[1]](Playing in the water...
  My clothes would get wet and become transparant...
  I wonder if I could endure the shame?)
@@ -1067,25 +1067,25 @@ The new paintings might get more exciting...
 
 > BEGIN STRING
 \\name[水浴遊び少年A]お姉さんも一緒に水遊び、する？
-> CONTEXT: Map019/events/40/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/40/pages/1/2/Dialogue
 \\name[Boy A playing in water]Big sis, do you want to play in the water together?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]うん、お姉さんも一緒に遊ぶよ！
-> CONTEXT: Map019/events/40/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/40/pages/1/8/Dialogue
 \\name[\\n[1]]Yeah, big sis also wants to play!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]それじゃ、またね
-> CONTEXT: Map019/events/40/pages/1/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/40/pages/1/43/Dialogue
 \\name[\\n[1]]Well then, Bye!
 > END STRING
 
 > BEGIN STRING
 \\name[水遊び少年たち]はい・・・///
-> CONTEXT: Map019/events/40/pages/1/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/40/pages/1/45/Dialogue
 \\name[Boys playing in water]Bye~~!
 > END STRING
 
@@ -1128,7 +1128,7 @@ The new paintings might get more exciting...
 
 > BEGIN STRING
 \\name[\\n[1]](子供が多くて、ここで露出プレイはできないかな・・・)
-> CONTEXT: Map019/events/46/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/46/pages/0/6/Dialogue
 \\name[\\n[1]](So much children... I can't perform exposure play here...)
 > END STRING
 
