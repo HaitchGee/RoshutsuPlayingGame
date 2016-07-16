@@ -9,13 +9,13 @@
 > BEGIN STRING
 食事する(150円)
 > CONTEXT: Map023/events/1/pages/0/5/Choice/0 < UNTRANSLATED
-Eat (150円)
+Eat (¥150)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](今日のランチはもう十分に食べたよね)
 > CONTEXT: Map023/events/1/pages/0/10/Dialogue < UNTRANSLATED
-\\name[\\n[1]](I already ate today)
+\\name[\\n[1]](I already ate today...)
 > END STRING
 
 > BEGIN STRING

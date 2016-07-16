@@ -608,7 +608,9 @@ Lock the door and pee
 一杯 100円 だよ
 いかがかな？
 > CONTEXT: Map019/events/17/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Water Merchant]Fresh, delicious water!
+Just 100 Yen!
+Want some?
 > END STRING
 
 > BEGIN STRING
@@ -620,7 +622,7 @@ Drink (¥100)
 > BEGIN STRING
 \\name[\\n[1]](今日はもう飲んだからいいや)
 > CONTEXT: Map019/events/17/pages/0/11/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I already drank today...)
 > END STRING
 
 > BEGIN STRING
@@ -630,20 +632,21 @@ Drink (¥100)
 > CONTEXT: Map019/events/17/pages/1/21/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/3/21/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/6/pages/4/16/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I really need to pee, better not drink any more water...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そんなにお金を持っていなかったよ・・・
  水すらも買えないなんて・・・)
 > CONTEXT: Map019/events/17/pages/0/30/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I don't have enough money...
+I can't even buy water.)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ｺﾞｸｺﾞｸ・・・ぷはぁ
 > CONTEXT: Map019/events/17/pages/0/41/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]*gulp* *gulp*... ahh
 > END STRING
 
 > BEGIN STRING
@@ -651,7 +654,7 @@ Drink (¥100)
 > CONTEXT: Map019/events/17/pages/0/45/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/1/41/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/3/41/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Delicious... I'm feeling refreshed)
 > END STRING
 
 > BEGIN STRING
@@ -660,7 +663,7 @@ Drink (¥100)
 > CONTEXT: Map019/events/17/pages/1/45/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/3/45/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/6/pages/4/39/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](OH... Now I really need to pee)
 > END STRING
 
 > BEGIN STRING
@@ -671,7 +674,7 @@ Drink (¥100)
 > CONTEXT: Map007/events/5/pages/1/201/InlineScript/1:6
 > CONTEXT: Map007/events/8/pages/1/330/InlineScript/1:6
 > CONTEXT: Map001/events/6/pages/4/50/InlineScript/1:7
-"元気"
+"Energy"
 > END STRING
 
 > BEGIN STRING
@@ -682,7 +685,7 @@ Drink (¥100)
 > CONTEXT: Map007/events/5/pages/1/201/InlineScript/2:6
 > CONTEXT: Map007/events/8/pages/1/330/InlineScript/2:6
 > CONTEXT: Map001/events/6/pages/4/50/InlineScript/3:7
-"経験値"
+"Exp"
 > END STRING
 
 > BEGIN STRING
@@ -693,7 +696,7 @@ Drink (¥100)
 > CONTEXT: Map007/events/5/pages/1/201/InlineScript/3:6
 > CONTEXT: Map007/events/8/pages/1/330/InlineScript/3:6
 > CONTEXT: Map001/events/6/pages/4/50/InlineScript/5:7
-"お金"
+"Money"
 > END STRING
 
 > BEGIN STRING
@@ -701,7 +704,9 @@ Drink (¥100)
 \\\>お金 \\v[20]
 \\\>尿意○
 > CONTEXT: Map019/events/17/pages/0/69/Dialogue < UNTRANSLATED
-
+\\\>Energy +\\v[18]
+\\\>Money \\v[20]
+\\\>Bladder full
 > END STRING
 
 > BEGIN STRING
@@ -710,7 +715,7 @@ Drink (¥100)
 > CONTEXT: Map019/events/17/pages/1/73/Choice/0
 > CONTEXT: Map019/events/17/pages/3/73/Choice/0
 > CONTEXT: Map001/events/6/pages/4/68/Choice/0
-Don't need it
+Nevermind
 > END STRING
 
 > BEGIN STRING
@@ -719,7 +724,7 @@ Don't need it
 ならうちのおいしいおいしい水を一杯サービスするから、
 ゆっくり飲んでいってよ！
 > CONTEXT: Map019/events/17/pages/1/2/Dialogue < UNTRANSLATED
-
+\\name[Water Merchant]Hey there lady! You must really enjoy water if you are so drenched. Have a drink of our delicous water, on the house!
 > END STRING
 
 > BEGIN STRING
@@ -733,7 +738,7 @@ Drink(Free)
 \\name[\\n[1]](今日はもう飲んだから遠慮しておこう)
 > CONTEXT: Map019/events/17/pages/1/12/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/3/12/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I already drank today, better hold back.)
 > END STRING
 
 > BEGIN STRING
@@ -751,7 +756,8 @@ Thank you very much♥
 こちらこそありがとうございました！
 > CONTEXT: Map019/events/17/pages/1/35/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/3/35/Dialogue < UNTRANSLATED
-
+\\name[Water Merchant]*Stare*...
+Hahaha! I should be thanking you!
 > END STRING
 
 > BEGIN STRING
@@ -761,7 +767,10 @@ Thank you very much♥
 \\\>尿意○
 > CONTEXT: Map019/events/17/pages/1/65/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/3/65/Dialogue < UNTRANSLATED
-
+\\\>Energy +\\v[18]
+\\\>Exp +\\v[19]
+\\\>Money \\v[20]
+\\\>Bladder full
 > END STRING
 
 > BEGIN STRING
@@ -770,7 +779,9 @@ Thank you very much♥
 またおいで
 > CONTEXT: Map019/events/17/pages/2/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map019/events/17/pages/4/2/Dialogue < UNTRANSLATED
-
+\\name[Water Merchant]Haa...
+I have seen heaven...
+I pray it won't be the last time I see it.
 > END STRING
 
 > BEGIN STRING
@@ -779,7 +790,7 @@ Thank you very much♥
 ならうちのおいしいおいしい水を一杯サービスするから、
 ゆっくり飲んでいってよ！
 > CONTEXT: Map019/events/17/pages/3/2/Dialogue < UNTRANSLATED
-
+\\name[Water Merchant]Hey there lady! You seem tired. Have a drink of our delicous water, on the house!
 > END STRING
 
 > BEGIN STRING
