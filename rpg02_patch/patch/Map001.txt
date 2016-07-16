@@ -3393,7 +3393,7 @@ Blahblahblah
 > BEGIN STRING
 \\name[男たち]よっこいしょっと
 > CONTEXT: Map001/events/18/pages/6/93/Dialogue < UNTRANSLATED
-
+\\name[Men]Hup
 > END STRING
 
 > BEGIN STRING

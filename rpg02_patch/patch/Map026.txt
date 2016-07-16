@@ -2600,6 +2600,7 @@ I'll put my swimsuit on!!
 > CONTEXT: Map001/events/16/pages/3/52/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/18/pages/8/112/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/25/pages/1/35/Dialogue < UNTRANSLATED
+\\name[\\n[1]]Hup
 
 > END STRING
 

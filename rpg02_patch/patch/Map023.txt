@@ -2476,7 +2476,8 @@ Money -150
 \\name[\\n[1]]あの、私、自分の街に帰ることになりまして・・・
 今までお世話になりました
 > CONTEXT: Map023/events/8/pages/0/15/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Well, I've decided to return home...
+Thank you for your kindness up to now.
 > END STRING
 
 > BEGIN STRING
@@ -2485,7 +2486,9 @@ Money -150
 でも、しかたねぇ
 こちらこそ、今までありがとな！
 > CONTEXT: Map023/events/8/pages/0/18/Dialogue < UNTRANSLATED
-
+\\name[Barkeep]Is that so?
+Such a shame, thanks to you the number of guests has increased significantly 
+But, it is I who should thank you!
 > END STRING
 
 > BEGIN STRING
@@ -2493,14 +2496,17 @@ Money -150
 「そんなぁ！ ばにーちゃん目当てにこの店に来ていたのに！」
 「もうこの店に来る意味なくなっちゃうよ」
 > CONTEXT: Map023/events/8/pages/0/29/Dialogue < UNTRANSLATED
-
+\\name[Guest]What?! \\n[1], the bunnygirl has quit!?
+I came to this pub for her!
+It was the best part about the pub!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]えぇ・・・でも私は旅行でこの街に来ていただけなので
 そろそろお家に帰らないと・・・
 > CONTEXT: Map023/events/8/pages/0/37/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]But I only came to this town as a vacation,
+I need to return home now...
 > END STRING
 
 > BEGIN STRING
@@ -2508,26 +2514,29 @@ Money -150
 最後にバニースーツ姿を拝ませてよ
 目に焼き付けておくからさ！
 > CONTEXT: Map023/events/8/pages/0/40/Dialogue < UNTRANSLATED
-
+\\name[Guest]Then!
+Let us see bunny-chan one last time!
+So we will never forget it!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]えぇっと・・・
 > CONTEXT: Map023/events/8/pages/0/44/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]uhm...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]・・・はい♥
 かまいませんよ♥
 > CONTEXT: Map023/events/8/pages/0/48/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]・・・okay♥
+prepare yourself♥
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]着替えてきました・・・♥
 > CONTEXT: Map023/events/8/pages/0/73/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]I've changed my clothes・・・♥
 > END STRING
 
 > BEGIN STRING
@@ -2535,7 +2544,9 @@ Money -150
 「あぁ・・・エロ・・・セクシーだぜ！」
 「これがもう見れないなんて・・・うぅ」
 > CONTEXT: Map023/events/8/pages/0/75/Dialogue < UNTRANSLATED
-
+\\name[Guest]As expected\\n[1]chan's bunnygirl is simply the best!
+So lewd! So erotic!
+But not being able to see this any longer! *sniff*
 > END STRING
 
 > BEGIN STRING
@@ -2544,7 +2555,10 @@ Money -150
  今は見られるためにバニースーツを来て
  近くで遠慮なしに見られちゃってる・・・♥)
 > CONTEXT: Map023/events/8/pages/0/81/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant♥
+ Usually people would only peek at me
+ But this bunny suit
+ People look at it without holding back・・・♥)
 > END STRING
 
 > BEGIN STRING
@@ -2553,27 +2567,32 @@ Money -150
 「そう、胸が・・・」
 「本人は気づいていないみたいだったけど、いつも・・・」
 > CONTEXT: Map023/events/8/pages/0/86/Dialogue < UNTRANSLATED
-
+\\name[Guest]ﾋｿﾋｿ
+Mari-chan, what are you saying...
+Your chest...
+You noticed that people were always looking at it...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]こう・・・ですか？
 > CONTEXT: Map023/events/8/pages/0/103/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Like this?
 > END STRING
 
 > BEGIN STRING
 \\name[客たち]！！！
 えっ！？ バニーちゃん、なんで！？
 > CONTEXT: Map023/events/8/pages/0/105/Dialogue < UNTRANSLATED
-
+\\name[Guest]!!!
+Eh!? Bunny-chan!?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]実は・・・私、えっちな姿を見られるのが好きで
 わざとおっぱい出しちゃっていたんです・・・♥
 > CONTEXT: Map023/events/8/pages/0/110/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Actually...I like it when people look at me lewdly
+My boobs were visible on purpose・・・♥
 > END STRING
 
 > BEGIN STRING
@@ -2581,7 +2600,9 @@ Money -150
 いや、でも確かにうっかりにしては、いつも見えているとは思っていたけど・・・
 極度のうっかりさんという線も捨てきれなかったし・・・
 > CONTEXT: Map023/events/8/pages/0/113/Dialogue < UNTRANSLATED
-
+\\name[Guest]Wh- Wha!!
+いや、でも確かにうっかりにしては、いつも見えているとは思っていたけど・・・
+極度のうっかりさんという線も捨てきれなかったし・・・
 > END STRING
 
 > BEGIN STRING

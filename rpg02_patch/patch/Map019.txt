@@ -1508,8 +1508,8 @@ I'll get on
 > END STRING
 
 > BEGIN STRING
-\\name[周りの乗客]！！？
-(おっぱい出した女の子が乗ってきた！！)
+\\name[Passengers]!!?
+(A girl with exposed breasts has gotten on!!)
 > CONTEXT: Map019/events/64/pages/6/100/Dialogue < UNTRANSLATED
 
 > END STRING

@@ -8,181 +8,181 @@ Working at the inn
 > BEGIN STRING
 \\\>宿屋お仕事イベント 全10種
 > CONTEXT: Map002/events/1/pages/1/2/Dialogue
-\\\>Inn Work Events  10 Total
+\\\>Inn Events (10 Total)
 > END STRING
 
 > BEGIN STRING
 1 ぞうきん掛け1 ぱんちら if(v[$event]\>=1)
 > CONTEXT: Map002/events/1/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 Dustcloth 1 (Panties) if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 ベッドメイク1 ぱんちら if(v[$event]\>=2)
 > CONTEXT: Map002/events/1/pages/1/9/Choice/0 < UNTRANSLATED
-
+2 Making the beds 1 (Panties) if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
 3 窓ふき1 片乳ぽろり if(v[$event]\>=3)
 > CONTEXT: Map002/events/1/pages/1/14/Choice/0 < UNTRANSLATED
-
+3 Cleaning the windows 1 (Wardrobe malfunction) if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 4 ぞうきん掛け2 おっぱいぽろり if(v[$event]\>=4)
 > CONTEXT: Map002/events/1/pages/1/19/Choice/0 < UNTRANSLATED
-
+4 Dustcloth2 (Wardrobe malfunction) if(v[$event]\>=4)
 > END STRING
 
 > BEGIN STRING
 5 窓ふき2 両乳ぽろり if(v[$event]\>=5)
 > CONTEXT: Map002/events/1/pages/1/24/Choice/0 < UNTRANSLATED
-
+5 Cleaning windows 2 (Both breasts) if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 6 ぞうきん掛け3 のーぱん if(v[$event]\>=6)
 > CONTEXT: Map002/events/1/pages/1/29/Choice/0 < UNTRANSLATED
-
+6 Dustcloth 3 (Commando) if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 7 ベッドメイク2 のーぱん if(v[$event]\>=7)
 > CONTEXT: Map002/events/1/pages/1/34/Choice/0 < UNTRANSLATED
-
+7 Making the beds 2  (Commando) if(v[$event]\>=7)
 > END STRING
 
 > BEGIN STRING
 8 窓ふき3 裸 if(v[$event]\>=8)
 > CONTEXT: Map002/events/1/pages/1/39/Choice/0 < UNTRANSLATED
-
+8 Cleanting the windows 3 (Naked) if(v[$event]\>=8)
 > END STRING
 
 > BEGIN STRING
 9 ベッドメイク3 オナニーされる if(v[$event]\>=9)
 > CONTEXT: Map002/events/1/pages/1/44/Choice/0 < UNTRANSLATED
-
+9 Making the beds 3 (Masturbation) if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 10 ベッドメイク4 一緒にオナニーをするif(v[$event]\>=10)
 > CONTEXT: Map002/events/1/pages/1/49/Choice/0 < UNTRANSLATED
-
+10 Making the beds 4  (Mutual masturbation)(v[$event]\>=10)
 > END STRING
 
 > BEGIN STRING
 宿屋のカウンターで胸を見られるイベント
 > CONTEXT: Map002/events/2/pages/0/0/Dialogue < UNTRANSLATED
-
+Showing breasts at the reception desk
 > END STRING
 
 > BEGIN STRING
 \\\>宿屋胸ちらイベント 全5種
 > CONTEXT: Map002/events/2/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>Reception desk events (5 total)
 > END STRING
 
 > BEGIN STRING
 1 宿に泊まる 初回 if(v[$event]\>=1)
 > CONTEXT: Map002/events/2/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 First stay at the hotel if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 胸元を覗かれる if(v[$event]\>=2)
 > CONTEXT: Map002/events/2/pages/1/13/Choice/0 < UNTRANSLATED
-
+2 Peeping if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
 3 片乳出す if(v[$event]\>=3)
 > CONTEXT: Map002/events/2/pages/1/18/Choice/0 < UNTRANSLATED
-
+3 Wardrobe malfunction if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 4 両乳出す if(v[$event]\>=5)
 > CONTEXT: Map002/events/2/pages/1/23/Choice/0 < UNTRANSLATED
-
+4 Wardrobe malfunction (both breast) if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 5 えんぴつで乳首をいじる if(v[$event]\>=7)
 > CONTEXT: Map002/events/2/pages/1/28/Choice/0 < UNTRANSLATED
-
+5 rubbing nipples with the pencil if(v[$event]\>=7)
 > END STRING
 
 > BEGIN STRING
 宿屋の自室で露出プレイをするイベント
 > CONTEXT: Map002/events/3/pages/0/0/Dialogue < UNTRANSLATED
-
+Exposing yourself in your room
 > END STRING
 
 > BEGIN STRING
 \\\>宿屋自室で露出イベント 全7種
 > CONTEXT: Map002/events/3/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>Room events (7 total)
 > END STRING
 
 > BEGIN STRING
 1 ストレッチを始める if(v[$event]\>=1)
 > CONTEXT: Map002/events/3/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 Stretching if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 おっぱいこぼれる if(v[$event]\>=3)
 > CONTEXT: Map002/events/3/pages/1/9/Choice/0 < UNTRANSLATED
-
+2 Wardrobe malfunction if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 3 ぱんつのみになる if(v[$event]\>=4)
 > CONTEXT: Map002/events/3/pages/1/14/Choice/0 < UNTRANSLATED
-
+3 Only panties if(v[$event]\>=4)
 > END STRING
 
 > BEGIN STRING
 4 おっぱいのマッサージをする if(v[$event]\>=6)
 > CONTEXT: Map002/events/3/pages/1/19/Choice/0 < UNTRANSLATED
-
+4 Breast massage if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 5 全裸になる if(v[$event]\>=7)
 > CONTEXT: Map002/events/3/pages/1/24/Choice/0 < UNTRANSLATED
-
+5 Naked if(v[$event]\>=7)
 > END STRING
 
 > BEGIN STRING
 6 オナニーをする if(v[$event]\>=9)
 > CONTEXT: Map002/events/3/pages/1/29/Choice/0 < UNTRANSLATED
-
+6 Masturbating if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 7 ドアを開け男と一緒にオナニーをする if(v[$event]\>=10)
 > CONTEXT: Map002/events/3/pages/1/34/Choice/0 < UNTRANSLATED
-
+7 Maturbating with audience if(v[$event]\>=10)
 > END STRING
 
 > BEGIN STRING
 宿屋のシャワールームで露出プレイをするイベント
 > CONTEXT: Map002/events/4/pages/0/0/Dialogue
-Inn shower room exposure play event
+exposing yourself in the showers
 > END STRING
 
 > BEGIN STRING
 \\\>宿シャワー室イベント 全6種
 > CONTEXT: Map002/events/4/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>Shower events (6 total)
 > END STRING
 
 > BEGIN STRING
 1 タオルを受け取るときにおっぱい見られちゃう if(v[$event]\>=2)
 > CONTEXT: Map002/events/4/pages/1/4/Choice/0
-1 Exposing a boob when getting a towel if(v[$event]\>=2)
+1 Exposing breast when getting a towel if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
@@ -224,7 +224,7 @@ Working at the public bath
 > BEGIN STRING
 \\\>銭湯お仕事イベント 全10種
 > CONTEXT: Map002/events/5/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>Bathhouse events (10 total)
 > END STRING
 
 > BEGIN STRING
@@ -452,67 +452,67 @@ Working at the public bath
 > BEGIN STRING
 \\\>バニーガールお仕事イベント 全10種
 > CONTEXT: Map002/events/9/pages/1/2/Dialogue < UNTRANSLATED
-
+\\\>Bunny-girl events (10 total)
 > END STRING
 
 > BEGIN STRING
 1 バニースーツ姿をじろじろ見られる if(v[$event]\>=1)
 > CONTEXT: Map002/events/9/pages/1/4/Choice/0 < UNTRANSLATED
-
+1 showing off Bunny-suit if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 前かがみになってちらりとおっぱいを見られる if(v[$event]\>=2)
 > CONTEXT: Map002/events/9/pages/1/10/Choice/0 < UNTRANSLATED
-
+2 Bending over and showing cleavage if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
 3 前かがみから体勢を戻すときにぽろりしちゃう if(v[$event]\>=3)
 > CONTEXT: Map002/events/9/pages/1/16/Choice/0 < UNTRANSLATED
-
+3 Standing straight results in wardrobe malfunction d if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 4 おっぱいぽろりしたあと、出しっぱなし、見られ放題 if(v[$event]\>=4)
 > CONTEXT: Map002/events/9/pages/1/22/Choice/0 < UNTRANSLATED
-
+4 Leaving boobs out after wardrobe malfunction if(v[$event]\>=4)
 > END STRING
 
 > BEGIN STRING
 5 おまたがテーブルの角に当たる if(v[$event]\>=5)
 > CONTEXT: Map002/events/9/pages/1/28/Choice/0 < UNTRANSLATED
-
+5 Grind on tablecorner if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 6 料理を出しながら角オナ if(v[$event]\>=6)
 > CONTEXT: Map002/events/9/pages/1/34/Choice/0 < UNTRANSLATED
-
+6 Grind on tablecorner while serving if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 7 メニューを取りながら角オナ if(v[$event]\>=7)
 > CONTEXT: Map002/events/9/pages/1/39/Choice/0 < UNTRANSLATED
-
+7 Grind on tablecorner while taking orders if(v[$event]\>=7)
 > END STRING
 
 > BEGIN STRING
 8 角オナしてたら水がかかって、客の前でおまたを拭く if(v[$event]\>=8)
 > CONTEXT: Map002/events/9/pages/1/44/Choice/0 < UNTRANSLATED
-
+8 Spill water on crotch and wipe it if(v[$event]\>=8)
 > END STRING
 
 > BEGIN STRING
 9 オナニーされていたので、こっそりオナニーする if(v[$event]\>=9)
 > CONTEXT: Map002/events/9/pages/1/49/Choice/0 < UNTRANSLATED
-
+9 Masturbate quietly if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 10 オナニーされていたので、一緒にオナニーする if(v[$event]\>=10)
 > CONTEXT: Map002/events/9/pages/1/54/Choice/0 < UNTRANSLATED
-
+10 Masturbate together if(v[$event]\>=10)
 > END STRING
 
 > BEGIN STRING
