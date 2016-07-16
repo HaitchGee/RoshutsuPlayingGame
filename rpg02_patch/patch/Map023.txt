@@ -2781,32 +2781,32 @@ Money -150
 \\name[おじさん]今日はバニーちゃんいねぇのかぁ・・・
 > CONTEXT: Map023/events/9/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map023/events/9/pages/1/3/Dialogue < UNTRANSLATED
-
+\\name[Man]No Bunny-chan today...
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]この酒場、華がねぇよなぁ・・・
 > CONTEXT: Map023/events/9/pages/0/11/Dialogue < UNTRANSLATED
 > CONTEXT: Map023/events/9/pages/1/11/Dialogue < UNTRANSLATED
-
+\\name[Man]This pub is great, isn't it?
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]料理はうまいな
 > CONTEXT: Map023/events/11/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Teenager]This is amazing food
 > END STRING
 
 > BEGIN STRING
 \\name[おじいさん]今日のバニーちゃんのおっぱいはまだかのぉ
 > CONTEXT: Map023/events/12/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Old man]Bunny-chan's breast aren't here today
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]ﾑｼｬﾑｼｬ
 > CONTEXT: Map023/events/15/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*munch* *munch*
 > END STRING
 
 > BEGIN STRING
@@ -2815,13 +2815,16 @@ Money -150
 今すぐバニーちゃんを増やすべきである！
 バニーちゃんが見たいのである！
 > CONTEXT: Map023/events/16/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Man]No bunny girl today?!
+Barkeep!
+Where is Bunny-chan!
+I want to see Bunny girls!
 > END STRING
 
 > BEGIN STRING
 \\name[海賊の男]やっぱり魚料理だな、ガハハ
 > CONTEXT: Map023/events/17/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Pirate]As I thought, It's just fish dishes
 > END STRING
 
 > BEGIN STRING
@@ -2830,5 +2833,8 @@ Money -150
 今日はいないのかな、残念だ・・・
 って、女の子相手にする話じゃなかったね、ごめんよ
 > CONTEXT: Map023/events/18/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Man]Sometimes, there's this amazing bunny girl in this pub.
+Her breasts are always in plain sight!
+Sadly, she isn't here today...
+Oh, I shouldn't tell this to a girl, I'm sorry.
 > END STRING
