@@ -52,9 +52,3 @@ simply write the translation of the japanese string under the `>CONTEXT` line wh
   * [Commit your changes](https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project/)
   * Sync your commits with the github repository by pressing the 'Sync' button in the topright
   * [Submit a pull request](https://help.github.com/articles/creating-a-pull-request/) to the masterbranch of the original repository
-
-### tips and tricks
-  * F12 will reset the game to the start screen, use it to quickly restart from a savepoint
-  * Use [Cheat Engine](http://www.cheatengine.org/) to cheat some values or enable the speedhack to speed things up. Don't forget that RPGMaker stores values in memory as (ACTUAL_VALUE*2)+1
-  * Use [Chiitrans lite](https://alexbft.github.io/chiitrans/) with the 'capture text from clipboard' option enabled for quick lightweight translation
-  * A 100% save can be found in the repo

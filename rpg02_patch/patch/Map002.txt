@@ -14,61 +14,61 @@ Working at the inn
 > BEGIN STRING
 1 ぞうきん掛け1 ぱんちら if(v[$event]\>=1)
 > CONTEXT: Map002/events/1/pages/1/4/Choice/0
-1 Dustcloth (showing panties) if(v[$event]\>=1)
+1 Dustcloth 1 (Panties) if(v[$event]\>=1)
 > END STRING
 
 > BEGIN STRING
 2 ベッドメイク1 ぱんちら if(v[$event]\>=2)
 > CONTEXT: Map002/events/1/pages/1/9/Choice/0
-2 Making the beds (showing panties) if(v[$event]\>=2)
+2 Making the beds 1 (Panties) if(v[$event]\>=2)
 > END STRING
 
 > BEGIN STRING
 3 窓ふき1 片乳ぽろり if(v[$event]\>=3)
 > CONTEXT: Map002/events/1/pages/1/14/Choice/0
-3 Cleaning the windows (wardrobe malfunction) if(v[$event]\>=3)
+3 Cleaning the windows 1 (Wardrobe malfunction) if(v[$event]\>=3)
 > END STRING
 
 > BEGIN STRING
 4 ぞうきん掛け2 おっぱいぽろり if(v[$event]\>=4)
 > CONTEXT: Map002/events/1/pages/1/19/Choice/0
-4 Dustcloth (wardrobe malfunction) if(v[$event]\>=4)
+4 Dustcloth2 (Wardrobe malfunction) if(v[$event]\>=4)
 > END STRING
 
 > BEGIN STRING
 5 窓ふき2 両乳ぽろり if(v[$event]\>=5)
 > CONTEXT: Map002/events/1/pages/1/24/Choice/0
-5 Cleaning windows (both breasts wardrobe malfunction) if(v[$event]\>=5)
+5 Cleaning windows 2 (Both breasts) if(v[$event]\>=5)
 > END STRING
 
 > BEGIN STRING
 6 ぞうきん掛け3 のーぱん if(v[$event]\>=6)
 > CONTEXT: Map002/events/1/pages/1/29/Choice/0
-6 Dustcloth (Commando) if(v[$event]\>=6)
+6 Dustcloth 3 (Commando) if(v[$event]\>=6)
 > END STRING
 
 > BEGIN STRING
 7 ベッドメイク2 のーぱん if(v[$event]\>=7)
 > CONTEXT: Map002/events/1/pages/1/34/Choice/0
-7 Making the beds (Commando) if(v[$event]\>=7)
+7 Making the beds 2  (Commando) if(v[$event]\>=7)
 > END STRING
 
 > BEGIN STRING
 8 窓ふき3 裸 if(v[$event]\>=8)
 > CONTEXT: Map002/events/1/pages/1/39/Choice/0
-8 Cleaning the windows (Naked) if(v[$event]\>=8)
+8 Cleanting the windows 3 (Naked) if(v[$event]\>=8)
 > END STRING
 
 > BEGIN STRING
 9 ベッドメイク3 オナニーされる if(v[$event]\>=9)
 > CONTEXT: Map002/events/1/pages/1/44/Choice/0
-9 Making the beds (Masturbation) if(v[$event]\>=9)
+9 Making the beds 3 (Masturbation) if(v[$event]\>=9)
 > END STRING
 
 > BEGIN STRING
 10 ベッドメイク4 一緒にオナニーをするif(v[$event]\>=10)
 > CONTEXT: Map002/events/1/pages/1/49/Choice/0
-10 Making the beds (Mutual masturbation) if(v[$event]\>=10)
+10 Making the beds 4  (Mutual masturbation)(v[$event]\>=10)
 > END STRING
 
 > BEGIN STRING
@@ -301,26 +301,26 @@ Public bath restroom
 
 > BEGIN STRING
 1-1 バスタオル こっそりおしっこ if(v[$event]\>=1)
-> CONTEXT: Map002/events/6/pages/1/4/Choice/0
-1-1 Discreet peeing with bath towel if(v[$event]\>=1)
+> CONTEXT: Map002/events/6/pages/1/4/Choice/0 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 1-2 裸 こっそりおしっこif(v[$event]\>=1)
-> CONTEXT: Map002/events/6/pages/1/11/Choice/0
-1-2 Discreet peeing if(v[$event]\>=1)
+> CONTEXT: Map002/events/6/pages/1/11/Choice/0 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 2-1 バスタオル 堂々とおしっこif(v[$event]\>=6)
-> CONTEXT: Map002/events/6/pages/1/18/Choice/0
-2-1 openly peeing with bath towel if(v[$event]\>=6)
+> CONTEXT: Map002/events/6/pages/1/18/Choice/0 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 2-2 裸 堂々とおしっこif(v[$event]\>=6)
-> CONTEXT: Map002/events/6/pages/1/25/Choice/0
-2-2 openly peeing if(v[$event]\>=6)
+> CONTEXT: Map002/events/6/pages/1/25/Choice/0 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -675,7 +675,7 @@ Exposing yourself in the pool
 > BEGIN STRING
 \\\>プール水中イベント (全7種)
 > CONTEXT: Map002/events/13/pages/1/0/Dialogue
-\\\>Pool exposing events (7 total)
+\\\\Pool exposing events (7 total)
 > END STRING
 
 > BEGIN STRING

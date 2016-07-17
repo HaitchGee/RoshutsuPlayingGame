@@ -93,36 +93,34 @@ Money -150
 \\name[\\v[1]]仕事はバニースーツを着て接客だ
 メニューをとったり、酒や料理を運んだり、机を片付けたりだ
 まあ適当でいいぜ
-> CONTEXT: Map023/events/4/pages/0/24/Dialogue
-\\name[\\v[1]]Your job is to serve the customers in a bunny suit...
-Take orders, bring the food and clean the tables.
-Off you go!
+> CONTEXT: Map023/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]それじゃバニースーツに着替えてきてくれ
-> CONTEXT: Map023/events/4/pages/0/28/Dialogue
-\\name[\\v[1]]Well then, please change into the bunny suit
+> CONTEXT: Map023/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]わかりました
-> CONTEXT: Map023/events/4/pages/0/32/Dialogue
-> CONTEXT: Map026/events/22/pages/0/24/Dialogue
-> CONTEXT: Map029/events/21/pages/1/26/Dialogue
-\\name[\\n[1]]I see
+> CONTEXT: Map023/events/4/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/22/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/1/26/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]き、着替えてきました
-> CONTEXT: Map023/events/4/pages/0/44/Dialogue
-\\name[\\n[1]]I've changed my clothes
+> CONTEXT: Map023/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]よし、チェックするぞ
-> CONTEXT: Map023/events/4/pages/0/46/Dialogue
-\\name[\\v[1]]Let's get to work
+> CONTEXT: Map023/events/4/pages/0/46/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -136,6 +134,7 @@ Off you go!
 > CONTEXT: Map023/events/4/pages/0/51/Dialogue < UNTRANSLATED
 > CONTEXT: Map023/events/4/pages/0/60/Dialogue < UNTRANSLATED
 > CONTEXT: Map023/events/4/pages/0/66/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -778,10 +777,9 @@ Off you go!
 > BEGIN STRING
 \\name[客]！！
 ・・・ｼﾞﾛｼﾞﾛ
-> CONTEXT: Map023/events/4/pages/3/32/Dialogue
-> CONTEXT: Map023/events/4/pages/3/93/Dialogue
-\\name[Guest]！！
-・・・*staring*
+> CONTEXT: Map023/events/4/pages/3/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/3/93/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2060,13 +2058,12 @@ Off you go!
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺ はぁはぁはぁ
-> CONTEXT: Map023/events/4/pages/8/97/Dialogue
-> CONTEXT: Map023/events/4/pages/8/120/Dialogue
-> CONTEXT: Map023/events/4/pages/8/157/Dialogue
-> CONTEXT: Map029/events/21/pages/8/270/Dialogue
-> CONTEXT: Map029/events/21/pages/9/126/Dialogue
-\\name[Guest]*fapfapfap*
-*pant* *pant*
+> CONTEXT: Map023/events/4/pages/8/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/157/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/8/270/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/9/126/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2147,10 +2144,10 @@ Off you go!
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺｼｺｼｺｼｺ
-> CONTEXT: Map023/events/4/pages/8/181/Dialogue
-> CONTEXT: Map023/events/4/pages/9/162/Dialogue
-> CONTEXT: Map029/events/21/pages/9/144/Dialogue
-\\name[Guest]*fapfapfapfap*
+> CONTEXT: Map023/events/4/pages/8/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/9/144/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2184,8 +2181,7 @@ Off you go!
 
 > BEGIN STRING
 \\name[客]・・・ｼｺｼｺｼｺ ﾄﾞﾋﾟｭ
-> CONTEXT: Map023/events/4/pages/8/216/Dialogue
-\\name[Guest]...*fapfapfap* *spurt*
+> CONTEXT: Map023/events/4/pages/8/216/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -2245,11 +2241,11 @@ Off you go!
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺ ﾄﾞﾋﾟｭ
-> CONTEXT: Map023/events/4/pages/9/38/Dialogue
-> CONTEXT: Map023/events/4/pages/9/172/Dialogue
-> CONTEXT: Map029/events/21/pages/8/183/Dialogue
-> CONTEXT: Map029/events/21/pages/9/157/Dialogue
-\\name[Guest]*fapfapfap* *spurt*
+> CONTEXT: Map023/events/4/pages/9/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/9/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/8/183/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/21/pages/9/157/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2472,9 +2468,8 @@ Off you go!
 > BEGIN STRING
 \\name[酒場のマスター]お疲れさん
 また働きにきておくれよ
-> CONTEXT: Map023/events/4/pages/10/16/Dialogue
-\\name[Barkeep]Well done
-Please come again
+> CONTEXT: Map023/events/4/pages/10/16/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
