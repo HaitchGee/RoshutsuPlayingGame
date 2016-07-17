@@ -2,46 +2,47 @@
 > BEGIN STRING
 \\name[酒場の店主]いらっしゃい
 何か食べていくかい？
-> CONTEXT: Map023/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/2/Dialogue
+\\name[Barkeep]Welcome. Do you want something to eat？
 > END STRING
 
 > BEGIN STRING
 食事する(150円)
-> CONTEXT: Map023/events/1/pages/0/5/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/5/Choice/0
+Eat (¥150)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](今日のランチはもう十分に食べたよね)
-> CONTEXT: Map023/events/1/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/10/Dialogue
+\\name[\\n[1]](I already ate today...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そんなにお金を持っていなかったよ・・・
  宿で出されるディナーだけで我慢しよう・・・)
-> CONTEXT: Map023/events/1/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/19/Dialogue
+\\name[\\n[1]](I don't have enough money... Guess I'll just have dinner at the Inn)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ﾓｸﾞﾓｸﾞﾑｼｬﾑｼｬ
-> CONTEXT: Map023/events/1/pages/0/36/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/36/Dialogue
+\\name[\\n[1]]*Munch* *Munch*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ごちそうさまでした
-> CONTEXT: Map023/events/1/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/40/Dialogue
+\\name[\\n[1]]Thanks for the meal!
 > END STRING
 
 > BEGIN STRING
 元気 +20
 お金 -150
-> CONTEXT: Map023/events/1/pages/0/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/1/pages/0/48/Dialogue
+Energy +20
+Money -150
 > END STRING
 
 > BEGIN STRING
@@ -92,34 +93,36 @@
 \\name[\\v[1]]仕事はバニースーツを着て接客だ
 メニューをとったり、酒や料理を運んだり、机を片付けたりだ
 まあ適当でいいぜ
-> CONTEXT: Map023/events/4/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/24/Dialogue
+\\name[\\v[1]]Your job is to serve the customers in a bunny suit...
+Take orders, bring the food and clean the tables.
+Off you go!
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]それじゃバニースーツに着替えてきてくれ
-> CONTEXT: Map023/events/4/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/28/Dialogue
+\\name[\\v[1]]Well then, please change into the bunny suit
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]わかりました
-> CONTEXT: Map023/events/4/pages/0/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/0/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/1/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/32/Dialogue
+> CONTEXT: Map026/events/22/pages/0/24/Dialogue
+> CONTEXT: Map029/events/21/pages/1/26/Dialogue
+\\name[\\n[1]]I see
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]き、着替えてきました
-> CONTEXT: Map023/events/4/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/44/Dialogue
+\\name[\\n[1]]I've changed my clothes
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]よし、チェックするぞ
-> CONTEXT: Map023/events/4/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/46/Dialogue
+\\name[\\v[1]]Let's get to work
 > END STRING
 
 > BEGIN STRING
@@ -133,7 +136,6 @@
 > CONTEXT: Map023/events/4/pages/0/51/Dialogue < UNTRANSLATED
 > CONTEXT: Map023/events/4/pages/0/60/Dialogue < UNTRANSLATED
 > CONTEXT: Map023/events/4/pages/0/66/Dialogue < UNTRANSLATED
-
 > END STRING
 
 > BEGIN STRING
@@ -776,9 +778,10 @@
 > BEGIN STRING
 \\name[客]！！
 ・・・ｼﾞﾛｼﾞﾛ
-> CONTEXT: Map023/events/4/pages/3/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/3/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/3/32/Dialogue
+> CONTEXT: Map023/events/4/pages/3/93/Dialogue
+\\name[Guest]！！
+・・・*staring*
 > END STRING
 
 > BEGIN STRING
@@ -2057,12 +2060,13 @@
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺ はぁはぁはぁ
-> CONTEXT: Map023/events/4/pages/8/97/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/8/120/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/8/157/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/8/270/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/8/97/Dialogue
+> CONTEXT: Map023/events/4/pages/8/120/Dialogue
+> CONTEXT: Map023/events/4/pages/8/157/Dialogue
+> CONTEXT: Map029/events/21/pages/8/270/Dialogue
+> CONTEXT: Map029/events/21/pages/9/126/Dialogue
+\\name[Guest]*fapfapfap*
+*pant* *pant*
 > END STRING
 
 > BEGIN STRING
@@ -2143,10 +2147,10 @@
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺｼｺｼｺｼｺ
-> CONTEXT: Map023/events/4/pages/8/181/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/9/162/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/8/181/Dialogue
+> CONTEXT: Map023/events/4/pages/9/162/Dialogue
+> CONTEXT: Map029/events/21/pages/9/144/Dialogue
+\\name[Guest]*fapfapfapfap*
 > END STRING
 
 > BEGIN STRING
@@ -2180,7 +2184,8 @@
 
 > BEGIN STRING
 \\name[客]・・・ｼｺｼｺｼｺ ﾄﾞﾋﾟｭ
-> CONTEXT: Map023/events/4/pages/8/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/8/216/Dialogue
+\\name[Guest]...*fapfapfap* *spurt*
 
 > END STRING
 
@@ -2240,11 +2245,11 @@
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺ ﾄﾞﾋﾟｭ
-> CONTEXT: Map023/events/4/pages/9/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/9/172/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/8/183/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/9/38/Dialogue
+> CONTEXT: Map023/events/4/pages/9/172/Dialogue
+> CONTEXT: Map029/events/21/pages/8/183/Dialogue
+> CONTEXT: Map029/events/21/pages/9/157/Dialogue
+\\name[Guest]*fapfapfap* *spurt*
 > END STRING
 
 > BEGIN STRING
@@ -2467,15 +2472,17 @@
 > BEGIN STRING
 \\name[酒場のマスター]お疲れさん
 また働きにきておくれよ
-> CONTEXT: Map023/events/4/pages/10/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/10/16/Dialogue
+\\name[Barkeep]Well done
+Please come again
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あの、私、自分の街に帰ることになりまして・・・
 今までお世話になりました
-> CONTEXT: Map023/events/8/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/15/Dialogue
+\\name[\\n[1]]Well, I've decided to return home...
+Thank you for your kindness up to now.
 > END STRING
 
 > BEGIN STRING
@@ -2483,58 +2490,68 @@
 君のおかげで客も増えてきたところなのに、残念だな
 でも、しかたねぇ
 こちらこそ、今までありがとな！
-> CONTEXT: Map023/events/8/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/18/Dialogue
+\\name[Barkeep]Is that so?
+Such a shame, thanks to you the number of guests has increased significantly 
+But, it is I who should thank you!
 > END STRING
 
 > BEGIN STRING
 \\name[客たち]「えぇ！！ \\n[1]ちゃん、バニーガールやめちゃうの！？」
 「そんなぁ！ ばにーちゃん目当てにこの店に来ていたのに！」
 「もうこの店に来る意味なくなっちゃうよ」
-> CONTEXT: Map023/events/8/pages/0/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/29/Dialogue
+\\name[Guest]What?! \\n[1], the bunnygirl has quit!?
+I came to this pub for her!
+It was the best part about the pub!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]えぇ・・・でも私は旅行でこの街に来ていただけなので
 そろそろお家に帰らないと・・・
-> CONTEXT: Map023/events/8/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/37/Dialogue
+\\name[\\n[1]]But I only came to this town as a vacation,
+I need to return home now...
 > END STRING
 
 > BEGIN STRING
 \\name[客たち]それじゃあさ
 最後にバニースーツ姿を拝ませてよ
 目に焼き付けておくからさ！
-> CONTEXT: Map023/events/8/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/40/Dialogue
+\\name[Guest]Then!
+Let us see bunny-chan one last time!
+So we will never forget it!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]えぇっと・・・
-> CONTEXT: Map023/events/8/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/44/Dialogue
+\\name[\\n[1]]uhm...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]・・・はい♥
 かまいませんよ♥
-> CONTEXT: Map023/events/8/pages/0/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/48/Dialogue
+\\name[\\n[1]]・・・okay♥
+prepare yourself♥
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]着替えてきました・・・♥
-> CONTEXT: Map023/events/8/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/73/Dialogue
+\\name[\\n[1]]I've changed my clothes・・・♥
 > END STRING
 
 > BEGIN STRING
 \\name[客たち]「おぉ、やっぱり\\n[1]ちゃんのバニーガール姿は最高だな！」
 「あぁ・・・エロ・・・セクシーだぜ！」
 「これがもう見れないなんて・・・うぅ」
-> CONTEXT: Map023/events/8/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/75/Dialogue
+\\name[Guest]As expected\\n[1]chan's bunnygirl is simply the best!
+So lewd! So erotic!
+But not being able to see this any longer! *sniff*
 > END STRING
 
 > BEGIN STRING
@@ -2542,8 +2559,11 @@
  普段はお仕事している姿を覗き見されていただけだったけど
  今は見られるためにバニースーツを来て
  近くで遠慮なしに見られちゃってる・・・♥)
-> CONTEXT: Map023/events/8/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/81/Dialogue
+\\name[\\n[1]](*pant* *pant♥
+ Usually people would only peek at me
+ But this bunny suit
+ People look at it without holding back・・・♥)
 > END STRING
 
 > BEGIN STRING
@@ -2551,36 +2571,43 @@
 「でも、\\n[1]ちゃんのバニーガールといったらあれだよな・・・」
 「そう、胸が・・・」
 「本人は気づいていないみたいだったけど、いつも・・・」
-> CONTEXT: Map023/events/8/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/86/Dialogue
+\\name[Guest]ﾋｿﾋｿ
+Mari-chan, what are you saying...
+Your chest...
+You noticed that people were always looking at it...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]こう・・・ですか？
-> CONTEXT: Map023/events/8/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/103/Dialogue
+\\name[\\n[1]]Like this?
 > END STRING
 
 > BEGIN STRING
 \\name[客たち]！！！
 えっ！？ バニーちゃん、なんで！？
-> CONTEXT: Map023/events/8/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/105/Dialogue
+\\name[Guest]!!!
+Eh!? Bunny-chan!?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]実は・・・私、えっちな姿を見られるのが好きで
 わざとおっぱい出しちゃっていたんです・・・♥
-> CONTEXT: Map023/events/8/pages/0/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/110/Dialogue
+\\name[\\n[1]]Actually...I like it when people look at me lewdly
+My boobs were visible on purpose・・・♥
 > END STRING
 
 > BEGIN STRING
 \\name[客たち]なっ、なんだって！！
 いや、でも確かにうっかりにしては、いつも見えているとは思っていたけど・・・
 極度のうっかりさんという線も捨てきれなかったし・・・
-> CONTEXT: Map023/events/8/pages/0/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/8/pages/0/113/Dialogue
+\\name[Guest]Wh- Wha!!
+いや、でも確かにうっかりにしては、いつも見えているとは思っていたけど・・・
+極度のうっかりさんという線も捨てきれなかったし・・・
 > END STRING
 
 > BEGIN STRING
@@ -2778,34 +2805,34 @@
 
 > BEGIN STRING
 \\name[おじさん]今日はバニーちゃんいねぇのかぁ・・・
-> CONTEXT: Map023/events/9/pages/0/3/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/9/pages/1/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/9/pages/0/3/Dialogue
+> CONTEXT: Map023/events/9/pages/1/3/Dialogue
+\\name[Man]No Bunny-chan today...
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]この酒場、華がねぇよなぁ・・・
-> CONTEXT: Map023/events/9/pages/0/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/9/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/9/pages/0/11/Dialogue
+> CONTEXT: Map023/events/9/pages/1/11/Dialogue
+\\name[Man]This pub is great, isn't it?
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]料理はうまいな
-> CONTEXT: Map023/events/11/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/11/pages/0/2/Dialogue
+\\name[Teenager]This is amazing food
 > END STRING
 
 > BEGIN STRING
 \\name[おじいさん]今日のバニーちゃんのおっぱいはまだかのぉ
-> CONTEXT: Map023/events/12/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/12/pages/0/2/Dialogue
+\\name[Old man]Bunny-chan's breast aren't here today
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]ﾑｼｬﾑｼｬ
-> CONTEXT: Map023/events/15/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/15/pages/0/2/Dialogue
+\\name[Teenager]*munch* *munch*
 > END STRING
 
 > BEGIN STRING
@@ -2813,14 +2840,17 @@
 マスター！
 今すぐバニーちゃんを増やすべきである！
 バニーちゃんが見たいのである！
-> CONTEXT: Map023/events/16/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/16/pages/0/2/Dialogue
+\\name[Man]No bunny girl today?!
+Barkeep!
+Where is Bunny-chan!
+I want to see Bunny girls!
 > END STRING
 
 > BEGIN STRING
 \\name[海賊の男]やっぱり魚料理だな、ガハハ
-> CONTEXT: Map023/events/17/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/17/pages/0/2/Dialogue
+\\name[Pirate]As I thought, It's just fish dishes
 > END STRING
 
 > BEGIN STRING
@@ -2828,6 +2858,9 @@
 なんと、常におっぱいが見えているんだ！
 今日はいないのかな、残念だ・・・
 って、女の子相手にする話じゃなかったね、ごめんよ
-> CONTEXT: Map023/events/18/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/18/pages/0/2/Dialogue
+\\name[Man]Sometimes, there's this amazing bunny girl in this pub.
+Her breasts are always in plain sight!
+Sadly, she isn't here today...
+Oh, I shouldn't tell this to a girl, I'm sorry.
 > END STRING

@@ -33,8 +33,7 @@ Hide Status if(s[39]==true)
 \\\>経験値 \\v[16]\\v[19]
 \\\>元気   +\\v[18]
 \\\>\\v[14]
-> CONTEXT: Commonevents/5/46/Dialogue
-> CONTEXT: Commonevents/5/46/Dialogue
+> CONTEXT: Commonevents/5/47/Dialogue
 \\\>Exp \\v[16]\\v[19]
 \\\>Energy   +\\v[18]
 \\\>\\v[14]
@@ -669,7 +668,7 @@ More clothes if(v[101]\>=1)
 > BEGIN STRING
 "尿意○"
 > CONTEXT: Commonevents/24/12/InlineScript/2:24
-"Pee ○"
+"Bladder full"
 > END STRING
 
 > BEGIN STRING
@@ -803,7 +802,7 @@ More clothes if(v[101]\>=1)
 > BEGIN STRING
 ささっと身だしなみを整えてくる
 > CONTEXT: Commonevents/26/5/Choice/0
-I quickly fix my appearance
+fix appearance
 > END STRING
 
 > BEGIN STRING

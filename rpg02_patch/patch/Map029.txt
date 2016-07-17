@@ -5,7 +5,7 @@
 > CONTEXT: Map029/events/2/pages/0/3/Dialogue
 > CONTEXT: Map029/events/8/pages/0/34/Dialogue
 > CONTEXT: Map026/events/9/pages/0/22/Dialogue
-\\name[\\n[1]](Should I do some exposure play here?)
+\\name[\\n[1]](Should I expose myself here?)
 > END STRING
 
 > BEGIN STRING
@@ -26,7 +26,7 @@ Do
 > CONTEXT: Map029/events/8/pages/0/36/Choice/1
 > CONTEXT: Map026/events/9/pages/0/24/Choice/1
 > CONTEXT: Map019/events/40/pages/1/4/Choice/1
-Don't do
+Don't
 > END STRING
 
 > BEGIN STRING
@@ -1388,9 +1388,9 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]](ﾁﾗｯ)
-> CONTEXT: Map029/events/20/pages/0/48/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/1/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/48/Dialogue
+> CONTEXT: Map029/events/21/pages/1/102/Dialogue
+\\name[\\n[1]](glancing)
 > END STRING
 
 > BEGIN STRING
@@ -1542,9 +1542,9 @@ Thank you for staying here
 
 > BEGIN STRING
 ﾁﾗｯ
-> CONTEXT: Map029/events/20/pages/0/131/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/131/Dialogue
+> CONTEXT: Map029/events/20/pages/2/106/Dialogue
+*glance*
 > END STRING
 
 > BEGIN STRING
@@ -2914,11 +2914,11 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[男]ｼｺｼｺｼｺ ﾄﾞﾋﾟｭ
-> CONTEXT: Map029/events/20/pages/5/268/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/345/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/8/270/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/6/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/268/Dialogue
+> CONTEXT: Map029/events/20/pages/5/345/Dialogue
+> CONTEXT: Map006/events/1/pages/8/270/Dialogue
+> CONTEXT: Map001/events/16/pages/6/178/Dialogue
+\\name[Man]*fapfapfap* *spurt*
 > END STRING
 
 > BEGIN STRING
@@ -3052,8 +3052,9 @@ Thank you for staying here
 > BEGIN STRING
 \\name[男]は、はい！
 (ｺﾞｼｺﾞｼｺﾞｼ)
-> CONTEXT: Map029/events/20/pages/5/363/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/363/Dialogue
+\\name[MAn]Y-Yes！
+*fapfapfap*
 > END STRING
 
 > BEGIN STRING
@@ -4983,8 +4984,8 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[客]・・・ｼｺｼｺ
-> CONTEXT: Map029/events/21/pages/8/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/21/pages/8/173/Dialogue
+\\name[Guest]・・・*fapfap*
 > END STRING
 
 > BEGIN STRING
@@ -5004,8 +5005,8 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]・・・ｼｺｼｺｼｺ
-> CONTEXT: Map029/events/21/pages/8/192/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/21/pages/8/192/Dialogue
+\\name[\\n[1]]・・・*schlick* *schlick*
 > END STRING
 
 > BEGIN STRING
@@ -5017,8 +5018,8 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺｼｺ
-> CONTEXT: Map029/events/21/pages/8/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/21/pages/8/197/Dialogue
+\\name[Guest]*fapfapfapfap*
 > END STRING
 
 > BEGIN STRING
@@ -5152,9 +5153,9 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[客]ﾄﾞﾋﾟｭ
-> CONTEXT: Map029/events/21/pages/8/290/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/203/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/21/pages/8/290/Dialogue
+> CONTEXT: Map029/events/21/pages/9/203/Dialogue
+\\name[Guest]*spurt*
 > END STRING
 
 > BEGIN STRING
@@ -5272,8 +5273,8 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[客]！！ ｼｺｼｺｼｺ
-> CONTEXT: Map029/events/21/pages/9/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/21/pages/9/116/Dialogue
+\\name[Guest]！！*fapfapfap*
 > END STRING
 
 > BEGIN STRING
@@ -5660,9 +5661,10 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[客]ﾄﾞﾋﾟｭﾄﾞﾋﾟｭ
-> CONTEXT: Map029/events/27/pages/0/223/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/257/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/27/pages/0/181/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/27/pages/0/223/Dialogue
+> CONTEXT: Map029/events/27/pages/0/257/Dialogue
+> CONTEXT: Map001/events/27/pages/0/181/Dialogue
+\\name[Guest]*spurt* *spurt*
 
 > END STRING
 

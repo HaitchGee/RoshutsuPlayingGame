@@ -3,5 +3,6 @@
 RPG 露出プレイングゲーム2 お仕事編 ver.1.00
 > CONTEXT: GameINI/Title
 > CONTEXT: GameINI/Title
+> CONTEXT: System/game_title/
 RPG2 - Roshutsu Playing Game 2 ver.1.00
 > END STRING

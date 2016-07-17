@@ -1199,9 +1199,9 @@
 
 > BEGIN STRING
 \\name[男]・・・ｼｺｼｺｼｺ
-> CONTEXT: Map006/events/1/pages/6/247/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/8/317/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map006/events/1/pages/6/247/Dialogue
+> CONTEXT: Map006/events/1/pages/8/317/Dialogue
+\\name[Man]・・・*fapfap*
 > END STRING
 
 > BEGIN STRING
@@ -1869,6 +1869,6 @@
 
 > BEGIN STRING
 \\name[\\n[1]]ふぅ、すっきりした
-> CONTEXT: Map006/events/1/pages/9/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map006/events/1/pages/9/19/Dialogue
+\\name[\\n[1]]So refreshing
 > END STRING
