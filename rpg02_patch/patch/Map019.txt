@@ -156,9 +156,9 @@ Not now
 
 > BEGIN STRING
 \\name[\\n[1]](露出プレイのために水着を買っている場合じゃなかったよ・・・)
-> CONTEXT: Map019/events/13/pages/1/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/32/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/13/pages/1/32/Dialogue
+> CONTEXT: Map019/events/13/pages/2/32/Dialogue
+> CONTEXT: Map019/events/13/pages/5/32/Dialogue
 \\name[\\n[1]](I shouldn't have bought that swimsuit・・・)
 
 > END STRING
@@ -1149,7 +1149,8 @@ Please don't show such an appearance to the children.
 \\name[都会派カップル(女)]あら田舎者くさい服装ですわね
 そんなのでは、恋人もできませんわよ、ホホホ
 > CONTEXT: Map019/events/47/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Female Yuppie]Such stinky peasant clothes
+Me or my darling would never wear such rags, ohohoho
 > END STRING
 
 > BEGIN STRING
@@ -1158,7 +1159,9 @@ Please don't show such an appearance to the children.
 あなたはこの街に相応しくないわ！
 ねぇ、ダーリン？
 > CONTEXT: Map019/events/47/pages/1/2/Dialogue < UNTRANSLATED
-
+\\name[Female Yuppie]Girl, you should know that you're supposed to wipe yourself after bathing
+You really are a peasant! 
+You don't fit in this town, isn't that right darling?
 > END STRING
 
 > BEGIN STRING
@@ -1187,7 +1190,9 @@ What did you say?!
 あなたはこの街に相応しくないわ！
 ねぇ、ダーリン？
 > CONTEXT: Map019/events/47/pages/2/2/Dialogue < UNTRANSLATED
-
+\\name[Female Yuppie]Ara, your boobs are in plain sight
+Are peasants really incapable of dressing theirselves properly?
+You don't fit in this town, isn't that right darling?
 > END STRING
 
 > BEGIN STRING
@@ -1226,7 +1231,9 @@ Please go out with me!
 なぜ僕は雇ってもらえないんだ・・・
 もう面接で10連敗だよ・・・
 > CONTEXT: Map019/events/51/pages/0/2/Dialogue < UNTRANSLATED
-
+\\name[Teenager]Haa... They are looking for cleaning personnel
+They don't seem to want any men though...
+I already failed the interview thrice...
 > END STRING
 
 > BEGIN STRING
@@ -1291,6 +1298,7 @@ Please go out with me!
 \\name[\\n[1]](ポケットに入れた手で股間をいじってる・・・！
  隠してるつもりなんだろうけど、バレバレだよ・・・)
 > CONTEXT: Map019/events/60/pages/2/6/Dialogue < UNTRANSLATED
+
 
 > END STRING
 
@@ -1399,7 +1407,8 @@ It's for myself！
 \\name[\\n[1]](青年はおまわりさんに引き渡されて
  今まで募金したお金が返ってきちゃった)
 > CONTEXT: Map019/events/63/pages/0/107/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](The young fundraiser has been arrested...
+ They made him give back all the money he swindled)
 > END STRING
 
 > BEGIN STRING
