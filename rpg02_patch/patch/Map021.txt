@@ -1,26 +1,26 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 \\name[絵画教室の生徒]そこに立たれると困ります
-> CONTEXT: Map021/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/2/pages/0/3/Dialogue
+\\name[Painting student]You're in the way
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]すみません
-> CONTEXT: Map021/events/2/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/2/pages/0/7/Dialogue
+\\name[\\n[1]]Sorry...
 > END STRING
 
 > BEGIN STRING
 \\name[絵画教室の生徒]ｶｷｶｷ
-> CONTEXT: Map021/events/2/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/2/pages/0/15/Dialogue
+\\name[Painting student]*scribble* *scribble*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](絵を描くのに集中しているみたい)
-> CONTEXT: Map021/events/2/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/2/pages/0/17/Dialogue
+\\name[\\n[1]](He's concentrated on drawing)
 > END STRING
 
 > BEGIN STRING
@@ -32,8 +32,8 @@
 > BEGIN STRING
 \\name[絵画教室の先生]おお、あなたが絵のモデルを
 やってくださるのですか？
-> CONTEXT: Map021/events/3/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/23/Dialogue
+\\name[Painting teacher]Do you want to model for a picture?
 > END STRING
 
 > BEGIN STRING
@@ -1725,14 +1725,15 @@
 > BEGIN STRING
 \\name[絵教室の先生]ありがとうございました
 またお願いします
-> CONTEXT: Map021/events/3/pages/9/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/9/17/Dialogue
+\\name[Painting teacher]Thank you very much
+Please come again
 > END STRING
 
 > BEGIN STRING
 \\name[絵画教室の先生]ここは絵画教室です
-> CONTEXT: Map021/events/4/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/4/pages/0/0/Dialogue
+\\name[Painting teacher]This is the painting classroom
 > END STRING
 
 > BEGIN STRING

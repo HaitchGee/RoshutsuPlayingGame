@@ -668,7 +668,7 @@ More clothes if(v[101]\>=1)
 > BEGIN STRING
 "尿意○"
 > CONTEXT: Commonevents/24/12/InlineScript/2:24
-"Pee ○"
+"Bladder full"
 > END STRING
 
 > BEGIN STRING
