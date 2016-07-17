@@ -612,9 +612,10 @@ Undress
  恥ずかしすぎるよぅ・・・♥)
 > CONTEXT: Map001/events/13/pages/0/8/Dialogue
 > CONTEXT: Map001/events/13/pages/0/23/Dialogue
-\\name[\\n[1]](Uwa, when sitting in the bathtub, they can peek under my towel
- My pussy is in plain sight...
- How disgraceful・・・♥)
+\\name[\\n[1]](Uwa, the people sitting in the bathtub, 
+ they can peek under my towel
+ How disgraceful・・・♥
+ My pussy is in plain sight...)
 > END STRING
 
 > BEGIN STRING
@@ -622,13 +623,15 @@ Undress
  おまんこからお汁が出て来ちゃっていたも
  身体全体が濡れているからバレないし、安心だね♥)
 > CONTEXT: Map001/events/13/pages/0/29/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](The feeling of being stared at is pleasant
+ I'm sure nobody will notice my wet pussy♥...
+ My body is already drenched from the bath, right?)
 > END STRING
 
 > BEGIN STRING
 \\name[おにいさん]ｼﾞﾛｼﾞﾛｼﾞﾛｼﾞﾛ
 > CONTEXT: Map001/events/13/pages/0/43/Dialogue < UNTRANSLATED
-
+\\name[Teenager]*staring intensely*
 > END STRING
 
 > BEGIN STRING

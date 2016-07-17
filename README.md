@@ -58,3 +58,4 @@ simply write the translation of the japanese string under the `>CONTEXT` line wh
   * Use [Cheat Engine](http://www.cheatengine.org/) to cheat some values or enable the speedhack to speed things up. Don't forget that RPGMaker stores values in memory as (ACTUAL_VALUE*2)+1
   * Use [Chiitrans lite](https://alexbft.github.io/chiitrans/) with the 'capture text from clipboard' option enabled for quick lightweight translation
   * A 100% save can be found in the repo
+  * commit early, commit often

@@ -64,7 +64,7 @@ Don't try it on
 \\name[\\n[1]](But this white swimsuit,
  If it gets wet, it'll become transparent and I'll be exposed
  It's perfect for exposure play
- But it's too early for me...)
+ But I'm not ready yet...)
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +72,8 @@ Don't try it on
  この水着を着て露出プレイを楽しもう♥)
 > CONTEXT: Map007/events/4/pages/1/21/Dialogue
 > CONTEXT: Map007/events/7/pages/1/44/Dialogue
-\\name[\\n[1]](I've become used to exposure play
- Let's enjoy more exposure play with this swimsuit♥)
+\\name[\\n[1]](When I've become used to the shame,
+ I can come back to enjoy some exposure play with this swimsuit♥)
 > END STRING
 
 > BEGIN STRING
@@ -192,7 +192,7 @@ Only try it on if(s[48] ==false)
 > CONTEXT: Map007/events/5/pages/0/74/Dialogue
 > CONTEXT: Map007/events/8/pages/0/84/Dialogue
 \\name[\\n[1]](Oh, whoops...
- My pussy is getting wet imagining that♥
+ I'm getting wet imagining that♥
  I need to finish trying this on)
 > END STRING
 
@@ -208,7 +208,7 @@ Only try it on if(s[48] ==false)
 > CONTEXT: Map007/events/5/pages/1/75/Dialogue
 > CONTEXT: Map007/events/8/pages/1/85/Dialogue
 \\name[\\n[1]](Oh, whoops...
- My pussy is getting wet imagining that♥)
+ I'm getting wet just from imagining it♥)
 > END STRING
 
 > BEGIN STRING
@@ -252,7 +252,7 @@ Only try it on if(s[48] ==false)
  思い切り透けちゃって
  プールに来ている人たちに見られちゃって・・・♥)
 > CONTEXT: Map007/events/5/pages/1/96/Dialogue
-\\name[\\n[1]](Hnng... *pant*♥
+\\name[\\n[1]](n... *pant*♥
  When I wear this white swimsuit into the pool
  It'll become completely transparent
  Everyone in the pool will see...♥)
