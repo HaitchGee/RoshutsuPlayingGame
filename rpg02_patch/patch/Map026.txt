@@ -1202,18 +1202,18 @@ That was a nice nap...
 
 > BEGIN STRING
 \\name[\\n[1]]ﾁﾗｯ
-> CONTEXT: Map026/events/11/pages/2/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/114/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/114/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/1/142/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/3/pages/1/31/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/142/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/5/pages/1/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/141/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/11/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/6/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/11/pages/2/167/Dialogue
+> CONTEXT: Map025/events/5/pages/10/114/Dialogue
+> CONTEXT: Map025/events/7/pages/9/114/Dialogue
+> CONTEXT: Map019/events/13/pages/1/142/Dialogue
+> CONTEXT: Map008/events/3/pages/1/31/Dialogue
+> CONTEXT: Map019/events/13/pages/2/142/Dialogue
+> CONTEXT: Map008/events/5/pages/1/2/Dialogue
+> CONTEXT: Map019/events/13/pages/5/141/Dialogue
+> CONTEXT: Map001/events/2/pages/9/111/Dialogue
+> CONTEXT: Map001/events/11/pages/0/12/Dialogue
+> CONTEXT: Map001/events/16/pages/6/106/Dialogue
+\\name[\\n[1]]*glance*
 > END STRING
 
 > BEGIN STRING
@@ -7002,8 +7002,9 @@ There wasn't a person with a swimsuit as transparent as that
 
 > BEGIN STRING
 \\name[他の客たち]ﾄﾞﾋﾟｭﾋﾟｭﾋﾟｭﾋﾟｭ
-> CONTEXT: Map026/events/39/pages/0/319/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/39/pages/0/319/Dialogue
+\\name[Other guests]*spurt* *spurt*
+*spurt*
 > END STRING
 
 > BEGIN STRING

@@ -984,10 +984,11 @@ Current Level
 > BEGIN STRING
 \\name[客]！！
 ・・・ｼﾞﾛｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map025/events/5/pages/3/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/2/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/2/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/3/53/Dialogue
+> CONTEXT: Map025/events/7/pages/2/53/Dialogue
+> CONTEXT: Map001/events/2/pages/2/46/Dialogue
+\\name[Guest]！！
+・・・*staring intensely*
 > END STRING
 
 > BEGIN STRING
@@ -3245,29 +3246,29 @@ Current Level
 
 > BEGIN STRING
 \\name[客]ｼｺｼｺｼｺ
-> CONTEXT: Map023/events/4/pages/8/49/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/8/53/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/9/22/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/116/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/88/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/116/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/8/84/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/8/92/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/65/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/177/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/212/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/6/161/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/6/234/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/113/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/123/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/27/pages/0/157/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/27/pages/0/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/8/49/Dialogue
+> CONTEXT: Map023/events/4/pages/8/53/Dialogue
+> CONTEXT: Map023/events/4/pages/9/22/Dialogue
+> CONTEXT: Map025/events/5/pages/10/116/Dialogue
+> CONTEXT: Map025/events/5/pages/10/126/Dialogue
+> CONTEXT: Map029/events/20/pages/3/88/Dialogue
+> CONTEXT: Map029/events/20/pages/3/96/Dialogue
+> CONTEXT: Map025/events/7/pages/9/116/Dialogue
+> CONTEXT: Map025/events/7/pages/9/126/Dialogue
+> CONTEXT: Map029/events/21/pages/8/84/Dialogue
+> CONTEXT: Map029/events/21/pages/8/92/Dialogue
+> CONTEXT: Map029/events/21/pages/9/65/Dialogue
+> CONTEXT: Map029/events/21/pages/9/86/Dialogue
+> CONTEXT: Map029/events/21/pages/9/177/Dialogue
+> CONTEXT: Map029/events/27/pages/0/167/Dialogue
+> CONTEXT: Map029/events/27/pages/0/212/Dialogue
+> CONTEXT: Map005/events/1/pages/6/161/Dialogue
+> CONTEXT: Map005/events/1/pages/6/234/Dialogue
+> CONTEXT: Map001/events/2/pages/9/113/Dialogue
+> CONTEXT: Map001/events/2/pages/9/123/Dialogue
+> CONTEXT: Map001/events/27/pages/0/157/Dialogue
+> CONTEXT: Map001/events/27/pages/0/179/Dialogue
+\\name[Guest]*fapfapfap*
 > END STRING
 
 > BEGIN STRING
@@ -3464,19 +3465,20 @@ Current Level
 
 > BEGIN STRING
 \\name[客]ﾄﾞﾋﾟｭﾋﾟｭ
-> CONTEXT: Map025/events/5/pages/10/262/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/262/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/6/198/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/259/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/10/262/Dialogue
+> CONTEXT: Map025/events/7/pages/9/262/Dialogue
+> CONTEXT: Map005/events/1/pages/6/198/Dialogue
+> CONTEXT: Map001/events/2/pages/9/259/Dialogue
+\\name[Guest]*spurt*
 
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]はぁはぁはぁ♥
-> CONTEXT: Map025/events/5/pages/10/268/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/268/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/265/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/10/268/Dialogue
+> CONTEXT: Map025/events/7/pages/9/268/Dialogue
+> CONTEXT: Map001/events/2/pages/9/265/Dialogue
+\\name[\\n[1]]*pant* *pant*♥
 > END STRING
 
 > BEGIN STRING
@@ -3490,31 +3492,33 @@ Current Level
 > BEGIN STRING
 \\name[客]・・・
 ｼｺｼｺｼｺ
-> CONTEXT: Map025/events/5/pages/10/283/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/283/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/280/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/10/283/Dialogue
+> CONTEXT: Map025/events/7/pages/9/283/Dialogue
+> CONTEXT: Map001/events/2/pages/9/280/Dialogue
+\\name[Guest]・・・
+*fapfapfap*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]♥
-> CONTEXT: Map025/events/5/pages/10/290/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/250/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/290/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/280/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/267/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/8/321/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/287/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/10/290/Dialogue
+> CONTEXT: Map029/events/20/pages/5/250/Dialogue
+> CONTEXT: Map025/events/7/pages/9/290/Dialogue
+> CONTEXT: Map026/events/29/pages/5/280/Dialogue
+> CONTEXT: Map029/events/21/pages/9/267/Dialogue
+> CONTEXT: Map006/events/1/pages/8/321/Dialogue
+> CONTEXT: Map001/events/2/pages/9/287/Dialogue
+\\name[\\n[1]]♥
 > END STRING
 
 > BEGIN STRING
 \\name[銭湯のおじさん]お疲れさん
 また働きにきておくれよ
-> CONTEXT: Map025/events/5/pages/11/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/10/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/10/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/11/13/Dialogue
+> CONTEXT: Map025/events/7/pages/10/13/Dialogue
+> CONTEXT: Map001/events/2/pages/10/14/Dialogue
+\\name[Attendant]Well done
+Please come again
 > END STRING
 
 > BEGIN STRING
