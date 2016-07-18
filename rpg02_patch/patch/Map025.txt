@@ -1555,7 +1555,8 @@ Current Level
 > CONTEXT: Map025/events/5/pages/5/55/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/4/55/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/4/48/Dialogue < UNTRANSLATED
-
+\\name[Guest]！！
+*staring*
 > END STRING
 
 > BEGIN STRING
@@ -1626,7 +1627,8 @@ Current Level
 > CONTEXT: Map025/events/7/pages/4/91/Dialogue < UNTRANSLATED
 > CONTEXT: Map005/events/1/pages/3/66/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/4/84/Dialogue < UNTRANSLATED
-
+\\name[Guest]！！
+*staring intensely*
 > END STRING
 
 > BEGIN STRING

@@ -724,7 +724,7 @@ Thank you for staying here
 > CONTEXT: Map001/events/18/pages/7/244/Dialogue
 > CONTEXT: Map001/events/18/pages/8/302/Dialogue
 > CONTEXT: Map001/events/27/pages/0/177/Dialogue
-\\name[\\n[1]]*squirt*
+\\name[\\n[1]]*squirt* *squirt*
 > END STRING
 
 > BEGIN STRING
@@ -1894,7 +1894,7 @@ almost...
  そろそろ出ようかな
  シャワー止めてっと)
 > CONTEXT: Map029/events/20/pages/1/133/Dialogue
-\\name[\\n[1]](*pant* satisfaction...
+\\name[\\n[1]](*pant* I'm satisfied...
  I'll slowly come out
  Turning off the water first)
 > END STRING
@@ -2195,14 +2195,15 @@ Well, except my pussy...♥)
 > BEGIN STRING
 \\name[\\n[1]](あ、またシャワー姿を覗かれちゃってる♥)
 > CONTEXT: Map029/events/20/pages/3/32/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ah, someone is peeping on me again♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](身体を洗っている姿を見られるの
  恥ずかしいなぁ♥)
 > CONTEXT: Map029/events/20/pages/3/34/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](He can see me washing my body
+ How disgraceful♥)
 > END STRING
 
 > BEGIN STRING
@@ -2210,21 +2211,25 @@ Well, except my pussy...♥)
  シャワールームって個室なんだから
  ナニをするのも自由だよね・・・)
 > CONTEXT: Map029/events/20/pages/3/39/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](..but, when I think about it
+ The shower booth is a private room...
+ So I can do whatever I want, right?)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それならオナニーしたって
  おかしなことじゃないよね♥)
 > CONTEXT: Map029/events/20/pages/3/45/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Masturbating right here...
+ It wouldn't be weird at all♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](人のシャワーを覗いているほうが変態なんだよ・・・
  だから、今日は思い切りオナニーしちゃおう♥)
 > CONTEXT: Map029/events/20/pages/3/50/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](The one that is peeping is the bigger pervert...
+So I can masturbate as much as I want♥)
 > END STRING
 
 > BEGIN STRING
@@ -2243,13 +2248,13 @@ Well, except my pussy...♥)
 > CONTEXT: Map029/events/20/pages/3/57/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/3/71/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/3/120/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]*schlickschlickschlick*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]んあっ、はぁっ・・・んんっ♥
 > CONTEXT: Map029/events/20/pages/3/59/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Ahn♥... Haa♥
 > END STRING
 
 > BEGIN STRING
@@ -2258,20 +2263,24 @@ Well, except my pussy...♥)
  それを見られているなんて気持ちよすぎるから
  しかたがないんだよ・・・♥)
 > CONTEXT: Map029/events/20/pages/3/66/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Oh, it felt so good I accidentally moaned out loud
+ But masturbating in the shower, it's a normal thing to do
+ Being seen makes it feel even better
+ It can't be helped...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]んんっ、あんっ、んぐっ・・・ああっ♥
 > CONTEXT: Map029/events/20/pages/3/75/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Nnn... Haa♥... Ahn♥..
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  オナニー姿見られるの気持ちいいよぅ・・・)
 > CONTEXT: Map029/events/20/pages/3/77/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*♥
+ Masturbating with an audience feels amazing...)
 > END STRING
 
 > BEGIN STRING
@@ -2289,7 +2298,7 @@ Well, except my pussy...♥)
 > BEGIN STRING
 \\name[\\n[1]]ん？
 > CONTEXT: Map029/events/20/pages/3/86/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]n?
 > END STRING
 
 > BEGIN STRING
@@ -2297,7 +2306,9 @@ Well, except my pussy...♥)
  まさか覗いている男の人、
  オナニーはじめちゃってる！？)
 > CONTEXT: Map029/events/20/pages/3/92/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ah!
+The peeping pervert,
+did he start masturbating too?!)
 > END STRING
 
 > BEGIN STRING
@@ -2306,7 +2317,10 @@ Well, except my pussy...♥)
  そんなところでオナニーを始めるなんて・・・
  覗きとあわせて変態すぎるよぅ・・・)
 > CONTEXT: Map029/events/20/pages/3/100/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](His shadow is moving very obviously...
+ But he's in the common room in front of the showers.
+ Masturbating in such a place...
+ On top of peeping...)
 > END STRING
 
 > BEGIN STRING
@@ -2314,26 +2328,29 @@ Well, except my pussy...♥)
  私の身体で興奮してくれたのかな？
  だとしたら嬉しいな♥)
 > CONTEXT: Map029/events/20/pages/3/107/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](To have so little patience that he masturbates in public...
+Did he get turned on by my body?
+That would make me so happy♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それならもっとオナニーしてるところ
  見せてあげないとね♥)
 > CONTEXT: Map029/events/20/pages/3/113/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I should continue masturbating if that's the case
+ Make a bigger display♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]はぁん♥ あっ、ふぅ・・・んんあぁっ♥
 > CONTEXT: Map029/events/20/pages/3/122/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Haa♥... Ahn♥ Fuu♥... Ahnnn♥
 > END STRING
 
 > BEGIN STRING
 \\name[客]ｼﾞﾛｼﾞﾛｼﾞﾛ ｼｺｼｺｼｺ
 > CONTEXT: Map029/events/20/pages/3/124/Dialogue < UNTRANSLATED
-
+\\name[guest]*staring* *fapfapfap*
 > END STRING
 
 > BEGIN STRING
@@ -2341,7 +2358,9 @@ Well, except my pussy...♥)
  えっちな目で見られてオナニーのオカズにされるの
  気持ちが良いよぅ♥)
 > CONTEXT: Map029/events/20/pages/3/126/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant* Amazing・・・♥
+Having someone jerk off because of my masturbation display
+What an amazing feeling♥)
 > END STRING
 
 > BEGIN STRING
@@ -2349,47 +2368,52 @@ Well, except my pussy...♥)
  もうダメ・・・・イっちゃう・・・
  オナニー見られながらイっちゃうよぅ♥)
 > CONTEXT: Map029/events/20/pages/3/132/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ahn♥
+ I'm orgasming from someone watching me masturbate♥
+ Almost・・・・Coming・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁはぁ・・・♥
  オナニーを見られてオナニーのオカズにされるなんて・・・)
 > CONTEXT: Map029/events/20/pages/3/140/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant* *pant*♥
+Getting off from someone jerking his thing to you...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](恥ずかしすぎて・・・気持ちがよすぎるよ・・・♥)
 > CONTEXT: Map029/events/20/pages/3/143/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](It's so disgraceful... but feels so good♥)
 > END STRING
 
 > BEGIN STRING
 ｼｬｰ
 > CONTEXT: Map029/events/20/pages/3/153/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/4/107/Dialogue < UNTRANSLATED
-
+*shuffle*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そろそろ出ようかな
  シャワーを止めて・・・)
 > CONTEXT: Map029/events/20/pages/3/157/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Let's finish up quietly
+I'm done showering・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、カーテンに精液らしきものがついてる・・・)
 > CONTEXT: Map029/events/20/pages/3/181/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ah, looks like there's some semen on the curtain・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](もう、こんな所にかけちゃうなんてしかたがないなぁ
  綺麗に掃除しておいてあげよう♥)
 > CONTEXT: Map029/events/20/pages/3/185/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Well, it's unsightful to leave it there...
+I'll clean it up♥)
 > END STRING
 
 > BEGIN STRING
