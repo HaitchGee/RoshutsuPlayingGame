@@ -2857,8 +2857,8 @@ Such a pleasant feeling♥)
 \\name[\\n[1]](わっ、お・・・おちんちん見えちゃった♥
  やっぱり大きくなってる・・・すごい・・・)
 > CONTEXT: Map029/events/20/pages/5/158/Dialogue < UNTRANSLATED
-\\name[\\n[1]](Ah, I can see his penis♥
- It became hard... amazing...)
+\\name[\\n[1]](Uwa, I can see his p-penis♥
+ It's erect... amazing...)
 > END STRING
 
 > BEGIN STRING
@@ -2889,46 +2889,46 @@ From taking a shower with me... Ufufu♥)
  何だかすごく興奮しちゃうよぅ・・・♥)
 > CONTEXT: Map029/events/20/pages/5/176/Dialogue < UNTRANSLATED
 \\name[\\n[1]](*pant* *pant*♥
- 一緒に身体を洗いながら
- お互いの身体を覗き見し合っちゃってる・・・
- 何だかすごく興奮しちゃうよぅ・・・♥)
+ We can peek at each others body while washing...
+ It makes me so excited I might come again...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[おちんちん]ﾋﾟｸｯ
 > CONTEXT: Map029/events/20/pages/5/185/Dialogue < UNTRANSLATED
-
+\\name[Penis]*twitch*
 > END STRING
 
 > BEGIN STRING
 \\name[おちんちん]ﾋﾞｸﾋﾟｸｯ
 > CONTEXT: Map029/events/20/pages/5/189/Dialogue < UNTRANSLATED
-
+\\name[Penis]*twitch* *twitch*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私が、恥ずかしいところを洗うたびに
  おちんちんが反応してる・・・♥)
 > CONTEXT: Map029/events/20/pages/5/193/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Whenever I scrub an erotic spot
+ His penis reacts・・・♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でも、ちょっとおちんちん苦しそう・・・)
 > CONTEXT: Map029/events/20/pages/5/198/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](But his erection looks strained...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あ、あの・・・お、おちんちん苦しそうですね
 > CONTEXT: Map029/events/20/pages/5/202/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]U- Umm...your p-penis looks painful
 > END STRING
 
 > BEGIN STRING
 \\name[男]うぅ・・・いや、それは・・・
 > CONTEXT: Map029/events/20/pages/5/204/Dialogue < UNTRANSLATED
-
+\\name[Guest]I-it is... it hurts...
 > END STRING
 
 > BEGIN STRING
@@ -2936,13 +2936,15 @@ From taking a shower with me... Ufufu♥)
 ここでオ・・・オナニーしちゃっても
 いいと思います・・・よ
 > CONTEXT: Map029/events/20/pages/5/206/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]I-if that's the case...
+you could jerk off... right now...
+I don't mind...
 > END STRING
 
 > BEGIN STRING
 \\name[男]えぇ！？ そんなこと・・・
 > CONTEXT: Map029/events/20/pages/5/210/Dialogue < UNTRANSLATED
-
+\\name[Guest]Ehh!? Such a thing...
 > END STRING
 
 > BEGIN STRING
@@ -2950,20 +2952,23 @@ From taking a shower with me... Ufufu♥)
 実は私、身体を洗っているふりをして
 おっぱいやおまんこ・・・いじって、オナニーしていたんです・・・っ
 > CONTEXT: Map029/events/20/pages/5/214/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]It's okay...
+I'm actually pretending to wash myself...
+I've been rubbing my breasts and my pussy the entire time...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]そして今も・・・♥
 (ﾓﾐｭﾓﾐｭﾑﾆｭﾑﾆｭ)
 > CONTEXT: Map029/events/20/pages/5/220/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Even now...♥
+(*schlick* *schlick*)
 > END STRING
 
 > BEGIN STRING
 \\name[男]な、なんだって！？
 > CONTEXT: Map029/events/20/pages/5/223/Dialogue < UNTRANSLATED
-
+\\name[Guest]W- Wha!?
 > END STRING
 
 > BEGIN STRING
@@ -2972,21 +2977,26 @@ From taking a shower with me... Ufufu♥)
 おかしなことじゃないと思うんです
 普通なことなんです！
 > CONTEXT: Map029/events/20/pages/5/227/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Hey... Isn't the shower a private room...
+Masturbating discreetly in a private room
+I don't think it is strange at all...
+It's a normal thing to do!
 > END STRING
 
 > BEGIN STRING
 \\name[男]で、でもあなたに見られていたら
 こっそりじゃなくなるんじゃ・・・
 > CONTEXT: Map029/events/20/pages/5/232/Dialogue < UNTRANSLATED
-
+\\name[Guest]B-but if you're going to watch me do it
+it won't be discreet at all...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]・・・それなら、おちんちんを洗うふりをして
 こっそりシコシコしてください・・・♥
 > CONTEXT: Map029/events/20/pages/5/237/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]...in that case, you can pretend to wash you penis
+Please fap discreetly for me・・・♥
 > END STRING
 
 > BEGIN STRING
@@ -3022,14 +3032,16 @@ From taking a shower with me... Ufufu♥)
 \\name[\\n[1]](せっかくおちんちん大きくしちゃったのだから
  オナニーのオカズにされたいもんね♥)
 > CONTEXT: Map029/events/20/pages/5/258/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](His dick became this hard
+ Because of my encouragement♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私・・・オナニーのオカズにされちゃってるんだ・・・
  恥ずかしいよぅ♥)
 > CONTEXT: Map029/events/20/pages/5/263/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I... Encouraged him to masturbate for me...
+ How disgraceful♥)
 > END STRING
 
 > BEGIN STRING
@@ -3060,7 +3072,9 @@ From taking a shower with me... Ufufu♥)
  そんなに我慢できなくなるほど興奮してくれていたんだ
  嬉しい・・・♥)
 > CONTEXT: Map029/events/20/pages/5/274/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Whoa, he came already...
+ It must have been really hard to endure the excitement
+ I'm glad...♥)
 > END STRING
 
 > BEGIN STRING
@@ -3068,13 +3082,15 @@ From taking a shower with me... Ufufu♥)
  私もオナニーしてるところを見てもらって
  またおちんちん大きくしてもらおう♥)
 > CONTEXT: Map029/events/20/pages/5/280/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](But, I'm not finished yet♥
+ If he sees me masturbating
+ He'll surely become hard again♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あぁん、んんっ、・・・あぁっ・・・はぁん♥
 > CONTEXT: Map029/events/20/pages/5/290/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Aahn♥... nn♥... Haa♥
 > END STRING
 
 > BEGIN STRING
@@ -3096,49 +3112,54 @@ From taking a shower with me... Ufufu♥)
 > BEGIN STRING
 \\name[\\n[1]](むふふ・・・またおちんちん大きくなってきたみたい♥)
 > CONTEXT: Map029/events/20/pages/5/300/Dialogue
-\\name[\\n[1]](Teehee... his penis got hard♥)
+\\name[\\n[1]](Ufufu... his penis got hard♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あぁん・・・またオナニーのオカズにしてくれてる♥
  嬉しくて、恥ずかしくて・・・気持ち良いよぅ♥)
 > CONTEXT: Map029/events/20/pages/5/310/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Aahn・・・He's masturbating for me♥
+being this shameless, it makes me happy・・・it feels good♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](こんなの私のオナニーも
  どんどん気持ちよくなっちゃうぅっ♥)
 > CONTEXT: Map029/events/20/pages/5/313/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I can feel it approaching...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ふあぁっ・・・ダメっ・・・
  もう、イっちゃうぅ♥)
 > CONTEXT: Map029/events/20/pages/5/318/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Fuaa・・・Not good・・・
+ I'm coming♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あぁん・・・んっ、あっ・・・ひゃあん♥
 (ﾋﾞｸﾝﾋﾞｸﾝ)
 > CONTEXT: Map029/events/20/pages/5/321/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Ahn...Hyaa♥♥
+(*squirt* *squirt*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  思い切りイっちゃった・・・♥)
 > CONTEXT: Map029/events/20/pages/5/326/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*♥
+Such an enormous orgasm♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](もうオナニーしてるの教えちゃったから
  声を抑えて隠す必要もないよね)
 > CONTEXT: Map029/events/20/pages/5/331/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Because I already caught masturbating
+ There's no need to keep my voice down)
 > END STRING
 
 > BEGIN STRING
@@ -3152,14 +3173,15 @@ From taking a shower with me... Ufufu♥)
 \\name[\\n[1]](あ、この人の手の動きが激しくなった
  ラストスパートかな？)
 > CONTEXT: Map029/events/20/pages/5/340/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Oh, His hand is moving faster...
+ Is he also coming?)
 > END STRING
 
 > BEGIN STRING
 \\name[男]はぁはぁはぁ
 > CONTEXT: Map029/events/20/pages/5/351/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/16/pages/6/186/Dialogue < UNTRANSLATED
-
+\\name[Guest]*pant* *pant* *pant*
 > END STRING
 
 > BEGIN STRING
@@ -3167,7 +3189,9 @@ From taking a shower with me... Ufufu♥)
 これでおちんちんもすっきりして
 身体を洗うことに集中できますね♥
 > CONTEXT: Map029/events/20/pages/5/355/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Thank you very much
+Your penis must be relieved
+Now you can concentrate on washing you body
 > END STRING
 
 > BEGIN STRING
@@ -3181,26 +3205,28 @@ From taking a shower with me... Ufufu♥)
 (ｺﾞｼｺﾞｼｺﾞｼ)
 > CONTEXT: Map029/events/20/pages/5/363/Dialogue
 \\name[MAn]Y-Yes！
-*fapfapfap*
+*scrubscrubscrub*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私ももうちょっとしっかり身体を洗っていっちゃおう)
 > CONTEXT: Map029/events/20/pages/5/368/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I'll keep washing myself just a bit more)
 > END STRING
 
 > BEGIN STRING
 \\name[男]ｼﾞﾛｼﾞﾛｼﾞﾛ
 (ﾑｸﾑｸ)
 > CONTEXT: Map029/events/20/pages/5/378/Dialogue < UNTRANSLATED
-
+\\name[男]*staring*
+(*scrub* *scrub*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あらら、また大きくなってきちゃった♥)
 > CONTEXT: Map029/events/20/pages/5/383/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Oh my♥
+His penis became hard again♥)
 > END STRING
 
 > BEGIN STRING
