@@ -148,9 +148,9 @@ Not now
 
 > BEGIN STRING
 \\name[\\n[1]](宿の食事以外に外食をしている場合じゃなかった・・・)
-> CONTEXT: Map019/events/13/pages/1/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/13/pages/1/24/Dialogue
+> CONTEXT: Map019/events/13/pages/2/24/Dialogue
+> CONTEXT: Map019/events/13/pages/5/24/Dialogue
 \\name[\\n[1]](I shouldn't have dined outside of the inn...)
 > END STRING
 
@@ -165,9 +165,9 @@ Not now
 
 > BEGIN STRING
 \\name[\\n[1]](募金なんてしている場合じゃなかったよ・・・)
-> CONTEXT: Map019/events/13/pages/1/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/13/pages/1/40/Dialogue
+> CONTEXT: Map019/events/13/pages/2/40/Dialogue
+> CONTEXT: Map019/events/13/pages/5/40/Dialogue
 \\name[\\n[1]](I shouldn't have donated all my money...)
 > END STRING
 
@@ -997,7 +997,7 @@ I'm envious
 \\name[おにいさん]この街は"オミセ・タウン"
 その名の通り、たくさんのお店があり
 そのうちのいくつかのお店では従業員を募集していますよ
-> CONTEXT: Map019/events/34/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/34/pages/0/2/Dialogue
 \\name[Teenager] This town is called "Shop Town"
 It's because there are a lot of shops!
 Most are always looking for freelance employees.
@@ -1008,7 +1008,7 @@ Most are always looking for freelance employees.
 ということは、ここの生徒になればモデルさんの裸が見られるということ！
 ・・・あ、いや、おじさんは純粋に絵の勉強がしたいだけだよ
 下心なんてないよ
-> CONTEXT: Map019/events/36/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/36/pages/0/2/Dialogue
 \\name[Man]The painting classroom sometimes looks for nude models
 If you become a student you can see these models naked!
 ...I'm just in it for the art though
@@ -1020,7 +1020,7 @@ There's no secret desire
 ということは、ここの生徒になればモデルさんの裸が見られるということ！
 ・・・あ、いや、おじさんは純粋に絵の勉強がしたいだけだよ
 下心なんてないよ
-> CONTEXT: Map019/events/36/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/36/pages/1/2/Dialogue
 \\name[Man]The painting classroom is looking a for nude model!
 If you become a student you can see her naked!
 ...I'm just in it for the art though
@@ -1042,7 +1042,7 @@ The new paintings might get more exciting...
 ダメだ・・・おっぱいを見ただけでこんなに興奮していては
 ヌードモデルを描くなんて出来っこない・・・
 おちんちんが勃起してしまってつらいんだよ
-> CONTEXT: Map019/events/36/pages/3/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/36/pages/3/2/Dialogue
 \\name[おじさん]*huff* *pant*
 Not good... I shouldn't get this excited over a pair of tits
 I'll never be able to draw her...
@@ -1052,7 +1052,7 @@ What a tragic erection that I have
 > BEGIN STRING
 \\name[おじいさん]ここの水はおいしすぎて元気がでるのう
 ・・・そして尿もよく出るのう
-> CONTEXT: Map019/events/37/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/37/pages/0/2/Dialogue
 \\name[Old man]The water here is delicious and refreshing
 ...goes straight to the bladder though
 > END STRING

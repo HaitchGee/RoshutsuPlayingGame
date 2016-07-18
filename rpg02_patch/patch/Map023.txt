@@ -1288,15 +1288,15 @@ Off you go!
 
 > BEGIN STRING
 \\name[\\n[1]]ﾄﾞｷﾄﾞｷ
-> CONTEXT: Map023/events/4/pages/5/54/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/231/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/0/117/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/3/62/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/4/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/5/104/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/4/92/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/8/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/5/54/Dialogue
+> CONTEXT: Map026/events/11/pages/4/231/Dialogue
+> CONTEXT: Map026/events/22/pages/0/117/Dialogue
+> CONTEXT: Map026/events/22/pages/3/62/Dialogue
+> CONTEXT: Map029/events/20/pages/4/45/Dialogue
+> CONTEXT: Map026/events/29/pages/0/26/Dialogue
+> CONTEXT: Map001/events/16/pages/5/104/Dialogue
+> CONTEXT: Map001/events/18/pages/4/92/Dialogue
+> CONTEXT: Map001/events/18/pages/8/199/Dialogue
 \\name[\\n[1]]*ba-bump* *ba-bump*
 > END STRING
 
