@@ -2425,20 +2425,21 @@ I'll clean it up♥)
 > BEGIN STRING
 \\name[\\n[1]](今日は片方のシャワーは使用中みたい)
 > CONTEXT: Map029/events/20/pages/4/25/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](One of the showers is already in use)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・ここで服を脱いでいたら
  出てきたときに裸を見られちゃうかも・・・むふふ♥)
 > CONTEXT: Map029/events/20/pages/4/29/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](・・・If I took off my clothes here
+He might just come out and spot me... Ufufu♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ﾇｷﾞﾇｷﾞ
 > CONTEXT: Map029/events/20/pages/4/37/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]*rustle* *rustle*
 > END STRING
 
 > BEGIN STRING
@@ -2446,7 +2447,8 @@ I'll clean it up♥)
  人が出てくるかもしれないのに
  裸になっちゃったよ♥)
 > CONTEXT: Map029/events/20/pages/4/41/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*♥
+If he comes out now he'll see me naked♥)
 > END STRING
 
 > BEGIN STRING
@@ -2461,14 +2463,15 @@ I'll clean it up♥)
 > CONTEXT: Map006/events/1/pages/6/57/Dialogue < UNTRANSLATED
 > CONTEXT: Map006/events/1/pages/7/52/Dialogue < UNTRANSLATED
 > CONTEXT: Map006/events/1/pages/8/68/Dialogue < UNTRANSLATED
-
+\\name[Guest]*click*
 > END STRING
 
 > BEGIN STRING
 \\name[男]ん？
 うおぅ！！
 > CONTEXT: Map029/events/20/pages/4/59/Dialogue < UNTRANSLATED
-
+\\name[Guest]Ah?
+Uwoo!!
 > END STRING
 
 > BEGIN STRING
@@ -2476,7 +2479,9 @@ I'll clean it up♥)
  入り口のほうから新たに人が来ちゃった！
  裸を見られちゃってる♥)
 > CONTEXT: Map029/events/20/pages/4/66/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Hyaa!
+Someone else came through the door!
+He can see my uncoverd body♥)
 > END STRING
 
 > BEGIN STRING
@@ -2484,39 +2489,42 @@ I'll clean it up♥)
 今からシャワー使いますか？
 なら今は空いていないみたいですね
 > CONTEXT: Map029/events/20/pages/4/70/Dialogue < UNTRANSLATED
-
+\\name[男]U- Umm...
+Are the showers in use?
+Then, I'll come back when one is free
 > END STRING
 
 > BEGIN STRING
 \\name[男]出直してきますっ
 > CONTEXT: Map029/events/20/pages/4/76/Dialogue < UNTRANSLATED
-
+\\name[Guest]See you later
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あっ！ ちょっと待ってください！
 > CONTEXT: Map029/events/20/pages/4/80/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Ah! Please wait a moment!
 > END STRING
 
 > BEGIN STRING
 \\name[男]？
 > CONTEXT: Map029/events/20/pages/4/84/Dialogue < UNTRANSLATED
 > CONTEXT: Map026/events/29/pages/4/247/Dialogue < UNTRANSLATED
-
+\\name[Guest]?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あの・・・その・・・お、お待たせするのも悪いですし・・・
 よかったら・・・一緒にシャワー、使いませんか？
 > CONTEXT: Map029/events/20/pages/4/88/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Umm... Well... Y-You don't have to wait...
+We could... shower together, if that's okay?
 > END STRING
 
 > BEGIN STRING
 \\name[男]え・・・えぇ！？
 > CONTEXT: Map029/events/20/pages/4/91/Dialogue < UNTRANSLATED
-
+\\name[Guest]Ehh!?
 > END STRING
 
 > BEGIN STRING
@@ -2550,7 +2558,10 @@ I'll clean it up♥)
  男の人をシャワーに誘ってしまったよ・・・
  大丈夫かな？)
 > CONTEXT: Map029/events/20/pages/4/115/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](My heart is racing *ba-bump*
+ This is way too exciting
+ I've invited a man to join me in the shower...
+ I wonder if that's alright)
 > END STRING
 
 > BEGIN STRING
@@ -2581,7 +2592,9 @@ I'll clean it up♥)
  そりゃあ見ちゃうよね♥
  恥ずかしいよぅ♥)
 > CONTEXT: Map029/events/20/pages/4/124/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ufufu, He's glancing at me...
+ He can see me from up close♥
+ So embarrassing♥)
 > END STRING
 
 > BEGIN STRING
@@ -2589,7 +2602,9 @@ I'll clean it up♥)
  このまま突っ立っていてもおかしいよね
  とりあえず身体を洗ったりしよう)
 > CONTEXT: Map029/events/20/pages/4/132/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](It feels good, even though it is so shameful
+ But just standing here is kinda suspicious
+ I'll start washing myself for the time being)
 > END STRING
 
 > BEGIN STRING
@@ -2600,14 +2615,15 @@ I'll clean it up♥)
 > CONTEXT: Map029/events/20/pages/5/105/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/5/286/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/5/372/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]*scrub* *scrub* *scrub*
 > END STRING
 
 > BEGIN STRING
 \\name[男]！
 ｼﾞﾛｼﾞﾛｼﾞﾛ
 > CONTEXT: Map029/events/20/pages/4/142/Dialogue < UNTRANSLATED
-
+\\name[Guest]！
+*staring intensely*
 > END STRING
 
 > BEGIN STRING
@@ -2616,7 +2632,10 @@ I'll clean it up♥)
  こんなに間近で見られちゃってる♥
  恥ずかしすぎるよぅ・・・)
 > CONTEXT: Map029/events/20/pages/4/147/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*
+ This place that I'm scrubbing
+ It's being observed from up close♥
+ It's beyond embarrassing・・・)
 > END STRING
 
 > BEGIN STRING
@@ -2625,58 +2644,64 @@ I'll clean it up♥)
  普通に身体を洗ってるだけでも
  すぐにイっちゃうよぅ・・・♥)
 > CONTEXT: Map029/events/20/pages/4/158/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ohhh... It feels so good....
+ To be in this disgraceful situation
+ Where you're only supposed to wash on your own
+ It's making me come・・・♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  イっちゃった・・・すぐ隣に人がいるのに・・・♥)
 > CONTEXT: Map029/events/20/pages/4/171/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*♥
+ I came... With a man standing right next to me...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](男の人は股間を手で隠したまま動きがないみたい)
 > CONTEXT: Map029/events/20/pages/4/178/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](He's covering his privates with his hands)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おちんちん大きくなっちゃったから隠しているのかな？
  そりゃあ動いたり身体を洗ったりできないよね♥)
 > CONTEXT: Map029/events/20/pages/4/182/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Could he be hiding his penis because it became hard♥?
+ That would be the reason why he's not washing himself)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それじゃあ、そろそろ出ちゃおうっと)
 > CONTEXT: Map029/events/20/pages/4/187/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Well, it's time for me to leave)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ｼｬｰ(泡を落とす)
 > CONTEXT: Map029/events/20/pages/4/191/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I washed away the soap)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]私、身体も洗い終わったので先に出ますね
 > CONTEXT: Map029/events/20/pages/4/197/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]I've finished washing, bye!
 > END STRING
 
 > BEGIN STRING
 \\name[男]あ、あの・・・
 ありがとうございました
 > CONTEXT: Map029/events/20/pages/4/204/Dialogue < UNTRANSLATED
-
+\\name[Guest]U- umm...
+Thank you...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]・・・こちらこそ♥
 > CONTEXT: Map029/events/20/pages/4/210/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]・・・The pleasure is all mine♥
 > END STRING
 
 > BEGIN STRING
@@ -2688,7 +2713,7 @@ I'll clean it up♥)
 > BEGIN STRING
 ｶﾞﾗｯ
 > CONTEXT: Map029/events/20/pages/5/26/Dialogue < UNTRANSLATED
-
+*click*
 > END STRING
 
 > BEGIN STRING

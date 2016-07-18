@@ -1297,7 +1297,7 @@ Off you go!
 > CONTEXT: Map001/events/16/pages/5/104/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/18/pages/4/92/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/18/pages/8/199/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]*ba-bump* *ba-bump*
 > END STRING
 
 > BEGIN STRING
