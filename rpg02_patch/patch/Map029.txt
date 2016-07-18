@@ -2719,25 +2719,25 @@ Thank you...
 > BEGIN STRING
 \\name[\\n[1]]あっ、この前シャワーをご一緒した・・・
 > CONTEXT: Map029/events/20/pages/5/33/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Ah, it was you that I shared a shower with...
 > END STRING
 
 > BEGIN STRING
 \\name[男]どうも・・・
 > CONTEXT: Map029/events/20/pages/5/37/Dialogue < UNTRANSLATED
-
+\\name[男]I am grateful...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]今日も一緒に使いますか？
 > CONTEXT: Map029/events/20/pages/5/43/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Want to go together again?
 > END STRING
 
 > BEGIN STRING
 \\name[男]はい！
 > CONTEXT: Map029/events/20/pages/5/45/Dialogue < UNTRANSLATED
-
+\\name[Guest]Yes!
 > END STRING
 
 > BEGIN STRING
@@ -2745,7 +2745,9 @@ Thank you...
  また男の人と一緒にシャワー浴びちゃってる♥
  むふふ・・・恥ずかしいよぅ♥)
 > CONTEXT: Map029/events/20/pages/5/67/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*♥
+ I'm taking another shower together with a man♥
+ Ufufu...I'm such a pervert♥)
 > END STRING
 
 > BEGIN STRING
@@ -2754,7 +2756,10 @@ Thank you...
  もしかして、私が来るのを待って
  狙って入ってきたのかな？)
 > CONTEXT: Map029/events/20/pages/5/73/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](...This person, when he got in a shower with me
+He took off his clothes really quick
+Perhaps, he was waiting for me?
+Was this his goal all along?)
 > END STRING
 
 > BEGIN STRING
@@ -2762,71 +2767,77 @@ Thank you...
  喜んでくれたってことかな
  嬉しい・・・♥)
 > CONTEXT: Map029/events/20/pages/5/80/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Being so eager to take a shower with me
+It makes me happy...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ふふ、またじろじろと私の身体を見てくれてる
  気持ち良いよぅ♥)
 > CONTEXT: Map029/events/20/pages/5/88/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ufufu, he's staring at my body again
+Such a pleasant feeling♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それじゃあ、身体を洗いはじめちゃおう)
 > CONTEXT: Map029/events/20/pages/5/93/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Well then, I should start washing myself)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](んあんっ♥ はぁはぁ・・・んんっ♥)
 > CONTEXT: Map029/events/20/pages/5/111/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](nAhn♥ *pant* *pant*・・・haa♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](んはぁ・・・気持ち良い♥
  もうイっちゃった・・・)
 > CONTEXT: Map029/events/20/pages/5/117/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](ahnn・・・Amazing♥
+ I came already・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](身体を洗って気持ちよくなっているところを
  見られるのが、さらに気持ちよくしてくれるよ・・・♥)
 > CONTEXT: Map029/events/20/pages/5/122/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Washing my body feels good...
+ but simultaneously being stared at makes it even better♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・この人は、見ているだけでいいのかな？
  一緒に気持ちよくなっちゃえばいいのに・・・)
 > CONTEXT: Map029/events/20/pages/5/129/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](・・・This man, is he satisfied with simply watching?
+ I want to feel good together♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あの、身体を洗ったりはしないんですか？
 > CONTEXT: Map029/events/20/pages/5/136/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Umm, Aren't you going to wash yourself?
 > END STRING
 
 > BEGIN STRING
 \\name[男]えぇ！？ えっと、それはそのぅ・・・
 > CONTEXT: Map029/events/20/pages/5/138/Dialogue < UNTRANSLATED
-
+\\name[Guest]Eh!? Umm, that's...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ちゃんと身体を洗ったほうがいいと思いますよ♥
 > CONTEXT: Map029/events/20/pages/5/144/Dialogue < UNTRANSLATED
+\\name[\\n[1]]I believe everyone should take good care of their body♥
 
 > END STRING
 
 > BEGIN STRING
 \\name[男]・・・は、はい
 > CONTEXT: Map029/events/20/pages/5/146/Dialogue < UNTRANSLATED
-
+\\name[Guest]・・・O-Okay
 > END STRING
 
 > BEGIN STRING
@@ -2839,33 +2850,36 @@ Thank you...
 > BEGIN STRING
 \\name[男]ｺﾞｼｺﾞｼ(ﾎﾞﾛﾝ)
 > CONTEXT: Map029/events/20/pages/5/154/Dialogue < UNTRANSLATED
-
+\\name[男]*scrub* *scrub* (*boing*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](わっ、お・・・おちんちん見えちゃった♥
  やっぱり大きくなってる・・・すごい・・・)
 > CONTEXT: Map029/events/20/pages/5/158/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ah, I can see his penis♥
+ It became hard... amazing...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私とシャワーを浴びることで
  そんなに興奮してくれたんだぁ・・・むふふ♥)
 > CONTEXT: Map029/events/20/pages/5/163/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](His penis became so large...
+From taking a shower with me... Ufufu♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ﾓﾐｭﾓﾐｭﾑﾆｭﾑﾆｭ(ﾁﾗﾁﾗ)
 > CONTEXT: Map029/events/20/pages/5/170/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]*scrub* *scrub* *scrub* 
+(*schlick* *schlick*)
 > END STRING
 
 > BEGIN STRING
 \\name[男]ｺﾞｼｺﾞｼ(ﾁﾗﾁﾗ)
 > CONTEXT: Map029/events/20/pages/5/172/Dialogue < UNTRANSLATED
-
+\\name[Guest]*scrub* *scrub*
 > END STRING
 
 > BEGIN STRING
@@ -2874,7 +2888,10 @@ Thank you...
  お互いの身体を覗き見し合っちゃってる・・・
  何だかすごく興奮しちゃうよぅ・・・♥)
 > CONTEXT: Map029/events/20/pages/5/176/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*♥
+ 一緒に身体を洗いながら
+ お互いの身体を覗き見し合っちゃってる・・・
+ 何だかすごく興奮しちゃうよぅ・・・♥)
 > END STRING
 
 > BEGIN STRING
