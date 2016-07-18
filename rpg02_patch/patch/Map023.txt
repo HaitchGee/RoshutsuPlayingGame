@@ -223,24 +223,24 @@ Off you go!
 
 > BEGIN STRING
 \\name[客]！！
-> CONTEXT: Map025/events/5/pages/2/74/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/0/101/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/1/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/4/64/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/3/173/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/3/257/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/6/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/0/133/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/1/74/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/3/64/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/6/237/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/5/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/0/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/0/203/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/1/67/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/3/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/3/57/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/5/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/5/pages/2/74/Dialogue
+> CONTEXT: Map023/events/4/pages/0/101/Dialogue
+> CONTEXT: Map023/events/4/pages/1/52/Dialogue
+> CONTEXT: Map025/events/5/pages/4/64/Dialogue
+> CONTEXT: Map023/events/4/pages/3/173/Dialogue
+> CONTEXT: Map023/events/4/pages/3/257/Dialogue
+> CONTEXT: Map025/events/5/pages/6/68/Dialogue
+> CONTEXT: Map029/events/20/pages/0/133/Dialogue
+> CONTEXT: Map025/events/7/pages/1/74/Dialogue
+> CONTEXT: Map025/events/7/pages/3/64/Dialogue
+> CONTEXT: Map026/events/22/pages/6/237/Dialogue
+> CONTEXT: Map025/events/7/pages/5/68/Dialogue
+> CONTEXT: Map005/events/1/pages/0/163/Dialogue
+> CONTEXT: Map005/events/1/pages/0/203/Dialogue
+> CONTEXT: Map001/events/2/pages/1/67/Dialogue
+> CONTEXT: Map005/events/1/pages/3/163/Dialogue
+> CONTEXT: Map001/events/2/pages/3/57/Dialogue
+> CONTEXT: Map001/events/2/pages/5/61/Dialogue
 \\name[Guest]！！
 > END STRING
 
@@ -545,8 +545,8 @@ Off you go!
 
 > BEGIN STRING
 \\name[客]ｼﾞｨｰ
-> CONTEXT: Map023/events/4/pages/1/74/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/0/142/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/1/74/Dialogue
+> CONTEXT: Map029/events/20/pages/0/142/Dialogue
 \\name[Guest]*staaaare*
 > END STRING
 
