@@ -1332,7 +1332,7 @@ Thank you for staying here
 \\name[\\n[1]]ﾌﾝﾌﾌﾝﾌﾝﾌﾝ♪
 > CONTEXT: Map029/events/20/pages/0/19/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/3/26/Dialogue < UNTRANSLATED
-
+♪*humming*♪♪
 > END STRING
 
 > BEGIN STRING
@@ -1341,14 +1341,15 @@ Thank you for staying here
 > CONTEXT: Map029/events/20/pages/1/49/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/2/29/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/3/80/Dialogue < UNTRANSLATED
-
+\\name[Guest]*fiddle* *fiddle*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、他のお客さん来たみたい
  露出プレイはじめちゃおう)
 > CONTEXT: Map029/events/20/pages/0/33/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Oh, another guests entered the shower room...
+ let's have some exposure play♥)
 > END STRING
 
 > BEGIN STRING
@@ -1412,7 +1413,8 @@ Thank you for staying here
 \\name[\\n[1]](はぁはぁ、どきどきするなぁ・・・
  よしやるぞ！)
 > CONTEXT: Map029/events/20/pages/0/54/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Haa... Haa... I can feel my heart beating・・・
+ Let's do it!)
 > END STRING
 
 > BEGIN STRING
@@ -1426,25 +1428,25 @@ Thank you for staying here
 \\name[客]ん？
 > CONTEXT: Map029/events/20/pages/0/66/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/1/55/Dialogue < UNTRANSLATED
-
+\\name[Guest]?
 > END STRING
 
 > BEGIN STRING
 \\name[客]うおぅ！？
 > CONTEXT: Map029/events/20/pages/0/68/Dialogue < UNTRANSLATED
-
+\\name[Guest]Uwa!?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あ、すみません、驚かせちゃって・・・
 > CONTEXT: Map029/events/20/pages/0/74/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Ah, sorry. I startled you...
 > END STRING
 
 > BEGIN STRING
 \\name[客]い、いえ・・・それで、どうかしましたか？(ﾄﾞｷﾄﾞｷ)
 > CONTEXT: Map029/events/20/pages/0/76/Dialogue < UNTRANSLATED
-
+\\name[Guest]N-No problem. What's wrong? (*ba-dump*)
 > END STRING
 
 > BEGIN STRING
@@ -1452,40 +1454,43 @@ Thank you for staying here
 タオルを持ってはいるのを忘れてしまって
 こちらのかごに置いてあるタオルを取ってもらえませんか？
 > CONTEXT: Map029/events/20/pages/0/82/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Well... I wanted to leave the shower
+But I forgot to take a towel with me
+Could you hand me the one that's laying on the basket?
 > END STRING
 
 > BEGIN STRING
 \\name[客]はあ
 かまいませんよ
 > CONTEXT: Map029/events/20/pages/0/86/Dialogue < UNTRANSLATED
-
+\\name[Guest]*pant* Of course
 > END STRING
 
 > BEGIN STRING
 \\name[客]これですね
 > CONTEXT: Map029/events/20/pages/0/93/Dialogue < UNTRANSLATED
-
+\\name[Guest]This one?
 > END STRING
 
 > BEGIN STRING
 \\name[客]・・・！！
 > CONTEXT: Map029/events/20/pages/0/95/Dialogue
 > CONTEXT: Map029/events/21/pages/6/84/Dialogue
-\\name[Man]...!!
+\\name[Guest]...!!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、タオルの上に置いてたぱんつ
  発見されちゃった♥)
 > CONTEXT: Map029/events/20/pages/0/101/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ah, my panties were placed on the towel
+ He must've noticed♥)
 > END STRING
 
 > BEGIN STRING
 \\name[客]・・・(ﾄﾞｷﾄﾞｷ)
 > CONTEXT: Map029/events/20/pages/0/104/Dialogue < UNTRANSLATED
-
+\\name[Guest]・・・(*ba-bump*)
 > END STRING
 
 > BEGIN STRING
@@ -1494,21 +1499,22 @@ Thank you for staying here
 > CONTEXT: Map026/events/22/pages/2/162/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/21/pages/8/134/Dialogue < UNTRANSLATED
 > CONTEXT: Map006/events/1/pages/5/159/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]U-umm... Is something wrong?
 > END STRING
 
 > BEGIN STRING
 \\name[客]ああっ！ すみません！ 何でもないですよ！
 今持っていきます
 > CONTEXT: Map029/events/20/pages/0/108/Dialogue < UNTRANSLATED
-
+\\name[Guest]Ah! Sorry! It's nothing
+今持っていきます
 > END STRING
 
 > BEGIN STRING
 \\name[客]はいどうぞ(ﾄﾞｷﾄﾞｷ)
 > CONTEXT: Map029/events/20/pages/0/119/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/2/94/Dialogue < UNTRANSLATED
-
+\\name[Guest]Here you go (*ba-bump*)
 > END STRING
 
 > BEGIN STRING
@@ -1526,7 +1532,7 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]]どうも、ありがとうございます
 > CONTEXT: Map029/events/20/pages/0/125/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Thank you very much
 > END STRING
 
 > BEGIN STRING
@@ -1551,7 +1557,8 @@ Thank you for staying here
 \\name[\\n[1]](あはぁ♥
  おっぱい見られちゃったぁ♥)
 > CONTEXT: Map029/events/20/pages/0/139/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Aahn♥
+ He can see my boobs♥)
 > END STRING
 
 > BEGIN STRING
@@ -1559,7 +1566,9 @@ Thank you for staying here
  もう戻ってもいいのに、
  固まっておっぱい凝視しちゃってるよ)
 > CONTEXT: Map029/events/20/pages/0/144/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](He has given me the towel,
+There's no need to keep standing there
+But he just keeps staring at my boobs)
 > END STRING
 
 > BEGIN STRING
@@ -1573,7 +1582,7 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ、恥ずかしい・・・♥)
 > CONTEXT: Map029/events/20/pages/0/152/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant* So shameful...♥)
 > END STRING
 
 > BEGIN STRING
@@ -1581,21 +1590,25 @@ Thank you for staying here
 す、すみません！ ありがとうございました！
 それではっ！！
 > CONTEXT: Map029/events/20/pages/0/154/Dialogue < UNTRANSLATED
-
+\\name[Guest]Ah!
+S-Sorry! Thankyouverymuch!
+Well then!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](こっちがタオルを取ってもらったのに
  感謝されちゃった)
 > CONTEXT: Map029/events/20/pages/0/175/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](He handed me the towel...
+ and thanked me for it...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私のおっぱい見て、喜んでもらえたのなら
  嬉しいな♥)
 > CONTEXT: Map029/events/20/pages/0/182/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](He looked grateful to be able to see my breasts...
+ I'm glad♥)
 > END STRING
 
 > BEGIN STRING

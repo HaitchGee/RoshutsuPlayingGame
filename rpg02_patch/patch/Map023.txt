@@ -241,7 +241,7 @@ Off you go!
 > CONTEXT: Map005/events/1/pages/3/163/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/57/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/5/61/Dialogue < UNTRANSLATED
-
+\\name[Guest]！！
 > END STRING
 
 > BEGIN STRING
@@ -547,7 +547,7 @@ Off you go!
 \\name[客]ｼﾞｨｰ
 > CONTEXT: Map023/events/4/pages/1/74/Dialogue < UNTRANSLATED
 > CONTEXT: Map029/events/20/pages/0/142/Dialogue < UNTRANSLATED
-
+\\name[Guest]*staaaare*
 > END STRING
 
 > BEGIN STRING
