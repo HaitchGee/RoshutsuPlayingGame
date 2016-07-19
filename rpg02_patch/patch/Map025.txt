@@ -1552,10 +1552,11 @@ Current Level
 > BEGIN STRING
 \\name[客]！！
 ｼﾞﾛｼﾞﾛ
-> CONTEXT: Map025/events/5/pages/5/55/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/4/55/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/4/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/5/55/Dialogue
+> CONTEXT: Map025/events/7/pages/4/55/Dialogue
+> CONTEXT: Map001/events/2/pages/4/48/Dialogue
+\\name[Guest]！！
+*staring*
 > END STRING
 
 > BEGIN STRING
@@ -1621,12 +1622,13 @@ Current Level
 > BEGIN STRING
 \\name[客]！！
 ｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map025/events/5/pages/5/91/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/4/91/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/3/66/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/4/84/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/5/91/Dialogue
+> CONTEXT: Map029/events/20/pages/3/61/Dialogue
+> CONTEXT: Map025/events/7/pages/4/91/Dialogue
+> CONTEXT: Map005/events/1/pages/3/66/Dialogue
+> CONTEXT: Map001/events/2/pages/4/84/Dialogue
+\\name[Guest]！！
+*staring intensely*
 > END STRING
 
 > BEGIN STRING

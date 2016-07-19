@@ -724,7 +724,7 @@ Thank you for staying here
 > CONTEXT: Map001/events/18/pages/7/244/Dialogue
 > CONTEXT: Map001/events/18/pages/8/302/Dialogue
 > CONTEXT: Map001/events/27/pages/0/177/Dialogue
-\\name[\\n[1]]*squirt*
+\\name[\\n[1]]*squirt* *squirt*
 > END STRING
 
 > BEGIN STRING
@@ -1330,25 +1330,26 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]ﾌﾝﾌﾌﾝﾌﾝﾌﾝ♪
-> CONTEXT: Map029/events/20/pages/0/19/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/19/Dialogue
+> CONTEXT: Map029/events/20/pages/3/26/Dialogue
+♪*humming*♪♪
 > END STRING
 
 > BEGIN STRING
 \\name[客]ｶﾞｻｺﾞｿ
-> CONTEXT: Map029/events/20/pages/0/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/1/49/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/29/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/29/Dialogue
+> CONTEXT: Map029/events/20/pages/1/49/Dialogue
+> CONTEXT: Map029/events/20/pages/2/29/Dialogue
+> CONTEXT: Map029/events/20/pages/3/80/Dialogue
+\\name[Guest]*fiddle* *fiddle*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、他のお客さん来たみたい
  露出プレイはじめちゃおう)
-> CONTEXT: Map029/events/20/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/33/Dialogue
+\\name[\\n[1]](Oh, another guest entered the shower room...
+ let's have some exposure play♥)
 > END STRING
 
 > BEGIN STRING
@@ -1411,8 +1412,9 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ、どきどきするなぁ・・・
  よしやるぞ！)
-> CONTEXT: Map029/events/20/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/54/Dialogue
+\\name[\\n[1]](Haa... Haa... I can feel my heart beating・・・
+ Let's do it!)
 > END STRING
 
 > BEGIN STRING
@@ -1424,91 +1426,94 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[客]ん？
-> CONTEXT: Map029/events/20/pages/0/66/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/1/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/66/Dialogue
+> CONTEXT: Map029/events/20/pages/1/55/Dialogue
+\\name[Guest]?
 > END STRING
 
 > BEGIN STRING
 \\name[客]うおぅ！？
-> CONTEXT: Map029/events/20/pages/0/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/68/Dialogue
+\\name[Guest]Uwa!?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あ、すみません、驚かせちゃって・・・
-> CONTEXT: Map029/events/20/pages/0/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/74/Dialogue
+\\name[\\n[1]]Ah, sorry. I must have startled you...
 > END STRING
 
 > BEGIN STRING
 \\name[客]い、いえ・・・それで、どうかしましたか？(ﾄﾞｷﾄﾞｷ)
-> CONTEXT: Map029/events/20/pages/0/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/76/Dialogue
+\\name[Guest]N-No problem. What's the matter? (*ba-dump*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]実は、出たいんですけど
 タオルを持ってはいるのを忘れてしまって
 こちらのかごに置いてあるタオルを取ってもらえませんか？
-> CONTEXT: Map029/events/20/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/82/Dialogue
+\\name[\\n[1]]Well... I wanted to leave the shower
+But I forgot to take my towel with me
+Could you hand me the one that's laying on that basket?
 > END STRING
 
 > BEGIN STRING
 \\name[客]はあ
 かまいませんよ
-> CONTEXT: Map029/events/20/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/86/Dialogue
+\\name[Guest]*pant* Of course
 > END STRING
 
 > BEGIN STRING
 \\name[客]これですね
-> CONTEXT: Map029/events/20/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/93/Dialogue
+\\name[Guest]This one?
 > END STRING
 
 > BEGIN STRING
 \\name[客]・・・！！
 > CONTEXT: Map029/events/20/pages/0/95/Dialogue
 > CONTEXT: Map029/events/21/pages/6/84/Dialogue
-\\name[Man]...!!
+\\name[Guest]...!!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、タオルの上に置いてたぱんつ
  発見されちゃった♥)
-> CONTEXT: Map029/events/20/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/101/Dialogue
+\\name[\\n[1]](Ah, my panties were placed on the towel
+ He must've noticed♥)
 > END STRING
 
 > BEGIN STRING
 \\name[客]・・・(ﾄﾞｷﾄﾞｷ)
-> CONTEXT: Map029/events/20/pages/0/104/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/104/Dialogue
+\\name[Guest]・・・(*ba-bump*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あ、あの・・・
-> CONTEXT: Map029/events/20/pages/0/106/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/2/162/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/8/134/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/5/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/106/Dialogue
+> CONTEXT: Map026/events/22/pages/2/162/Dialogue
+> CONTEXT: Map029/events/21/pages/8/134/Dialogue
+> CONTEXT: Map006/events/1/pages/5/159/Dialogue
+\\name[\\n[1]]U-umm... Is something wrong?
 > END STRING
 
 > BEGIN STRING
 \\name[客]ああっ！ すみません！ 何でもないですよ！
 今持っていきます
-> CONTEXT: Map029/events/20/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/108/Dialogue
+\\name[Guest]Ah! Sorry! It's nothing!
 > END STRING
 
 > BEGIN STRING
 \\name[客]はいどうぞ(ﾄﾞｷﾄﾞｷ)
-> CONTEXT: Map029/events/20/pages/0/119/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/119/Dialogue
+> CONTEXT: Map029/events/20/pages/2/94/Dialogue
+\\name[Guest]Here you go (*ba-bump*)
 > END STRING
 
 > BEGIN STRING
@@ -1525,8 +1530,8 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]どうも、ありがとうございます
-> CONTEXT: Map029/events/20/pages/0/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/125/Dialogue
+\\name[\\n[1]]Thank you very much
 > END STRING
 
 > BEGIN STRING
@@ -1550,16 +1555,19 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](あはぁ♥
  おっぱい見られちゃったぁ♥)
-> CONTEXT: Map029/events/20/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/139/Dialogue
+\\name[\\n[1]](Aahn♥
+ He can see my boobs♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](タオル渡したのなら
  もう戻ってもいいのに、
  固まっておっぱい凝視しちゃってるよ)
-> CONTEXT: Map029/events/20/pages/0/144/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/144/Dialogue
+\\name[\\n[1]](He has given me the towel,
+There's no need to keep standing there
+But he just keeps staring at my boobs)
 > END STRING
 
 > BEGIN STRING
@@ -1572,30 +1580,34 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ、恥ずかしい・・・♥)
-> CONTEXT: Map029/events/20/pages/0/152/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/152/Dialogue
+\\name[\\n[1]](*pant* *pant* So shameful...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[客]ﾊｯ
 す、すみません！ ありがとうございました！
 それではっ！！
-> CONTEXT: Map029/events/20/pages/0/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/154/Dialogue
+\\name[Guest]Ah!
+S-Sorry! Thankyouverymuch!
+Well then!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](こっちがタオルを取ってもらったのに
  感謝されちゃった)
-> CONTEXT: Map029/events/20/pages/0/175/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/175/Dialogue
+\\name[\\n[1]](He handed me the towel...
+ and thanked me for it...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私のおっぱい見て、喜んでもらえたのなら
  嬉しいな♥)
-> CONTEXT: Map029/events/20/pages/0/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/0/182/Dialogue
+\\name[\\n[1]](He looked grateful to be able to see my breasts...
+ I'm glad♥)
 > END STRING
 
 > BEGIN STRING
@@ -1606,58 +1618,62 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]ﾌﾝﾌﾝﾌﾌﾝﾌﾝﾌﾌﾝ♪
-> CONTEXT: Map029/events/20/pages/1/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/19/Dialogue
+\\name[\\n[1]]♪*humming*♪♪
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そうだ今回は・・・)
-> CONTEXT: Map029/events/20/pages/1/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/23/Dialogue
+\\name[\\n[1]](I'll help out a bit...)
 > END STRING
 
 > BEGIN STRING
 ｻｯ
-> CONTEXT: Map029/events/20/pages/1/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/30/Dialogue
+*sha*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](カーテンを半開きにしたまま
  シャワー浴びちゃおう♪)
-> CONTEXT: Map029/events/20/pages/1/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/35/Dialogue
+\\name[\\n[1]](I'll shower with the curtains partially opened
+ and see what happens)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](誰か来たら、覗いてもらえるかなぁ♥)
-> CONTEXT: Map029/events/20/pages/1/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/38/Dialogue
+\\name[\\n[1]](When someone comes, they'll be able to peek on me♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、他のお客さん来たみたい・・・ﾄﾞｷﾄﾞｷ)
-> CONTEXT: Map029/events/20/pages/1/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/53/Dialogue
+\\name[\\n[1]](Ah, another guest entered... *ba-bump*)
 > END STRING
 
 > BEGIN STRING
 \\name[客](女性物の下着、カーテンの隙間・・・これは！？)
-> CONTEXT: Map029/events/20/pages/1/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/66/Dialogue
+\\name[Guest](Female underwear...
+Half-open curtains... 
+Don't tell me?!)
 > END STRING
 
 > BEGIN STRING
 \\name[客](ちょっとだけ覗いてみよう
  俺がカーテンを開けたわけじゃないから・・・セーフだから！)
-> CONTEXT: Map029/events/20/pages/1/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/72/Dialogue
+\\name[Guest](I'll take a peek, just a little
+I mean, it isn't my fault that the curtains are open, right?)
 > END STRING
 
 > BEGIN STRING
 \\name[客](ﾁﾗｯ)
-> CONTEXT: Map029/events/20/pages/1/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/75/Dialogue
+\\name[Guest](*glance*)
 > END STRING
 
 > BEGIN STRING
@@ -1700,8 +1716,8 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[客](おお！ 若い女の子だ！)
-> CONTEXT: Map029/events/20/pages/1/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/82/Dialogue
+\\name[Guest](Ooh! It's a young girl!)
 > END STRING
 
 > BEGIN STRING
@@ -1715,15 +1731,17 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](あっ、覗きに来てくれたみたい
  カーテンに影が映っちゃってて、バレバレだよ・・・)
-> CONTEXT: Map029/events/20/pages/1/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/86/Dialogue
+\\name[\\n[1]](Ah, he did it
+I can see his shadow on the curtain)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](裸を見られるのはちょっとまだ恥ずかしいけど
  湯気のおかげで見えにくくなっているかな？)
-> CONTEXT: Map029/events/20/pages/1/89/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/89/Dialogue
+\\name[\\n[1]](Being seen naked is a bit embarrassing
+ I wonder how difficult it is to see me throught the steam?)
 > END STRING
 
 > BEGIN STRING
@@ -1738,8 +1756,9 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ、私今、シャワー浴びてるところ
  覗き見されちゃってるだ・・・恥ずかしい♥)
-> CONTEXT: Map029/events/20/pages/1/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/94/Dialogue
+\\name[\\n[1]](*pant* *pant*I'm in a shower... 
+ Being stared at... so shameful♥)
 > END STRING
 
 > BEGIN STRING
@@ -1756,8 +1775,9 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](むふふ、せっかくだから洗っているふりをして
  おっぱい揉んでる姿とか見られちゃおう♥)
-> CONTEXT: Map029/events/20/pages/1/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/101/Dialogue
+\\name[\\n[1]](Ufufu, I'll pretend to scrub myself intensely...
+ Massage my boobs a bit♥)
 > END STRING
 
 > BEGIN STRING
@@ -1789,21 +1809,21 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]ﾓﾐｭﾓﾐｭ
-> CONTEXT: Map029/events/20/pages/1/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/183/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/3/69/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/3/83/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/3/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/3/131/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/4/130/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/4/143/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/4/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/3/102/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/3/135/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/139/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/154/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/180/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/108/Dialogue
+> CONTEXT: Map029/events/20/pages/5/183/Dialogue
+> CONTEXT: Map005/events/1/pages/3/69/Dialogue
+> CONTEXT: Map005/events/1/pages/3/83/Dialogue
+> CONTEXT: Map005/events/1/pages/3/108/Dialogue
+> CONTEXT: Map005/events/1/pages/3/131/Dialogue
+> CONTEXT: Map005/events/1/pages/4/130/Dialogue
+> CONTEXT: Map005/events/1/pages/4/143/Dialogue
+> CONTEXT: Map005/events/1/pages/4/163/Dialogue
+> CONTEXT: Map001/events/18/pages/3/102/Dialogue
+> CONTEXT: Map001/events/18/pages/3/135/Dialogue
+> CONTEXT: Map001/events/18/pages/5/139/Dialogue
+> CONTEXT: Map001/events/18/pages/5/154/Dialogue
+> CONTEXT: Map001/events/18/pages/5/180/Dialogue
+\\name[\\n[1]]*scrub* *scrub*
 > END STRING
 
 > BEGIN STRING
@@ -1828,23 +1848,26 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]](んっ、おっぱい気持ち良い・・・♥)
-> CONTEXT: Map029/events/20/pages/1/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/112/Dialogue
+\\name[\\n[1]](Ahn, my boobs are feeling amazing...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[客](うおお！ 湯気でよくは見えないが
  おっぱいを洗っている！ 女の人はああやって洗うのかぁ)
-> CONTEXT: Map029/events/20/pages/1/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/114/Dialogue
+\\name[Guest](Uwoo! It's hard to see through the steam but
+ She's rubbing her tits!)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ、見られちゃってる・・・
  自分でおっぱい揉んで気持ちよくなっているところ
  見られちゃってるよぅ♥)
-> CONTEXT: Map029/events/20/pages/1/119/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/119/Dialogue
+\\name[\\n[1]](*pant* *pant* He can see me masturbating...
+ I'm pleasing myself with my boobs...
+ And he can see it♥)
 > END STRING
 
 > BEGIN STRING
@@ -1859,30 +1882,35 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]](恥ずかしくて・・・もう・・・イっちゃうぅ♥)
-> CONTEXT: Map029/events/20/pages/1/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/125/Dialogue
+\\name[\\n[1]](The shame... 
+it feels amazing...
+almost...
+♥Aahn♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ふぅ、満足・・・
  そろそろ出ようかな
  シャワー止めてっと)
-> CONTEXT: Map029/events/20/pages/1/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/133/Dialogue
+\\name[\\n[1]](*pant* I'm satisfied...
+ I'll slowly come out
+ Turning off the water first)
 > END STRING
 
 > BEGIN STRING
 \\name[客]！
-> CONTEXT: Map029/events/20/pages/1/138/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/162/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/0/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/138/Dialogue
+> CONTEXT: Map029/events/20/pages/3/162/Dialogue
+> CONTEXT: Map029/events/21/pages/0/127/Dialogue
+\\name[Guest]！
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それじゃ、部屋に戻ってまたオナニーして寝ようっと)
-> CONTEXT: Map029/events/20/pages/1/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/1/155/Dialogue
+\\name[\\n[1]](Well then, I'll head back to my room and masturbate some more)
 > END STRING
 
 > BEGIN STRING
@@ -1893,63 +1921,71 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]ﾌﾝﾌﾌﾌﾝﾌﾌﾝﾌﾝ♪
-> CONTEXT: Map029/events/20/pages/2/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/19/Dialogue
+\\name[\\n[1]]♪*humming*♪♪
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、他のお客さん来たみたい
  またタオルを取ってもらうふりをして
  裸を見てもらっちゃおう♥)
-> CONTEXT: Map029/events/20/pages/2/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/34/Dialogue
+\\name[\\n[1]](Ah, looks like another visitor entered
+ I'll pretend that I need a towel again...
+ And show him my naked body♥)
 > END STRING
 
 > BEGIN STRING
 \\name[客]あっ、この前の・・・
 (おっぱい見えちゃったお姉さん！)
-> CONTEXT: Map029/events/20/pages/2/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/55/Dialogue
+\\name[Guest]Ah, it's you...
+(That's that girl that accidentely showed her boobies!)
 > END STRING
 
 > BEGIN STRING
 \\name[客]今回はどうされました？(ﾄﾞｷﾄﾞｷ)
-> CONTEXT: Map029/events/20/pages/2/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/58/Dialogue
+\\name[Guest]What's the problem this time? *ba-bump*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]実は、またタオルをそこに忘れてしまって・・・
 すみませんが、また取ってもらえないでしょうか？
-> CONTEXT: Map029/events/20/pages/2/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/64/Dialogue
+\\name[\\n[1]]Well, I've forgotten my towel again...
+I'm sorry but could you take it for me?
 > END STRING
 
 > BEGIN STRING
 \\name[客]え、ええ！
 かまいませんよ！(ﾄﾞｷﾄﾞｷ)
-> CONTEXT: Map029/events/20/pages/2/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/67/Dialogue
+\\name[Guest]E-Eh!
+Of course! *ba-bump*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](この前私のおっぱいを見てくれた人だったみたい
  前は私のおっぱいをじっと見てくれていたよね
  喜んでくれていたってことなのかな)
-> CONTEXT: Map029/events/20/pages/2/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/80/Dialogue
+\\name[\\n[1]](That's the same guy
+The one that stared at my boobs...
+He seemed very happy to see them last time...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それなら、今回はもっと思い切って見せちゃおうかな♥)
-> CONTEXT: Map029/events/20/pages/2/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/88/Dialogue
+\\name[\\n[1]](In that case, 
+I'll give him something better to look at♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]何度も、すみません・・・
-> CONTEXT: Map029/events/20/pages/2/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/100/Dialogue
+\\name[\\n[1]]I'm truly sorry...
 > END STRING
 
 > BEGIN STRING
@@ -1984,83 +2020,97 @@ Thank you for staying here
  両手でタオルを受け取ったら
  もうカーテンで全く隠せなくって
  身体全部見えちゃってるよ・・・♥
-> CONTEXT: Map029/events/20/pages/2/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/114/Dialogue
+\\name[\\n[1]](Ufufu♥
+ When I take the towel with both hands
+ I can no longer conceal myself with the curtain
+ My entire body... is visible♥
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、また私の身体見てくれてる♥
  今回はおっぱいだけじゃない・・・
  全身をなめ回すように見られちゃってる・・・気持ち良いよぅ♥)
-> CONTEXT: Map029/events/20/pages/2/125/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/125/Dialogue
+\\name[\\n[1]](He's looking at my body again♥
+But not just my breasts this time...
+He can experiency my entire body...what a pleasant feeling♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でもこのお兄さん
  このままだとまたすぐに逃げちゃうよね
  ずっと見ていてくれていいのに・・・)
-> CONTEXT: Map029/events/20/pages/2/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/133/Dialogue
+\\name[\\n[1]](But this guy,
+He'll just run away without taking a good look...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ちょっと世間話でもしかけてみようかな)
-> CONTEXT: Map029/events/20/pages/2/137/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/137/Dialogue
+\\name[\\n[1]](Maybe I can keep his attention if I chat with him)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]この前もタオルを取ってくださった方ですよね？
 この宿にはしばらく泊まっているんですか？
-> CONTEXT: Map029/events/20/pages/2/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/143/Dialogue
+\\name[\\n[1]]Aren't you the one that helped me 
+with my towel some time ago?
+How long are you staying in this hotel?
 > END STRING
 
 > BEGIN STRING
 \\name[客]ﾊｯ
 え、ええ、仕事で先月あたりから・・・
 あ、僕の仕事ってのはですね・・・ﾅﾝﾀﾗｶﾝﾀﾗ
-> CONTEXT: Map029/events/20/pages/2/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/146/Dialogue
+\\name[Guest]Ha-
+I- I- I'm on a business trip for an entire month...
+I- I work for... *chatterchatter*
 > END STRING
 
 > BEGIN STRING
 \\name[客]ﾅﾝﾀﾗｶﾝﾀﾗ(ｼﾞﾛｼﾞﾛｼﾞﾛ)
-> CONTEXT: Map029/events/20/pages/2/150/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/165/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/175/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/180/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/150/Dialogue
+> CONTEXT: Map029/events/20/pages/2/165/Dialogue
+> CONTEXT: Map029/events/20/pages/2/175/Dialogue
+> CONTEXT: Map029/events/20/pages/2/180/Dialogue
+> CONTEXT: Map029/events/20/pages/2/191/Dialogue
+\\name[Guest]*chatterchatter*(*staring intensely*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、この人何かしゃべり始めちゃった)
-> CONTEXT: Map029/events/20/pages/2/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/156/Dialogue
+\\name[\\n[1]](Ah, he's talking about something)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でも、しゃべりながらでも
  私の身体をじろじろと見てくれてる・・・気持ち良い♥)
-> CONTEXT: Map029/events/20/pages/2/162/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/162/Dialogue
+\\name[\\n[1]](But, he keeps staring at my body while talking
+It feels amazing♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  私こんな格好で、おっぱいもおまんこも見られているまま
  ずっと男の人とおしゃべりしちゃってるよ・・・)
-> CONTEXT: Map029/events/20/pages/2/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/171/Dialogue
+\\name[\\n[1]](Haaa♥ Haaa♥
+ He's looking at my hips, my pussy and my tits
+ But he keeps talking...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](もう気持ちよくなっちゃって
  この人がしゃべってることも頭に入ってこないよ・・・♥)
-> CONTEXT: Map029/events/20/pages/2/177/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/177/Dialogue
+\\name[\\n[1]](I'm feeling so good
+ I can't even understand what he's saying...♥)
 > END STRING
 
 > BEGIN STRING
@@ -2072,20 +2122,25 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](あぁん、もうダメ・・・っ
  恥ずかしすぎて・・・イっちゃうよぅ・・・♥)
-> CONTEXT: Map029/events/20/pages/2/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/186/Dialogue
+\\name[\\n[1]](The shame... 
+it feels amazing...
+almost...
+♥Aahn♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  男の人と会話しながら目の前でイっちゃったぁ・・・♥)
-> CONTEXT: Map029/events/20/pages/2/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/197/Dialogue
+\\name[\\n[1]](Haaa♥... Haaa♥
+ I came... while someone is talking to me...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[客]ﾅﾝﾀﾗｶﾝﾀﾗﾅﾝﾀﾗｶﾝﾀﾗ
-> CONTEXT: Map029/events/20/pages/2/200/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/2/200/Dialogue
+\\name[Guest]*chatterchatter*
 
 > END STRING
 
@@ -2093,36 +2148,42 @@ Thank you for staying here
 \\name[\\n[1]](あ、まだ何かしゃべってる・・・
  全く話を聞いていなかったけど・・・
  私がイっちゃったことはバレていないみたい)
-> CONTEXT: Map029/events/20/pages/2/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/206/Dialogue
+\\name[\\n[1]](Oh, he's still going...
+ I didn't hear a single thing he said...
+ I hope he didn't notice)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それじゃ、そろそろ帰ろうっと
  タオルで拭かなくても、身体が乾いちゃったよ
  おまんこ以外は・・・♥)
-> CONTEXT: Map029/events/20/pages/2/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/214/Dialogue
+\\name[\\n[1]](Well, I should go to bed now
+Because it's been so long, my body has already dried completely
+Well, except my pussy...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あの、そろそろ私出ますので・・・
-> CONTEXT: Map029/events/20/pages/2/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/222/Dialogue
+\\name[\\n[1]]Umm, I should go to bed now...
 > END STRING
 
 > BEGIN STRING
 \\name[客]ﾊｯ
 ・・・そ、そうですか
-> CONTEXT: Map029/events/20/pages/2/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/224/Dialogue
+\\name[Guest]Ah
+...I- Is that so?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](思い出したように私の身体を見てる・・・
  最後に目に焼き付けておくつもりかな・・・むふふ♥)
-> CONTEXT: Map029/events/20/pages/2/233/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/2/233/Dialogue
+\\name[\\n[1]](He's scanning my body...
+ Does he want to burn the sight into his memory? Ufufu♥)
 > END STRING
 
 > BEGIN STRING
@@ -2133,37 +2194,42 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]](あ、またシャワー姿を覗かれちゃってる♥)
-> CONTEXT: Map029/events/20/pages/3/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/32/Dialogue
+\\name[\\n[1]](Ah, someone is peeping on me again♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](身体を洗っている姿を見られるの
  恥ずかしいなぁ♥)
-> CONTEXT: Map029/events/20/pages/3/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/34/Dialogue
+\\name[\\n[1]](He can see me washing my body
+ How disgraceful♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・でも、よく考えたら
  シャワールームって個室なんだから
  ナニをするのも自由だよね・・・)
-> CONTEXT: Map029/events/20/pages/3/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/39/Dialogue
+\\name[\\n[1]](..but, when I think about it
+ The shower booth is a private room...
+ So I can do whatever I want, right?)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それならオナニーしたって
  おかしなことじゃないよね♥)
-> CONTEXT: Map029/events/20/pages/3/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/45/Dialogue
+\\name[\\n[1]](Masturbating right here...
+ It wouldn't be weird at all♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](人のシャワーを覗いているほうが変態なんだよ・・・
  だから、今日は思い切りオナニーしちゃおう♥)
-> CONTEXT: Map029/events/20/pages/3/50/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/50/Dialogue
+\\name[\\n[1]](The one that is peeping is the bigger pervert...
+So I can masturbate as much as I want♥)
 > END STRING
 
 > BEGIN STRING
@@ -2179,16 +2245,16 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]ﾓﾆｭﾓﾆｭﾑﾆｭﾑﾆｭ
-> CONTEXT: Map029/events/20/pages/3/57/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/71/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/3/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/57/Dialogue
+> CONTEXT: Map029/events/20/pages/3/71/Dialogue
+> CONTEXT: Map029/events/20/pages/3/120/Dialogue
+\\name[\\n[1]]*schlickschlickschlick*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]んあっ、はぁっ・・・んんっ♥
-> CONTEXT: Map029/events/20/pages/3/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/59/Dialogue
+\\name[\\n[1]]Ahn♥... Haa♥
 > END STRING
 
 > BEGIN STRING
@@ -2196,21 +2262,25 @@ Thank you for staying here
  でもシャワールームでオナニーするのは普通でも
  それを見られているなんて気持ちよすぎるから
  しかたがないんだよ・・・♥)
-> CONTEXT: Map029/events/20/pages/3/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/66/Dialogue
+\\name[\\n[1]](Oh, it felt so good I accidentally moaned out loud
+ But masturbating in the shower, it's a normal thing to do
+ Being seen makes it feel even better
+ It can't be helped...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]んんっ、あんっ、んぐっ・・・ああっ♥
-> CONTEXT: Map029/events/20/pages/3/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/75/Dialogue
+\\name[\\n[1]]Nnn... Haa♥... Ahn♥..
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  オナニー姿見られるの気持ちいいよぅ・・・)
-> CONTEXT: Map029/events/20/pages/3/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/77/Dialogue
+\\name[\\n[1]](*pant* *pant*♥
+ Masturbating with an audience feels amazing...)
 > END STRING
 
 > BEGIN STRING
@@ -2227,16 +2297,18 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]]ん？
-> CONTEXT: Map029/events/20/pages/3/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/86/Dialogue
+\\name[\\n[1]]n?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はっ！
  まさか覗いている男の人、
  オナニーはじめちゃってる！？)
-> CONTEXT: Map029/events/20/pages/3/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/92/Dialogue
+\\name[\\n[1]](Ah!
+The peeping pervert,
+did he start masturbating too?!)
 > END STRING
 
 > BEGIN STRING
@@ -2244,91 +2316,104 @@ Thank you for staying here
  それにシャワーの個室の外は公共の場だし、
  そんなところでオナニーを始めるなんて・・・
  覗きとあわせて変態すぎるよぅ・・・)
-> CONTEXT: Map029/events/20/pages/3/100/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/100/Dialogue
+\\name[\\n[1]](His shadow is moving very obviously...
+ But he's in the common room in front of the showers.
+ Masturbating in such a place...
+ On top of peeping...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でもそんな場所でもオナニーを我慢できないほど
  私の身体で興奮してくれたのかな？
  だとしたら嬉しいな♥)
-> CONTEXT: Map029/events/20/pages/3/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/107/Dialogue
+\\name[\\n[1]](To have so little patience that he masturbates in public...
+Did he get turned on by my body?
+That would make me so happy♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それならもっとオナニーしてるところ
  見せてあげないとね♥)
-> CONTEXT: Map029/events/20/pages/3/113/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/113/Dialogue
+\\name[\\n[1]](I should continue masturbating if that's the case
+ Make a bigger display♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]はぁん♥ あっ、ふぅ・・・んんあぁっ♥
-> CONTEXT: Map029/events/20/pages/3/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/122/Dialogue
+\\name[\\n[1]]Haa♥... Ahn♥ Fuu♥... Ahnnn♥
 > END STRING
 
 > BEGIN STRING
 \\name[客]ｼﾞﾛｼﾞﾛｼﾞﾛ ｼｺｼｺｼｺ
-> CONTEXT: Map029/events/20/pages/3/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/124/Dialogue
+\\name[guest]*staring* *fapfapfap*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ、気持ち良い・・・♥
  えっちな目で見られてオナニーのオカズにされるの
  気持ちが良いよぅ♥)
-> CONTEXT: Map029/events/20/pages/3/126/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/126/Dialogue
+\\name[\\n[1]](*pant* *pant* Amazing・・・♥
+Having someone jerk off because of my masturbation display
+What an amazing feeling♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぅん♥
  もうダメ・・・・イっちゃう・・・
  オナニー見られながらイっちゃうよぅ♥)
-> CONTEXT: Map029/events/20/pages/3/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/132/Dialogue
+\\name[\\n[1]](Ahn♥
+ I'm orgasming from someone watching me masturbate♥
+ Almost・・・・Coming・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁはぁ・・・♥
  オナニーを見られてオナニーのオカズにされるなんて・・・)
-> CONTEXT: Map029/events/20/pages/3/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/140/Dialogue
+\\name[\\n[1]](*pant* *pant* *pant*♥
+Getting off from someone jerking his thing to you...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](恥ずかしすぎて・・・気持ちがよすぎるよ・・・♥)
-> CONTEXT: Map029/events/20/pages/3/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/143/Dialogue
+\\name[\\n[1]](It's so disgraceful... but feels so good♥)
 > END STRING
 
 > BEGIN STRING
 ｼｬｰ
-> CONTEXT: Map029/events/20/pages/3/153/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/4/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/153/Dialogue
+> CONTEXT: Map029/events/20/pages/4/107/Dialogue
+*shuffle*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そろそろ出ようかな
  シャワーを止めて・・・)
-> CONTEXT: Map029/events/20/pages/3/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/157/Dialogue
+\\name[\\n[1]](Let's finish up quietly
+I'm done showering・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、カーテンに精液らしきものがついてる・・・)
-> CONTEXT: Map029/events/20/pages/3/181/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/181/Dialogue
+\\name[\\n[1]](Ah, looks like there's some semen on the curtain・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](もう、こんな所にかけちゃうなんてしかたがないなぁ
  綺麗に掃除しておいてあげよう♥)
-> CONTEXT: Map029/events/20/pages/3/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/3/185/Dialogue
+\\name[\\n[1]](Well, it's unsightful to leave it there...
+I'll clean it up♥)
 > END STRING
 
 > BEGIN STRING
@@ -2339,99 +2424,107 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[\\n[1]](今日は片方のシャワーは使用中みたい)
-> CONTEXT: Map029/events/20/pages/4/25/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/25/Dialogue
+\\name[\\n[1]](One of the showers is already in use)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・ここで服を脱いでいたら
  出てきたときに裸を見られちゃうかも・・・むふふ♥)
-> CONTEXT: Map029/events/20/pages/4/29/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/29/Dialogue
+\\name[\\n[1]](・・・If I took off my clothes here
+He might just come out and spot me... Ufufu♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ﾇｷﾞﾇｷﾞ
-> CONTEXT: Map029/events/20/pages/4/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/37/Dialogue
+\\name[\\n[1]]*rustle* *rustle*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  人が出てくるかもしれないのに
  裸になっちゃったよ♥)
-> CONTEXT: Map029/events/20/pages/4/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/41/Dialogue
+\\name[\\n[1]](*pant* *pant*♥
+If he comes out now he'll see me naked♥)
 > END STRING
 
 > BEGIN STRING
 \\name[男]ｶﾞﾁｬﾘ
-> CONTEXT: Map029/events/20/pages/4/51/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/1/76/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/2/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/3/176/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/4/73/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/4/204/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/5/100/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/6/57/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/7/52/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/8/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/51/Dialogue
+> CONTEXT: Map006/events/1/pages/1/76/Dialogue
+> CONTEXT: Map006/events/1/pages/2/111/Dialogue
+> CONTEXT: Map006/events/1/pages/3/176/Dialogue
+> CONTEXT: Map006/events/1/pages/4/73/Dialogue
+> CONTEXT: Map006/events/1/pages/4/204/Dialogue
+> CONTEXT: Map006/events/1/pages/5/100/Dialogue
+> CONTEXT: Map006/events/1/pages/6/57/Dialogue
+> CONTEXT: Map006/events/1/pages/7/52/Dialogue
+> CONTEXT: Map006/events/1/pages/8/68/Dialogue
+\\name[Guest]*click*
 > END STRING
 
 > BEGIN STRING
 \\name[男]ん？
 うおぅ！！
-> CONTEXT: Map029/events/20/pages/4/59/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/59/Dialogue
+\\name[Guest]Ah?
+Uwoo!!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ひゃあ！
  入り口のほうから新たに人が来ちゃった！
  裸を見られちゃってる♥)
-> CONTEXT: Map029/events/20/pages/4/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/66/Dialogue
+\\name[\\n[1]](Hyaa!
+Someone else came through the door!
+He can see my uncoverd body♥)
 > END STRING
 
 > BEGIN STRING
 \\name[男]え、えっと・・・
 今からシャワー使いますか？
 なら今は空いていないみたいですね
-> CONTEXT: Map029/events/20/pages/4/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/70/Dialogue
+\\name[男]U- Umm...
+Are the showers in use?
+Then, I'll come back when one is free
 > END STRING
 
 > BEGIN STRING
 \\name[男]出直してきますっ
-> CONTEXT: Map029/events/20/pages/4/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/76/Dialogue
+\\name[Guest]See you later
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あっ！ ちょっと待ってください！
-> CONTEXT: Map029/events/20/pages/4/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/80/Dialogue
+\\name[\\n[1]]Ah! Please wait a moment!
 > END STRING
 
 > BEGIN STRING
 \\name[男]？
-> CONTEXT: Map029/events/20/pages/4/84/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/247/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/84/Dialogue
+> CONTEXT: Map026/events/29/pages/4/247/Dialogue
+\\name[Guest]?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あの・・・その・・・お、お待たせするのも悪いですし・・・
 よかったら・・・一緒にシャワー、使いませんか？
-> CONTEXT: Map029/events/20/pages/4/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/88/Dialogue
+\\name[\\n[1]]Umm... Well... Y-You don't have to wait...
+We could... shower together, if that's okay?
 > END STRING
 
 > BEGIN STRING
 \\name[男]え・・・えぇ！？
-> CONTEXT: Map029/events/20/pages/4/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/91/Dialogue
+\\name[Guest]Ehh!?
 > END STRING
 
 > BEGIN STRING
@@ -2464,8 +2557,11 @@ Thank you for staying here
  つい調子に乗って
  男の人をシャワーに誘ってしまったよ・・・
  大丈夫かな？)
-> CONTEXT: Map029/events/20/pages/4/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/115/Dialogue
+\\name[\\n[1]](My heart is racing *ba-bump*
+ This is way too exciting
+ I've invited a man to join me in the shower...
+ I wonder if that's alright)
 > END STRING
 
 > BEGIN STRING
@@ -2495,34 +2591,39 @@ Thank you for staying here
 \\name[\\n[1]](ふふ、ちらちら見てる・・・
  そりゃあ見ちゃうよね♥
  恥ずかしいよぅ♥)
-> CONTEXT: Map029/events/20/pages/4/124/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/124/Dialogue
+\\name[\\n[1]](Ufufu, He's glancing at me...
+ He can see me from up close♥
+ So embarrassing♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](この状況だけでも恥ずかしくて気持ち良いけど
  このまま突っ立っていてもおかしいよね
  とりあえず身体を洗ったりしよう)
-> CONTEXT: Map029/events/20/pages/4/132/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/132/Dialogue
+\\name[\\n[1]](It feels good, even though it is so shameful
+ But just standing here is kinda suspicious
+ I'll start washing myself for the time being)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ﾓﾐｭﾓﾐｭﾑﾆｭﾑﾆｭ
-> CONTEXT: Map029/events/20/pages/4/140/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/4/154/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/105/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/286/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/372/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/140/Dialogue
+> CONTEXT: Map029/events/20/pages/4/154/Dialogue
+> CONTEXT: Map029/events/20/pages/5/99/Dialogue
+> CONTEXT: Map029/events/20/pages/5/105/Dialogue
+> CONTEXT: Map029/events/20/pages/5/286/Dialogue
+> CONTEXT: Map029/events/20/pages/5/372/Dialogue
+\\name[\\n[1]]*scrub* *scrub* *scrub*
 > END STRING
 
 > BEGIN STRING
 \\name[男]！
 ｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map029/events/20/pages/4/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/142/Dialogue
+\\name[Guest]！
+*staring intensely*
 > END STRING
 
 > BEGIN STRING
@@ -2530,8 +2631,11 @@ Thank you for staying here
  身体を洗ってるところ
  こんなに間近で見られちゃってる♥
  恥ずかしすぎるよぅ・・・)
-> CONTEXT: Map029/events/20/pages/4/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/147/Dialogue
+\\name[\\n[1]](*pant* *pant*
+ This place that I'm scrubbing
+ It's being observed from up close♥
+ It's beyond embarrassing・・・)
 > END STRING
 
 > BEGIN STRING
@@ -2539,59 +2643,65 @@ Thank you for staying here
  こんなに恥ずかしい状況だと
  普通に身体を洗ってるだけでも
  すぐにイっちゃうよぅ・・・♥)
-> CONTEXT: Map029/events/20/pages/4/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/158/Dialogue
+\\name[\\n[1]](Ohhh... It feels so good....
+ To be in this disgraceful situation
+ Where you're only supposed to wash on your own
+ It's making me come・・・♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  イっちゃった・・・すぐ隣に人がいるのに・・・♥)
-> CONTEXT: Map029/events/20/pages/4/171/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/171/Dialogue
+\\name[\\n[1]](*pant* *pant*♥
+ I came... With a man standing right next to me...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](男の人は股間を手で隠したまま動きがないみたい)
-> CONTEXT: Map029/events/20/pages/4/178/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/178/Dialogue
+\\name[\\n[1]](He's covering his privates with his hands)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おちんちん大きくなっちゃったから隠しているのかな？
  そりゃあ動いたり身体を洗ったりできないよね♥)
-> CONTEXT: Map029/events/20/pages/4/182/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/182/Dialogue
+\\name[\\n[1]](Could he be hiding his penis because it became hard♥?
+ That would be the reason why he's not washing himself)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それじゃあ、そろそろ出ちゃおうっと)
-> CONTEXT: Map029/events/20/pages/4/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/187/Dialogue
+\\name[\\n[1]](Well, it's time for me to leave)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ｼｬｰ(泡を落とす)
-> CONTEXT: Map029/events/20/pages/4/191/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/191/Dialogue
+\\name[\\n[1]](I washed away the soap)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]私、身体も洗い終わったので先に出ますね
-> CONTEXT: Map029/events/20/pages/4/197/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/197/Dialogue
+\\name[\\n[1]]I've finished washing, bye!
 > END STRING
 
 > BEGIN STRING
 \\name[男]あ、あの・・・
 ありがとうございました
-> CONTEXT: Map029/events/20/pages/4/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/204/Dialogue
+\\name[Guest]U- umm...
+Thank you...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]・・・こちらこそ♥
-> CONTEXT: Map029/events/20/pages/4/210/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/4/210/Dialogue
+\\name[\\n[1]]・・・The pleasure is all mine♥
 > END STRING
 
 > BEGIN STRING
@@ -2602,40 +2712,42 @@ Thank you for staying here
 
 > BEGIN STRING
 ｶﾞﾗｯ
-> CONTEXT: Map029/events/20/pages/5/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/26/Dialogue
+*click*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あっ、この前シャワーをご一緒した・・・
-> CONTEXT: Map029/events/20/pages/5/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/33/Dialogue
+\\name[\\n[1]]Ah, it was you that I shared a shower with...
 > END STRING
 
 > BEGIN STRING
 \\name[男]どうも・・・
-> CONTEXT: Map029/events/20/pages/5/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/37/Dialogue
+\\name[男]I am grateful...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]今日も一緒に使いますか？
-> CONTEXT: Map029/events/20/pages/5/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/43/Dialogue
+\\name[\\n[1]]Want to go together again?
 > END STRING
 
 > BEGIN STRING
 \\name[男]はい！
-> CONTEXT: Map029/events/20/pages/5/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/45/Dialogue
+\\name[Guest]Yes!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  また男の人と一緒にシャワー浴びちゃってる♥
  むふふ・・・恥ずかしいよぅ♥)
-> CONTEXT: Map029/events/20/pages/5/67/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/67/Dialogue
+\\name[\\n[1]](*pant* *pant*♥
+ I'm taking another shower together with a man♥
+ Ufufu...I'm such a pervert♥)
 > END STRING
 
 > BEGIN STRING
@@ -2643,80 +2755,89 @@ Thank you for staying here
  服を脱いだりする前にすぐ来たよね
  もしかして、私が来るのを待って
  狙って入ってきたのかな？)
-> CONTEXT: Map029/events/20/pages/5/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/73/Dialogue
+\\name[\\n[1]](...This person, when he got in a shower with me
+He took off his clothes really quick
+Perhaps, he was waiting for me?
+Was this his goal all along?)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](そうだとしたら、一緒にシャワー浴びたことを
  喜んでくれたってことかな
  嬉しい・・・♥)
-> CONTEXT: Map029/events/20/pages/5/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/80/Dialogue
+\\name[\\n[1]](Being so eager to take a shower with me
+It makes me happy...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ふふ、またじろじろと私の身体を見てくれてる
  気持ち良いよぅ♥)
-> CONTEXT: Map029/events/20/pages/5/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/88/Dialogue
+\\name[\\n[1]](Ufufu, he's staring at my body again
+Such a pleasant feeling♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それじゃあ、身体を洗いはじめちゃおう)
-> CONTEXT: Map029/events/20/pages/5/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/93/Dialogue
+\\name[\\n[1]](Well then, I should start washing myself)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](んあんっ♥ はぁはぁ・・・んんっ♥)
-> CONTEXT: Map029/events/20/pages/5/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/111/Dialogue
+\\name[\\n[1]](nAhn♥ *pant* *pant*・・・haa♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](んはぁ・・・気持ち良い♥
  もうイっちゃった・・・)
-> CONTEXT: Map029/events/20/pages/5/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/117/Dialogue
+\\name[\\n[1]](ahnn・・・Amazing♥
+ I came already・・・)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](身体を洗って気持ちよくなっているところを
  見られるのが、さらに気持ちよくしてくれるよ・・・♥)
-> CONTEXT: Map029/events/20/pages/5/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/122/Dialogue
+\\name[\\n[1]](Washing my body feels good...
+ but simultaneously being stared at makes it even better♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・この人は、見ているだけでいいのかな？
  一緒に気持ちよくなっちゃえばいいのに・・・)
-> CONTEXT: Map029/events/20/pages/5/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/129/Dialogue
+\\name[\\n[1]](・・・This man, is he satisfied with simply watching?
+ I want to feel good together♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あの、身体を洗ったりはしないんですか？
-> CONTEXT: Map029/events/20/pages/5/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/136/Dialogue
+\\name[\\n[1]]Umm, Aren't you going to wash yourself?
 > END STRING
 
 > BEGIN STRING
 \\name[男]えぇ！？ えっと、それはそのぅ・・・
-> CONTEXT: Map029/events/20/pages/5/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/138/Dialogue
+\\name[Guest]Eh!? Umm, that's...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ちゃんと身体を洗ったほうがいいと思いますよ♥
-> CONTEXT: Map029/events/20/pages/5/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map029/events/20/pages/5/144/Dialogue
+\\name[\\n[1]]I believe everyone should take good care of their body♥
 
 > END STRING
 
 > BEGIN STRING
 \\name[男]・・・は、はい
-> CONTEXT: Map029/events/20/pages/5/146/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/146/Dialogue
+\\name[Guest]・・・O-Okay
 > END STRING
 
 > BEGIN STRING
@@ -2728,34 +2849,37 @@ Thank you for staying here
 
 > BEGIN STRING
 \\name[男]ｺﾞｼｺﾞｼ(ﾎﾞﾛﾝ)
-> CONTEXT: Map029/events/20/pages/5/154/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/154/Dialogue
+\\name[男]*scrub* *scrub* (*boing*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](わっ、お・・・おちんちん見えちゃった♥
  やっぱり大きくなってる・・・すごい・・・)
-> CONTEXT: Map029/events/20/pages/5/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/158/Dialogue
+\\name[\\n[1]](Uwa, I can see his p-penis♥
+ It's erect... amazing...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私とシャワーを浴びることで
  そんなに興奮してくれたんだぁ・・・むふふ♥)
-> CONTEXT: Map029/events/20/pages/5/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/163/Dialogue
+\\name[\\n[1]](His penis became so large...
+From taking a shower with me... Ufufu♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ﾓﾐｭﾓﾐｭﾑﾆｭﾑﾆｭ(ﾁﾗﾁﾗ)
-> CONTEXT: Map029/events/20/pages/5/170/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/170/Dialogue
+\\name[\\n[1]]*scrub* *scrub* *scrub* 
+(*schlick* *schlick*)
 > END STRING
 
 > BEGIN STRING
 \\name[男]ｺﾞｼｺﾞｼ(ﾁﾗﾁﾗ)
-> CONTEXT: Map029/events/20/pages/5/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/172/Dialogue
+\\name[Guest]*scrub* *scrub*
 > END STRING
 
 > BEGIN STRING
@@ -2763,80 +2887,88 @@ Thank you for staying here
  一緒に身体を洗いながら
  お互いの身体を覗き見し合っちゃってる・・・
  何だかすごく興奮しちゃうよぅ・・・♥)
-> CONTEXT: Map029/events/20/pages/5/176/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/176/Dialogue
+\\name[\\n[1]](*pant* *pant*♥
+ We can peek at each others body while washing...
+ It makes me so excited I might come again...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[おちんちん]ﾋﾟｸｯ
-> CONTEXT: Map029/events/20/pages/5/185/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/185/Dialogue
+\\name[Penis]*twitch*
 > END STRING
 
 > BEGIN STRING
 \\name[おちんちん]ﾋﾞｸﾋﾟｸｯ
-> CONTEXT: Map029/events/20/pages/5/189/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/189/Dialogue
+\\name[Penis]*twitch* *twitch*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私が、恥ずかしいところを洗うたびに
  おちんちんが反応してる・・・♥)
-> CONTEXT: Map029/events/20/pages/5/193/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/193/Dialogue
+\\name[\\n[1]](Whenever I scrub an erotic spot
+ His penis reacts・・・♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でも、ちょっとおちんちん苦しそう・・・)
-> CONTEXT: Map029/events/20/pages/5/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/198/Dialogue
+\\name[\\n[1]](But his erection looks strained...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あ、あの・・・お、おちんちん苦しそうですね
-> CONTEXT: Map029/events/20/pages/5/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/202/Dialogue
+\\name[\\n[1]]U- Umm...your p-penis looks painful
 > END STRING
 
 > BEGIN STRING
 \\name[男]うぅ・・・いや、それは・・・
-> CONTEXT: Map029/events/20/pages/5/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/204/Dialogue
+\\name[Guest]I-it is... it hurts...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]そ、それなら・・・
 ここでオ・・・オナニーしちゃっても
 いいと思います・・・よ
-> CONTEXT: Map029/events/20/pages/5/206/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/206/Dialogue
+\\name[\\n[1]]I-if that's the case...
+you could jerk off... right now...
+I don't mind...
 > END STRING
 
 > BEGIN STRING
 \\name[男]えぇ！？ そんなこと・・・
-> CONTEXT: Map029/events/20/pages/5/210/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/210/Dialogue
+\\name[Guest]Ehh!? Such a thing...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]大丈夫です・・・
 実は私、身体を洗っているふりをして
 おっぱいやおまんこ・・・いじって、オナニーしていたんです・・・っ
-> CONTEXT: Map029/events/20/pages/5/214/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/214/Dialogue
+\\name[\\n[1]]It's okay...
+I'm actually pretending to wash myself...
+I've been rubbing my breasts and my pussy the entire time...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]そして今も・・・♥
 (ﾓﾐｭﾓﾐｭﾑﾆｭﾑﾆｭ)
-> CONTEXT: Map029/events/20/pages/5/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/220/Dialogue
+\\name[\\n[1]]Even now...♥
+(*schlick* *schlick*)
 > END STRING
 
 > BEGIN STRING
 \\name[男]な、なんだって！？
-> CONTEXT: Map029/events/20/pages/5/223/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/223/Dialogue
+\\name[Guest]W- Wha!?
 > END STRING
 
 > BEGIN STRING
@@ -2844,22 +2976,27 @@ Thank you for staying here
 個室でこっそりオナニーすることって
 おかしなことじゃないと思うんです
 普通なことなんです！
-> CONTEXT: Map029/events/20/pages/5/227/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/227/Dialogue
+\\name[\\n[1]]Hey... Isn't the shower a private room...
+Masturbating discreetly in a private room
+I don't think it is strange at all...
+It's a normal thing to do!
 > END STRING
 
 > BEGIN STRING
 \\name[男]で、でもあなたに見られていたら
 こっそりじゃなくなるんじゃ・・・
-> CONTEXT: Map029/events/20/pages/5/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/232/Dialogue
+\\name[Guest]B-but if you're going to watch me do it
+it won't be discreet at all...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]・・・それなら、おちんちんを洗うふりをして
 こっそりシコシコしてください・・・♥
-> CONTEXT: Map029/events/20/pages/5/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/237/Dialogue
+\\name[\\n[1]]...in that case, you can pretend to wash you penis
+Please fap discreetly for me・・・♥
 > END STRING
 
 > BEGIN STRING
@@ -2894,15 +3031,17 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](せっかくおちんちん大きくしちゃったのだから
  オナニーのオカズにされたいもんね♥)
-> CONTEXT: Map029/events/20/pages/5/258/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/258/Dialogue
+\\name[\\n[1]](His dick became this hard
+ Because of my encouragement♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私・・・オナニーのオカズにされちゃってるんだ・・・
  恥ずかしいよぅ♥)
-> CONTEXT: Map029/events/20/pages/5/263/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/263/Dialogue
+\\name[\\n[1]](I... Encouraged him to masturbate for me...
+ How disgraceful♥)
 > END STRING
 
 > BEGIN STRING
@@ -2932,22 +3071,26 @@ Thank you for staying here
 \\name[\\n[1]](わあっ、もう出ちゃった・・・
  そんなに我慢できなくなるほど興奮してくれていたんだ
  嬉しい・・・♥)
-> CONTEXT: Map029/events/20/pages/5/274/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/274/Dialogue
+\\name[\\n[1]](Whoa, he came already...
+ It must have been really hard to endure the excitement
+ I'm glad...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でも、これで終わりじゃないよね♥
  私もオナニーしてるところを見てもらって
  またおちんちん大きくしてもらおう♥)
-> CONTEXT: Map029/events/20/pages/5/280/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/280/Dialogue
+\\name[\\n[1]](But, I'm not finished yet♥
+ If he sees me masturbating
+ He'll surely become hard again♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あぁん、んんっ、・・・あぁっ・・・はぁん♥
-> CONTEXT: Map029/events/20/pages/5/290/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/290/Dialogue
+\\name[\\n[1]]Aahn♥... nn♥... Haa♥
 > END STRING
 
 > BEGIN STRING
@@ -2969,49 +3112,54 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](むふふ・・・またおちんちん大きくなってきたみたい♥)
 > CONTEXT: Map029/events/20/pages/5/300/Dialogue
-\\name[\\n[1]](Teehee... his penis got hard♥)
+\\name[\\n[1]](Ufufu... his penis got hard♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あぁん・・・またオナニーのオカズにしてくれてる♥
  嬉しくて、恥ずかしくて・・・気持ち良いよぅ♥)
-> CONTEXT: Map029/events/20/pages/5/310/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/310/Dialogue
+\\name[\\n[1]](Aahn・・・He's masturbating for me♥
+being this shameless, it makes me happy・・・it feels good♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](こんなの私のオナニーも
  どんどん気持ちよくなっちゃうぅっ♥)
-> CONTEXT: Map029/events/20/pages/5/313/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/313/Dialogue
+\\name[\\n[1]](I can feel it approaching...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ふあぁっ・・・ダメっ・・・
  もう、イっちゃうぅ♥)
-> CONTEXT: Map029/events/20/pages/5/318/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/318/Dialogue
+\\name[\\n[1]](Fuaa・・・Not good・・・
+ I'm coming♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あぁん・・・んっ、あっ・・・ひゃあん♥
 (ﾋﾞｸﾝﾋﾞｸﾝ)
-> CONTEXT: Map029/events/20/pages/5/321/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/321/Dialogue
+\\name[\\n[1]]Ahn...Hyaa♥♥
+(*squirt* *squirt*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  思い切りイっちゃった・・・♥)
-> CONTEXT: Map029/events/20/pages/5/326/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/326/Dialogue
+\\name[\\n[1]](*pant* *pant*♥
+Such an enormous orgasm♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](もうオナニーしてるの教えちゃったから
  声を抑えて隠す必要もないよね)
-> CONTEXT: Map029/events/20/pages/5/331/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/331/Dialogue
+\\name[\\n[1]](Because I already caught masturbating
+ There's no need to keep my voice down)
 > END STRING
 
 > BEGIN STRING
@@ -3024,23 +3172,26 @@ Thank you for staying here
 > BEGIN STRING
 \\name[\\n[1]](あ、この人の手の動きが激しくなった
  ラストスパートかな？)
-> CONTEXT: Map029/events/20/pages/5/340/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/340/Dialogue
+\\name[\\n[1]](Oh, His hand is moving faster...
+ Is he also coming?)
 > END STRING
 
 > BEGIN STRING
 \\name[男]はぁはぁはぁ
-> CONTEXT: Map029/events/20/pages/5/351/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/6/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/351/Dialogue
+> CONTEXT: Map001/events/16/pages/6/186/Dialogue
+\\name[Guest]*pant* *pant* *pant*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]お疲れ様でした
 これでおちんちんもすっきりして
 身体を洗うことに集中できますね♥
-> CONTEXT: Map029/events/20/pages/5/355/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/355/Dialogue
+\\name[\\n[1]]Thank you very much
+Your penis must be relieved
+Now you can concentrate on washing you body
 > END STRING
 
 > BEGIN STRING
@@ -3054,26 +3205,28 @@ Thank you for staying here
 (ｺﾞｼｺﾞｼｺﾞｼ)
 > CONTEXT: Map029/events/20/pages/5/363/Dialogue
 \\name[MAn]Y-Yes！
-*fapfapfap*
+*scrubscrubscrub*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私ももうちょっとしっかり身体を洗っていっちゃおう)
-> CONTEXT: Map029/events/20/pages/5/368/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/368/Dialogue
+\\name[\\n[1]](I'll keep washing myself just a bit more)
 > END STRING
 
 > BEGIN STRING
 \\name[男]ｼﾞﾛｼﾞﾛｼﾞﾛ
 (ﾑｸﾑｸ)
-> CONTEXT: Map029/events/20/pages/5/378/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/378/Dialogue
+\\name[男]*staring*
+(*scrub* *scrub*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あらら、また大きくなってきちゃった♥)
-> CONTEXT: Map029/events/20/pages/5/383/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map029/events/20/pages/5/383/Dialogue
+\\name[\\n[1]](Oh my♥
+His penis became hard again♥)
 > END STRING
 
 > BEGIN STRING

@@ -7,7 +7,7 @@
 
 > BEGIN STRING
 Untitled
-> CONTEXT: System/game_title/ < UNTRANSLATED
+> CONTEXT: None < UNUSED
 
 > END STRING
 

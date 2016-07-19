@@ -218,7 +218,7 @@ exposing yourself in the showers
 > BEGIN STRING
 銭湯の掃除のお仕事
 > CONTEXT: Map002/events/5/pages/0/0/Dialogue
-Working at the public bath
+Scrubbing the floor at the public bath
 > END STRING
 
 > BEGIN STRING
@@ -290,13 +290,13 @@ Working at the public bath
 > BEGIN STRING
 銭湯の洗い場でおしっこしちゃうイベント
 > CONTEXT: Map002/events/6/pages/0/0/Dialogue
-Public bath restroom
+Peeing in the public bath
 > END STRING
 
 > BEGIN STRING
 \\\>浴室でおしっこ 全2種
 > CONTEXT: Map002/events/6/pages/1/2/Dialogue
-\\\>Public bath restroom events (2 total)
+\\\>Public bath peeing events (2 total)
 > END STRING
 
 > BEGIN STRING
@@ -645,7 +645,8 @@ Working as a lifeguard
 > BEGIN STRING
 宿に泊まれないのでおじさんの家に泊めてもらうイベント
 > CONTEXT: Map002/events/12/pages/0/0/Dialogue
-Old Man's house because the hotel was too expensive
+Sleeping in the Old Man's house when 
+You can't afford a hotel
 > END STRING
 
 > BEGIN STRING
@@ -832,7 +833,7 @@ Going to the public restroom with the door unlocked
 > BEGIN STRING
 水着を購入するイベント
 > CONTEXT: Map002/events/16/pages/0/0/Dialogue
-Event to purchase swimsuit
+purchasing lewd swimsuits
 > END STRING
 
 > BEGIN STRING

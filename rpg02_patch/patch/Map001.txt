@@ -622,7 +622,7 @@ Undress
 \\name[\\n[1]](でも、もし見られて気持よくなって
  おまんこからお汁が出て来ちゃっていたも
  身体全体が濡れているからバレないし、安心だね♥)
-> CONTEXT: Map001/events/13/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/13/pages/0/29/Dialogue
 \\name[\\n[1]](The feeling of being stared at is pleasant
  I'm sure nobody will notice my wet pussy♥...
  My body is already drenched from the bath, right?)
@@ -630,7 +630,7 @@ Undress
 
 > BEGIN STRING
 \\name[おにいさん]ｼﾞﾛｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map001/events/13/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/13/pages/0/43/Dialogue
 \\name[Teenager]*staring intensely*
 > END STRING
 
