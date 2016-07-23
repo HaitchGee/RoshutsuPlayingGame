@@ -1,5 +1,6 @@
 Roshutsu Playing Game Translation Project
 =========================================
+This Github repository contains the translation project for the [first](http://www.dlsite.com/maniax/work/=/product_id/RJ142042.html) and [second](http://www.dlsite.com/maniax/work/=/product_id/RJ161887.html) Roshutus Playing Game. It uses a RPGMaker trans for patching, so each folder in the root directory represents a patch for their respective game.
 
 How to use
 ----------
