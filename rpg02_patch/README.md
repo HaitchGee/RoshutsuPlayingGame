@@ -11,18 +11,18 @@ General strings
 
 Events
 ------
-  - [ ] Showing panties in return for a place to sleep (0/2)
-  - [ ] Posing as a model for the painting classroom (0/9)
+  - [x] Showing panties in return for a place to sleep (0/2)
+  - [ ] Posing as a model for the painting classroom (2/9)
   - [x] Purchasing swimsuits (2/2)
   - [ ] Serving in the pub wearing a bunny-girl outfit (0/10)
   - [ ] Going to the public restroom with the door unlocked (0/10)
   - [ ] Endings (0/5)
 
 ###Bathroom
-  - [ ] Washing yourself (0/7)
-  - [ ] Bathing next to a group of men (0/9)
+  - [ ] Washing yourself (1/7)
+  - [ ] Bathing next to a group of men (1/9)
   - [ ] Peeing in public (0/4)
-  - [ ] Working as cleaning maid (0/10)
+  - [ ] Working as cleaning maid (3/10)
   
 ###Pool
   - [ ] Relaxing in poolside bed (0/5)

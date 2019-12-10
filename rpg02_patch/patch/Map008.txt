@@ -7,27 +7,29 @@
 
 > BEGIN STRING
 \\name[おじさん]ここがおじさんの家だよ
-> CONTEXT: Map008/events/3/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/17/Dialogue
+\\name[Man]There we are,
+This is my house.
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]お邪魔します
-> CONTEXT: Map008/events/3/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/19/Dialogue
+\\name[\\n[1]]Sorry for disturbing
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]そ、それじゃあ・・・さっそくおぱんつを
 見せてもらおうかな・・・！
-> CONTEXT: Map008/events/3/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/21/Dialogue
+\\name[Man]W-Well then... your pantiess
+Please show them!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]は、はい・・・♥
-> CONTEXT: Map008/events/3/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/26/Dialogue
+\\name[\\n[1]]ah... Okay♥
 > END STRING
 
 > BEGIN STRING
@@ -57,23 +59,25 @@
 
 > BEGIN STRING
 \\name[\\n[1]]どうぞ・・・♥
-> CONTEXT: Map008/events/3/pages/0/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/33/Dialogue
+\\name[\\n[1]]Here you go~♥
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]おぉ、本当に縞々おぱんつだ・・・
 素晴らしい・・・！
-> CONTEXT: Map008/events/3/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/35/Dialogue
+\\name[おじさん]Oohm striped panties...
+It's wonderful...！
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]縞々おぱんつがはかれているのを
 見るのははじめてだよ
 これはレアものだぁ
-> CONTEXT: Map008/events/3/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/38/Dialogue
+\\name[Man]It's my first time seeing striped panties...
+This is a rare opportunity
 > END STRING
 
 > BEGIN STRING
@@ -90,20 +94,20 @@
 
 > BEGIN STRING
 \\name[\\n[1]](喜んでもらえてるみたい・・・良かった♥)
-> CONTEXT: Map008/events/3/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/44/Dialogue
+\\name[\\n[1]](He looks so happy from seeing my panties...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]それじゃあ、じっくりと見させてもらうよ
-> CONTEXT: Map008/events/3/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/46/Dialogue
+\\name[Man]Let me take a good look
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]ｼﾞﾛｼﾞﾛ
-> CONTEXT: Map008/events/3/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/62/Dialogue
+\\name[Man]*staring*
 > END STRING
 
 > BEGIN STRING
@@ -111,30 +115,37 @@
  私のぱんつ、じっくりと見られてる・・・
  見せることに合意して、自ら見せちゃってるよ・・・
  それに、こんなに近くで見られるなんて、恥ずかしい・・・♥)
-> CONTEXT: Map008/events/3/pages/0/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/66/Dialogue
+\\name[\\n[1]](Haa... Haa...♥
+ He's really taking a good look at my panties...
+ And I agreed to it, out of free will...
+ Being inspected from up close... It's embarrassing~~♥)
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]君は旅行者のようだけど
 荷物はどうしているんだい？
 着替えとか持っていないようだが・・・？
-> CONTEXT: Map008/events/3/pages/0/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/71/Dialogue
+\\name[Man]You look like a traveler
+But wehre is your luggage?
+Don't you have any spare clothes...?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]荷物はできるだけ持たないようにしているんです
 だから着替えも持っていなくて・・・
 宿に泊まったときに洗って、また次の日も同じ服を着ているんです
-> CONTEXT: Map008/events/3/pages/0/77/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/77/Dialogue
+\\name[\\n[1]]I only took what I could carry
+So I don't have any spare clothes...
+I wash my dirty clothes in the inn and wear them again the next day
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]・・・なら、おぱんつも毎日同じものを・・？
-> CONTEXT: Map008/events/3/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/81/Dialogue
+\\name[Man]Then.. You wear the same panties every day?
 > END STRING
 
 > BEGIN STRING
@@ -153,36 +164,42 @@
 \\name[おじさん]毎日はかれて、使い込まれたおぱんつ・・・！
 くたくたになったおぱんつ！
 はぁ・・・はぁ・・・いい香りがするような気がする！
-> CONTEXT: Map008/events/3/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/87/Dialogue
+\\name[Man]Every day, the same panties...！
+Your panties must be worn out！
+Haa...Haa... They probably smell delicious！
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](えぇ・・・
  匂いまで嗅がれちゃってる・・・恥ずかしい♥)
-> CONTEXT: Map008/events/3/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/93/Dialogue
+\\name[\\n[1]](ehh・・・
+ He's eveb smelling them・・・so shameful♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それにこの街に来る前に買った新しいぱんつだから
  まだそんなにくたくたになってないよ・・・多分)
-> CONTEXT: Map008/events/3/pages/0/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/98/Dialogue
+\\name[\\n[1]](I bought new clothes before heading out to this town
+They really aren't that tattered yet... I think)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でも、喜んでいるみたいだし
  黙っていよう♥)
-> CONTEXT: Map008/events/3/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/103/Dialogue
+\\name[\\n[1]](But the friendly uncle seems delighted with the idea
+I'll keep it quiet♥)
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]はぁっ・・・はぁっ・・・
 おぱんつ・・・おぱんちゅ・・・
-> CONTEXT: Map008/events/3/pages/0/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/106/Dialogue
+\\name[おじさん]Haa... Haa...
+Panties... Underwear...
 > END STRING
 
 > BEGIN STRING
@@ -190,23 +207,28 @@
  私も嬉しくて、おまんこ濡れてきちゃいそうだよ・・・♥
  こんなに近くで見られていたら
  すぐにバレちゃうというのに・・・)
-> CONTEXT: Map008/events/3/pages/0/111/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/111/Dialogue
+\\name[\\n[1]](Seeing someone get aroused from looking at my panties...
+It's making me wet・・・♥
+If he keeps looking from up close
+He's going to find out~~)
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]はぁ・・・はぁ・・・っ
 うっ！
-> CONTEXT: Map008/events/3/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/116/Dialogue
+\\name[おじさん]Haa... Haa... *moan*
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]・・・うむ、ありがとう、満足だ
 それじゃあ、そっちの左の部屋で休んでおくれ
 僕は右の部屋にいるからね
-> CONTEXT: Map008/events/3/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/123/Dialogue
+\\name[Man]..T-Thanks, that's enough
+You can sleep in the room on your left
+I'll be in the one on your right.
 > END STRING
 
 > BEGIN STRING
@@ -218,8 +240,8 @@
 
 > BEGIN STRING
 \\name[\\n[1]](もしかして、見てるだけで射精ちゃった・・・？)
-> CONTEXT: Map008/events/3/pages/0/147/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/0/147/Dialogue
+\\name[\\n[1]](Could he have had an orgamsm just from looking at me...)
 > END STRING
 
 > BEGIN STRING
@@ -231,147 +253,164 @@
 > BEGIN STRING
 \\name[\\n[1]]また宿代が足りなくなってしまって・・・
 また泊めていただけませんか？
-> CONTEXT: Map008/events/3/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/1/16/Dialogue
+\\name[\\n[1]]I don't have any money left for the inn...
+Could I stay the night again?
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]あぁ、いいとも、いいとも！
 でも、その代わり・・・
-> CONTEXT: Map008/events/3/pages/1/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/1/19/Dialogue
+\\name[Man]Ah, No problem!
+But, you know... Could you...
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]おぉ、おぱんつ・・・！
 縞々おぱんつ・・・！
 はぁはぁ・・・
-> CONTEXT: Map008/events/3/pages/1/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/1/33/Dialogue
+\\name[Man]Uwoo! Panties...!
+Striped Panties...!
+*pant* *pant*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ふふ、すごく喜んでくれてる・・・♥
  自ら、こんな間近でぱんつ見せちゃうなんて恥ずかしいけど
  嬉しいな♥)
-> CONTEXT: Map008/events/3/pages/1/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/1/39/Dialogue
+\\name[\\n[1]](Ufufu, I just showed him my panties without him even asking...
+He looks extremely happy to see it...♥
+I'm glad~~)
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]・・・うっ！
-> CONTEXT: Map008/events/3/pages/1/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/1/43/Dialogue
+\\name[Man]・・・Uu！
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]・・・うむ、ありがとう
 では、ゆっくり休んでおくれ
-> CONTEXT: Map008/events/3/pages/1/45/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/3/pages/1/45/Dialogue
+\\name[Man]・・・*ahem* Thanks...
+Then, you know the way.
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]やあ、いらっしゃい
 今日は泊まっていくのかい？
 (ﾜｸﾜｸ)
-> CONTEXT: Map008/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/0/2/Dialogue
+\\name[Man]Hi, Come on in!
+Are you planning to stay the night?
+(*excited*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]今日は、宿に泊まれるだけのお金を持っているので
 大丈夫です
-> CONTEXT: Map008/events/4/pages/0/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/0/9/Dialogue
+\\name[\\n[1]]I have enough money to stay at the hotel
+But thanks for concern
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]そうかい・・・(ｼｭﾝ)
-> CONTEXT: Map008/events/4/pages/0/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/4/pages/0/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/4/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/0/12/Dialogue
+> CONTEXT: Map008/events/4/pages/0/24/Dialogue
+> CONTEXT: Map008/events/4/pages/0/44/Dialogue
+\\name[Man]Is that so...(*disappointed*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]今日はまだ、お仕事できるだけの体力があるので
 大丈夫です
-> CONTEXT: Map008/events/4/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/0/21/Dialogue
+\\name[\\n[1]]I have enough energy left to work for some money
+But thanks for concern
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](またお金も、お仕事をできるだけの体力もなくなっちゃったけど
  泊まらせてもらおうかな)
-> CONTEXT: Map008/events/4/pages/0/32/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/0/32/Dialogue
+\\name[\\n[1]](I should only ask him if I have no money or energy left)
 > END STRING
 
 > BEGIN STRING
 ぱんつを見せて泊まらせてもらう
-> CONTEXT: Map008/events/4/pages/0/35/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/0/35/Choice/0
+I' only allowed to stay after I've showed my panties
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]おはようございます
 泊めていただきありがとうございました
-> CONTEXT: Map008/events/4/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/1/2/Dialogue
+\\name[\\n[1]]Good morning
+Thanks for having me~
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]こちらこそ、素敵なおぱんつを、ありがとう
 また困ったことがあったら、うちにおいで
 おぱんつを見せてくれたら泊めてあげるよ
-> CONTEXT: Map008/events/4/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/4/pages/1/5/Dialogue
+\\name[Man]Thank you for showing me your lovely underwear
+If you're having problems again, please come by again
+I'll gladly let you sleep here again
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](タンスがある)
-> CONTEXT: Map008/events/5/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/5/pages/0/2/Dialogue
+\\name[\\n[1]](It's a wardrobe)
 > END STRING
 
 > BEGIN STRING
 開けてみる
-> CONTEXT: Map008/events/5/pages/0/4/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map008/events/5/pages/0/4/Choice/0
+Open it
 > END STRING
 
 > BEGIN STRING
 何もしない
-> CONTEXT: Map008/events/5/pages/0/4/Choice/1 < UNTRANSLATED
-> CONTEXT: Map007/events/4/pages/1/83/Choice/0 < UNTRANSLATED
-> CONTEXT: Map007/events/7/pages/1/122/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map008/events/5/pages/0/4/Choice/1
+> CONTEXT: Map007/events/4/pages/1/83/Choice/0
+> CONTEXT: Map007/events/7/pages/1/122/Choice/0
+Do nothing
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](これは・・・
  すべての引き出しに女性物のぱんつがぎっしりと詰まっている！)
-> CONTEXT: Map008/events/5/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/5/pages/0/8/Dialogue
+\\name[\\n[1]](This is...
+This drawer is full of female underwear!)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おじさん、今は一人暮らしっぽいよね
  ということは、これは・・・)
-> CONTEXT: Map008/events/5/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/5/pages/0/13/Dialogue
+\\name[\\n[1]](But, Isn't this man living on his own...?
+ Then, that means...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・見なかったことにしよう)
-> CONTEXT: Map008/events/5/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/5/pages/0/18/Dialogue
+\\name[\\n[1]](I'll pretend that I didn't see this)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・うん、やっぱり
  女性のものぱんつがぎっしりだよ)
-> CONTEXT: Map008/events/5/pages/1/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map008/events/5/pages/1/6/Dialogue
+\\name[\\n[1]](・・・After all,
+He is helping me out...)
 > END STRING

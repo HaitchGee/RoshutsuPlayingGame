@@ -39,42 +39,47 @@
 > BEGIN STRING
 \\name[\\n[1]]はい、えっと、でも、その・・・
 やっぱりヌード・・・脱がないといけませんか？
-> CONTEXT: Map021/events/3/pages/0/28/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/28/Dialogue
+\\name[\\n[1]]Yes, but , umm, I-is this...
+a nude drawing... Do I have to take my clothes off?
 > END STRING
 
 > BEGIN STRING
 \\name[絵画教室の先生]うーむ、そうですね
 できればヌードのほうがありがたいですけど
 恥ずかしいという方も多いですからね
-> CONTEXT: Map021/events/3/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/31/Dialogue
+\\name[Art Teacher]Well, yes,
+Nude would be preferable, but
+many people are too embarassed.
 > END STRING
 
 > BEGIN STRING
 \\name[絵画教室の先生]今のような薄手の服でしたら
 服を着たままでもかまいませんよ
-> CONTEXT: Map021/events/3/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/35/Dialogue
+\\name[Art Teacher]You can keep your garments on if you wear light clothes
+Your current clothes are acceptable
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]じゃあ、お願いします
-> CONTEXT: Map021/events/3/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/40/Dialogue
+\\name[\\n[1]]Well then, lets start
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](いきなり裸は恥ずかしいし・・・)
-> CONTEXT: Map021/events/3/pages/0/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/42/Dialogue
+\\name[\\n[1]](I'm ashamed to be naked all of a sudden...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](それに積極的に脱ぐ変態だと思われちゃうかもしれないし
  できれば脱ぎたくない風を装っておかないとね)
-> CONTEXT: Map021/events/3/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/46/Dialogue
+\\name[\\n[1]](You would think a pervert like me would
+jump at the chance to strip their clothes off)
 > END STRING
 
 > BEGIN STRING
@@ -111,35 +116,38 @@
 > BEGIN STRING
 \\name[絵画教室の先生]皆さん揃いましたね
 では、はじめてください
-> CONTEXT: Map021/events/3/pages/0/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/66/Dialogue
+\\name[Art Teacher]We are assembled.
+Let's get started.
 > END STRING
 
 > BEGIN STRING
 \\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛｶｷｶｷ
-> CONTEXT: Map021/events/3/pages/0/69/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/5/66/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/69/Dialogue
+> CONTEXT: Map021/events/3/pages/5/66/Dialogue
+\\name[Art Students]*stare* *scribble*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](うぅ、服も着て座ってるだけとはいえ
  ずっと見られてるなんて緊張するなあ・・・)
-> CONTEXT: Map021/events/3/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/75/Dialogue
+\\name[\\n[1]](Uu, even though I have my clothes on
+ I'm still nervous from being watched)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](わざとぱんつ見えちゃうような体勢にしたけど
  気づいてくれてるかな・・・)
-> CONTEXT: Map021/events/3/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/78/Dialogue
+\\name[\\n[1]](I've positioned myself so my panties are visible
+ I wonder if they noticed...)
 > END STRING
 
 > BEGIN STRING
 \\name[絵画教室の生徒たち]ｼﾞｨｰ
-> CONTEXT: Map021/events/3/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/81/Dialogue
+\\name[Are students]*stare*
 > END STRING
 
 > BEGIN STRING
@@ -175,8 +183,11 @@
 \\name[\\n[1]](あ、生徒さんたち、顔赤くして私の股間あたりを凝視してる
  むふふ、お絵描き教室とはいえ男の子だもんね
  えっちな目で見ちゃうよね・・・嬉しい♥)
-> CONTEXT: Map021/events/3/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/87/Dialogue
+\\name[\\n[1]](Ah, the boy over there has a bright red face, 
+ he must be staring at my panties
+ Ufufu, even though this is a drawing class, boys will be boys
+ He must be thinking naughty thoughts... I'm glad~♥)
 > END STRING
 
 > BEGIN STRING
@@ -196,15 +207,17 @@
 \\name[\\n[1]](はぁはぁ♥
  えっちな目で見られているとわかると
  どんどん気持ちよくなってきちゃうよぅ)
-> CONTEXT: Map021/events/3/pages/0/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/97/Dialogue
+\\name[\\n[1]](Haaa~ Haaa♥
+ The lust in his eyes is making me feel good)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](こんな風に気持ちよくなってるだけでいいお仕事・・・
  素敵すぎるよ・・・♥)
-> CONTEXT: Map021/events/3/pages/0/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/0/105/Dialogue
+\\name[\\n[1]](My only job is to sit here and look nice...
+ Amazing...♥)
 > END STRING
 
 > BEGIN STRING
@@ -1693,9 +1706,9 @@
 
 > BEGIN STRING
 \\name[\\n[1]]はい・・・
-> CONTEXT: Map021/events/3/pages/8/189/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/3/pages/0/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/8/189/Dialogue
+> CONTEXT: Map008/events/3/pages/0/85/Dialogue
+\\name[\\n[1]]Yes...
 > END STRING
 
 > BEGIN STRING
@@ -1845,10 +1858,10 @@ Please come again
 
 > BEGIN STRING
 \\name[\\n[1]]はい・・・♥
-> CONTEXT: Map021/events/7/pages/0/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/3/pages/1/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map008/events/4/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/7/pages/0/96/Dialogue
+> CONTEXT: Map008/events/3/pages/1/24/Dialogue
+> CONTEXT: Map008/events/4/pages/1/11/Dialogue
+\\name[\\n[1]]Yes...♥
 > END STRING
 
 > BEGIN STRING

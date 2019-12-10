@@ -186,7 +186,7 @@ Not now
 > CONTEXT: Map019/events/13/pages/2/69/Dialogue
 > CONTEXT: Map019/events/13/pages/5/68/Dialogue
 \\name[Old Man]Hello young lady
-Why the long face?
+Is there something wrong?
 > END STRING
 
 > BEGIN STRING
@@ -203,10 +203,12 @@ It's nothing...
 \\name[おじさん]そんなことはないだろう
 話だけでも聞いてあげるよ
 おじさんに話してごらん
-> CONTEXT: Map019/events/13/pages/1/77/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/77/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/77/Dialogue
+> CONTEXT: Map019/events/13/pages/2/77/Dialogue
+> CONTEXT: Map019/events/13/pages/5/76/Dialogue
+\\name[Man]I don't believe you...
+Please tell me what's wrong,
+Maybe I can help you
 > END STRING
 
 > BEGIN STRING
@@ -222,64 +224,73 @@ It's nothing...
 > BEGIN STRING
 \\name[おじさん]ふむ、お金を落としてしまって
 宿に泊まれないと・・・
-> CONTEXT: Map019/events/13/pages/1/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/85/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/86/Dialogue
+> CONTEXT: Map019/events/13/pages/2/86/Dialogue
+> CONTEXT: Map019/events/13/pages/5/85/Dialogue
+\\name[MAn]I see, you're out of money
+and can't pay for the inn...
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]よし、それなら今晩だけでも
 うちにおいでよ
 泊めてあげるよ
-> CONTEXT: Map019/events/13/pages/1/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/89/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/89/Dialogue
+> CONTEXT: Map019/events/13/pages/2/89/Dialogue
+> CONTEXT: Map019/events/13/pages/5/88/Dialogue
+\\name[Man]Alright, in that case
+You can stay in my house.
+There is a spare bed.
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]本当ですか！？
-> CONTEXT: Map019/events/13/pages/1/95/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/95/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/94/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/95/Dialogue
+> CONTEXT: Map019/events/13/pages/2/95/Dialogue
+> CONTEXT: Map019/events/13/pages/5/94/Dialogue
+\\name[\\n[1]]Really!?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]あ、でも私、お金も持ち物ももってないので
 お返しできるものがありません・・・
-> CONTEXT: Map019/events/13/pages/1/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/98/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/99/Dialogue
+> CONTEXT: Map019/events/13/pages/2/99/Dialogue
+> CONTEXT: Map019/events/13/pages/5/98/Dialogue
+\\name[\\n[1]]But I don't have any money or other belongings
+There is no way I could return the favour...
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]いや、そんなものはいらないよ
 大したおもてなしもできないし
 何もいらないよ
-> CONTEXT: Map019/events/13/pages/1/102/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/102/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/102/Dialogue
+> CONTEXT: Map019/events/13/pages/2/102/Dialogue
+> CONTEXT: Map019/events/13/pages/5/101/Dialogue
+\\name[Man]No, no,.. I don't need money
+Letting you stay for the night wouldn't cost me a cent.
+It is completely unnecessary to pay me.
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]でもそれじゃあ、申し訳なくって・・・
-> CONTEXT: Map019/events/13/pages/1/106/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/106/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/106/Dialogue
+> CONTEXT: Map019/events/13/pages/2/106/Dialogue
+> CONTEXT: Map019/events/13/pages/5/105/Dialogue
+\\name[\\n[1]]I'm sorry, 
+but I really can't accept your offer...
+It is simply too generous
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]う～む、それなら
 おぱんつを見せてくれないかな？
-> CONTEXT: Map019/events/13/pages/1/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/108/Dialogue
+> CONTEXT: Map019/events/13/pages/2/108/Dialogue
+> CONTEXT: Map019/events/13/pages/5/107/Dialogue
+\\name[Man]We~~ll, In that case...
+Could you show me your panties?
 > END STRING
 
 > BEGIN STRING
@@ -295,18 +306,21 @@ It's nothing...
 おぱんつを見せてくれるかわりに
 一晩泊まらせてあげるということで
 どうかな？
-> CONTEXT: Map019/events/13/pages/1/115/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/115/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/115/Dialogue
+> CONTEXT: Map019/events/13/pages/2/115/Dialogue
+> CONTEXT: Map019/events/13/pages/5/114/Dialogue
+\\name[Man]If you really won't accept my offer for free
+I will let you stay the night, but only if you show me 
+your panties. That would mean you returned the favour,
+Isn't it?
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]ぱんつを見てもらえるんですか！？
-> CONTEXT: Map019/events/13/pages/1/122/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/122/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/122/Dialogue
+> CONTEXT: Map019/events/13/pages/2/122/Dialogue
+> CONTEXT: Map019/events/13/pages/5/121/Dialogue
+\\name[\\n[1]]Let you look at my panties!?
 > END STRING
 
 > BEGIN STRING
@@ -322,10 +336,13 @@ It's nothing...
 ぱんつ、見られるの恥ずかしいですけど、
 泊まる場所のためなら・・・
 しかたなく、嫌々ですけど、我慢します・・・
-> CONTEXT: Map019/events/13/pages/1/128/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/128/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/128/Dialogue
+> CONTEXT: Map019/events/13/pages/2/128/Dialogue
+> CONTEXT: Map019/events/13/pages/5/127/Dialogue
+\\name[\\n[1]]ah... well... let's see...
+It would be disgraceful to show you my underwear
+...but I don't have any other options...
+It's no use, I will just endure the shame.
 > END STRING
 
 > BEGIN STRING
@@ -333,7 +350,7 @@ It's nothing...
 > CONTEXT: Map019/events/13/pages/1/135/Dialogue
 > CONTEXT: Map019/events/13/pages/2/135/Dialogue
 > CONTEXT: Map019/events/13/pages/5/134/Dialogue
-\\name[\\n[1]]Then, please do...♥
+\\name[\\n[1]]Alright, here you go...♥
 > END STRING
 
 > BEGIN STRING
@@ -346,10 +363,10 @@ It's nothing...
 
 > BEGIN STRING
 \\name[周りの人]ｻﾞﾜｻﾞﾜ
-> CONTEXT: Map019/events/13/pages/1/158/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/150/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/158/Dialogue
+> CONTEXT: Map019/events/13/pages/2/150/Dialogue
+> CONTEXT: Map019/events/13/pages/5/157/Dialogue
+\\name[Bystanders]*murmur* *murmur*
 > END STRING
 
 > BEGIN STRING
@@ -357,28 +374,33 @@ It's nothing...
 き、君！
 こんな街中で見せなくても・・・！
 家に行ってからじっくり見させてもらうから！
-> CONTEXT: Map019/events/13/pages/1/160/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/152/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/159/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/160/Dialogue
+> CONTEXT: Map019/events/13/pages/2/152/Dialogue
+> CONTEXT: Map019/events/13/pages/5/159/Dialogue
+\\name[Man]Ah!
+Y-You!
+Don't show it in public!
+I'll take a good look when we're in my house!
 > END STRING
 
 > BEGIN STRING
 \\name[周りの人]「女の子にあんなことさせるなんて！」
 「家に連れ込んでどうするつもりなんだい！」
 「とんだ変態野郎だな！」
-> CONTEXT: Map019/events/13/pages/1/165/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/157/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/164/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/165/Dialogue
+> CONTEXT: Map019/events/13/pages/2/157/Dialogue
+> CONTEXT: Map019/events/13/pages/5/164/Dialogue
+\\name[Bystanders]"What will he do to that girl!"
+"I wonder what he is planning to do once she's inside his house!"
+"What a pervert!"
 > END STRING
 
 > BEGIN STRING
 \\name[おじさん]あわわ・・・
-> CONTEXT: Map019/events/13/pages/1/169/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/2/161/Dialogue < UNTRANSLATED
-> CONTEXT: Map019/events/13/pages/5/168/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/13/pages/1/169/Dialogue
+> CONTEXT: Map019/events/13/pages/2/161/Dialogue
+> CONTEXT: Map019/events/13/pages/5/168/Dialogue
+\\name[Man]Awawa...
 > END STRING
 
 > BEGIN STRING
@@ -564,8 +586,9 @@ Endure
 > BEGIN STRING
 \\name[\\n[1]](この辺りは人通りが多いみたい
  このトイレもきっとよく利用されているよね)
-> CONTEXT: Map019/events/15/pages/1/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/15/pages/1/22/Dialogue
+\\name[\\n[1]](There is a lot of traffic around here...
+ The restroom must be used often)
 > END STRING
 
 > BEGIN STRING
@@ -573,8 +596,11 @@ Endure
  おしっこなんてしていたら
  きっと人が来てとても恥ずかしいことに
  なっちゃうね・・・むふふ♥)
-> CONTEXT: Map019/events/15/pages/1/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/15/pages/1/27/Dialogue
+\\name[\\n[1]](...If I forgot to lock the door
+ when I go to the toilet
+ Surely someone might walk in on me...
+ It woule be very embarrassing... Mufufu♥ )
 > END STRING
 
 > BEGIN STRING
@@ -595,8 +621,9 @@ Keep the door open and pee
 > BEGIN STRING
 \\name[\\n[1]](今は疲れてそれどころではないよ・・・
  普通に出しちゃおうかな・・・)
-> CONTEXT: Map019/events/15/pages/1/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/15/pages/1/52/Dialogue
+\\name[\\n[1]](I'm too tired for playing around...
+ Let's just do this the regular way...)
 > END STRING
 
 > BEGIN STRING
@@ -634,7 +661,8 @@ Drink (¥100)
 > CONTEXT: Map019/events/17/pages/1/21/Dialogue
 > CONTEXT: Map019/events/17/pages/3/21/Dialogue
 > CONTEXT: Map001/events/6/pages/4/16/Dialogue
-\\name[\\n[1]](I really need to pee, better not drink any more water...)
+\\name[\\n[1]](I really need to pee, 
+better not drink any more water...)
 > END STRING
 
 > BEGIN STRING
@@ -794,7 +822,8 @@ I pray it won't be the last time I see it.
 ならうちのおいしいおいしい水を一杯サービスするから、
 ゆっくり飲んでいってよ！
 > CONTEXT: Map019/events/17/pages/3/2/Dialogue
-\\name[Water Merchant]Hey there lady! You seem tired. Have a drink of our delicous water, on the house!
+\\name[Water Merchant]Hey there lady! You seem tired.
+Have a drink of our delicous water, on the house!
 > END STRING
 
 > BEGIN STRING
@@ -848,7 +877,7 @@ Don't just leave!
 　浴室の床をブラシで掃除する仕事です』
 > CONTEXT: Map019/events/24/pages/0/3/Dialogue
 \\name[Ad]『Looking for a new bathhouse cleaner
-　Task is to clean the bathroom with a brush』
+　Task is to scrub the bathroom』
 > END STRING
 
 > BEGIN STRING
@@ -1324,7 +1353,7 @@ I already failed the interview thrice...
 
 > BEGIN STRING
 \\name[募金活動をする青年]募金をお願いします、ぶひひ
-> CONTEXT: Map019/events/63/pages/0/7/Dialogue
+> CONTEXT: None < UNUSED
 \\name[Fundraiser]Please donate!
 > END STRING
 
@@ -1377,22 +1406,27 @@ It's for myself！
 まだ20歳なのに髪の毛薄くなり始めてきたし、
 息が臭いって言われるし、むしろ身体中が臭いって言われるし
 ちんちん小さいし、就職できないからお金もないし・・・
-> CONTEXT: Map019/events/63/pages/0/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/48/Dialogue
+\\name[Fraudraiser]Because I'm so ugly
+I'm barely 20 years old and already balding
+Not only my breath, but the rest of my body stinks
+I haven't got any money because I'm short and can't find a job
 > END STRING
 
 > BEGIN STRING
 \\name[募金活動をする青年]きっと世界で最も恵まれていないのは僕なんだ！
 だからみんな僕に募金するべきなんだ！
-> CONTEXT: Map019/events/63/pages/0/55/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/55/Dialogue
+\\name[Fraudraiser]I'm the unluckiest person in the world!
+Everyone should donate to me!
 > END STRING
 
 > BEGIN STRING
 \\name[募金活動をする青年]あ、ところで、お金結構たまってきたんだけどさ
 彼女、よかったら一緒に遊びにいかない？
-> CONTEXT: Map019/events/63/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/58/Dialogue
+\\name[Fraudraiser]Oh, by the way, I was able to raise a lot of money
+Can I pay you to have sex with me?
 > END STRING
 
 > BEGIN STRING
@@ -1406,14 +1440,16 @@ It's for myself！
 「その程度で恵まれていないだとか、甘えてんじゃねぇ！」
 「募金詐欺は犯罪ですよ、おまわりさん呼んできます」
 「死ね」
-> CONTEXT: Map019/events/63/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/88/Dialogue
+\\name[Townspeople]「He was raising money for himself? Unforgivable！」
+「Donation fraud is a crime, call the police!」
+「Hang him!」
 > END STRING
 
 > BEGIN STRING
 \\name[募金詐欺の青年]あわわ・・・
-> CONTEXT: Map019/events/63/pages/0/93/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/93/Dialogue
+\\name[Fraudraiser]Awawawa...
 > END STRING
 
 > BEGIN STRING
@@ -1432,8 +1468,8 @@ It's for myself！
 
 > BEGIN STRING
 \\name[募金活動をする青年]ありがとうございました、ぶひひっ
-> CONTEXT: Map019/events/63/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map019/events/63/pages/0/121/Dialogue
+\\name[Fundraiser]Thank you!
 > END STRING
 
 > BEGIN STRING
@@ -1551,4 +1587,17 @@ END
 Thank you for playing to the end
 In this game, there's something before the end
 If you haven't seen the event, please continue playing
+> END STRING
+
+> BEGIN STRING
+\\name[周りの乗客]！！？
+(おっぱい出した女の子が乗ってきた！！)
+> CONTEXT: Map019/events/64/pages/6/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\name[募金活動をする青年]募金をお願いします、ぶひひ
+> CONTEXT: Map019/events/63/pages/0/7/Dialogue < UNTRANSLATED
+
 > END STRING

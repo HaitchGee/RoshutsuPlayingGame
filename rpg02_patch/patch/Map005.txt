@@ -10,14 +10,14 @@
  恥ずかしい姿見られたいなぁ・・・)
 > CONTEXT: Map005/events/1/pages/0/21/Dialogue
 \\name[\\n[1]](I want to expose myself!
- I want my shameful figure to be seen)
+ I want my body to be seen)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ドアを半開きにしておいたら
  通りがかった人に部屋の中を見られちゃうかも♥)
 > CONTEXT: Map005/events/1/pages/0/39/Dialogue
-\\name[\\n[1]](If I half-open the door
+\\name[\\n[1]](If open the door slightly
  Maybe someone walking by will look inside♥)
 > END STRING
 
@@ -35,17 +35,18 @@
 > BEGIN STRING
 \\name[\\n[1]](むむっ、人が通りがかるみたい
  覗いてもらえるかな・・・？）
-> CONTEXT: Map005/events/1/pages/0/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/54/Dialogue
+\\name[\\n[1]](Oh, someone is passing by
+ will he take a peek...?）
 > END STRING
 
 > BEGIN STRING
 \\name[客]ﾁﾗｯ
-> CONTEXT: Map005/events/1/pages/0/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/0/157/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/1/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/2/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/61/Dialogue
+> CONTEXT: Map005/events/1/pages/0/157/Dialogue
+> CONTEXT: Map005/events/1/pages/1/45/Dialogue
+> CONTEXT: Map005/events/1/pages/2/40/Dialogue
+\\name[Guest]*glance*
 > END STRING
 
 > BEGIN STRING
@@ -61,14 +62,16 @@
  身体でふさいで影になっちゃってるから
  人がいるのはすぐに分かるけど
  どんな人かまでは分からないな・・・)
-> CONTEXT: Map005/events/1/pages/0/70/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/70/Dialogue
+\\name[\\n[1]](I can see light through the gap of the door
+ So i know if someone is standing in front of it
+ But I dont know what kind of person....)
 > END STRING
 
 > BEGIN STRING
 \\name[客]ｽﾀｽﾀｽﾀ
-> CONTEXT: Map005/events/1/pages/0/86/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/86/Dialogue
+\\name[Guest]*shuffle shuffle*
 > END STRING
 
 > BEGIN STRING
@@ -84,7 +87,7 @@
 > BEGIN STRING
 \\name[\\n[1]](何かしようかな・・・そうだ)
 > CONTEXT: Map005/events/1/pages/0/103/Dialogue
-\\name[\\n[1]](I should do something... Oh I know)
+\\name[\\n[1]](What should I do...)
 > END STRING
 
 > BEGIN STRING
@@ -104,7 +107,7 @@
 > BEGIN STRING
 \\name[\\n[1]](ストレッチでもしてみよう)
 > CONTEXT: Map005/events/1/pages/0/110/Dialogue
-\\name[\\n[1]](I'll do some stretches)
+\\name[\\n[1]](I'll do some stretches..)
 > END STRING
 
 > BEGIN STRING
@@ -139,14 +142,15 @@
 > BEGIN STRING
 \\name[\\n[1]](これなら自然に足を開いて
  ぱんちらも見てもらえるし・・・)
-> CONTEXT: Map005/events/1/pages/0/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/114/Dialogue
+\\name[\\n[1]](If I open my legs like this
+ My panties are in plain sight...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](前屈すれば、胸ちらも・・・)
 > CONTEXT: Map005/events/1/pages/0/117/Dialogue
-\\name[\\n[1]](If I bend forward, my chest...)
+\\name[\\n[1]](And if I bend forward, my chest...)
 > END STRING
 
 > BEGIN STRING
@@ -177,15 +181,16 @@
 
 > BEGIN STRING
 \\name[\\n[1]](とりあえず肩紐だけでもずらしておこうかな♥)
-> CONTEXT: Map005/events/1/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/133/Dialogue
+\\name[\\n[1]](For now, lets just drop a shoulder strap♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](むふふ、これでぱんちらも胸ちらも
  同時に見てもらえるよ♥)
-> CONTEXT: Map005/events/1/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/135/Dialogue
+\\name[\\n[1]](Ufufu, now both my panties and
+my boobs can be seen at the same time♥)
 > END STRING
 
 > BEGIN STRING
@@ -211,8 +216,8 @@
 
 > BEGIN STRING
 \\name[\\n[1]](後はまた誰か覗いてくれれば・・・)
-> CONTEXT: Map005/events/1/pages/0/140/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/140/Dialogue
+\\name[\\n[1]](If someone sees this...)
 > END STRING
 
 > BEGIN STRING
@@ -237,23 +242,26 @@
 > BEGIN STRING
 \\name[\\n[1]](あっ、人が来たっ
  また覗かれてる・・・♥)
-> CONTEXT: Map005/events/1/pages/0/167/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/167/Dialogue
+\\name[\\n[1]](Ah, someone's there
+ Trying to peep...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](今度はじろじろと見てくれているみたい
  男の人なのかな・・・？)
-> CONTEXT: Map005/events/1/pages/0/172/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/172/Dialogue
+\\name[\\n[1]](Looks like he's staying around this time...?)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](むふふ、ちら見えしている
  ぱんつやおっぱい見られちゃってるんだぁ♥
  気持ち良い・・・♥)
-> CONTEXT: Map005/events/1/pages/0/179/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/179/Dialogue
+\\name[\\n[1]](Ufufu, he can see it..
+ My boobs and my panties♥
+ He must be staring...♥)
 > END STRING
 
 > BEGIN STRING
@@ -285,23 +293,27 @@
 \\name[\\n[1]](はぁはぁ♥
  自室で安心して無防備な(フリだけど)姿
  見られるのって・・・すごく恥ずかしい・・・♥)
-> CONTEXT: Map005/events/1/pages/0/187/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/187/Dialogue
+\\name[\\n[1]](Haa~ Haa~♥
+ I'm completely in the open, exposed and innocent 
+ Embarrassing... So embarrassing♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、他の人の足音がして
  覗いていた人逃げちゃったみたい
  残念・・・)
-> CONTEXT: Map005/events/1/pages/0/217/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/217/Dialogue
+\\name[\\n[1]](Oh, someone else came and scared
+ my spectator away..)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](まあでも、このまま扉を半開きにしておいたら
  また他の人が覗いてくれるかも・・・むふふ♥)
-> CONTEXT: Map005/events/1/pages/0/223/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map005/events/1/pages/0/223/Dialogue
+\\name[\\n[1]](Well, as long as I keep my door ajar
+ Other people will come take a look♥)
 > END STRING
 
 > BEGIN STRING
