@@ -544,6 +544,8 @@ is so shameful)
 > CONTEXT: Map001/events/18/pages/4/151/Dialogue
 > CONTEXT: Map001/events/25/pages/1/70/Dialogue
 \\name[\\n[1]]*squirt*
+*squirt*
+♥♥
 > END STRING
 
 > BEGIN STRING
@@ -734,6 +736,8 @@ without masturbating...)
 > CONTEXT: Map001/events/18/pages/8/302/Dialogue
 > CONTEXT: Map001/events/27/pages/0/177/Dialogue
 \\name[\\n[1]]*squirt* *squirt*
+*squirt*
+♥♥♥♥
 > END STRING
 
 > BEGIN STRING

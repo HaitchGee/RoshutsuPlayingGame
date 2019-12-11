@@ -342,7 +342,7 @@ Huh!? This swimsuit!?
 > BEGIN STRING
 \\name[\\n[1]]えっ？
 > CONTEXT: Map007/events/5/pages/1/156/Dialogue
-\\name[\\n[1]]What?
+\\name[\\n[1]]W-What?
 > END STRING
 
 > BEGIN STRING
@@ -386,7 +386,7 @@ Thank you for your purchase
 \\name[\\n[1]](It's embarrassing...
  When I'm wearing this
  It'll be much more embarrassing
- It'll be so much fun... teehee♥)
+ I'm looking forward to it... teehee♥)
 > END STRING
 
 > BEGIN STRING

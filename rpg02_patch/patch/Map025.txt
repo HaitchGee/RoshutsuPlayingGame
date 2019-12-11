@@ -963,7 +963,7 @@ while longer・・・・♥)
 > CONTEXT: Map001/events/2/pages/2/29/Dialogue
 \\name[\\n[1]](Ahnn
  Even though I'm just working
- I'm being peeped at all the time...)
+ I'm being oggled at all the time...)
 > END STRING
 
 > BEGIN STRING
@@ -972,7 +972,7 @@ while longer・・・・♥)
 > CONTEXT: Map025/events/5/pages/3/44/Dialogue
 > CONTEXT: Map025/events/7/pages/2/44/Dialogue
 > CONTEXT: Map001/events/2/pages/2/37/Dialogue
-\\name[\\n[1]](This job is too nice...♥)
+\\name[\\n[1]](This job is amazing...♥)
 > END STRING
 
 > BEGIN STRING
@@ -1092,7 +1092,8 @@ and moisture.)
 > CONTEXT: Map025/events/5/pages/3/97/Dialogue
 > CONTEXT: Map025/events/7/pages/2/97/Dialogue
 > CONTEXT: Map001/events/2/pages/2/90/Dialogue
-\\name[\\n[1]](That's... too embarrassing ♥)
+\\name[\\n[1]](That's... way embarrassing ♥
+...But..)
 
 > END STRING
 
@@ -1103,7 +1104,7 @@ and moisture.)
 > CONTEXT: Map025/events/5/pages/3/101/Dialogue
 > CONTEXT: Map025/events/7/pages/2/101/Dialogue
 > CONTEXT: Map001/events/2/pages/2/94/Dialogue
-\\name[\\n[1]](But I have to keep cleaning... 
+\\name[\\n[1]](I have to keep cleaning... 
  If I stop now, the owner might get mad.)
 > END STRING
 
@@ -1112,7 +1113,8 @@ and moisture.)
 > CONTEXT: Map025/events/5/pages/3/107/Dialogue
 > CONTEXT: Map025/events/7/pages/2/107/Dialogue
 > CONTEXT: Map001/events/2/pages/2/100/Dialogue
-\\name[\\n[1]](It's embarrassing.... But I'll do it!)
+\\name[\\n[1]](There's no other way....
+I'll do it!)
 > END STRING
 
 > BEGIN STRING

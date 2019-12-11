@@ -825,7 +825,8 @@ Wash here
  鏡越しでなら、気づかれないと思ったのかな)
 > CONTEXT: Map001/events/16/pages/0/77/Dialogue
 \\name[\\n[1]](Ufufu, He's looking at me...♥
- Did you think I wouldn't notice if you looked at my reflection)
+ Did you think I wouldn't notice if you looked 
+ at my reflection)
 > END STRING
 
 > BEGIN STRING
@@ -954,7 +955,7 @@ Wash here
  私で興奮してくれたんだ、嬉しい♥)
 > CONTEXT: Map001/events/16/pages/0/106/Dialogue
 \\name[\\n[1]](I made his cock stiff just from washing my body...
- I'm so happy~)
+ Amazing~)
 > END STRING
 
 > BEGIN STRING
@@ -966,27 +967,29 @@ Wash here
 > BEGIN STRING
 \\name[\\n[1]](また身体を洗っているところを
  隣の男の人に鏡越しに見られちゃってる・・・)
-> CONTEXT: Map001/events/16/pages/1/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/57/Dialogue
+\\name[\\n[1]](The same man from last time
+Is watching my reflection again...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](恥ずかしいけど・・・
  気持ちいい♥)
-> CONTEXT: Map001/events/16/pages/1/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/62/Dialogue
+\\name[\\n[1]](So disgraceful...
+but so pleasant♥)
 > END STRING
 
 > BEGIN STRING
 \\name[男]ﾑｸﾑｸ
-> CONTEXT: Map001/events/16/pages/1/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/69/Dialogue
+\\name[Penis]*growing*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](わ、もうおちんちん大きくなってきた・・・)
-> CONTEXT: Map001/events/16/pages/1/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/73/Dialogue
+\\name[\\n[1]](W-Wow, it's getting bigger...)
 > END STRING
 
 > BEGIN STRING
@@ -1016,23 +1019,27 @@ Wash here
 > BEGIN STRING
 \\name[\\n[1]](私だけ相手のおちんちん見ちゃって
  不公平じゃないかな・・・？)
-> CONTEXT: Map001/events/16/pages/1/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/83/Dialogue
+\\name[\\n[1]] (I'm the only one that can see his cock 
+ isn't that unfair...?)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](私の身体をじろじろ見て
  興奮してくれてるなら
  きっとおまんこも見たいと思ってくれてるよね・・・)
-> CONTEXT: Map001/events/16/pages/1/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/88/Dialogue
+\\name[\\n[1]](If looking at my body makes him this excited, 
+ I'm sure he wants to see my pussy as well...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](恥ずかしいけど・・・ちょっとだけ
  足を開いちゃおうかな・・・♥)
-> CONTEXT: Map001/events/16/pages/1/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/16/pages/1/92/Dialogue
+\\name[\\n[1]](I'm ashamed,
 
+ but I think I'll open my legs a little bit...♥)
 > END STRING
 
 > BEGIN STRING
@@ -1040,8 +1047,11 @@ Wash here
  見せるために自分で足を開いたと
  気づかれないように・・・
  ちょっと気が緩んだような感じで・・・)
-> CONTEXT: Map001/events/16/pages/1/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/97/Dialogue
+\\name[\\n[1]](Careful...Careful...
+ I'll start by moving my feet
+ and then my knees very slowly
+ This way it seems accidental...)
 > END STRING
 
 > BEGIN STRING
@@ -1053,58 +1063,64 @@ Wash here
 
 > BEGIN STRING
 \\name[\\n[1]]ｽｽｽ・・・
-> CONTEXT: Map001/events/16/pages/1/104/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/2/59/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/3/79/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/104/Dialogue
+> CONTEXT: Map001/events/16/pages/2/59/Dialogue
+> CONTEXT: Map001/events/16/pages/3/79/Dialogue
+\\name[\\n[1]]*wiggle wiggle*...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はっ！
  もう、足が開いたの気づかれた様子だ・・・！)
-> CONTEXT: Map001/events/16/pages/1/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/110/Dialogue
+\\name[\\n[1]](Ah!
+ He noticed immediately!)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](この人、私が不意に足を開いてしまうこと
  期待していたのかな・・・むふふ♥)
-> CONTEXT: Map001/events/16/pages/1/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/115/Dialogue
+\\name[\\n[1]](This guy, There is no way he expected
+ me to give him a better view...Ufufuf♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あぁん・・・
  お股への視線を強く感じるよ・・・♥)
-> CONTEXT: Map001/events/16/pages/1/122/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/122/Dialogue
+\\name[\\n[1]](Aahn...
+ This intense staring at my crotch...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でも、まだはっきりとは見えていないよね・・・？)
-> CONTEXT: Map001/events/16/pages/1/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/127/Dialogue
+\\name[\\n[1]](But you haven't seen it clearly yet, did you...?) 
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・うん、自分の鏡で見ても
  タオルの影になっていてはっきりとは見えないね)
-> CONTEXT: Map001/events/16/pages/1/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/131/Dialogue
+\\name[\\n[1]](...Ah, even if you look in your mirror, 
+ the shadow of the towel is obstructing the view.)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おまんこを直接見られちゃうのは
  まだ恥ずかしすぎるよ・・・)
-> CONTEXT: Map001/events/16/pages/1/136/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/136/Dialogue
+\\name[\\n[1]](I'm still too uncertain 
+to give him a direct view of the pussy...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](まだしばらくは、この見られちゃいそうで
  見られていないどきどきを楽しもう・・・♥)
-> CONTEXT: Map001/events/16/pages/1/143/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map001/events/16/pages/1/143/Dialogue
+\\name[\\n[1]](I'll keep that for next time...
+ Let's enjoy his throbbing for a little while longer...♥)
 > END STRING
 
 > BEGIN STRING
@@ -2178,7 +2194,7 @@ I wonder if it's rare for a woman to get into a mixed bath.)
 \\name[\\n[1]](バスタオル1枚のみの姿見られてるの
  恥ずかしい・・・)
 > CONTEXT: Map001/events/18/pages/0/68/Dialogue
-\\name[\\n[1]](It's pretty shameful to have only one bath towel...)
+\\name[\\n[1]](It's pretty shameful to wear only a bath towel...)
 > END STRING
 
 > BEGIN STRING
@@ -2309,7 +2325,7 @@ all eyes focussed on my chest.)
  おっぱい透けちゃってる・・・！)
 > CONTEXT: Map001/events/18/pages/0/113/Dialogue
 \\name[\\n[1]](Ah, As expected,
- the towel got wet and stuck to my body
+ the towel stuck to my body..
  it has become completely transparent.)
 > END STRING
 
@@ -2317,8 +2333,8 @@ all eyes focussed on my chest.)
 \\name[\\n[1]](うっすらと乳首の色、見えちゃってる・・・
  恥ずかしいよぅ・・・♥)
 > CONTEXT: Map001/events/18/pages/0/118/Dialogue
-\\name[\\n[1]]((I can see the color of my nipples... 
-I'm ashamed... ♥))
+\\name[\\n[1]](I can see the color of my nipples... 
+I'm ashamed... ♥)
 > END STRING
 
 > BEGIN STRING
@@ -2326,7 +2342,7 @@ I'm ashamed... ♥))
  透けた乳首まで男の人たちに
  見られちゃってるんだ・・・♥)
 > CONTEXT: Map001/events/18/pages/0/125/Dialogue
-\\name[\\n[1]](Ahh... They are visible...
+\\name[\\n[1]](Ahh... They are poking through...
  Even though they are still covered
  My nipples can be seen by everyone...♥)
 > END STRING

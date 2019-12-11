@@ -86,7 +86,7 @@ Money -150
 > CONTEXT: Map023/events/4/pages/7/4/InlineScript/1:22
 > CONTEXT: Map023/events/4/pages/8/4/InlineScript/1:22
 > CONTEXT: Map023/events/4/pages/9/4/InlineScript/1:22
-"酒場のマスター"
+"Barkeep"
 > END STRING
 
 > BEGIN STRING
@@ -110,7 +110,7 @@ Off you go!
 > CONTEXT: Map023/events/4/pages/0/32/Dialogue
 > CONTEXT: Map026/events/22/pages/0/24/Dialogue
 > CONTEXT: Map029/events/21/pages/1/26/Dialogue
-\\name[\\n[1]]I see
+\\name[\\n[1]]Got it
 > END STRING
 
 > BEGIN STRING
@@ -122,7 +122,7 @@ Off you go!
 > BEGIN STRING
 \\name[\\v[1]]よし、チェックするぞ
 > CONTEXT: Map023/events/4/pages/0/46/Dialogue
-\\name[\\v[1]]Let's get to work
+\\name[\\v[1]]Alright, let me check for second
 > END STRING
 
 > BEGIN STRING
@@ -133,18 +133,25 @@ Off you go!
 
 > BEGIN STRING
 \\name[\\v[1]]ふむふむ(ｼﾞﾛｼﾞﾛ)
-> CONTEXT: Map023/events/4/pages/0/51/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/0/60/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/0/51/Dialogue
+> CONTEXT: Map023/events/4/pages/0/60/Dialogue
+> CONTEXT: Map023/events/4/pages/0/66/Dialogue
+\\name[\\v[1]]Hmmm
+
+(*stare*)
 > END STRING
+
 
 > BEGIN STRING
 \\name[\\n[1]](わ・・・ち、近いよう
  正面からだと見えてないだろうけど
  上からだと乳首見えちゃってるんだよね
  常に露出してるみたいだよ・・・)
-> CONTEXT: Map023/events/4/pages/0/53/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/53/Dialogue
+\\name[\\n[1]](Wah... So close...
+ You can't see it from the front
+ But when looking from above
+ my nipples are clearly exposed...)
 > END STRING
 
 > BEGIN STRING
@@ -157,41 +164,50 @@ Off you go!
 \\name[\\n[1]](あぁ、お股もそんなに近くで・・・
  股間部の角度もきつくて、ぱんつ見えちゃうから
  のーぱんだし変な感じ・・・恥ずかしいよう♥)
-> CONTEXT: Map023/events/4/pages/0/62/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/62/Dialogue
+\\name[\\n[1]](Oh, he's looking at my crotch from up close... 
+that area of the leotard is really tight.
+Wearing no panties feels weird...
+but the right kind of weird♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]ぶわっ(涙)
-> CONTEXT: Map023/events/4/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/4/pages/0/68/Dialogue
+\\name[\\v[1]]B-beautiful
 
+(*sniffle*)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]えぇ！？ なぜ泣くんですか！？
-> CONTEXT: Map023/events/4/pages/0/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/73/Dialogue
+\\name[\\n[1]]Eehhh!?
+Are you crying!?
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]俺はよぉ、ﾊﾞﾆｰガールのいる酒場を持つのが
 夢だったんだ
 それがついに・・・ついに・・・うううぅ
-> CONTEXT: Map023/events/4/pages/0/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/75/Dialogue
+\\name[\\v[1]]I having a real bunny girl in my bar
+Was a dream of mine for a long time
+And it's finally... it's finally... *sniff*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]]はぁ、そうですか
-> CONTEXT: Map023/events/4/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/81/Dialogue
+\\name[\\n[1]]Ah, really?
 > END STRING
 
 > BEGIN STRING
 \\name[\\v[1]]よしじゃあそろそろお客が増える時間だ
 しっかり働いてくれよ！
-> CONTEXT: Map023/events/4/pages/0/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/83/Dialogue
+\\name[\\v[1]]The customers will be here soon, 
+so please work hard!
 > END STRING
 
 > BEGIN STRING
@@ -216,9 +232,9 @@ Off you go!
 
 > BEGIN STRING
 \\name[\\n[1]]いらっしゃいませ、ご注文をどうぞ
-> CONTEXT: Map023/events/4/pages/0/99/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/1/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/99/Dialogue
+> CONTEXT: Map023/events/4/pages/1/20/Dialogue
+\\name[\\n[1]]Good evening, can I take your order?
 > END STRING
 
 > BEGIN STRING
@@ -241,15 +257,16 @@ Off you go!
 > CONTEXT: Map005/events/1/pages/3/163/Dialogue
 > CONTEXT: Map001/events/2/pages/3/57/Dialogue
 > CONTEXT: Map001/events/2/pages/5/61/Dialogue
-\\name[Guest]！！
+\\name[Guest]!!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あ、お客さん驚いてる
  今まで店にﾊﾞﾆｰガールいなかったみたいだしね
  そりゃあ驚くよね)
-> CONTEXT: Map023/events/4/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/103/Dialogue
+\\name[\\n[1]](Oh, he looks surprised.
+ It looks like he didn't expect a bunny girl to take his order.)
 > END STRING
 
 > BEGIN STRING
@@ -283,8 +300,8 @@ Off you go!
 
 > BEGIN STRING
 \\name[\\n[1]](それに結構大胆な衣装だし・・・)
-> CONTEXT: Map023/events/4/pages/0/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/115/Dialogue
+\\name[\\n[1]](It's a pretty bold costume after all...)
 > END STRING
 
 > BEGIN STRING
@@ -307,8 +324,10 @@ Off you go!
 \\name[\\n[1]](じろじろと見すぎだよ・・・
  こんなえっちな衣装姿を見知らぬ男の人に見られるなんて
  恥ずかしいよぅ♥)
-> CONTEXT: Map023/events/4/pages/0/123/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/123/Dialogue
+\\name[\\n[1]](You're staring too hard... 
+ it's shameful to be seen by a strange man 
+ in such a naughty costume♥)
 > END STRING
 
 > BEGIN STRING
@@ -324,8 +343,10 @@ Off you go!
 \\name[\\n[1]](あぁ、どうしよう・・・
  見られすぎておまんこ濡れてきちゃいそうだよ
  バレないうちに・・・)
-> CONTEXT: Map023/events/4/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/131/Dialogue
+\\name[\\n[1]](Oh, what should I do... 
+  It looks like I'm going to get wet...
+  I can't be caught getting horny...)
 > END STRING
 
 > BEGIN STRING
@@ -347,14 +368,15 @@ Off you go!
 
 > BEGIN STRING
 \\name[\\n[1]]お客様、ご注文は？
-> CONTEXT: Map023/events/4/pages/0/139/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/139/Dialogue
+\\name[\\n[1]]Excuse me, your order?
 > END STRING
 
 > BEGIN STRING
 \\name[客]あ、ああ！ じゃあこれとそれを
-> CONTEXT: Map023/events/4/pages/0/141/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/141/Dialogue
+\\name[Customer] A-, aah! 
+I'll have this and this.
 > END STRING
 
 > BEGIN STRING
@@ -373,9 +395,9 @@ Off you go!
 
 > BEGIN STRING
 \\name[\\n[1]]かしこまりました
-> CONTEXT: Map023/events/4/pages/0/147/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/8/230/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/147/Dialogue
+> CONTEXT: Map023/events/4/pages/8/230/Dialogue
+\\name[\\n[1]]I'll be right back
 > END STRING
 
 > BEGIN STRING
@@ -405,8 +427,9 @@ Off you go!
 > BEGIN STRING
 \\name[\\n[1]](むふふ、えっちな衣装姿見られるの
  恥ずかしいけど・・・楽しい♥)
-> CONTEXT: Map023/events/4/pages/0/155/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/0/155/Dialogue
+\\name[\\n[1]](Ufufu, walking around in a naughty outfit
+ Embarrassing... but fun ♥)
 > END STRING
 
 > BEGIN STRING
