@@ -600,7 +600,7 @@ Endure
 \\name[\\n[1]](...If I forgot to lock the door
  when I go to the toilet
  Surely someone might walk in on me...
- It woule be very embarrassing... Mufufu♥ )
+ It would be very embarrassing... Mufufu♥ )
 > END STRING
 
 > BEGIN STRING

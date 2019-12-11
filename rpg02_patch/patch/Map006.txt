@@ -9,7 +9,8 @@
 \\name[\\n[1]](・・・カギを閉め忘れちゃおう
  うっかりだから・・・わざとじゃないから・・・)
 > CONTEXT: Map006/events/1/pages/0/20/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](...forgetting to lock the door
+ it's careless... it's not on purpose.
 > END STRING
 
 > BEGIN STRING
@@ -55,7 +56,7 @@
 > CONTEXT: Map006/events/1/pages/5/153/Dialogue < UNTRANSLATED
 > CONTEXT: Map006/events/1/pages/8/242/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/25/pages/1/53/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]...
 > END STRING
 
 > BEGIN STRING
@@ -103,14 +104,16 @@
 \\name[\\n[1]](はぁはぁ♥
  カギを開けたまま、おしっこしちゃってる・・・)
 > CONTEXT: Map006/events/1/pages/0/50/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Haa♥ 
+I'm peeing with the door unlocked...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](今開けられたら、おしっこしているところ
  見られちゃうよぅ・・・♥)
 > CONTEXT: Map006/events/1/pages/0/53/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](If someone enters now
+ He'll see me peeing...♥)
 > END STRING
 
 > BEGIN STRING
@@ -121,27 +124,29 @@
 > CONTEXT: Map006/events/1/pages/6/209/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/25/pages/0/74/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/25/pages/1/80/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]...
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ふぅ・・・よかった、人来なかったよ・・・)
 > CONTEXT: Map006/events/1/pages/0/65/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Fuu..
+Good, nobody came...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](おしっこしているところを見られちゃうかと思うと
  どきどきしちゃった・・・♥)
 > CONTEXT: Map006/events/1/pages/0/69/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I was looking forward to being caught though♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](このスリル・・・楽しいかも
  むふふ♥)
 > CONTEXT: Map006/events/1/pages/0/72/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](The thrill... It's fun
+ Ufufu♥)
 > END STRING
 
 > BEGIN STRING

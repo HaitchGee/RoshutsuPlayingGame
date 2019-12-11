@@ -1396,7 +1396,8 @@ That was a nice nap...
 > CONTEXT: Map001/events/16/pages/4/104/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/16/pages/6/68/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/16/pages/6/202/Dialogue < UNTRANSLATED
-
+\\name[Customer]!!
+*staaaaare*
 > END STRING
 
 > BEGIN STRING
@@ -2268,7 +2269,7 @@ I'll put my swimsuit on!!
 注意してください
 > CONTEXT: Map026/events/22/pages/0/19/Dialogue
 \\name[Senpai]Please guard this area
-Most people are are here for leisure, 
+The water is not deep, 
 but be careful nonetheless.
 > END STRING
 
@@ -2277,7 +2278,7 @@ but be careful nonetheless.
  プールもそんなに深くなくて安全みたいだし
  監視と言ってもまったり出来て楽でいいね)
 > CONTEXT: Map026/events/22/pages/0/39/Dialogue
-\\name[\\n[1]](The room temperature is pretty nice, 
+\\name[\\n[1]](The temperature is pretty nice, 
 the pool is not so deep and seems to be safe,
 It ’s easy to watch and monitor.)
 > END STRING
@@ -2288,7 +2289,7 @@ It ’s easy to watch and monitor.)
  恥ずかしいけど・・・)
 > CONTEXT: Map026/events/22/pages/0/45/Dialogue
 \\name[\\n[1]](However, I have to wear this tight swimsuit
-Just in case..
+just in case..
 It's pretty embarrassing...)
 > END STRING
 
@@ -2309,7 +2310,7 @@ It's pretty embarrassing...)
 > CONTEXT: Map026/events/22/pages/0/73/Dialogue
 \\name[\\n[1]](I feel like people are trying to peep... 
 I wonder if this white swimsuit was a good idea after all... 
-It looks like it's going to become transparent soon.♥)
+It's already slightly see-through.♥)
 > END STRING
 
 > BEGIN STRING
@@ -2325,7 +2326,7 @@ It looks like it's going to become transparent soon.♥)
  もっとプールの中の人から見てもらえるかな・・・？)
 > CONTEXT: Map026/events/22/pages/0/106/Dialogue
 \\name[\\n[1]](Maybe if I stand near the pool, 
-I'll give them a better view?)
+I'll give them a better view...?)
 > END STRING
 
 > BEGIN STRING
@@ -2426,8 +2427,7 @@ I'm going to catch you!
  それに水を浴びるのも気持ちがいいかも・・・)
 > CONTEXT: Map026/events/22/pages/0/225/Dialogue
 \\name[\\n[1]](I'm all wet...
-The warm water feels nice though.
-But, I'm in this swimsuit for a reason after all. )
+The warm water feels nice though.)
 > END STRING
 
 > BEGIN STRING
@@ -2493,7 +2493,7 @@ But, I'm in this swimsuit for a reason after all. )
  おまんこからお汁が溢れてきて
  結局濡れて透けちゃうよ・・・♥)
 > CONTEXT: Map026/events/22/pages/0/254/Dialogue
-\\name[\\n[1]](The attention feels good...♥
+\\name[\\n[1]](This attention feels good...♥
  Everything is tingling from having my body exposed
  My pussy is soaking...
  The swimsuit is becoming even wetter...♥)

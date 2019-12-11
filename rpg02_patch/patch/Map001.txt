@@ -1119,7 +1119,7 @@ to give him a direct view of the pussy...)
 \\name[\\n[1]](まだしばらくは、この見られちゃいそうで
  見られていないどきどきを楽しもう・・・♥)
 > CONTEXT: Map001/events/16/pages/1/143/Dialogue
-\\name[\\n[1]](I'll keep that for next time...
+\\name[\\n[1]](I'll keep that for another time...
  Let's enjoy his throbbing for a little while longer...♥)
 > END STRING
 
@@ -1135,7 +1135,10 @@ to give him a direct view of the pussy...)
  お股の周辺を覗き見られちゃってる・・・
  恥ずかしい♥)
 > CONTEXT: Map001/events/16/pages/2/65/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Haa.. Haa♥
+ Opening my legs slightly 
+ exposes my crotch for everyone to see...
+ how shameless of me♥)
 > END STRING
 
 > BEGIN STRING
@@ -1143,13 +1146,15 @@ to give him a direct view of the pussy...)
  見られていないよね
  そんなの恥ずかしすぎるもんね・・・♥)
 > CONTEXT: Map001/events/16/pages/2/72/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](But still, my pussy is kind of covered
+ by the towel...
+ showing that is too embarrassing...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](だから今回は、おっぱいを見てもらっちゃおう♥)
 > CONTEXT: Map001/events/16/pages/2/78/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Let's give him a peek at my boobs for now♥)
 > END STRING
 
 > BEGIN STRING
@@ -1157,7 +1162,9 @@ to give him a direct view of the pussy...)
  ささっと洗っているだけだったけど
  今回は念入りに・・・っと)
 > CONTEXT: Map001/events/16/pages/2/84/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]] (Until now, 
+I was just washing them quickly without removing the towel, 
+but this time... carefully...)
 > END STRING
 
 > BEGIN STRING
@@ -1171,7 +1178,9 @@ to give him a direct view of the pussy...)
  おっぱい洗ってるの気になるんだ
  ・・・むふふ♥)
 > CONTEXT: Map001/events/16/pages/2/96/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ah, he's looking at my chest...
+ It's exciting to be washing my boobs this way
+ ...ufufu♥)
 > END STRING
 
 > BEGIN STRING
@@ -1183,14 +1192,17 @@ to give him a direct view of the pussy...)
 > BEGIN STRING
 \\name[\\n[1]]ｽﾙﾘ・・・ﾎﾟﾛﾝ
 > CONTEXT: Map001/events/16/pages/2/104/Dialogue < UNTRANSLATED
+\\name[\\n[1]]*scrub scrub*
 
+*boing*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](あぁん♥
  おっぱいこぼれちゃった♥)
 > CONTEXT: Map001/events/16/pages/2/108/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ahnn~♥
+ They came out~♥)
 > END STRING
 
 > BEGIN STRING
@@ -1198,21 +1210,26 @@ to give him a direct view of the pussy...)
  直接生おっぱい見られちゃってる・・・
  気持ちいいよぅ♥)
 > CONTEXT: Map001/events/16/pages/2/114/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ah... My boobs are visible...
+ My naked boobs are visible...
+ It feels good♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](わぁ、おちんちん大きくなってる・・・
  おっぱいでも興奮してくれたんだ・・・嬉しい♥)
 > CONTEXT: Map001/events/16/pages/2/128/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Wow, it's getting bigger again...
+ Seeing my boobs made him excited...
+ I'm happy♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁはぁ♥
  生のおっぱい見られて気持ちよくなってきちゃった・・・)
 > CONTEXT: Map001/events/16/pages/2/135/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ahn~~♥
+ scrubbing my boobs feels good...)
 > END STRING
 
 > BEGIN STRING
@@ -1220,7 +1237,9 @@ to give him a direct view of the pussy...)
  おっぱい、泡まみれになっちゃってるから
  少しくらい乳首いじってもバレないよね・・・？)
 > CONTEXT: Map001/events/16/pages/2/140/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](...
+ They are covered in suds..
+ Would he notice if I played with my nipples a little...？)
 > END STRING
 
 > BEGIN STRING
@@ -1232,7 +1251,7 @@ to give him a direct view of the pussy...)
 > BEGIN STRING
 \\name[\\n[1]](んっ、あっ・・・気持ちいい・・・♥)
 > CONTEXT: Map001/events/16/pages/2/152/Dialogue < UNTRANSLATED
-
+Mira(N~ Ahn~~ it feels good...♥)
 > END STRING
 
 > BEGIN STRING
@@ -1240,7 +1259,9 @@ to give him a direct view of the pussy...)
  普段から、スポンジやタオルを使わずに
  素手で身体を洗うようにしているんだよね・・・むふふ♥)
 > CONTEXT: Map001/events/16/pages/2/156/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](I usually wash my body 
+with my bare hands without sponge or towel.. 
+because the sensation is so nice... Ufufu♥)
 > END STRING
 
 > BEGIN STRING
@@ -1248,7 +1269,9 @@ to give him a direct view of the pussy...)
  身体洗ってるのではなく
  乳首でオナニーしているのはバレていないみたい)
 > CONTEXT: Map001/events/16/pages/2/164/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](...Ahn, He must be thinking that
+ I'm scrubbing my body thoroughly
+ But I'm masturbating with my nipples
 > END STRING
 
 > BEGIN STRING
@@ -1257,14 +1280,18 @@ to give him a direct view of the pussy...)
  私のことちらちら見てるの分かってるのに
  乳首でオナニーしちゃってる・・・♥)
 > CONTEXT: Map001/events/16/pages/2/174/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ahn... Haa~~♥
+ Amazing... someone is sitting right next to me...
+ He's oggling me...
+ While I'm pleasuring myself...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](バレちゃわないかとドキドキしてたら
  ますます気持ちよくなってきちゃうよ・・・♥)
 > CONTEXT: Map001/events/16/pages/2/181/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Trying not to be caught...
+ It feels amazing...♥)
 > END STRING
 
 > BEGIN STRING
@@ -1283,7 +1310,8 @@ to give him a direct view of the pussy...)
 \\name[\\n[1]](んあぁ・・・もうイク・・・っ
  こっそり乳首オナニーでイっちゃうぅ・・・♥)
 > CONTEXT: Map001/events/16/pages/2/188/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Hnn~... Almost~...
+ My nipples.. ♥ I'm coming ♥♥)
 > END STRING
 
 > BEGIN STRING
@@ -1291,14 +1319,16 @@ to give him a direct view of the pussy...)
  すぐ隣に男の人がいるのに
  イっちゃったよぅ・・・♥)
 > CONTEXT: Map001/events/16/pages/2/195/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Haa♥ Haaaa♥
+ He saw me come...♥)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](・・・よかった、オナニーもイったことも
  気づかれていないみたい)
 > CONTEXT: Map001/events/16/pages/2/203/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](...that felt amazing...
+ Looks like he didn't notice)
 > END STRING
 
 > BEGIN STRING
