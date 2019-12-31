@@ -1041,7 +1041,6 @@ Most are always looking for freelance employees.
 \\name[Man]The painting classroom sometimes looks for nude models
 If you become a student you can see these models naked!
 ...I'm just in it for the art though
-There's no secret desire
 > END STRING
 
 > BEGIN STRING
@@ -1053,7 +1052,6 @@ There's no secret desire
 \\name[Man]The painting classroom is looking a for nude model!
 If you become a student you can see her naked!
 ...I'm just in it for the art though
-There's no secret desire
 > END STRING
 
 > BEGIN STRING

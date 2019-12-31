@@ -438,7 +438,7 @@ Do exposure play wearing the swimsuit
 > CONTEXT: Map026/events/29/pages/1/52/Dialogue
 > CONTEXT: Map026/events/29/pages/1/68/Dialogue
 > CONTEXT: Map001/events/16/pages/0/50/Dialogue
-\\name[男]*glancing*
+\\name[Man]*glancing*
 > END STRING
 
 > BEGIN STRING
@@ -559,7 +559,7 @@ Do exposure play wearing the swimsuit
  恥ずかしいよぅ♥)
 > CONTEXT: Map026/events/11/pages/0/110/Dialogue
 \\name[\\n[1]](*pant* *pant*♥
- He's looking so close
+ He's looking so intensely
  It's embarrassing♥)
 > END STRING
 
@@ -625,8 +625,8 @@ Do exposure play wearing the swimsuit
 > CONTEXT: Map026/events/11/pages/0/126/Dialogue
 \\name[\\n[1]](It feels so good to be stared at
  My pussy is getting wet with him so close
- I might cum soon
- I'll slowly wake up)
+ It might make me cum~
+ ...I'll pretend to wake up to scare him off)
 > END STRING
 
 > BEGIN STRING
@@ -648,7 +648,7 @@ That was a nice nap...
 > BEGIN STRING
 \\name[\\n[1]](むふふ、じろじろと見られて気持ちよかった♥)
 > CONTEXT: Map026/events/11/pages/0/159/Dialogue
-\\name[\\n[1]](Teehee, being stared at felt so good♥)
+\\name[\\n[1]](Teehee, being stared at feels really good♥)
 > END STRING
 
 > BEGIN STRING
@@ -2050,8 +2050,8 @@ That was a nice nap...
 
 > BEGIN STRING
 \\name[\\n[1]]zzz
-> CONTEXT: Map026/events/11/pages/4/348/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/11/pages/4/348/Dialogue
+\\name[\\n[1]]zzz
 > END STRING
 
 > BEGIN STRING
@@ -2098,9 +2098,9 @@ Should I try it too...
 
 > BEGIN STRING
 \\name[おじさん]お、おおぉ・・・天使かっ！
-> CONTEXT: Map026/events/18/pages/1/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/18/pages/2/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/18/pages/1/12/Dialogue
+> CONTEXT: Map026/events/18/pages/2/11/Dialogue
+\\name[Mister]Uooooh... an angel!
 > END STRING
 
 > BEGIN STRING
@@ -2130,8 +2130,8 @@ This is heaven!
 
 > BEGIN STRING
 \\name[バタ足の練習をしているおねえさん]ｼﾞｬﾊﾞｼﾞｬﾊﾞ
-> CONTEXT: Map026/events/19/pages/1/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/19/pages/1/20/Dialogue
+\\name[Practicing Girl]*splash* *splash*
 > END STRING
 
 > BEGIN STRING
@@ -2165,7 +2165,7 @@ This is heaven!
 > CONTEXT: Map026/events/20/pages/2/8/Dialogue
 > CONTEXT: Map026/events/20/pages/2/22/Dialogue
 \\name[\\n[1]](Even this woman is enjoying my lewd appearence
- I'm happy♥)0
+ I'm glad♥)
 > END STRING
 
 > BEGIN STRING
@@ -2210,7 +2210,7 @@ I'll put my swimsuit on!!
 > BEGIN STRING
 \\name[\\n[1]](ふぅ・・・やっぱり全裸はまずいよね・・・)
 > CONTEXT: Map026/events/21/pages/0/23/Dialogue
-\\name[\\n[1]](Hehe... being completely naked is unliked...)
+\\name[\\n[1]](Hehe... They don't like me being completely naked)
 > END STRING
 
 > BEGIN STRING
@@ -2226,7 +2226,7 @@ I'll put my swimsuit on!!
 > CONTEXT: Map026/events/21/pages/1/9/Dialogue
 > CONTEXT: Map026/events/21/pages/2/9/Dialogue
 > CONTEXT: Map026/events/21/pages/2/28/Dialogue
-\\name[\\n[1]]Kyaa
+\\name[\\n[1]]Kyaa~
 ...Sorry
 > END STRING
 
@@ -2238,16 +2238,16 @@ I'll put my swimsuit on!!
 
 > BEGIN STRING
 \\name[おねえさん]あなた！ おっぱいもおまんこもはみ出てるわよ！
-> CONTEXT: Map026/events/21/pages/2/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/21/pages/2/3/Dialogue
+\\name[Young Lady]You! Your boobs are also sticking out!
 > END STRING
 
 > BEGIN STRING
 \\name[おねえさん]そんな水着を着てくるなんて
 あなたどうかしてるんじゃない？
-> CONTEXT: Map026/events/21/pages/2/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/21/pages/2/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/21/pages/2/12/Dialogue
+> CONTEXT: Map026/events/21/pages/2/31/Dialogue
+\\name[Young Lady]How can you wear such a swimsuit？
 > END STRING
 
 > BEGIN STRING
@@ -4596,16 +4596,18 @@ Don't
 > BEGIN STRING
 \\name[\\n[1]](この白い水着でプールに入ったら
  きっと透けちゃうよね・・・)
-> CONTEXT: Map026/events/29/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/19/Dialogue
+\\name[\\n[1]](If I enter the pool with this white swimsuit
+ It will surely become transparent ...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](でも、せっかくプールに来たのだから
  水中に入りたいし
  それに、水中なら案外気づかれないかも・・・)
-> CONTEXT: Map026/events/29/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/22/Dialogue
+\\name[\\n[1]](But I came to the pool to swim
+ Maybe they won't notice if I stay under water...)
 > END STRING
 
 > BEGIN STRING
@@ -4646,8 +4648,8 @@ Don't
 
 > BEGIN STRING
 \\name[\\n[1]](はぁ、水の中冷たくて気持ちいい・・・)
-> CONTEXT: Map026/events/29/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/52/Dialogue
+\\name[\\n[1]](Ha, the water is cold and pleasant...)
 > END STRING
 
 > BEGIN STRING
@@ -4698,8 +4700,11 @@ Don't
  おっぱいもおまんこも
  透けて見えちゃってる・・・
  恥ずかしいよぅ♥)
-> CONTEXT: Map026/events/29/pages/0/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/56/Dialogue
+\\name[\\n[1]](...The swimsuit did become transparent...♥
+ My boobs and cunny...
+ Everyone can see both...
+ I'm ashamed♥)
 > END STRING
 
 > BEGIN STRING
@@ -4732,8 +4737,10 @@ Don't
 \\name[\\n[1]](で、でも・・・周りの人は気づいていないみたい
  私も気づいていないふりをして
  自然にしていないと・・・)
-> CONTEXT: Map026/events/29/pages/0/63/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/63/Dialogue
+\\name[\\n[1]](B-but... people around me don't seem to be aware of it,
+ I'll pretend i'm not aware of it, act naturally.
+ No one will notice...)
 > END STRING
 
 > BEGIN STRING
@@ -4741,20 +4748,22 @@ Don't
  周りにたくさん人がいるというのに
  こんな透け透けの恥ずかしい格好で
  普通に遊んじゃってる・・・)
-> CONTEXT: Map026/events/29/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/78/Dialogue
+\\name[\\n[1]](*pant* *pant*♥ 
+ I'm swimming in such a transparent and embarrassing outfit
+ even though there are a lot of people around me...)
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](恥ずかしいけど・・・気持ちいい♥)
-> CONTEXT: Map026/events/29/pages/0/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/83/Dialogue
+\\name[\\n[1]](I'm ashamed, but it's nice ♥)
 > END STRING
 
 > BEGIN STRING
 ﾄﾞﾝｯ
-> CONTEXT: Map026/events/29/pages/0/91/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/91/Dialogue
+*bump*
 > END STRING
 
 > BEGIN STRING
@@ -4772,41 +4781,43 @@ Don't
 
 > BEGIN STRING
 \\name[\\n[1]]きゃっ、すみません
-> CONTEXT: Map026/events/29/pages/0/97/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/97/Dialogue
+\\name[\\n[1]]Kya~~ Excuse me!
 > END STRING
 
 > BEGIN STRING
 \\name[ぶつかったおじさん]いえ、こちらこ・・・
-> CONTEXT: Map026/events/29/pages/0/101/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/101/Dialogue
+\\name[Swimmer]Ah, it's no probl-
 > END STRING
 
 > BEGIN STRING
 \\name[ぶつかったおじさん]！！
-> CONTEXT: Map026/events/29/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/103/Dialogue
+\\name[Swimmer]！！
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](わ、ぶつかったおじさんに
  気づかれちゃった・・・)
-> CONTEXT: Map026/events/29/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/107/Dialogue
+\\name[\\n[1]](Wah, he noticed...)
 > END STRING
 
 > BEGIN STRING
 \\name[ぶつかったおじさん]ｼﾞﾛｼﾞﾛ
-> CONTEXT: Map026/events/29/pages/0/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/110/Dialogue
+\\name[Swimmer]*glance* *glance*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](はぁっ・・・はぁ♥
  透けた水着から見える身体見られてるよぅ・・・
  恥ずかしい・・・♥)
-> CONTEXT: Map026/events/29/pages/0/114/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/114/Dialogue
+\\name[\\n[1]](Haaa~ Haaa~~♥
+ He can oggle my body through the swimsuit...
+ Embarrassing...♥)
 > END STRING
 
 > BEGIN STRING
@@ -4814,30 +4825,34 @@ Don't
  じろじろと見つめられたままになってるのも変だよね
  多くの人に見つかって騒ぎにならないうちに
  もう出ちゃおう)
-> CONTEXT: Map026/events/29/pages/0/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/120/Dialogue
+\\name[\\n[1]](But, it's strange to be stared at from so close by,
+ so let's get out before too much people find out and make a fuss.)
 > END STRING
 
 > BEGIN STRING
 \\name[周りの人]！！！
 ｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map026/events/29/pages/0/148/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/1/251/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/148/Dialogue
+> CONTEXT: Map026/events/29/pages/1/251/Dialogue
+\\name[Bystanders]！！！
+*staaaaaare*
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](ん？ ・・・！)
-> CONTEXT: Map026/events/29/pages/0/153/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/153/Dialogue
+\\name[\\n[1]](Hm? ...!
 > END STRING
 
 > BEGIN STRING
 \\name[\\n[1]](水中から出たからたくさんの人に
  水着が透けてるの気づかれちゃってる・・・♥
  あわわ・・・恥ずかしいよぅ♥)
-> CONTEXT: Map026/events/29/pages/0/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/0/157/Dialogue
+\\name[\\n[1]](Coming out of the water this way
+ Made a lot of people notice the transparant swimsuit...♥
+ Ufufu... How disgraceful of me♥)
 > END STRING
 
 > BEGIN STRING
@@ -6403,8 +6418,9 @@ Is it really okay?!
 > BEGIN STRING
 \\name[おにいさん]いい濡れ具合だ・・・
 みえ・・・みえ・・・はぁはぁ
-> CONTEXT: Map026/events/30/pages/1/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/30/pages/1/15/Dialogue
+\\name[Teenager]You're drenched...
+I can see... see... *huff* *huff*
 > END STRING
 
 > BEGIN STRING
@@ -6594,8 +6610,9 @@ There wasn't a person with a swimsuit as transparent as that
 > BEGIN STRING
 \\name[\\n[1]](寝ているフリをして見ているみたいだけど・・・
  股間にテントを張っちゃってるよ・・・♥)
-> CONTEXT: Map026/events/35/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/35/pages/0/22/Dialogue
+\\name[\\n[1]](You're pretending to sleep...
+ But it seems that something is growing in your trunks...♥)
 > END STRING
 
 > BEGIN STRING
