@@ -711,34 +711,34 @@ I'll have this and this.
 
 > BEGIN STRING
 \\name[客]・・・
-> CONTEXT: Map023/events/4/pages/2/84/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/4/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/6/102/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/6/147/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/9/93/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/9/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/2/74/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/9/47/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/9/215/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/5/102/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/8/93/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/8/163/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/5/219/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/6/217/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/8/151/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/8/228/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/9/33/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/126/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/139/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/27/pages/0/237/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/0/57/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/0/153/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/1/41/Dialogue < UNTRANSLATED
-> CONTEXT: Map005/events/1/pages/2/36/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/5/95/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/8/86/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/8/157/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/2/84/Dialogue
+> CONTEXT: Map023/events/4/pages/4/163/Dialogue
+> CONTEXT: Map025/events/5/pages/6/102/Dialogue
+> CONTEXT: Map023/events/4/pages/6/147/Dialogue
+> CONTEXT: Map025/events/5/pages/9/93/Dialogue
+> CONTEXT: Map025/events/5/pages/9/163/Dialogue
+> CONTEXT: Map029/events/20/pages/2/74/Dialogue
+> CONTEXT: Map023/events/4/pages/9/47/Dialogue
+> CONTEXT: Map023/events/4/pages/9/215/Dialogue
+> CONTEXT: Map025/events/7/pages/5/102/Dialogue
+> CONTEXT: Map025/events/7/pages/8/93/Dialogue
+> CONTEXT: Map025/events/7/pages/8/163/Dialogue
+> CONTEXT: Map029/events/21/pages/5/219/Dialogue
+> CONTEXT: Map029/events/21/pages/6/217/Dialogue
+> CONTEXT: Map029/events/21/pages/8/151/Dialogue
+> CONTEXT: Map029/events/21/pages/8/228/Dialogue
+> CONTEXT: Map029/events/21/pages/9/33/Dialogue
+> CONTEXT: Map029/events/27/pages/0/126/Dialogue
+> CONTEXT: Map029/events/27/pages/0/139/Dialogue
+> CONTEXT: Map029/events/27/pages/0/237/Dialogue
+> CONTEXT: Map005/events/1/pages/0/57/Dialogue
+> CONTEXT: Map005/events/1/pages/0/153/Dialogue
+> CONTEXT: Map005/events/1/pages/1/41/Dialogue
+> CONTEXT: Map005/events/1/pages/2/36/Dialogue
+> CONTEXT: Map001/events/2/pages/5/95/Dialogue
+> CONTEXT: Map001/events/2/pages/8/86/Dialogue
+> CONTEXT: Map001/events/2/pages/8/157/Dialogue
+\\name[guest]...
 > END STRING
 
 > BEGIN STRING
@@ -1325,9 +1325,9 @@ I'll have this and this.
 
 > BEGIN STRING
 \\name[\\n[1]]ﾑﾆｭﾝ
-> CONTEXT: Map023/events/4/pages/5/56/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/6/80/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/5/56/Dialogue
+> CONTEXT: Map023/events/4/pages/6/80/Dialogue
+\\name[\\n[1]]*squish*
 > END STRING
 
 > BEGIN STRING
@@ -1396,22 +1396,22 @@ I'll have this and this.
 
 > BEGIN STRING
 \\name[\\n[1]]ﾑﾆｭﾑﾆｭ
-> CONTEXT: Map023/events/4/pages/5/140/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/6/103/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/7/43/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/8/138/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/8/170/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/8/pages/0/149/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/8/pages/0/185/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/20/pages/5/187/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/193/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/215/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/260/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/279/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/196/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/130/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map023/events/4/pages/5/140/Dialogue
+> CONTEXT: Map023/events/4/pages/6/103/Dialogue
+> CONTEXT: Map023/events/4/pages/7/43/Dialogue
+> CONTEXT: Map023/events/4/pages/8/138/Dialogue
+> CONTEXT: Map023/events/4/pages/8/170/Dialogue
+> CONTEXT: Map023/events/8/pages/0/149/Dialogue
+> CONTEXT: Map023/events/8/pages/0/185/Dialogue
+> CONTEXT: Map029/events/20/pages/5/187/Dialogue
+> CONTEXT: Map026/events/29/pages/4/193/Dialogue
+> CONTEXT: Map026/events/29/pages/4/215/Dialogue
+> CONTEXT: Map026/events/29/pages/4/260/Dialogue
+> CONTEXT: Map026/events/29/pages/4/279/Dialogue
+> CONTEXT: Map026/events/29/pages/5/196/Dialogue
+> CONTEXT: Map026/events/29/pages/6/130/Dialogue
+> CONTEXT: Map026/events/29/pages/6/173/Dialogue
+\\name[\\n[1]]*grind grind*
 > END STRING
 
 > BEGIN STRING

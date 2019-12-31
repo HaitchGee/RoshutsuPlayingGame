@@ -1389,13 +1389,13 @@ That was a nice nap...
 > BEGIN STRING
 \\name[男]！！
 ｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map026/events/11/pages/3/108/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/6/146/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/2/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/3/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/4/104/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/6/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/16/pages/6/202/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/11/pages/3/108/Dialogue
+> CONTEXT: Map006/events/1/pages/6/146/Dialogue
+> CONTEXT: Map001/events/16/pages/2/111/Dialogue
+> CONTEXT: Map001/events/16/pages/3/81/Dialogue
+> CONTEXT: Map001/events/16/pages/4/104/Dialogue
+> CONTEXT: Map001/events/16/pages/6/68/Dialogue
+> CONTEXT: Map001/events/16/pages/6/202/Dialogue
 \\name[Customer]!!
 *staaaaare*
 > END STRING
@@ -1707,40 +1707,40 @@ That was a nice nap...
 
 > BEGIN STRING
 \\name[男たち]ｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map026/events/11/pages/4/150/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/158/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/206/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/227/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/280/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/292/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/330/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/11/pages/4/350/Dialogue < UNTRANSLATED
-> CONTEXT: Map029/events/21/pages/3/183/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/0/121/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/0/129/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/1/59/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/1/186/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/2/63/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/2/101/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/3/200/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/4/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/4/134/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/4/153/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/4/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/90/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/141/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/184/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/195/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/5/207/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/6/66/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/6/95/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/6/141/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/7/408/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/8/81/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/8/95/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/18/pages/8/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/11/pages/4/150/Dialogue
+> CONTEXT: Map026/events/11/pages/4/158/Dialogue
+> CONTEXT: Map026/events/11/pages/4/206/Dialogue
+> CONTEXT: Map026/events/11/pages/4/227/Dialogue
+> CONTEXT: Map026/events/11/pages/4/280/Dialogue
+> CONTEXT: Map026/events/11/pages/4/292/Dialogue
+> CONTEXT: Map026/events/11/pages/4/330/Dialogue
+> CONTEXT: Map026/events/11/pages/4/350/Dialogue
+> CONTEXT: Map029/events/21/pages/3/183/Dialogue
+> CONTEXT: Map001/events/18/pages/0/121/Dialogue
+> CONTEXT: Map001/events/18/pages/0/129/Dialogue
+> CONTEXT: Map001/events/18/pages/1/59/Dialogue
+> CONTEXT: Map001/events/18/pages/1/186/Dialogue
+> CONTEXT: Map001/events/18/pages/2/63/Dialogue
+> CONTEXT: Map001/events/18/pages/2/101/Dialogue
+> CONTEXT: Map001/events/18/pages/3/200/Dialogue
+> CONTEXT: Map001/events/18/pages/4/118/Dialogue
+> CONTEXT: Map001/events/18/pages/4/134/Dialogue
+> CONTEXT: Map001/events/18/pages/4/153/Dialogue
+> CONTEXT: Map001/events/18/pages/4/167/Dialogue
+> CONTEXT: Map001/events/18/pages/5/81/Dialogue
+> CONTEXT: Map001/events/18/pages/5/90/Dialogue
+> CONTEXT: Map001/events/18/pages/5/141/Dialogue
+> CONTEXT: Map001/events/18/pages/5/184/Dialogue
+> CONTEXT: Map001/events/18/pages/5/195/Dialogue
+> CONTEXT: Map001/events/18/pages/5/207/Dialogue
+> CONTEXT: Map001/events/18/pages/6/66/Dialogue
+> CONTEXT: Map001/events/18/pages/6/95/Dialogue
+> CONTEXT: Map001/events/18/pages/6/141/Dialogue
+> CONTEXT: Map001/events/18/pages/7/408/Dialogue
+> CONTEXT: Map001/events/18/pages/8/81/Dialogue
+> CONTEXT: Map001/events/18/pages/8/95/Dialogue
+> CONTEXT: Map001/events/18/pages/8/130/Dialogue
+\\name[Mane]*staaaaare*
 > END STRING
 
 > BEGIN STRING
@@ -5064,23 +5064,23 @@ Don't
 
 > BEGIN STRING
 \\name[周りの人]ｼﾞﾛｼﾞﾛ
-> CONTEXT: Map026/events/29/pages/1/217/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/2/24/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/2/63/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/2/72/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/2/85/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/2/203/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/3/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/3/78/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/3/88/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/3/132/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/3/149/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/23/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/37/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/61/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/120/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/4/202/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/1/217/Dialogue
+> CONTEXT: Map026/events/29/pages/2/24/Dialogue
+> CONTEXT: Map026/events/29/pages/2/63/Dialogue
+> CONTEXT: Map026/events/29/pages/2/72/Dialogue
+> CONTEXT: Map026/events/29/pages/2/85/Dialogue
+> CONTEXT: Map026/events/29/pages/2/203/Dialogue
+> CONTEXT: Map026/events/29/pages/3/18/Dialogue
+> CONTEXT: Map026/events/29/pages/3/78/Dialogue
+> CONTEXT: Map026/events/29/pages/3/88/Dialogue
+> CONTEXT: Map026/events/29/pages/3/132/Dialogue
+> CONTEXT: Map026/events/29/pages/3/149/Dialogue
+> CONTEXT: Map026/events/29/pages/4/23/Dialogue
+> CONTEXT: Map026/events/29/pages/4/37/Dialogue
+> CONTEXT: Map026/events/29/pages/4/61/Dialogue
+> CONTEXT: Map026/events/29/pages/4/120/Dialogue
+> CONTEXT: Map026/events/29/pages/4/202/Dialogue
+\\name[Bystanders]*stare*
 > END STRING
 
 > BEGIN STRING
@@ -5615,25 +5615,25 @@ Don't
 
 > BEGIN STRING
 \\name[周りの人]ｼﾞﾛｼﾞﾛｼﾞﾛ
-> CONTEXT: Map026/events/29/pages/4/91/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/33/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/63/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/137/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/150/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/236/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/267/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/5/363/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/38/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/45/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/82/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/114/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/132/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/190/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/6/218/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map026/events/29/pages/4/91/Dialogue
+> CONTEXT: Map026/events/29/pages/5/33/Dialogue
+> CONTEXT: Map026/events/29/pages/5/45/Dialogue
+> CONTEXT: Map026/events/29/pages/5/63/Dialogue
+> CONTEXT: Map026/events/29/pages/5/137/Dialogue
+> CONTEXT: Map026/events/29/pages/5/150/Dialogue
+> CONTEXT: Map026/events/29/pages/5/167/Dialogue
+> CONTEXT: Map026/events/29/pages/5/236/Dialogue
+> CONTEXT: Map026/events/29/pages/5/267/Dialogue
+> CONTEXT: Map026/events/29/pages/5/363/Dialogue
+> CONTEXT: Map026/events/29/pages/6/38/Dialogue
+> CONTEXT: Map026/events/29/pages/6/45/Dialogue
+> CONTEXT: Map026/events/29/pages/6/82/Dialogue
+> CONTEXT: Map026/events/29/pages/6/96/Dialogue
+> CONTEXT: Map026/events/29/pages/6/114/Dialogue
+> CONTEXT: Map026/events/29/pages/6/132/Dialogue
+> CONTEXT: Map026/events/29/pages/6/190/Dialogue
+> CONTEXT: Map026/events/29/pages/6/218/Dialogue
+\\name[Bystanders]*staaaaare*
 > END STRING
 
 > BEGIN STRING

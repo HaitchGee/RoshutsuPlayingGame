@@ -1241,17 +1241,17 @@ It feels so gooood~~ I'm~~ I'm♥)
 
 > BEGIN STRING
 \\name[\\n[1]](よいしょっと)
-> CONTEXT: Map025/events/5/pages/4/62/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/7/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/8/136/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/3/62/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/6/118/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/7/136/Dialogue < UNTRANSLATED
-> CONTEXT: Map006/events/1/pages/0/40/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/3/55/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/6/111/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/7/129/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/4/62/Dialogue
+> CONTEXT: Map025/events/5/pages/7/118/Dialogue
+> CONTEXT: Map025/events/5/pages/8/136/Dialogue
+> CONTEXT: Map025/events/7/pages/3/62/Dialogue
+> CONTEXT: Map025/events/7/pages/6/118/Dialogue
+> CONTEXT: Map025/events/7/pages/7/136/Dialogue
+> CONTEXT: Map006/events/1/pages/0/40/Dialogue
+> CONTEXT: Map001/events/2/pages/3/55/Dialogue
+> CONTEXT: Map001/events/2/pages/6/111/Dialogue
+> CONTEXT: Map001/events/2/pages/7/129/Dialogue
+\\name[\\n[1]](All right)
 > END STRING
 
 > BEGIN STRING
@@ -2181,31 +2181,31 @@ It feels so gooood~~ I'm~~ I'm♥)
 
 > BEGIN STRING
 \\name[\\n[1]]ｺｽｺｽ
-> CONTEXT: Map025/events/5/pages/7/124/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/7/151/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/7/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/8/138/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/8/152/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/9/101/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/3/66/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/3/85/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/3/100/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/22/pages/6/169/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/6/124/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/6/151/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/6/167/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/7/138/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/7/152/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/8/101/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/2/125/Dialogue < UNTRANSLATED
-> CONTEXT: Map026/events/29/pages/2/147/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/6/117/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/6/144/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/6/160/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/7/131/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/7/145/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/8/95/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/7/124/Dialogue
+> CONTEXT: Map025/events/5/pages/7/151/Dialogue
+> CONTEXT: Map025/events/5/pages/7/167/Dialogue
+> CONTEXT: Map025/events/5/pages/8/138/Dialogue
+> CONTEXT: Map025/events/5/pages/8/152/Dialogue
+> CONTEXT: Map025/events/5/pages/9/101/Dialogue
+> CONTEXT: Map026/events/22/pages/3/66/Dialogue
+> CONTEXT: Map026/events/22/pages/3/85/Dialogue
+> CONTEXT: Map026/events/22/pages/3/100/Dialogue
+> CONTEXT: Map026/events/22/pages/6/169/Dialogue
+> CONTEXT: Map025/events/7/pages/6/124/Dialogue
+> CONTEXT: Map025/events/7/pages/6/151/Dialogue
+> CONTEXT: Map025/events/7/pages/6/167/Dialogue
+> CONTEXT: Map025/events/7/pages/7/138/Dialogue
+> CONTEXT: Map025/events/7/pages/7/152/Dialogue
+> CONTEXT: Map025/events/7/pages/8/101/Dialogue
+> CONTEXT: Map026/events/29/pages/2/125/Dialogue
+> CONTEXT: Map026/events/29/pages/2/147/Dialogue
+> CONTEXT: Map001/events/2/pages/6/117/Dialogue
+> CONTEXT: Map001/events/2/pages/6/144/Dialogue
+> CONTEXT: Map001/events/2/pages/6/160/Dialogue
+> CONTEXT: Map001/events/2/pages/7/131/Dialogue
+> CONTEXT: Map001/events/2/pages/7/145/Dialogue
+> CONTEXT: Map001/events/2/pages/8/95/Dialogue
+\\name[\\n[1]]*rubrub*
 > END STRING
 
 > BEGIN STRING
@@ -2820,33 +2820,33 @@ It feels so gooood~~ I'm~~ I'm♥)
 
 > BEGIN STRING
 \\name[\\n[1]]ｺｽｺｽｺｽ
-> CONTEXT: Map025/events/5/pages/8/202/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/8/217/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/8/226/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/174/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/193/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/9/124/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/231/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/247/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/5/pages/10/281/Dialogue < UNTRANSLATED
-> CONTEXT: Map023/events/4/pages/9/205/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/7/202/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/7/217/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/7/226/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/174/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/193/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/231/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/247/Dialogue < UNTRANSLATED
-> CONTEXT: Map025/events/7/pages/9/281/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/7/195/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/7/210/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/7/219/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/171/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/190/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/228/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/244/Dialogue < UNTRANSLATED
-> CONTEXT: Map001/events/2/pages/9/278/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map025/events/5/pages/8/202/Dialogue
+> CONTEXT: Map025/events/5/pages/8/217/Dialogue
+> CONTEXT: Map025/events/5/pages/8/226/Dialogue
+> CONTEXT: Map025/events/5/pages/10/174/Dialogue
+> CONTEXT: Map025/events/5/pages/10/193/Dialogue
+> CONTEXT: Map023/events/4/pages/9/124/Dialogue
+> CONTEXT: Map025/events/5/pages/10/231/Dialogue
+> CONTEXT: Map025/events/5/pages/10/247/Dialogue
+> CONTEXT: Map025/events/5/pages/10/281/Dialogue
+> CONTEXT: Map023/events/4/pages/9/205/Dialogue
+> CONTEXT: Map025/events/7/pages/7/202/Dialogue
+> CONTEXT: Map025/events/7/pages/7/217/Dialogue
+> CONTEXT: Map025/events/7/pages/7/226/Dialogue
+> CONTEXT: Map025/events/7/pages/9/174/Dialogue
+> CONTEXT: Map025/events/7/pages/9/193/Dialogue
+> CONTEXT: Map025/events/7/pages/9/231/Dialogue
+> CONTEXT: Map025/events/7/pages/9/247/Dialogue
+> CONTEXT: Map025/events/7/pages/9/281/Dialogue
+> CONTEXT: Map001/events/2/pages/7/195/Dialogue
+> CONTEXT: Map001/events/2/pages/7/210/Dialogue
+> CONTEXT: Map001/events/2/pages/7/219/Dialogue
+> CONTEXT: Map001/events/2/pages/9/171/Dialogue
+> CONTEXT: Map001/events/2/pages/9/190/Dialogue
+> CONTEXT: Map001/events/2/pages/9/228/Dialogue
+> CONTEXT: Map001/events/2/pages/9/244/Dialogue
+> CONTEXT: Map001/events/2/pages/9/278/Dialogue
+\\name[\\n[1]]*rubrubrub*
 > END STRING
 
 > BEGIN STRING

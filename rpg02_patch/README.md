@@ -11,7 +11,7 @@ General strings
 
 Events
 ------
-  - [ ] Going to the public restroom with the door unlocked (1/10)
+  - [ ] Going to the public restroom with the door unlocked (2/10)
   - [ ] Serving in the pub wearing a bunny-girl outfit (1/10)
   - [ ] Posing as a model for the painting classroom (2/9)
 
@@ -23,7 +23,7 @@ Events
 ###Bathhouse
   - [ ] Working as cleaning maid (3/10)
   - [ ] Washing yourself (2/7)
-  - [ ] Bathing next to a group of men (1/9)
+  - [ ] Bathing next to a group of men (2/9)
   - [ ] Peeing in public (0/4)
   
 ###Pool
@@ -32,7 +32,7 @@ Events
   - [ ] Swimming (0/7)
   
 ###Inn
-  - [ ] Working as a cleaning maid (2/10)
+  - [ ] Working as a cleaning maid (3/10)
   - [ ] Exposing yourself in your room (1/7)
   - [x] Exposing yourself in the shower (6/6)
   - [ ] Exposing yourself at the receptionist desk (2/5)

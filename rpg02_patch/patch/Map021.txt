@@ -597,20 +597,21 @@ Let's get started.
 
 > BEGIN STRING
 \\name[絵画教室の生徒たち]ｼﾞﾛｼﾞﾛ ｶｷｶｷ
-> CONTEXT: Map021/events/3/pages/3/63/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/3/76/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/4/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/4/46/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/4/76/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/4/96/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/4/107/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/5/84/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/5/97/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/6/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/7/65/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/8/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map021/events/3/pages/8/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map021/events/3/pages/3/63/Dialogue
+> CONTEXT: Map021/events/3/pages/3/76/Dialogue
+> CONTEXT: Map021/events/3/pages/4/26/Dialogue
+> CONTEXT: Map021/events/3/pages/4/46/Dialogue
+> CONTEXT: Map021/events/3/pages/4/76/Dialogue
+> CONTEXT: Map021/events/3/pages/4/96/Dialogue
+> CONTEXT: Map021/events/3/pages/4/107/Dialogue
+> CONTEXT: Map021/events/3/pages/5/84/Dialogue
+> CONTEXT: Map021/events/3/pages/5/97/Dialogue
+> CONTEXT: Map021/events/3/pages/6/26/Dialogue
+> CONTEXT: Map021/events/3/pages/7/65/Dialogue
+> CONTEXT: Map021/events/3/pages/8/20/Dialogue
+> CONTEXT: Map021/events/3/pages/8/88/Dialogue
+\\name[Painting class students]*stare*
+*scribble scribble*
 > END STRING
 
 > BEGIN STRING
