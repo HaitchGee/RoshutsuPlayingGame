@@ -929,7 +929,7 @@ Maybe I'll just go to bed now)
 > CONTEXT: Map025/events/5/pages/10/35/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/9/35/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/9/28/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]yes, what is it?
 > END STRING
 
 > BEGIN STRING
@@ -1655,7 +1655,7 @@ Well then!
 > BEGIN STRING
 \\name[\\n[1]](そうだ今回は・・・)
 > CONTEXT: Map029/events/20/pages/1/23/Dialogue
-\\name[\\n[1]](I'll help out a bit...)
+\\name[\\n[1]](...What if I...)
 > END STRING
 
 > BEGIN STRING
@@ -1675,7 +1675,7 @@ Well then!
 > BEGIN STRING
 \\name[\\n[1]](誰か来たら、覗いてもらえるかなぁ♥)
 > CONTEXT: Map029/events/20/pages/1/38/Dialogue
-\\name[\\n[1]](When someone comes, they'll be able to peek on me♥)
+\\name[\\n[1]](When someone comes, they'll be able to peep at me showering♥)
 > END STRING
 
 > BEGIN STRING
@@ -1771,7 +1771,7 @@ I can see his shadow on the curtain)
  湯気のおかげで見えにくくなっているかな？)
 > CONTEXT: Map029/events/20/pages/1/89/Dialogue
 \\name[\\n[1]](Being seen naked is a bit embarrassing
- I wonder how difficult it is to see me throught the steam?)
+ I wonder how difficult it is to see me through the steam?)
 > END STRING
 
 > BEGIN STRING
@@ -1787,8 +1787,9 @@ I can see his shadow on the curtain)
 \\name[\\n[1]](はぁはぁ、私今、シャワー浴びてるところ
  覗き見されちゃってるだ・・・恥ずかしい♥)
 > CONTEXT: Map029/events/20/pages/1/94/Dialogue
-\\name[\\n[1]](*pant* *pant*I'm in a shower... 
- Being stared at... so shameful♥)
+\\name[\\n[1]](Haaa~
+ I'm in a shower... 
+ Being peeped at... so shameful♥)
 > END STRING
 
 > BEGIN STRING
@@ -1940,7 +1941,7 @@ almost...
 > BEGIN STRING
 \\name[\\n[1]](それじゃ、部屋に戻ってまたオナニーして寝ようっと)
 > CONTEXT: Map029/events/20/pages/1/155/Dialogue
-\\name[\\n[1]](Well then, I'll head back to my room and masturbate some more)
+\\name[\\n[1]](Well then, I'll head back to my room..)
 > END STRING
 
 > BEGIN STRING

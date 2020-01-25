@@ -1208,7 +1208,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/34/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/34/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/27/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ahn~
+ My clothes are already soaked by sweat and moisture)
 > END STRING
 
 > BEGIN STRING
@@ -1217,7 +1218,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/43/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/43/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/36/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](This thin white cloth isn't hiding anything
+ ...so disgraceful♥)
 > END STRING
 
 > BEGIN STRING
@@ -1225,7 +1227,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/52/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/52/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/45/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](But, it's hard to scrub with these clothes sticking
+ to my body)
 > END STRING
 
 > BEGIN STRING
@@ -1236,7 +1239,7 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/7/pages/4/25/Dialogue
 > CONTEXT: Map001/events/2/pages/3/47/Dialogue
 > CONTEXT: Map001/events/2/pages/4/18/Dialogue
-\\name[\\n[1]](I see)
+\\name[\\n[1]](Hmmm...)
 > END STRING
 
 > BEGIN STRING
@@ -1251,7 +1254,7 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map001/events/2/pages/3/55/Dialogue
 > CONTEXT: Map001/events/2/pages/6/111/Dialogue
 > CONTEXT: Map001/events/2/pages/7/129/Dialogue
-\\name[\\n[1]](All right)
+\\name[\\n[1]](That's better)
 > END STRING
 
 > BEGIN STRING
@@ -1378,7 +1381,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/79/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/79/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/72/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Ahn... They're staring
+ My bare panties are in plain sight♥)
 > END STRING
 
 > BEGIN STRING
@@ -1388,7 +1392,9 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/82/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/82/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/75/Dialogue < UNTRANSLATED
-
+\\name[Guest]H-Hey...
+Suddenly stripping your clothes,
+what is going on?
 > END STRING
 
 > BEGIN STRING
@@ -1398,7 +1404,9 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/89/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/89/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/84/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Eh!?
+W-Well... The hem of my dress kept sticking to my feet
+It was getting in the way...
 > END STRING
 
 > BEGIN STRING
@@ -1407,7 +1415,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/93/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/93/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/88/Dialogue < UNTRANSLATED
-
+\\name[Guest]Your panties are showing!
+Is that okay?
 > END STRING
 
 > BEGIN STRING
@@ -1418,7 +1427,10 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/98/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/98/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/93/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]E-Eehh... It's just because it's for work...
+Being in my underwear is a bit embarrassing...
+But everyone here is naked
+Then it's okay, right?
 > END STRING
 
 > BEGIN STRING
@@ -1427,7 +1439,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/103/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/103/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/98/Dialogue < UNTRANSLATED
-
+\\name[Guest]Uooh... enduring the shame to do a better job...
+What an amazing girl!
 > END STRING
 
 > BEGIN STRING
@@ -1436,7 +1449,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/106/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/106/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/101/Dialogue < UNTRANSLATED
-
+\\name[Guest] We'll be supporting you from the sidelines!
+Do your best!
 > END STRING
 
 > BEGIN STRING
@@ -1445,7 +1459,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/111/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/111/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/106/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]]Y-Yes!
+Thank you for your support
 > END STRING
 
 > BEGIN STRING
@@ -1477,7 +1492,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/125/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/125/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/122/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Wow, that surprised me...
+ I didn't think they would talk to me)
 > END STRING
 
 > BEGIN STRING
@@ -1486,7 +1502,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/132/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/132/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/129/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](But, I was able to come up with an excuse.
+ I can expose myself without raising suspicion now, Ufufuf♥)
 > END STRING
 
 > BEGIN STRING
@@ -1512,7 +1529,7 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map001/events/2/pages/7/65/Dialogue
 > CONTEXT: Map001/events/2/pages/8/49/Dialogue
 > CONTEXT: Map001/events/2/pages/9/105/Dialogue
-\\name[\\n[1]]*shlick* *shlick*
+\\name[\\n[1]]*scrub* *scrub*
 > END STRING
 
 > BEGIN STRING
@@ -1538,7 +1555,8 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/147/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/147/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/144/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Haaa~ Haaa~ It's no good
+ I feel more eyes than i've ever had ♥)
 > END STRING
 
 > BEGIN STRING
@@ -1549,7 +1567,10 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/150/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/150/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/147/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Their position didn't change
+ and I'm sure they could always see the whole thing
+ But the expore of not having my skirt covering it
+ makes the feeling way better ♥)
 > END STRING
 
 > BEGIN STRING
@@ -1559,7 +1580,9 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/159/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/159/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/156/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](Haaa...I'm almost there...♥
+ Oggling my bare panties...
+ It feels sooo~ goood~~♥)
 > END STRING
 
 > BEGIN STRING
@@ -1569,7 +1592,9 @@ It feels so gooood~~ I'm~~ I'm♥)
 > CONTEXT: Map025/events/5/pages/4/175/Dialogue < UNTRANSLATED
 > CONTEXT: Map025/events/7/pages/3/175/Dialogue < UNTRANSLATED
 > CONTEXT: Map001/events/2/pages/3/172/Dialogue < UNTRANSLATED
-
+\\name[\\n[1]](*pant* *pant*♥
+ My panties are really soaked now
+ Maybe they can see my cunny♥)
 > END STRING
 
 > BEGIN STRING

@@ -21,15 +21,15 @@ Events
   - [ ] Endings (0/5)
 
 ###Bathhouse
-  - [ ] Working as cleaning maid (3/10)
-  - [ ] Washing yourself (2/7)
+  - [ ] Working as cleaning maid (4/10)
+  - [ ] Washing yourself (3/7)
   - [ ] Bathing next to a group of men (2/9)
   - [ ] Peeing in public (0/4)
   
 ###Pool
-  - [ ] Working as lifeguard (1/8)
+  - [ ] Working as lifeguard (2/8)
   - [ ] Relaxing in poolside bed (1/5)
-  - [ ] Swimming (1/7)
+  - [ ] Swimming (2/7)
   
 ###Inn
   - [ ] Working as a cleaning maid (3/10)
